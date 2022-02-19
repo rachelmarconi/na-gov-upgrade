@@ -1,0 +1,31 @@
+
+<!doctype html>
+<html lang="en">
+    <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../static/style.css" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+	</head>
+    <body>
+        <h1 class= "header">{{ activity['UMPD CASENUMBER'] }}</h1>
+		{% if arrest != None %}
+		<h2>Arrest entry:</h2>
+		<ul>
+			<li>Arrest number: {{ arrest['ARRESTNUMBER'] }}</li>
+			<li>Charge date and time: {{ arrest['ARRESTED DATE TIMECHARGE'] }}</li>
+			<li>Age: {{ arrest['AGE'] }}</li> <!--always empty :( -->
+			<li>Race: {{ arrest['RACE'] }}</li>
+			<li>Gender: {{ arrest['SEX'] }}</li>
+			<li>Description: {{ arrest['DEXCRIPTION'] }}</li>
+			
+		</ul>
+		{% else %}
+		<h3>No connected arrest</h3>
+		{% endif %}
+        
+		<h1 class= "subheader">
+		</h1>
+		
+    </body>
+</html>

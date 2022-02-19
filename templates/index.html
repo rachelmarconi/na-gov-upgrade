@@ -1,0 +1,40 @@
+
+<!doctype html>
+<html lang="en">
+    <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="../static/style.css" />
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+		<!--template syntax is called Jinja; look up filters-->
+	</head>
+    <body>
+		<h1 class="header">UMD Police Activity Log with Arrests</h1>
+		<div class="byline">
+			By <a href="http://first-news-app.readthedocs.org/">By Rachel Logan</a>
+		</div>
+        <h1 class="subheader">UMPD Logs</h1>
+        <table border=1 cellpadding=7>
+			<tr>
+                <th>Case number</th>
+                <th>Occured date, time</th>
+                <th>Reported date, time</th>
+                <th>Type</th>
+                <th>Disposition</th>
+                <th>Location</th>
+				<th>Arrest?</th>
+            </tr>
+            {% for obj in activity_list %}
+            <tr>
+				<td><a href="{{ obj['UMPD CASENUMBER'] }}/">{{ obj['UMPD CASENUMBER'] }}</a></td>
+                <td>{{ obj['OCCURRED DATE TIMELOCATION']}}</td>
+                <td>{{ obj['REPORT DATE TIME']}}</td>
+                <td>{{ obj['TYPE'] }}</td>
+                <td>{{ obj['DISPOSITION'] }}</td>
+                <td>{{ obj['LOCATION'] }}</td>
+				<td>{{ obj['ARREST'] }}</td>
+            </tr>
+			{% endfor %}
+		</table>
+    </body>
+</html>
