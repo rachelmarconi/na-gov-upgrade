@@ -1,0 +1,760 @@
+
+<!doctype html>
+<html lang="en">
+    <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="../static/style.css" />
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+		<!--template syntax is called Jinja; look up filters-->
+	</head>
+    <body>
+		<h1 class="header">UMD Police Activity Log with Arrests</h1>
+		<div class="byline">
+			By <a href="http://first-news-app.readthedocs.org/">By Rachel Logan</a>
+		</div>
+        <h1 class="subheader">UMPD Logs</h1>
+        <table border=1 cellpadding=7>
+			<tr>
+                <th>Case number</th>
+                <th>Occured date, time</th>
+                <th>Reported date, time</th>
+                <th>Type</th>
+                <th>Disposition</th>
+                <th>Location</th>
+				<th>Arrest?</th>
+            </tr>
+            
+            <tr>
+				<td><a href="2022-00007183/">2022-00007183</a></td>
+                <td>01/28/22 08:00</td>
+                <td>02/01/22 11:04</td>
+                <td>Fraud</td>
+                <td>Active/Pending</td>
+                <td>26, South Campus Dining Hall at 7093  Preinkert  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007290/">2022-00007290</a></td>
+                <td>02/01/22 23:25</td>
+                <td>02/01/22 23:25</td>
+                <td>Alcohol Violation</td>
+                <td>CBE</td>
+                <td>3900 block of  Denton Service  Ln</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007373/">2022-00007373</a></td>
+                <td>01/26/22 10:48</td>
+                <td>02/02/22 09:58</td>
+                <td>Telephone/EMail Misuse</td>
+                <td>Active/Pending</td>
+                <td>8000 block of  La Plata  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007383/">2022-00007383</a></td>
+                <td>02/02/22 11:29</td>
+                <td>02/02/22 11:29</td>
+                <td>Check on the  Welfare</td>
+                <td>CBE</td>
+                <td>3400 block of  Tulane  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007406/">2022-00007406</a></td>
+                <td>01/31/22 12:00</td>
+                <td>02/02/22 16:40</td>
+                <td>Theft</td>
+                <td>Active/Pending</td>
+                <td>26, South Campus Dining Hall at 7093  Preinkert  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007424/">2022-00007424</a></td>
+                <td>09/14/21 08:30</td>
+                <td>02/02/22 18:21</td>
+                <td>Title IX Incident Non Criminal</td>
+                <td>Active/Pending</td>
+                <td>Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007467/">2022-00007467</a></td>
+                <td>02/03/22 00:24</td>
+                <td>02/03/22 00:24</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007493/">2022-00007493</a></td>
+                <td>02/02/22 20:00</td>
+                <td>02/03/22 02:47</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>Easton, Easton Hall at 3917  Denton Service  Ln</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007653/">2022-00007653</a></td>
+                <td>02/03/22 19:34</td>
+                <td>02/03/22 19:34</td>
+                <td>Emergency Petition</td>
+                <td>Active/Pending</td>
+                <td>3400 block of  Tulane  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007663/">2022-00007663</a></td>
+                <td>02/03/22 21:42</td>
+                <td>02/03/22 21:42</td>
+                <td>Assist Other Agency / Check on the Welfare</td>
+                <td>CBE</td>
+                <td>7500 block of  Princeton  Ave</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007726/">2022-00007726</a></td>
+                <td>02/04/22 02:34</td>
+                <td>02/04/22 02:34</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>La Plata Hall at 8160  La Plata  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007811/">2022-00007811</a></td>
+                <td>02/04/22 11:40</td>
+                <td>02/04/22 11:40</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>8200 block of  Paint Branch  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007817/">2022-00007817</a></td>
+                <td>02/04/22 12:55</td>
+                <td>02/04/22 12:55</td>
+                <td>Disorderly Conduct</td>
+                <td>CBE</td>
+                <td>Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007861/">2022-00007861</a></td>
+                <td>02/04/22 11:00</td>
+                <td>02/04/22 17:32</td>
+                <td>Other Service Call</td>
+                <td>CBE</td>
+                <td>Kim Engineering Building at 8228  Paint Branch  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007868/">2022-00007868</a></td>
+                <td>02/04/22 18:00</td>
+                <td>02/04/22 18:30</td>
+                <td>Other Incident</td>
+                <td>CBE</td>
+                <td>Calvert  Rd</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007887/">2022-00007887</a></td>
+                <td>02/03/22 07:00</td>
+                <td>02/04/22 19:59</td>
+                <td>Extortion</td>
+                <td>Active/Pending</td>
+                <td>7500 block of  Yale  Ave</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007945/">2022-00007945</a></td>
+                <td>02/04/22 23:15</td>
+                <td>02/04/22 23:15</td>
+                <td>CDS Violation</td>
+                <td>Arrest</td>
+                <td>Baltimore  Ave</td>
+				<td>Yes</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007960/">2022-00007960</a></td>
+                <td>02/05/22 00:30</td>
+                <td>02/05/22 00:30</td>
+                <td>CDS Violation</td>
+                <td>Arrest</td>
+                <td>3900 block of  Denton Service  Ln</td>
+				<td>Yes</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00007970/">2022-00007970</a></td>
+                <td>02/05/22 03:44</td>
+                <td>02/05/22 03:44</td>
+                <td>Emergency Petition</td>
+                <td>CBE</td>
+                <td>4200 block of  Farm  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008002/">2022-00008002</a></td>
+                <td>02/04/22 14:00</td>
+                <td>02/05/22 09:27</td>
+                <td>Dept Property Damage/Loss</td>
+                <td>CBE</td>
+                <td>Cole, Cole Field House, Cole Student Activities Building, Driscoll Center, Jones-Hill House at 4090  Union  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008109/">2022-00008109</a></td>
+                <td>02/05/22 21:44</td>
+                <td>02/05/22 21:44</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008166/">2022-00008166</a></td>
+                <td>02/06/22 00:40</td>
+                <td>02/06/22 00:40</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>3900 block of  Denton Service  Ln</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008172/">2022-00008172</a></td>
+                <td>02/06/22 01:24</td>
+                <td>02/06/22 01:24</td>
+                <td>DWI/DUI</td>
+                <td>Arrest</td>
+                <td>Baltimore  Ave</td>
+				<td>Yes</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008181/">2022-00008181</a></td>
+                <td>02/06/22 03:27</td>
+                <td>02/06/22 03:27</td>
+                <td>Assault</td>
+                <td>Arrest</td>
+                <td>3400 block of  Tulane  Dr</td>
+				<td>Yes</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008237/">2022-00008237</a></td>
+                <td>02/06/22 12:10</td>
+                <td>02/06/22 12:16</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>Cole, Cole Field House, Cole Student Activities Building, Driscoll Center, Jones-Hill House at 4090  Union  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008302/">2022-00008302</a></td>
+                <td>02/06/22 17:24</td>
+                <td>02/06/22 17:24</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>35, McKeldin Library at 7649  Library  Ln</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008321/">2022-00008321</a></td>
+                <td>02/06/22 18:56</td>
+                <td>02/06/22 18:56</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008404/">2022-00008404</a></td>
+                <td>02/07/22 06:00</td>
+                <td>02/07/22 06:15</td>
+                <td>Damage to State Property</td>
+                <td>CBE</td>
+                <td>3900 block of  Denton Service  Ln</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008428/">2022-00008428</a></td>
+                <td>01/10/17 08:00</td>
+                <td>02/07/22 09:13</td>
+                <td>Fraud</td>
+                <td>Active/Pending</td>
+                <td>71, Lee Building, South Administration at 7809  Regents  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008439/">2022-00008439</a></td>
+                <td>02/07/22 09:45</td>
+                <td>02/07/22 09:53</td>
+                <td>Fire</td>
+                <td>CBE</td>
+                <td>Microbiology, Microbiology Building at 4062  Campus  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008586/">2022-00008586</a></td>
+                <td>02/07/22 17:34</td>
+                <td>02/07/22 17:34</td>
+                <td>Emergency Petition</td>
+                <td>CBE</td>
+                <td>37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008772/">2022-00008772</a></td>
+                <td>02/05/22 08:00</td>
+                <td>02/08/22 15:31</td>
+                <td>Fraud</td>
+                <td>CBE</td>
+                <td>37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008847/">2022-00008847</a></td>
+                <td>02/08/22 22:26</td>
+                <td>02/08/22 22:26</td>
+                <td>CDS Violation</td>
+                <td>Arrest</td>
+                <td>70, Caroline Hall at 7154  Preinkert  Dr</td>
+				<td>Yes</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008870/">2022-00008870</a></td>
+                <td>02/08/22 23:45</td>
+                <td>02/08/22 23:58</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>Frat 10, Sigma Kappa, Sigma Kappa Sorority at 10  Fraternity  Row</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008964/">2022-00008964</a></td>
+                <td>02/09/22 08:26</td>
+                <td>02/09/22 08:26</td>
+                <td>Accident</td>
+                <td>CBE</td>
+                <td>Alpha Epsilon Phi, Alpha Epsilon Phi Sorority, Frat 11 at 11  Fraternity  Row</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00008972/">2022-00008972</a></td>
+                <td>02/02/22 14:00</td>
+                <td>02/09/22 09:45</td>
+                <td>Injured Officer</td>
+                <td>CBE</td>
+                <td>Litton, Police Services &amp; Training Facility at 7147  51st  Ave</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009001/">2022-00009001</a></td>
+                <td>02/09/22 11:00</td>
+                <td>02/09/22 11:23</td>
+                <td>Theft</td>
+                <td>Active/Pending</td>
+                <td>35, McKeldin Library at 7649  Library  Ln</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009061/">2022-00009061</a></td>
+                <td>02/09/22 16:00</td>
+                <td>02/09/22 17:05</td>
+                <td>Suspicious Person/Auto</td>
+                <td>CBE</td>
+                <td>Cumberland Hall at 4250  Farm  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009106/">2022-00009106</a></td>
+                <td>02/09/22 22:46</td>
+                <td>02/09/22 22:46</td>
+                <td>Theft</td>
+                <td>Active/Pending</td>
+                <td>38, Lefrak, Lefrak Hall at 7251  Preinkert  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009198/">2022-00009198</a></td>
+                <td>02/10/22 08:49</td>
+                <td>02/10/22 08:49</td>
+                <td>Hazardous Condition</td>
+                <td>CBE</td>
+                <td>Alpha Epsilon Phi, Alpha Epsilon Phi Sorority, Frat 11 at 11  Fraternity  Row</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009206/">2022-00009206</a></td>
+                <td>02/09/22 21:00</td>
+                <td>02/10/22 10:06</td>
+                <td>Bomb Threat</td>
+                <td>CBE</td>
+                <td>948 at 4600  River  Rd</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009237/">2022-00009237</a></td>
+                <td>01/05/22 11:00</td>
+                <td>02/10/22 12:43</td>
+                <td>Dept Property Damage/Loss</td>
+                <td>CBE</td>
+                <td>7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009268/">2022-00009268</a></td>
+                <td>02/10/22 16:10</td>
+                <td>02/10/22 16:13</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>3800 block of  Stadium  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009330/">2022-00009330</a></td>
+                <td>02/10/22 23:42</td>
+                <td>02/10/22 23:42</td>
+                <td>CDS Violation</td>
+                <td>Arrest</td>
+                <td>Campus Village at 8145  Baltimore  Ave</td>
+				<td>Yes</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009332/">2022-00009332</a></td>
+                <td>02/10/22 23:46</td>
+                <td>02/10/22 23:46</td>
+                <td>CDS Violation</td>
+                <td>Arrest</td>
+                <td>Easton, Easton Hall at 3917  Denton Service  Ln</td>
+				<td>Yes</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009359/">2022-00009359</a></td>
+                <td>02/11/22 01:10</td>
+                <td>02/11/22 01:10</td>
+                <td>DWI/DUI</td>
+                <td>Arrest</td>
+                <td>Pontiac  St</td>
+				<td>Yes</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009363/">2022-00009363</a></td>
+                <td>02/11/22 02:00</td>
+                <td>02/11/22 02:00</td>
+                <td>CDS Violation</td>
+                <td>Arrest</td>
+                <td>Lot F</td>
+				<td>Yes</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009370/">2022-00009370</a></td>
+                <td>02/11/22 02:27</td>
+                <td>02/11/22 02:27</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>4300 block of  Knox  Rd</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009473/">2022-00009473</a></td>
+                <td>02/11/22 09:40</td>
+                <td>02/11/22 09:54</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009516/">2022-00009516</a></td>
+                <td>02/09/22 11:00</td>
+                <td>02/11/22 13:28</td>
+                <td>Theft</td>
+                <td>Active/Pending</td>
+                <td>Lot 4B</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009518/">2022-00009518</a></td>
+                <td>02/11/22 14:30</td>
+                <td>02/11/22 14:30</td>
+                <td>Trespassing</td>
+                <td>CBE</td>
+                <td>Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009649/">2022-00009649</a></td>
+                <td>02/12/22 00:55</td>
+                <td>02/12/22 00:55</td>
+                <td>CDS Violation</td>
+                <td>Arrest</td>
+                <td>Campus  Dr</td>
+				<td>Yes</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009659/">2022-00009659</a></td>
+                <td>02/12/22 01:58</td>
+                <td>02/12/22 01:58</td>
+                <td>DWI/DUI</td>
+                <td>Arrest</td>
+                <td>Baltimore  Ave</td>
+				<td>Yes</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009901/">2022-00009901</a></td>
+                <td>02/13/22 00:10</td>
+                <td>02/13/22 00:39</td>
+                <td>Suspicious Activity</td>
+                <td>Active/Pending</td>
+                <td>7500 block of  Calvert Service  Ln</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00009905/">2022-00009905</a></td>
+                <td>02/13/22 01:33</td>
+                <td>02/13/22 01:33</td>
+                <td>Emergency Petition</td>
+                <td>CBE</td>
+                <td>Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00010009/">2022-00010009</a></td>
+                <td>02/12/22 12:00</td>
+                <td>02/13/22 12:42</td>
+                <td>Stolen Motor Vehicle</td>
+                <td>CBE</td>
+                <td>3800 block of  University  Blvd</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00010039/">2022-00010039</a></td>
+                <td>02/13/22 16:00</td>
+                <td>02/13/22 16:12</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>91, Chemistry, Chemistry Building at 8051  Regents  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00010151/">2022-00010151</a></td>
+                <td>02/14/22 00:17</td>
+                <td>02/14/22 00:17</td>
+                <td>DWI/DUI</td>
+                <td>Arrest</td>
+                <td>Baltimore  Ave</td>
+				<td>Yes</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00010165/">2022-00010165</a></td>
+                <td>02/14/22 01:55</td>
+                <td>02/14/22 01:55</td>
+                <td>CDS Violation</td>
+                <td>CBE</td>
+                <td>Lot 5</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00010321/">2022-00010321</a></td>
+                <td>02/14/22 18:52</td>
+                <td>02/14/22 18:52</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>Manufacturing Building at 8197  Regents  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00010389/">2022-00010389</a></td>
+                <td>02/14/22 23:49</td>
+                <td>02/14/22 23:49</td>
+                <td>CDS Violation</td>
+                <td>Arrest</td>
+                <td>Campus  Dr</td>
+				<td>Yes</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00010406/">2022-00010406</a></td>
+                <td>02/15/22 00:39</td>
+                <td>02/15/22 00:39</td>
+                <td>CDS Violation</td>
+                <td>CBE</td>
+                <td>PG3, SDG, Stadium Drive Garage, Stadium Drive Parking Garage at 4025  Stadium  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00010560/">2022-00010560</a></td>
+                <td>02/11/22 15:00</td>
+                <td>02/15/22 18:20</td>
+                <td>Vandalism</td>
+                <td>Active/Pending</td>
+                <td>Lot 11b</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00010580/">2022-00010580</a></td>
+                <td>02/15/22 20:36</td>
+                <td>02/15/22 20:35</td>
+                <td>CDS Violation</td>
+                <td>Arrest</td>
+                <td>4200 block of  Valley  Dr</td>
+				<td>Yes</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00010581/">2022-00010581</a></td>
+                <td>06/20/19 19:00</td>
+                <td>02/15/22 20:35</td>
+                <td>Rape (Title IX Related)</td>
+                <td>Active/Pending</td>
+                <td>7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00010671/">2022-00010671</a></td>
+                <td>02/16/22 01:01</td>
+                <td>02/16/22 01:01</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00010731/">2022-00010731</a></td>
+                <td>02/16/22 07:20</td>
+                <td>02/16/22 07:34</td>
+                <td>Damage to State Property</td>
+                <td>CBE</td>
+                <td>26, South Campus Dining Hall at 7093  Preinkert  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00010813/">2022-00010813</a></td>
+                <td>02/16/22 17:01</td>
+                <td>02/16/22 17:01</td>
+                <td>Injured/Sick Person</td>
+                <td>CBE</td>
+                <td>Cumberland Hall at 4250  Farm  Dr</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00010828/">2022-00010828</a></td>
+                <td>02/15/22 15:45</td>
+                <td>02/16/22 18:33</td>
+                <td>Theft</td>
+                <td>Active/Pending</td>
+                <td>31, Garrett, Garrett Hall at 7570  Calvert Service  Ln</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00010914/">2022-00010914</a></td>
+                <td>02/16/22 23:53</td>
+                <td>02/16/22 23:53</td>
+                <td>DWI/DUI</td>
+                <td>Arrest</td>
+                <td>79, Dairy, Turner Hall, Visitor Center at 7736  Baltimore  Ave</td>
+				<td>Yes</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00011038/">2022-00011038</a></td>
+                <td>02/17/22 15:29</td>
+                <td>02/17/22 15:29</td>
+                <td>Emergency Petition</td>
+                <td>CBE</td>
+                <td>Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00011290/">2022-00011290</a></td>
+                <td>02/18/22 07:50</td>
+                <td>02/18/22 08:48</td>
+                <td>Damaged Property</td>
+                <td>CBE</td>
+                <td>Lot N9</td>
+				<td>No</td>
+            </tr>
+			
+            <tr>
+				<td><a href="2022-00011292/">2022-00011292</a></td>
+                <td>01/27/22 14:00</td>
+                <td>02/18/22 09:40</td>
+                <td>Vandalism</td>
+                <td>Active/Pending</td>
+                <td>Easton, Easton Hall at 3917  Denton Service  Ln</td>
+				<td>No</td>
+            </tr>
+			
+		</table>
+    </body>
+</html>
