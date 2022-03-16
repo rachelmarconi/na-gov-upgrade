@@ -1,88 +1,72 @@
 import csv
+from csv import reader
 import requests
 from bs4 import BeautifulSoup
+from datetime import date
+from pathlib import Path
+import pandas as pd
 
-#What to scrape?
-#Could add lines to a csv at each scrape-- so data should be one row: a whole bunch of details for one item.
-#The soup du jour is COVID data, but I did a lot of that in Annapolis and most things are built out now-- 
-#unless I could make a map of who has tests available where. But that data isn't all in one place,
-#so it doesn't give itself to a scraping exercise. 
+#Can loop through, append these to download larger sets
 
-#library catalogs? train schedules? What do we care about? concert/conference schedules?
 
-#Coming back to the police log idea! 
-#https://www.umpd.umd.edu/stats/incident_logs.cfm?year=2022&month=2
-#notice the query for month and year in the URL! 
 
-#Right now, data is in a tabular format, but there's no way to sort or even view more
-#than on month at a time. How can we know what's happening most, 
-#or any kind of statistics about the issues, until the yearly report?
+MONTH = str(date.today().month)
+YEAR = str(date.today().year)
 
-#The data: we have case number (a UID!), the data/time and location
-#(annoyingly in the same cell), the report date and time, the type of crime,
-#and the disposition-- some of which is in unexplained abbreviations.
+for YEAR in range(2021,2023):
+    YEAR = str(YEAR)
+   for MONTH in range(1,13):
+        MONTH = str(MONTH)
+        
 
-#There is a City Protect profile where you can be notified of 
-#the latest incident, but that's not the same thing as an accessible database.
+        url = 'https://www.umpd.umd.edu/stats/incident_logs.cfm?year=' + YEAR + '&month=' + MONTH
+        #url = 'https://www.umpd.umd.edu/stats/incident_logs.cfm?year=2022&month=2
+        response = requests.get(url, headers={'User-Agent': 'Rachel Logan'}) 
+        html = response.content 
 
-#There is also an arrest log!! 
-#https://www.umpd.umd.edu/stats/arrest_report.cfm?year=2022
-#further note the year in the url
-#data includes arrest number (UID), time/data, connected case number 
-#(which totally means these could be connected databases but aren't), 
-#plus the age, race, and gender of the arrested individual-- 
-#plus a description, which is not in correct tabular format,
-#and also the crime type, also not in format.
+        soup = BeautifulSoup(html, features="html.parser")
+        #print(soup.prettify())
+        #print(soup.find('table').find_all('tr'))
 
-#The arrest log is a lot more helpful for this assignment because
-#it has a human-legible description and is more high-caliber info.
-#It's more interesting for the reader and easier to discern 
-#possible stories for reporters.
+        table = soup.find('table').find_all('tr')
 
-#LET'S GET DOWN TO BUSINESS
+        row_list = []
+        cell_list = []
 
-YEAR = '21'
-#YEAR = '22'
+        for row_index in range(0,len(table)):
+            #print(table[row_index],'\n')
+            if (not row_index): 
+                #there is the issue of removing <br> leaves no space-- 
+                #could replace <br> with ' ' before pulling text, but not as clean
+                header_row = [cell.text.strip() for cell in table[0].find_all('th')]
+                header_row.append('LOCATION')
+                #print(header_row)
+                row_list.append(header_row)
+            elif (row_index % 2):
+                cell_list = [cell.text.strip() for cell in table[row_index].find_all('td')]
+            else:
+                cell_list.append(table[row_index].find('td').text.strip())
+                row_list.append(cell_list)
+                # for cell in cell_list: 
+                # 	print(cell,'\n')
+                # print('-----------')
+                cell_list = []
+                
+        #should split data and time for report and incident
 
-url = 'https://www.umpd.umd.edu/stats/arrest_report.cfm?year=20'+YEAR
-response = requests.get(url, headers={'User-Agent': 'Rachel Logan'}) 
-html = response.content 
+        path = Path('./data/all-police-activity.csv')
 
-soup = BeautifulSoup(html, features="html.parser")
-#print(soup.prettify())
+        if not path.is_file():
+            outfile = open(path,"w",newline="")
+            writer = csv.writer(outfile)
+            writer.writerows(row_list)
 
-#I got blocked??? wow-- "dotDefender blocked your request!"
-#changed from User-Agent Mozilla to my name, problem gone
-#only one table
-
-table = soup.find('table').find_all('tr')
-
-#ok, the problem here (not a big problem) is that the data alternates with
-#an internal row for the description. so we take two at a time.
-
-row_list = []
-cell_list = []
-
-for row_index in range(0,len(table)):
-	#print(table[row_index],'\n')
-	if (not row_index): 
-		#there is the issue of removing <br> leaves no space-- 
-		#could replace <br> with ' ' before pulling text, but not as clean
-		header_row = [cell.text.strip() for cell in table[0].find_all('th')]
-		header_row.append('DESCRIPTION')
-		#print(header_row)
-		row_list.append(header_row)
-	elif (row_index % 2):
-		cell_list = [cell.text.strip() for cell in table[row_index].find_all('td')]
-	else:
-		cell_list.append(table[row_index].find('td').text.strip())
-		row_list.append(cell_list)
-		# for cell in cell_list: 
-		# 	print(cell,'\n')
-		# print('-----------')
-		cell_list = []
-
-out_url = './scraped-umd-police-arrest-log-'+YEAR+'.csv'
-outfile = open(out_url,"w",newline="")
-writer = csv.writer(outfile)
-writer.writerows(row_list)
+        else:
+            with open(path, 'r') as prev_data_stream:
+                csv_reader = reader(prev_data_stream)
+                prev_data = list(csv_reader)
+            
+            all_data = prev_data + row_list
+            pd_all_data = pd.DataFrame(all_data).drop_duplicates(keep = 'first')
+            pd_all_data.to_csv(path, index = False, index_label = False, header = False)
+    

@@ -6,7 +6,7 @@ app = Flask(__name__)
     
 def get_arrest_csv():
     #should change this to get ALL files with start 'scraped-umd-police-arrest-log'
-    csv_path = './data/scraped-umd-police-arrest-log-22.csv'
+    csv_path = './data/all-police-arrests.csv'
     csv_file = open(csv_path, 'r')
     csv_obj = csv.DictReader(csv_file)
     csv_list = list(csv_obj)
@@ -14,7 +14,7 @@ def get_arrest_csv():
     
 def get_activity_csv(arrest_list):
     #should change this to get ALL files with start 'scraped-umd-police-activity-log'
-    csv_path = './data/scraped-umd-police-activity-log-2-2022.csv'
+    csv_path = './data/all-police-activity.csv'
     csv_file = open(csv_path, 'r')
     csv_obj = csv.DictReader(csv_file)
     csv_list = list(csv_obj)
@@ -22,7 +22,29 @@ def get_activity_csv(arrest_list):
     arrest_cases = [arrest['UMPD CASE NUMBER'] for arrest in arrest_list]
     for activity in csv_list:
         activity['ARREST'] = "Yes" if (activity['UMPD CASENUMBER'] in arrest_cases) else "No"
-    
+        case_date = activity['OCCURRED DATE TIMELOCATION'].split('/')
+        year_time = case_date[2].split()
+        if (len(year_time[0]) == 2):
+            year_time[0] = "20"+ year_time[0]
+        if (len(case_date[0]) == 1):
+            case_date[0] = '0' + case_date[0]
+        if (len(case_date[1]) == 1):
+            case_date[1] = '0' + case_date[1]
+        if (len(year_time) != 2):
+            year_time = year_time + ['00:00']
+        activity['CASE_DATE'] = year_time[0] + '-' + case_date[0] + '-' + case_date[1] + '\n' + year_time[1]
+        
+        report_date = activity['REPORT DATE TIME'].split('/')
+        year_time = report_date[2].split()
+        if (len(year_time[0]) == 2):
+            year_time[0] = "20"+ year_time[0]
+        if (len(year_time) != 2):
+            year_time = year_time + ['00:00']
+        if (len(report_date[0]) == 1):
+            report_date[0] = '0' + report_date[0]
+        if (len(report_date[1]) == 1):
+            report_date[1] = '0' + report_date[1]
+        activity['REPORT_DATE'] = year_time[0] + '-' + report_date[0] + '-' + report_date[1] + '\n' + year_time[1]
     return csv_list
 
 @app.route("/")
@@ -43,7 +65,7 @@ def detail(case_number):
     
     for activity in activity_list:
         if (activity['UMPD CASENUMBER'] == case_number):
-            if (activity['ARREST'] == "Yes"):
+            if (activity['DISPOSITION'] == "Arrest"):
                 arrest = [arrest for arrest in arrest_list if arrest['UMPD CASE NUMBER'] == case_number][0]
                 return render_template(template, activity = activity, arrest = arrest)
             return render_template(template, activity = activity, arrest = None)
