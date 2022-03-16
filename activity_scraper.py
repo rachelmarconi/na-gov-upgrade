@@ -51,9 +51,8 @@ for row_index in range(0,len(table)):
         # 	print(cell,'\n')
         # print('-----------')
         cell_list = []
-        
-#should split data and time for report and incident
 
+        
 path = Path('./data/all-police-activity.csv')
 
 if not path.is_file():
