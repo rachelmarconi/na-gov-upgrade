@@ -64,7 +64,9 @@
 		</footer>
 		<script>
 			$(document).ready( function () {
-				$('#crime-table').DataTable();
+				$('#crime-table').DataTable({
+					"order": [[2,"desc"]]
+					});
 			} );
 		</script>
     </body>

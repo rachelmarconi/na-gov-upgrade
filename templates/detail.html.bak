@@ -17,7 +17,7 @@
 			<li>Age: {{ arrest['AGE'] }}</li> <!--always empty :( -->
 			<li>Race: {{ arrest['RACE'] }}</li>
 			<li>Gender: {{ arrest['SEX'] }}</li>
-			<li>Description: {{ arrest['DEXCRIPTION'] }}</li>
+			<li>Description: {{ arrest['DESCRIPTION'] }}</li>
 			
 		</ul>
 		{% else %}

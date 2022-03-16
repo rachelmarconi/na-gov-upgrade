@@ -29,8 +29,14 @@ instead of everything being in h1 style.*/
     font-family: Times, Times New Roman, serif;
 	font-size: 44px;
     line-height: 50px;
-	color: white;
+	
 	text-align: center;
+}
+.white{
+	color: white;
+}
+.red {
+	color: maroon;
 }
 h1 {
     font-weight: bold;

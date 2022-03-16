@@ -65,9 +65,10 @@ def detail(case_number):
     
     for activity in activity_list:
         if (activity['UMPD CASENUMBER'] == case_number):
-            if (activity['DISPOSITION'] == "Arrest"):
-                arrest = [arrest for arrest in arrest_list if arrest['UMPD CASE NUMBER'] == case_number][0]
-                return render_template(template, activity = activity, arrest = arrest)
+            #if (activity['DISPOSITION'] == "Arrest"):
+            arrest_matches = [arrest for arrest in arrest_list if arrest['UMPD CASE NUMBER'] == case_number]
+            if (len(arrest_matches) > 0):
+                return render_template(template, activity = activity, arrest = arrest_matches[0])
             return render_template(template, activity = activity, arrest = None)
     abort(404)
 
