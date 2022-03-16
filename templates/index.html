@@ -22,6 +22,14 @@
 			<div class="byline">
 				By <a href="https://github.com/rachelll4/na-gov-upgrade">Rachel Logan</a>
 			</div>
+			<div id="intro">
+				Welcome to a tracker for University of Maryland Police Department activity and arrest logs. 
+				Data is scraped every morning from the UMPD website using Beautiful Soup in Python and arranged in this Flask app.
+				On the UMPD site, data is displayed in flat, separate tables, so this site aims to add search and sort functions, 
+				as well as the ability to connect arrests with the associated activity log entry. 
+				Try searching for arrest or active dispositions. CBE stands for Cleared By Exception, meaning the case 
+				is no longer active but is not resolved.
+			</div>
 			<table id="crime-table" data-order='[[ 2, "desc" ]]' border=1 cellpadding=7>
 				<thead>
 					<tr>
@@ -31,19 +39,21 @@
 						<th>Type</th>
 						<th>Disposition</th>
 						<th>Location</th>
-						<th>Arrest?</th>
 					</tr>
 				</thead>
 				<tbody>
 					{% for obj in activity_list %}
 					<tr>
+						{% if obj['DISPOSITION'] == 'Arrest' %}
 						<td><a href="{{ obj['UMPD CASENUMBER'] }}/">{{ obj['UMPD CASENUMBER'] }}</a></td>
-						<td>{{ obj['OCCURRED DATE TIMELOCATION']}}</td>
-						<td>{{ obj['REPORT DATE TIME']}}</td>
+						{% else %}
+						<td>{{ obj['UMPD CASENUMBER'] }}</td>
+						{% endif%}
+						<td>{{ obj['CASE_DATE']}}</td>
+						<td>{{ obj['REPORT_DATE']}}</td>
 						<td>{{ obj['TYPE'] }}</td>
 						<td>{{ obj['DISPOSITION'] }}</td>
 						<td>{{ obj['LOCATION'] }}</td>
-						<td>{{ obj['ARREST'] }}</td>
 					</tr>
 					{% endfor %}
 				</tbody>
@@ -54,7 +64,9 @@
 		</footer>
 		<script>
 			$(document).ready( function () {
-				$('#crime-table').DataTable();
+				$('#crime-table').DataTable({
+					"order": [[2,"desc"]]
+					});
 			} );
 		</script>
     </body>
