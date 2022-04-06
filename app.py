@@ -67,7 +67,8 @@ def detail(case_number):
         if (activity['UMPD CASENUMBER'] == case_number):
             if (activity['DISPOSITION'] == "Arrest"):
                 arrest = [arrest for arrest in arrest_list if arrest['UMPD CASE NUMBER'] == case_number][0]
-                return render_template(template, activity = activity, arrest = arrest)
+                if (len(arrest_matches) > 0):
+                    return render_template(template, activity = activity, arrest = arrest)
             return render_template(template, activity = activity, arrest = None)
     abort(404)
 
