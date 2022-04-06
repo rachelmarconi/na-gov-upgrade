@@ -52,6 +52,9 @@ h1 {
 .byline a {
     text-transform: uppercase;
 }
+#intro{
+	margin: 50px 0;
+}
 table {
     border-collapse:collapse;
     margin: 0 0 20px 0;
@@ -72,12 +75,12 @@ p {
     line-height:140%;
 }
 a {
-    color: rose;
+    color: red;
     text-decoration: none;
 }
 a:hover {
     text-decoration: none;
-	font-weight: bold;
+	color: maroon;
 }
 @media (max-width: 979px) {
     tr th:nth-of-type(n+3),
