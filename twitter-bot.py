@@ -9,20 +9,59 @@ twitter_keys = {
         'consumer_key':        os.environ.get('TWEEPY_API_KEY'),
         'consumer_secret':     os.environ.get('TWEEPY_API_SECRET'),
         'access_token_key':    os.environ.get('TWEEPY_ACCESS_TOKEN'),
-        'access_token_secret': os.environ.get('TWEEPY_ACCESS_TOKEN_SECRET')
+        'access_token_secret': os.environ.get('TWEEPY_ACCESS_TOKEN_SECRET'),
+        'bearer_token': os.environ.get('TWEEPY_BEARER_TOKEN')
     }
 
-#Setup access to API
-auth = tweepy.OAuthHandler(twitter_keys['consumer_key'], twitter_keys['consumer_secret'])
-auth.set_access_token(twitter_keys['access_token_key'], twitter_keys['access_token_secret'])
+# client = tweepy.Client(consumer_key = twitter_keys['consumer_key'],
+                        # consumer_secret = twitter_keys['consumer_secret'],
+                        # access_token = twitter_keys['access_token_key'],
+                        # access_token_secret = twitter_keys['access_token_secret'],
+                        # bearer_token = twitter_keys['bearer_token'] )
 
+# payload = "Hello world! This is an automated tweet!"
+
+# response = client.create_tweet( text = payload )
+# print(response)
+
+#Setup access to API
+# NEED API V1 WITH OAUTH V2
+# https://docs.tweepy.org/en/stable/authentication.html#oauth-2-0-bearer-token-app-only
+auth = tweepy.OAuth2BearerHandler(bearer_token = twitter_keys['bearer_token'])
+#auth = tweepy.OAuthHandler(twitter_keys['consumer_key'], twitter_keys['consumer_secret'])
+#auth.set_access_token(twitter_keys['access_token_key'], twitter_keys['access_token_secret'])
 api = tweepy.API(auth)
 
-payload = {"text": "Hello world!"}
+response = api.home_timeline()
+print(response)
 
- # Get request token
-request_token_url = "https://api.twitter.com/oauth/request_token?oauth_callback=oob&x_auth_access_type=write"
-oauth = OAuth1Session(twitter_keys['consumer_key'], client_secret=twitter_keys['consumer_secret'])
+## this is oauth v2, need v1 which is tweepy.Client.create_tweet(tweet)
+#client = tweepy.Client(bearer_token='REPLACE_ME')
+#https://docs.tweepy.org/en/stable/client.html#tweepy.Client.create_tweet
+#payload = "Hello world! This is an automated tweet!"
+#api.update_status(payload)
+
+# # Get request token
+# request_token_url = "https://api.twitter.com/oauth/request_token?oauth_callback=oob&x_auth_access_type=write"
+# oauth = OAuth1Session(twitter_keys['consumer_key'], client_secret=twitter_keys['consumer_secret'])
+
+# # Making the request
+# response = oauth.POST(
+    # "https://api.twitter.com/2/tweets",
+    # json=payload,
+# )
+
+# if response.status_code != 201:
+    # raise Exception(
+        # "Request returned an error: {} {}".format(response.status_code, response.text)
+    # )
+
+# print("Response code: {}".format(response.status_code))
+
+# # Saving the response as JSON
+# json_response = response.json()
+# print(json.dumps(json_response, indent=4, sort_keys=True))
+
 
 # try:
     # fetch_response = oauth.fetch_request_token(request_token_url)
@@ -63,19 +102,3 @@ oauth = OAuth1Session(twitter_keys['consumer_key'], client_secret=twitter_keys['
 #    resource_owner_secret=twitter_keys['access_token_secret'],
 #)
 
-# Making the request
-response = oauth.POST(
-    "https://api.twitter.com/2/tweets",
-    json=payload,
-)
-
-if response.status_code != 201:
-    raise Exception(
-        "Request returned an error: {} {}".format(response.status_code, response.text)
-    )
-
-print("Response code: {}".format(response.status_code))
-
-# Saving the response as JSON
-json_response = response.json()
-print(json.dumps(json_response, indent=4, sort_keys=True))
