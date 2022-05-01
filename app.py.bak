@@ -26,6 +26,10 @@ def get_activity_csv(arrest_list):
         year_time = case_date[2].split()
         if (len(year_time[0]) == 2):
             year_time[0] = "20"+ year_time[0]
+        if (len(case_date[0]) == 1):
+            case_date[0] = '0' + case_date[0]
+        if (len(case_date[1]) == 1):
+            case_date[1] = '0' + case_date[1]
         if (len(year_time) != 2):
             year_time = year_time + ['00:00']
         activity['CASE_DATE'] = year_time[0] + '-' + case_date[0] + '-' + case_date[1] + '\n' + year_time[1]
@@ -36,6 +40,10 @@ def get_activity_csv(arrest_list):
             year_time[0] = "20"+ year_time[0]
         if (len(year_time) != 2):
             year_time = year_time + ['00:00']
+        if (len(report_date[0]) == 1):
+            report_date[0] = '0' + report_date[0]
+        if (len(report_date[1]) == 1):
+            report_date[1] = '0' + report_date[1]
         activity['REPORT_DATE'] = year_time[0] + '-' + report_date[0] + '-' + report_date[1] + '\n' + year_time[1]
     return csv_list
 
@@ -48,20 +56,20 @@ def index():
 
     return render_template(template, activity_list=activity_list, arrest_list=arrest_list)
 
-@app.route('/<case_number>/')
-def detail(case_number):
-    template = 'detail.html'
+# @app.route('/<case_number>/')
+# def detail(case_number):
+    # template = 'detail.html'
     
-    arrest_list = get_arrest_csv()
-    activity_list = get_activity_csv(arrest_list)
+    # arrest_list = get_arrest_csv()
+    # activity_list = get_activity_csv(arrest_list)
     
-    for activity in activity_list:
-        if (activity['UMPD CASENUMBER'] == case_number):
-            if (activity['DISPOSITION'] == "Arrest"):
-                arrest = [arrest for arrest in arrest_list if arrest['UMPD CASE NUMBER'] == case_number][0]
-                return render_template(template, activity = activity, arrest = arrest)
-            return render_template(template, activity = activity, arrest = None)
-    abort(404)
+    # for activity in activity_list:
+        # #if (activity['DISPOSITION'] == "Arrest"):
+        # arrest_matches = [arrest for arrest in arrest_list if arrest['UMPD CASE NUMBER'] == case_number]
+        # if (len(arrest_matches) > 0):
+            # return render_template(template, activity = activity, arrest = arrest_matches[0])
+        # return render_template(template, activity = activity, arrest = None)
+    # abort(404)
 
 if __name__ == '__main__':
     app.run(debug=True, use_reloader=True)

@@ -53,23 +53,25 @@ def index():
     
     arrest_list = get_arrest_csv()
     activity_list = get_activity_csv(arrest_list)
+    
+    print(arrest_list[0])
 
     return render_template(template, activity_list=activity_list, arrest_list=arrest_list)
 
-@app.route('/<case_number>/')
-def detail(case_number):
-    template = 'detail.html'
+# @app.route('/<case_number>/')
+# def detail(case_number):
+    # template = 'detail.html'
     
-    arrest_list = get_arrest_csv()
-    activity_list = get_activity_csv(arrest_list)
+    # arrest_list = get_arrest_csv()
+    # activity_list = get_activity_csv(arrest_list)
     
-    for activity in activity_list:
-        #if (activity['DISPOSITION'] == "Arrest"):
-        arrest_matches = [arrest for arrest in arrest_list if arrest['UMPD CASE NUMBER'] == case_number]
-        if (len(arrest_matches) > 0):
-            return render_template(template, activity = activity, arrest = arrest_matches[0])
-        return render_template(template, activity = activity, arrest = None)
-    abort(404)
+    # for activity in activity_list:
+        # #if (activity['DISPOSITION'] == "Arrest"):
+        # arrest_matches = [arrest for arrest in arrest_list if arrest['UMPD CASE NUMBER'] == case_number]
+        # if (len(arrest_matches) > 0):
+            # return render_template(template, activity = activity, arrest = arrest_matches[0])
+        # return render_template(template, activity = activity, arrest = None)
+    # abort(404)
 
 if __name__ == '__main__':
     app.run(debug=True, use_reloader=True)

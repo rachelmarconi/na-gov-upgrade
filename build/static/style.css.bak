@@ -17,9 +17,6 @@ nav img {
     height: 34px;
     padding: 8px;
 }
-/*I thought the subhead was too chunky, so I 
-split out the style to header and subheader classes
-instead of everything being in h1 style.*/
 #top-header{
 	padding: 5px;
 	background-color: maroon;
@@ -53,7 +50,30 @@ h1 {
     text-transform: uppercase;
 }
 #intro{
-	margin: 50px 0;
+	margin: 30px 0 50px 0;
+}
+
+#table-stuff{
+	display: flex;
+	flex-direction: row;
+}
+
+#crime-table{
+	flex: 0 1 auto;
+}
+#sidebar{
+	flex: 0 1 auto;
+	padding: 10px;
+	padding-top: 40px;
+	height: 100%;
+}
+#more-stuff{
+	border: solid black 1px;
+	height: 100%;
+	margin-top: 30px;
+}
+.more-button{
+	
 }
 table {
     border-collapse:collapse;

@@ -9,6 +9,7 @@
 		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.4/css/jquery.dataTables.css">
 		<script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.5.1.js"></script>
 		<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.4/js/jquery.dataTables.js"></script>
+		<!--script type="text/javascript" charset="utf8" src="../static/script.js"></script-->
 		
 		
 		
@@ -30,34 +31,37 @@
 				Try searching for arrest or active dispositions. CBE stands for Cleared By Exception, meaning the case 
 				is no longer active but is not resolved.
 			</div>
-			<table id="crime-table" data-order='[[ 2, "desc" ]]' border=1 cellpadding=7>
-				<thead>
-					<tr>
-						<th>Case number</th>
-						<th>Occured date, time</th>
-						<th>Reported date, time</th>
-						<th>Type</th>
-						<th>Disposition</th>
-						<th>Location</th>
-					</tr>
-				</thead>
-				<tbody>
-					{% for obj in activity_list %}
-					<tr>
-						{% if obj['DISPOSITION'] == 'Arrest' %}
-						<td><a href="{{ obj['UMPD CASENUMBER'] }}/">{{ obj['UMPD CASENUMBER'] }}</a></td>
-						{% else %}
-						<td>{{ obj['UMPD CASENUMBER'] }}</td>
-						{% endif%}
-						<td>{{ obj['CASE_DATE']}}</td>
-						<td>{{ obj['REPORT_DATE']}}</td>
-						<td>{{ obj['TYPE'] }}</td>
-						<td>{{ obj['DISPOSITION'] }}</td>
-						<td>{{ obj['LOCATION'] }}</td>
-					</tr>
-					{% endfor %}
-				</tbody>
-			</table>
+			<div id="table-stuff">
+				<table id="crime-table" data-order='[[ 2, "desc" ]]' border=1 cellpadding=7>
+					<thead>
+						<tr>
+							<th>Case number</th>
+							<th>Occured date, time</th>
+							<th>Reported date, time</th>
+							<th>Type</th>
+							<th>Disposition</th>
+							<th>Location</th>
+							<th>More</th>
+						</tr>
+					</thead>
+					<tbody>
+						{% for obj in activity_list %}
+						<tr>
+							<td>{{ obj['UMPD CASENUMBER'] }}</td>
+							<td>{{ obj['CASE_DATE']}}</td>
+							<td>{{ obj['REPORT_DATE']}}</td>
+							<td>{{ obj['TYPE'] }}</td>
+							<td>{{ obj['DISPOSITION'] }}</td>
+							<td>{{ obj['LOCATION'] }}</td>
+							<td>{% if obj['DISPOSITION'] == 'Arrest' %}<div class= "more-button" data-casedata= {{ obj['UMPD CASENUMBER'] }} onclick = "clickForMore(this.getAttribute('data-casedata'))" >More</div>{% endif %}</td>
+						</tr>
+						{% endfor %}
+					</tbody>
+				</table>
+				<div id="sidebar">
+					<div id="more-stuff">Click 'More' to see a connected arrest.</div>
+				</div>
+			</div> 
 		</div>
 		<footer>
 			<div id="footer-text">Copyright 2022</div>
@@ -68,6 +72,36 @@
 					"order": [[2,"desc"]]
 					});
 			} );
+		</script>
+		<script language="JavaScript">
+			function clickForMore(case_number){
+			
+				var all_arrests = {{ arrest_list|tojson }}
+				console.log(case_number)
+				console.log(all_arrests)
+				
+				var arrest = [];
+				for (obj of all_arrests){
+					if (obj['UMPD CASE NUMBER'] == case_number){
+						arrest = obj
+						break;
+					}
+				}
+				console.log(arrest)
+				
+				var content = `<h2>Arrest entry:</h2>
+					<ul>
+						<li>Arrest number: ${ arrest['ARRESTNUMBER'] }</li>
+						<li>Charge date and time: ${ arrest['ARRESTED DATE TIMECHARGE'] }</li>
+						<li>Age: ${ arrest['AGE'] }</li> <!--always empty :( -->
+						<li>Race: ${ arrest['RACE'] }</li>
+						<li>Gender: ${ arrest['SEX'] }</li>
+						<li>Description: ${ arrest['DESCRIPTION'] }</li>
+						
+					</ul>`
+				
+				document.getElementById("more-stuff").innerHTML = content;
+			}
 		</script>
     </body>
 </html>
