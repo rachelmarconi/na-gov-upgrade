@@ -104,10 +104,16 @@ a:hover {
 	color: maroon;
 }
 @media (max-width: 979px) {
-    tr th:nth-of-type(n+3),
-    tr td:nth-of-type(n+3) {
+    tr th:nth-of-type(n+5),
+    tr td:nth-of-type(n+5) {
         display:none;
     }
+	#table-stuff{
+		flex-direction: column;
+	}
+	#crime-table{
+		order: 99;
+	}
 }
 footer{
 	margin-top: 20px;
@@ -120,8 +126,8 @@ footer{
 	color: white;
 }
 @media (max-width: 420px) {
-    tr th:nth-of-type(n+2),
-    tr td:nth-of-type(n+2) {
+    tr th:nth-of-type(n+4),
+    tr td:nth-of-type(n+4) {
         display:none;
     }
 }
