@@ -50,9 +50,9 @@ for YEAR in range(THIS_YEAR - 1, THIS_YEAR +1):
             csv_reader = reader(prev_data_stream)
             prev_data = list(csv_reader)
         
-        all_data = prev_data + row_list
+        all_data = row_list + prev_data
         pd_all_data = pd.DataFrame(all_data)
         print(pd_all_data)
-        pd_all_data = pd_all_data.drop_duplicates(subset = 2,keep = 'last') #case number
+        pd_all_data = pd_all_data.drop_duplicates(subset = 2,keep = 'first') #case number
         pd_all_data.to_csv(path, index = False, index_label = False, header = False)
 
