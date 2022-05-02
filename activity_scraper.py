@@ -67,6 +67,6 @@ for YEAR in range(THIS_YEAR -1,THIS_YEAR +1):
                 prev_data = list(csv_reader)
             
             all_data = prev_data + row_list
-            pd_all_data = pd.DataFrame(all_data).drop_duplicates(subset="UMPD CASE NUMBER",keep = 'last')
+            pd_all_data = pd.DataFrame(all_data).drop_duplicates(subset=0,keep = 'last')
             pd_all_data.to_csv(path, index = False, index_label = False, header = False)
     
