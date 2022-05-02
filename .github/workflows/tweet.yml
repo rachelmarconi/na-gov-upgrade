@@ -5,7 +5,6 @@ name: Auto-tweet
 # Controls when the workflow wil.l run
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
-  on:
   schedule:
     - cron: '30 8 * * *'
   workflow_dispatch:
