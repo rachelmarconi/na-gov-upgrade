@@ -1,7 +1,7 @@
+ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 22970,01/03/21 20:54,2021-00000618,,White,Male,CDS:Possession Marijuana L/T 10 grams
 22961,01/05/21 14:17,2020-00067830,,Asian/Pacific Islander,Male,Electronic Mail Harassment; School: Disturb Operation
 22963,01/08/21 00:14,2021-00001794,,Black,Male,CDS:Possession Marijuana L/T 10 grams
-22964,01/10/21 09:25,2021-00002465,,White,Male,"THEFT: $100 TO UNDER $1,500"
 22965,01/10/21 09:25,2021-00002465,,White,Female,"THEFT: $100 TO UNDER $1,500"
 22966,01/16/21 20:21,2021-00004284,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 22967,01/18/21 02:25,2021-00004689,,White,Male,Occupant - Possess Alcoholic Bev. in Motor Vehicle
@@ -14,12 +14,10 @@
 22976,02/04/21 00:11,2021-00009409,,Black,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol"
 22975,02/05/21 22:22,2021-00009797,,White,Female,CDS:Possession Marijuana L/T 10 grams
 22977,02/07/21 01:13,2021-00010112,,White,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driving veh. on hwy. at speed exceeding speed limit by 10 to 19 mph.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
-22982,02/08/21 23:42,2021-00010558,,Asian/Pacific Islander,Female,CDS:Possession Marijuana L/T 10 grams
 22983,02/08/21 23:42,2021-00010558,,White,Female,CDS:Possession Marijuana L/T 10 grams
 22978,02/09/21 12:44,2021-00010467,,Black,Male,Malicious Destruction Property/Value -$1000
 22979,02/09/21 18:38,2021-00010813,,American Indian/Alaskan,Male,CDS: POSS MARIJUANA 10 GM+
 22987,02/11/21 23:52,2021-00011518,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driving veh. on hwy. at speed exceeding speed limit by 10 to 19 mph.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
-22997,02/12/21 02:30,2021-00011566,,White,Male,Suspicion/No Charges
 22981,02/12/21 18:15,2021-00011762,,Asian/Pacific Islander,Female,CDS:Possession Marijuana L/T 10 grams
 22986,02/13/21 04:08,2021-00011954,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driving veh. on hwy. at speed exceeding speed limit by 20 to 29 mph.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 22985,02/14/21 04:05,2021-00012282,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
@@ -65,12 +63,10 @@
 23044,04/02/21 08:10,2021-00025712,,White,Male,"THEFT: $1,500 TO UNDER $25,000"
 23023,04/03/21 21:56,2021-00026151,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23043,04/03/21 22:34,2021-00026158,,White,Male,CDS:Possession Marijuana L/T 10 grams
-895,04/04/21 18:15,2021-00026450,,White,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization"
 896,04/04/21 19:15,2021-00026450,,White,Male,CDS:Possession Marijuana L/T 10 grams
 23021,04/04/21 22:00,2021-00026467,,Black,Female,CDS:Possession Marijuana L/T 10 grams
 23024,04/04/21 23:03,2021-00026473,,White,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driving veh. on hwy. at speed exceeding speed limit by 10 to 19 mph.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23022,04/06/21 00:15,2021-00026769,,Black,Male,CDS: POSS MARIJUANA 10 GM+
-23041,04/07/21 22:05,2021-00027331,,Black,Female,CDS:Possession Marijuana L/T 10 grams
 23042,04/07/21 22:05,2021-00027331,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 23034,04/09/21 16:26,2021-00027773,,Black,Male,Indecent Exposure
 23032,04/09/21 23:09,2021-00027840,,Asian/Pacific Islander,Female,CDS:Possession Marijuana L/T 10 grams
@@ -102,8 +98,6 @@
 23062,05/01/21 04:42,2021-00033700,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while impaired by controlled dangerous substance; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely; (Driving, Attempting to drive) veh. while under the influence of alcohol; CDS: Possess-Not Marijuana; Opium or cocaine and derivatives); Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23059,05/02/21 02:39,2021-00033956,,Black,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driver failure to obey properly placed traffic control device instructions; Driving veh. in excess of reasonable and prudent speed on hwy.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Person driving motor veh. on (hwy., public use property) on revoked lic. and privilege; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23060,05/03/21 02:07,2021-00034217,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Headlight, Taillight, Stoplight, Turn Signal, ID light(s), Clearance light(s), Marker light(s) ) inoperative; Driver failure to obey properly placed traffic control device instructions; Driving veh. in excess of reasonable and prudent speed on hwy.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
-23103,05/03/21 12:00,2021-00030043,,Asian/Pacific Islander,Male,"Burglary 4th Degree; Unlawful Entry; THEFT: $100 TO UNDER $1,500"
-23104,05/03/21 12:00,2021-00030043,,White,Male,"THEFT: $100 TO UNDER $1,500"
 23069,05/04/21 00:00,2021-00024727,,Black,Male,"Burglary 4th Degree; Forced Entry; Burglary/2nd Degree; Forced Entry; THEFT: $100 TO UNDER $1,500"
 23075,05/05/21 13:30,2021-00034550,,Black,Male,"THEFT: $100 TO UNDER $1,500"
 23066,05/05/21 22:20,2021-00034883,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
@@ -111,7 +105,6 @@
 23067,05/08/21 01:26,2021-00035475,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of (alcohol, alcohol per se) while transporting a minor"
 23076,05/09/21 06:27,2021-00035772,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Causing standing veh. to obstruct free veh. passage of roadway; CDS:Possession Marijuana L/T 10 grams; Driver failure to obey properly placed traffic control device instructions; Failure to display registration card upon demand by police officer; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23068,05/10/21 12:00,2021-00024023,,Black,Male,Malicious Destruction of Proper/Value $1000+
-23095,05/10/21 12:00,2021-00030044,,White,Male,Theft Less Than $100
 23096,05/10/21 12:00,2021-00030044,,White,Male,Theft Less Than $100
 23102,05/12/21 12:00,2021-00030043,,White,Male,"Burglary 2nd Degree; Unlawful Entry; Burglary 4th Degree Theft; Unlawful Entry; Burglary 4th Degree; Unlawful Entry; THEFT: $100 TO UNDER $1,500"
 23070,05/12/21 21:55,2021-00036932,,White,Male,School Trespassing On Ground
@@ -128,7 +121,6 @@
 23077,05/23/21 23:52,2021-00039950,,Black,Female,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 23080,05/26/21 01:47,2021-00040515,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driver fail to stop at steady circular red signal; Driver failure to obey designated lane directions; Driver failure to obey properly placed traffic control device instructions; Driving veh. in excess of reasonable and prudent speed on hwy.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23090,05/27/21 07:40,2021-00040907,,Black,Male,False Statement to Peace Officer; School Trespassing/Damage Property
-23084,05/27/21 23:50,2021-00041075,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 23085,05/27/21 23:50,2021-00041075,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 23091,05/30/21 00:43,2021-00041607,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 23120,06/01/21 22:22,2021-00042418,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; CDS:Possession Marijuana L/T 10 grams"
@@ -215,7 +207,6 @@
 23167,08/26/21 02:24,2021-00066079,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 23177,08/27/21 00:56,2021-00066362,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by controlled dangerous substance"
 23181,08/27/21 02:01,2021-00066386,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
-23179,08/27/21 02:44,2021-00066402,,White,Male,CDS:Possession Marijuana L/T 10 grams
 23180,08/27/21 02:44,2021-00066402,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 23182,08/28/21 01:27,2021-00066733,,Black,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23183,08/29/21 00:19,2021-00066997,,White,Male,Suspicion - Arrested and Released without Charges
@@ -241,7 +232,6 @@
 23207,09/13/21 23:44,2021-00071942,,American Indian/Alaskan,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Carrying, Wearing, or Transporting Hangun While Under the Influence: Alcohol or CDS; Loaded Handgun in Vehicle"
 23202,09/14/21 00:09,2021-00071950,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 23203,09/15/21 01:07,2021-00072264,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
-23214,09/16/21 00:28,2021-00072542,,Asian/Pacific Islander,Male,"(Driving, Attempting to drive) veh. while impaired by controlled dangerous substance; CDS: POSS MARIJUANA 10 GM+"
 23215,09/16/21 00:44,2021-00072542,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 23208,09/16/21 02:32,2021-00072566,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23209,09/17/21 00:32,2021-00072801,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
@@ -251,24 +241,19 @@
 23213,09/19/21 23:11,2021-00073494,,White,Male,CDS:Possession Marijuana L/T 10 grams
 23216,09/21/21 12:00,2021-00061254,,Black,Male,False Statement - Destructive Device  (Statement/Rumor as a destructive device); School: Disturb Operation
 23212,09/21/21 23:48,2021-00074085,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol"
-23220,09/24/21 02:21,2021-00074672,,White,Female,Theft Less Than $100
 23221,09/24/21 02:21,2021-00074672,,White,Female,Theft Less Than $100
-23232,09/24/21 03:10,2021-00074679,,White,Male,CDS:Possession Marijuana L/T 10 grams
 23233,09/24/21 03:10,2021-00074679,,Asian/Pacific Islander,Female,CDS:Possession Marijuana L/T 10 grams
 23222,09/25/21 03:56,2021-00074967,,White,Male,INTOXICATED PUBLIC DISTURB
 23217,09/26/21 03:51,2021-00075143,,Black,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 23219,09/26/21 04:41,2021-00075148,,White,Male,Suspicion - Arrested and Released without Charges
 23223,09/27/21 01:59,2021-00075394,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person"
 23225,09/29/21 15:25,2021-00076167,,White,Male,"CDS Poss w/intent to Distribute; Other Dangerous Drugs (Do not use for Narcotics; Crack, Cocaine, LSD or PCP); CDS: POSS MARIJUANA 10 GM+; CDS: Possess-Not Marijuana; Dangerous Nonnarcotics; CDS:Poss w/Intent to Distribute; Marijuana (Do not use for Narcotics: Crack, Cocaine, LSD or PCP); Motor Vehicle Theft/Unlawful Taking; Automobiles"
-23226,09/29/21 21:57,2021-00076217,,White,Male,Burglary 4th Degree Theft; Unlawful Entry; Burglary-4th Degree/Tools
 23224,10/02/21 03:23,2021-00076828,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver failure to obey properly placed traffic control device instructions; Driver making improper turn at intersection; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property; Unsafe backing of motor veh."
 23238,10/03/21 05:22,2021-00077131,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 23231,10/05/21 01:09,2021-00077653,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23229,10/05/21 20:11,2021-00077844,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 23230,10/06/21 00:21,2021-00077907,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by controlled dangerous substance"
 23227,10/07/21 00:00,2021-00075831,,White,Male,"THEFT: $100 TO UNDER $1,500"
-23236,10/07/21 02:33,2021-00078182,,White,Male,Malicious Destruction Property/Value -$1000
-23234,10/07/21 02:49,2021-00078182,,White,Male,Malicious Destruction Property/Value -$1000
 23235,10/07/21 03:35,2021-00078182,,White,Male,Malicious Destruction Property/Value -$1000
 23228,10/07/21 23:59,2021-00078380,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 23237,10/08/21 22:54,2021-00078694,,White,Female,CDS:Possession Marijuana L/T 10 grams
@@ -278,7 +263,6 @@
 23242,10/10/21 11:24,2021-00078968,,Black,Male,School Trespassing On Ground
 23256,10/13/21 18:45,2021-00057835,,White,Male,"THEFT: $100 TO UNDER $1,500"
 23257,10/13/21 18:45,2021-00067809,,White,Male,"THEFT: $100 TO UNDER $1,500"
-23258,10/13/21 18:45,2021-00073763,,White,Male,"THEFT: $100 TO UNDER $1,500"
 23243,10/13/21 21:18,2021-00079761,,White,Female,CDS:Possession Marijuana L/T 10 grams
 23249,10/14/21 21:21,2021-00080010,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 23244,10/16/21 00:00,2021-00080344,,Black,Male,CDS:Possession Marijuana L/T 10 grams
@@ -288,16 +272,12 @@
 23259,10/19/21 09:00,2021-00074529,,Asian/Pacific Islander,Male,"THEFT: $100 TO UNDER $1,500"
 23260,10/19/21 10:18,2021-00076426,,Black,Male,"THEFT: $100 TO UNDER $1,500; Unauthorized Removal of Property (Veh/Motor Veh/Horse/Vessel)"
 23261,10/21/21 00:00,2021-00076217,,White,Male,"Malicious Destruction Property/Value -$1000; THEFT: $100 TO UNDER $1,500"
-23263,10/21/21 00:00,2021-00072886,,White,Male,"THEFT: $100 TO UNDER $1,500"
 23247,10/21/21 21:56,2021-00081572,,Black,Male,CDS:Possession Marijuana L/T 10 grams
-23253,10/22/21 00:09,2021-00081637,,Asian/Pacific Islander,Male,Possession of Firearm or Ammo being under the age of 21
 23252,10/22/21 00:09,2021-00081637,,Black,Male,Resist/Interfere with Arrest
 23250,10/22/21 22:18,2021-00081820,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 23251,10/23/21 03:06,2021-00081864,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person"
 23264,10/27/21 23:41,2021-00082923,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
-23254,10/30/21 02:37,2021-00083563,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 23255,10/30/21 02:37,2021-00083563,,Black,Male,CDS:Possession Marijuana L/T 10 grams
-23267,10/30/21 12:19,2021-00083622,,Black,Male,Theft Less Than $100
 23268,10/30/21 12:25,2021-00083622,,Black,Male,CDS: POSS MARIJUANA 10 GM+
 23262,10/31/21 04:07,2021-00083739,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 23266,11/01/21 00:51,2021-00083986,,Unknown,Female,Suspicion/No Charges
@@ -353,7 +333,6 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23315,01/04/22 15:13,2021-00088547,,Black,Female,"THEFT: $100 TO UNDER $1,500"
 23316,01/09/22 02:26,2022-00001605,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while impaired by alcohol while transporting a minor; (Driving, Attempting to drive) veh. while under the influence of (alcohol, alcohol per se) while transporting a minor; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23320,01/16/22 00:40,2022-00002966,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person"
-23318,01/16/22 02:10,2022-00002978,,White,Male,Obstructing and Hindering
 23319,01/16/22 02:10,2022-00002978,,Black,Male,Obstructing and Hindering
 23321,01/21/22 01:45,2022-00004171,,Black,Male,Urinating or Defecating in Public
 23322,01/23/22 01:36,2022-00004807,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
@@ -381,9 +360,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23350,02/15/22 08:00,2022-00005432,,Black,Male,"THEFT: $100 TO UNDER $1,500"
 23338,02/15/22 22:15,2022-00010580,,White,Male,CDS: POSS MARIJUANA 10 GM+
 23340,02/17/22 00:05,2022-00010914,,White,Female,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
-23351,02/18/22 00:00,2022-00011388,,Black,Male,"THEFT: $1,500 TO UNDER $25,000"
 23352,02/18/22 00:00,2022-00011388,,Black,Male,"THEFT: $1,500 TO UNDER $25,000"
-23346,02/18/22 17:39,2022-00011380,,Black,Male,CDS: POSS MARIJUANA 10 GM+; Motor Vehicle Theft/Unlawful Taking; Automobiles; Theft Less Than $100
 23347,02/18/22 18:01,2022-00011380,,Black,Male,CDS: POSS MARIJUANA 10 GM+; Motor Vehicle Theft/Unlawful Taking; Automobiles; School Trespassing On Ground; Theft Less Than $100
 23354,02/19/22 00:00,2018-00029378,,Black,Male,"Malicious Destruction Property/Value Less than $500; Rogue and Vagabond; THEFT: $100 TO UNDER $1,500"
 23344,02/20/22 21:25,2022-00011833,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely; (Driving, Attempting to drive) veh. while under the influence of alcohol"
@@ -401,14 +378,11 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23361,03/12/22 05:11,2022-00016727,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Person driving motor veh. on (hwy., public use property) on suspended lic. and privilege"
 23362,03/14/22 02:46,2022-00017096,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver changing lanes when unsafe; Driving veh. in violation of restricted license requirement; Driving veh. on hwy. at speed exceeding speed limit by 40 mph and over; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23374,03/17/22 01:47,2022-00017999,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
-23363,03/17/22 23:05,2022-00018197,,Black,Male,CDS: POSS MARIJUANA 10 GM+
 23364,03/17/22 23:05,2022-00018197,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 23385,03/18/22 01:46,2022-00018237,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23375,03/18/22 02:33,2022-00018246,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 23376,03/18/22 03:29,2022-00018264,,White,Male,"(Driving, Attempting to drive) motor veh. with alcohol in blood in violation of restriction; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver failure to stop at stop sign line; Driving veh. in violation of provisional license requirement; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23377,03/18/22 03:40,2022-00018268,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
-23365,03/18/22 04:44,2022-00018285,,White,Male,CDS:Possession Marijuana L/T 10 grams
-23366,03/18/22 04:44,2022-00018285,,Asian/Pacific Islander,Male,CDS:Possession Marijuana L/T 10 grams
 23367,03/18/22 04:44,2022-00018285,,White,Male,CDS:Possession Marijuana L/T 10 grams
 23370,03/18/22 20:14,2022-00018437,,Black,Female,CDS:Possession Marijuana L/T 10 grams
 23378,03/19/22 02:18,2022-00018550,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver failure to obey properly placed traffic control device instructions; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property; Willfully driving motor veh. at slow speed impeding normal and reasonable trafffic movement"
@@ -417,7 +391,6 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23386,03/20/22 04:25,2022-00018827,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Causing to be driven, Knowingly permitting to be driven) unsafe veh. on hwy.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23381,03/21/22 00:39,2022-00019081,,White,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driver changing lanes when unsafe; Driver failure to obey properly placed traffic control device instructions; Failure to carry registration card within vehicle; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23382,03/21/22 02:53,2022-00019099,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person"
-23371,03/21/22 19:05,2022-00019290,,White,Male,CDS: POSS MARIJUANA 10 GM+
 23372,03/21/22 19:05,2022-00019290,,White,Male,CDS: POSS MARIJUANA 10 GM+
 23373,03/22/22 23:15,2022-00019570,,American Indian/Alaskan,Male,CDS: POSS MARIJUANA 10 GM+
 23387,03/22/22 23:32,2022-00019573,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
@@ -440,11 +413,9 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23403,04/12/22 12:00,2022-00013487,,Black,Male,Malicious Destruction Property/Value -$1000
 23404,04/12/22 12:00,2022-00013647,,Black,Male,Malicious Destruction Property/Value -$1000
 23407,04/14/22 23:13,2022-00026650,,White,Male,"CDS: POSS MARIJUANA 10 GM+; CDS: Possess-Not Marijuana; Dangerous Nonnarcotics; CDS:Poss w/Intent to Distribute; Marijuana (Do not use for Narcotics: Crack, Cocaine, LSD or PCP); CDS:Possess with intent to Distribute:Narcotic"
-23412,04/15/22 02:08,2022-00026679,,White,Male,Theft Less Than $100
 23413,04/15/22 02:08,2022-00026679,,Asian/Pacific Islander,Male,Theft Less Than $100
 23408,04/16/22 00:10,2022-00026936,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23414,04/17/22 05:08,2022-00027244,,White,Male,Suspicion/No Charges
-23409,04/19/22 18:39,2022-00027948,,White,Female,Malicious Destruction Property/Value -$1000
 23410,04/19/22 18:39,2022-00027948,,White,Female,Malicious Destruction Property/Value -$1000
 23411,04/21/22 04:14,2022-00028311,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 23415,04/28/22 00:33,2022-00030176,,White,Male,CDS: POSS MARIJUANA 10 GM+
