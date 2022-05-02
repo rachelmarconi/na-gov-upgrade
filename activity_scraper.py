@@ -10,10 +10,10 @@ import pandas as pd
 
 
 
-MONTH = str(date.today().month)
-YEAR = str(date.today().year)
+THIS_MONTH = str(date.today().month)
+THIS_YEAR = str(date.today().year)
 
-for YEAR in range(2021,2023):
+for YEAR in range(THIS_YEAR -1,THIS_YEAR +1):
     YEAR = str(YEAR)
     for MONTH in range(1,13):
         MONTH = str(MONTH)
@@ -67,6 +67,6 @@ for YEAR in range(2021,2023):
                 prev_data = list(csv_reader)
             
             all_data = prev_data + row_list
-            pd_all_data = pd.DataFrame(all_data).drop_duplicates(keep = 'first')
+            pd_all_data = pd.DataFrame(all_data).drop_duplicates(subset="UMPD CASE NUMBER",keep = 'last')
             pd_all_data.to_csv(path, index = False, index_label = False, header = False)
     
