@@ -11,7 +11,7 @@ import pandas as pd
 
 
 THIS_MONTH = str(date.today().month)
-THIS_YEAR = str(date.today().year)
+THIS_YEAR = date.today().year
 
 for YEAR in range(THIS_YEAR -1,THIS_YEAR +1):
     YEAR = str(YEAR)

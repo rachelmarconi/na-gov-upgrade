@@ -8,8 +8,9 @@ import pandas as pd
 
 
 #YEAR = '2021'
-THIS_YEAR = str(date.today().year)
+THIS_YEAR = date.today().year
 for YEAR in range(THIS_YEAR - 1, THIS_YEAR +1):
+    YEAR = str(YEAR)
 
     url = 'https://www.umpd.umd.edu/stats/arrest_report.cfm?year='+YEAR
     response = requests.get(url, headers={'User-Agent': 'Rachel Logan'}) 
