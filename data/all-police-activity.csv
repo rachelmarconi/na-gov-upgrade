@@ -1,4 +1,7 @@
 UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOCATION
+2022-00031043,05/01/22 00:01,05/01/22 00:01,Damage to State Property,CBE,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
+2022-00031044,04/30/22 23:57,05/01/22 00:10,Assault,Arrest,Baltimore  Ave
+2022-00031264,05/01/22 22:45,05/01/22 23:03,CDS Violation,CBE,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
 2022-00022628,04/01/22 16:37,04/01/22 16:57,Harassment/Stalking (Title IX Related),CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2022-00022850,04/02/22 05:57,04/02/22 05:57,DWI/DUI,Arrest,University  Blvd
 2022-00022992,04/02/22 17:00,04/02/22 18:45,Stolen Motor Vehicle,Summons Issued,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
@@ -87,10 +90,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00028462,04/21/22 16:45,04/21/22 16:45,Damaged Property,CBE,"Commons 7, SCC 7, South Campus Commons 7 at 6801  Preinkert  Dr"
 2022-00028486,04/21/22 19:40,04/21/22 19:40,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2022-00028745,04/22/22 17:49,04/22/22 17:49,Injured/Sick Person,CBE,4300 block of  Rowalt  Dr
+2022-00028783,04/22/22 19:45,04/22/22 20:11,Assist Other Agency / Suspicous Person/Auto,Active/Pending,"Clarion Inn, Lidl at 8601  Baltimore  Ave"
 2022-00028798,04/22/22 21:09,04/22/22 21:09,Injured/Sick Person,CBE,4700 block of  College  Ave
 2022-00028832,04/22/22 19:36,04/22/22 23:14,Other Incident,Active/Pending,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2022-00028834,04/22/22 23:32,04/22/22 23:31,Injured/Sick Person,CBE,8600 block of  Boteler  Ln
 2022-00028845,04/23/22 00:13,04/23/22 00:13,Injured/Sick Person,CBE,7300 block of  Baltimore  Ave
+2022-00028846,04/23/22 00:10,04/23/22 00:17,Suspicious Person/Auto,CBE,"Leonardtown, Leonardtown #201, Leonardtown Leonardtown Office Building at 4725  Rossborough  Ln"
 2022-00028858,04/23/22 02:01,04/23/22 02:01,Injured/Sick Person,CBE,"Cornerstone, Cornerstone Grill at 7325  Baltimore  Ave"
 2022-00028861,04/23/22 02:25,04/23/22 02:25,Alcohol Violation,CBE,3800 block of  Stadium  Dr
 2022-00028883,04/23/22 04:17,04/23/22 04:17,Injured/Sick Person,CBE,7500 block of  Calvert Service  Ln
@@ -110,6 +115,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00029515,04/24/22 15:00,04/25/22 12:34,Other Incident,CBE,University Courtyard Clubhouse at 8000  Boteler  Ln
 2022-00029520,04/25/22 02:00,04/25/22 13:02,Extortion,Active/Pending,4300 block of  Knox  Rd
 2022-00029558,04/21/22 15:00,04/25/22 16:18,Theft,Active/Pending,"28, Howard, Howard Hall at 4296  Lehigh  Rd"
+2022-00029607,10/15/21 12:00,04/25/22 20:36,Theft from Auto,Active/Pending,"Seneca Building, UC Center, University Centre at 4716  Pontiac  St"
 2022-00029646,04/25/22 23:00,04/25/22 23:00,Peeping Tom,Active/Pending,4300 block of  Rowalt  Dr
 2022-00029831,04/26/22 13:37,04/26/22 13:37,Accident - Departmental,CBE,"Frat 8, Sigma Phi Epsilon Fraternity at 8  Fraternity  Row"
 2022-00029835,04/26/22 14:25,04/26/22 14:25,Injured/Sick Person,CBE,"81, Wind Tunnel Building at 8167  Paint Branch  Dr"
@@ -125,7 +131,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00030176,04/28/22 00:14,04/28/22 00:16,CDS Violation,Arrest,University  Blvd
 2022-00030282,04/26/22 09:00,04/28/22 08:35,Theft,Active/Pending,"31, Garrett, Garrett Hall at 7570  Calvert Service  Ln"
 2022-00030356,04/28/22 09:00,04/28/22 14:34,Injured/Sick Person,CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
+2022-00030364,04/28/22 14:24,04/28/22 15:09,Injured/Sick Person,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2022-00030402,04/28/22 19:08,04/28/22 19:08,Emergency Petition,CBE,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
+2022-00030475,04/29/22 01:08,04/29/22 01:08,DWI/DUI,Arrest,Baltimore  Ave
 2022-00030482,04/29/22 01:52,04/29/22 01:52,Injured/Sick Person,CBE,4400 block of  Knox  Rd
 2022-00030757,04/29/22 21:18,04/29/22 21:18,Injured/Sick Person,CBE,University Courtyard #6 at 8600  Boteler  Ln
 2022-00030779,04/29/22 22:59,04/29/22 22:59,Injured/Sick Person,CBE,"11, The Hall at 4656  Hotel  Dr"
