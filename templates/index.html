@@ -53,7 +53,7 @@
 							<td>{{ obj['TYPE'] }}</td>
 							<td>{{ obj['DISPOSITION'] }}</td>
 							<td>{{ obj['LOCATION'] }}</td>
-							<td>{% if obj['DISPOSITION'] == 'Arrest' %}<div class= "more-button" data-casedata= {{ obj['UMPD CASENUMBER'] }} onclick = "clickForMore(this.getAttribute('data-casedata'))" >More</div>{% endif %}</td>
+							<td>{% if obj['DISPOSITION'] == 'Arrest' %}<button class= "more-button" data-casedata= {{ obj['UMPD CASENUMBER'] }} onclick = "clickForMore(this,this.getAttribute('data-casedata'))" >More</button>{% endif %}</td>
 						</tr>
 						{% endfor %}
 					</tbody>
@@ -74,7 +74,7 @@
 			} );
 		</script>
 		<script language="JavaScript">
-			function clickForMore(case_number){
+			function clickForMore(btn,case_number){
 			
 				var all_arrests = {{ arrest_list|tojson }}
 				console.log(case_number)
@@ -101,6 +101,12 @@
 					</ul>`
 				
 				document.getElementById("more-stuff").innerHTML = content;
+				
+				for (row of document.getElementsByTagName("tr")){
+					row.style.backgroundColor = "white";
+				}
+				
+				btn.parentElement.parentElement.style.backgroundColor = "yellow";
 			}
 		</script>
     </body>
