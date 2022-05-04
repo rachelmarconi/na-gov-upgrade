@@ -3,10 +3,10 @@ import os
 
 #Add your credentials here
 twitter_keys = {
-        'consumer_key':         os.environ.get('TWEEPY_API_KEY'),
-        'consumer_secret':      os.environ.get('TWEEPY_API_SECRET'),
-        'access_token_key':     os.environ.get('TWEEPY_ACCESS_TOKEN'),
-        'access_token_secret':  os.environ.get('TWEEPY_ACCESS_TOKEN_SECRET')
+        'consumer_key':         os.environ['TWEEPY_API_KEY'],
+        'consumer_secret':      os.environ['TWEEPY_API_SECRET'],
+        'access_token_key':     os.environ['TWEEPY_ACCESS_TOKEN'],
+        'access_token_secret':  os.environ['TWEEPY_ACCESS_TOKEN_SECRET']
         
 
     }
