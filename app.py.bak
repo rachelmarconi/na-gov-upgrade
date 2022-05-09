@@ -32,7 +32,7 @@ def get_activity_csv(arrest_list):
             case_date[1] = '0' + case_date[1]
         if (len(year_time) != 2):
             year_time = year_time + ['00:00']
-        activity['CASE_DATE'] = year_time[0] + '-' + case_date[0] + '-' + case_date[1] + ' ' + year_time[1]
+        activity['CASE_DATE'] = year_time[0] + '-' + case_date[0] + '-' + case_date[1] + year_time[1]
         
         report_date = activity['REPORT DATE TIME'].split('/')
         year_time = report_date[2].split()
@@ -44,7 +44,7 @@ def get_activity_csv(arrest_list):
             report_date[0] = '0' + report_date[0]
         if (len(report_date[1]) == 1):
             report_date[1] = '0' + report_date[1]
-        activity['REPORT_DATE'] = year_time[0] + '-' + report_date[0] + '-' + report_date[1] + ' ' + year_time[1]
+        activity['REPORT_DATE'] = year_time[0] + '-' + report_date[0] + '-' + report_date[1] + year_time[1]
     return csv_list
 
 @app.route("/")

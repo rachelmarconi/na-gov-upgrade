@@ -9,6 +9,9 @@
 		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.4/css/jquery.dataTables.css">
 		<script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.5.1.js"></script>
 		<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.4/js/jquery.dataTables.js"></script>
+		<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/plug-ins/1.11.5/dataRender/datetime.js"></script>
+		<script type="text/javascript" charset="utf8" src="../static/moment.min.js"></script>
+		
 		<!--script type="text/javascript" charset="utf8" src="../static/script.js"></script-->
 		
 		
@@ -69,8 +72,13 @@
 		<script>
 			$(document).ready( function () {
 				$('#crime-table').DataTable({
-					"order": [[2,"desc"]]
-					});
+					"order": [[2,"desc"]],
+					columnDefs: [ {
+					    targets: [1,2],
+					    render: $.fn.dataTable.render.moment( 'YYYY-MM-DD H:mm','MMM D, YYYY, h:mma' )
+					} ]
+				});
+				
 			} );
 		</script>
 		<script language="JavaScript">
@@ -103,10 +111,10 @@
 				document.getElementById("more-stuff").innerHTML = content;
 				
 				for (row of document.getElementsByTagName("tr")){
-					row.style.backgroundColor = white;
+					row.style.backgroundColor = "white";
 				}
 				
-				btn.parentElement.parentElement.style.backgroundColor = yellow;
+				btn.parentElement.parentElement.style.backgroundColor = "yellow";
 			}
 		</script>
     </body>

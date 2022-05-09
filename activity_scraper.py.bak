@@ -73,16 +73,22 @@ else:
     pd_all_data.to_csv(path, index = False, index_label = False, header = False)
     
     open_cases = pd.DataFrame(everything.loc[everything[4] != "CBE"])
-    print("open cases\n",open_cases)
+    #print("open cases\n",open_cases)
     case_filter = open_cases.duplicated(subset = 0, keep = 'last')
     rescrape_only_filter = open_cases.duplicated(keep = 'last')
     update_filter = [ (tup[0] and not tup[1]) for tup in zip(case_filter,rescrape_only_filter)]
     #[case_filter[i] and not(rescrape_only_filter[i]) for i in range(len(case_filter))]
-    print("update_filter\n",update_filter)
+    #print("update_filter\n",update_filter)
+    
+    new_cases = everything.loc[not everything.duplicated(subset = 0, keep = 'last')]
+    if len(new_cases) > 0:
+        new_cases.to_csv('./data/new_cases.csv', mode = 'w+',index = False, index_label = False, header = False)
+    else:
+        pd.DataFrame(header_row).to_csv('./data/updated-activities.csv', mode = 'w+',index = False, index_label = False, header = False)
     
     
     dupes = open_cases.loc[update_filter]
-    print("dupes\n",dupes)
+    #print("dupes\n",dupes)
     #open_cases & open_cases.duplicated(subset = 0, keep = 'first')
     
     if len(dupes) > 0:

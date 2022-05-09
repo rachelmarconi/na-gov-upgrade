@@ -80,6 +80,12 @@ else:
     #[case_filter[i] and not(rescrape_only_filter[i]) for i in range(len(case_filter))]
     #print("update_filter\n",update_filter)
     
+    new_cases = everything.loc[everything.duplicated(subset = 0, keep = 'last') == False]
+    if len(new_cases) > 0:
+        new_cases.to_csv('./data/new_cases.csv', mode = 'w+',index = False, index_label = False, header = False)
+    else:
+        pd.DataFrame(header_row).to_csv('./data/updated-activities.csv', mode = 'w+',index = False, index_label = False, header = False)
+    
     
     dupes = open_cases.loc[update_filter]
     #print("dupes\n",dupes)
