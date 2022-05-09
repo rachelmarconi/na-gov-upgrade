@@ -73,27 +73,36 @@ else:
     pd_all_data.to_csv(path, index = False, index_label = False, header = False)
     
     open_cases = pd.DataFrame(everything.loc[everything[4] != "CBE"])
-    #print("open cases\n",open_cases)
+    print("open cases\n",open_cases)
     case_filter = open_cases.duplicated(subset = 0, keep = 'last')
     rescrape_only_filter = open_cases.duplicated(keep = 'last')
     update_filter = [ (tup[0] and not tup[1]) for tup in zip(case_filter,rescrape_only_filter)]
     #[case_filter[i] and not(rescrape_only_filter[i]) for i in range(len(case_filter))]
-    #print("update_filter\n",update_filter)
+    print("update_filter\n",update_filter)
     
-    new_cases = everything.loc[everything.duplicated(subset = 0, keep = 'last') == False]
-    if len(new_cases) > 0:
-        new_cases.to_csv('./data/new_cases.csv', mode = 'w+',index = False, index_label = False, header = False)
+    
+    new_all_data = everything.loc[everything.duplicated(subset = 0, keep = False) == False]
+    new_now_data = []
+    for row in new_all_data.itertuples():
+        year = row[2].split('/')[2].split()[0]
+        if len(year)== 4 and int(year) >= (THIS_YEAR - 1):
+            new_now_data += row
+        if len(year)== 2 and int(year) >= (THIS_YEAR - 2001):
+            new_now_data += row
+    
+    if len(new_now_data) > 0:
+        pd.DataFrame(new_now_data).to_csv('./data/new_cases.csv', mode = 'w+',index = False, index_label = False, header = False)
     else:
-        pd.DataFrame(header_row).to_csv('./data/updated-activities.csv', mode = 'w+',index = False, index_label = False, header = False)
+        pd.DataFrame().to_csv('./data/new_cases.csv', mode = 'w+',index = False, index_label = False, header = False)
+    print("new cases: ",new_now_data)
     
-    
-    dupes = open_cases.loc[update_filter]
-    #print("dupes\n",dupes)
+    dupes = pd.DataFrame(open_cases).loc[update_filter]
+    print("dupes\n",dupes)
     #open_cases & open_cases.duplicated(subset = 0, keep = 'first')
     
     if len(dupes) > 0:
         dupe_path = ('./data/updated-activities.csv')
         dupes.to_csv(dupe_path, index = False, index_label = False, header = False)
     else:
-        pd.DataFrame(header_row).to_csv('./data/updated-activities.csv', mode = 'w+',index = False, index_label = False, header = False)
+        pd.DataFrame().to_csv('./data/updated-activities.csv', mode = 'w+',index = False, index_label = False, header = False)
     
