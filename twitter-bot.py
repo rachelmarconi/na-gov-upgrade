@@ -41,5 +41,9 @@ if len(new_data) > 0:
 
     text = "Hello world! This is yet another automated tweet!"
     print(text)
+else:
+    text = "There is no new UMPD activity from yesterday."
+    response = client.create_tweet( text = text )
+    print(response)
 
 
