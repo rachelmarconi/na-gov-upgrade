@@ -1751,7 +1751,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00029515,04/24/22 15:00,04/25/22 12:34,Other Incident,CBE,University Courtyard Clubhouse at 8000  Boteler  Ln
 2022-00029520,04/25/22 02:00,04/25/22 13:02,Extortion,Active/Pending,4300 block of  Knox  Rd
 2022-00029558,04/21/22 15:00,04/25/22 16:18,Theft,Active/Pending,"28, Howard, Howard Hall at 4296  Lehigh  Rd"
+2022-00029565,04/25/22 17:06,04/25/22 17:06,CDS Violation,Arrest,7200 block of  Baltimore  Ave
 2022-00029607,10/15/21 12:00,04/25/22 20:36,Theft from Auto,Investigation Pending,"Seneca Building, UC Center, University Centre at 4716  Pontiac  St"
+2022-00029630,04/25/22 13:00,04/25/22 22:14,Check on the  Welfare,CBE,"Frat 8, Sigma Phi Epsilon Fraternity at 8  Fraternity  Row"
 2022-00029646,04/25/22 23:00,04/25/22 23:00,Peeping Tom,Active/Pending,4300 block of  Rowalt  Dr
 2022-00029831,04/26/22 13:37,04/26/22 13:37,Accident - Departmental,CBE,"Frat 8, Sigma Phi Epsilon Fraternity at 8  Fraternity  Row"
 2022-00029835,04/26/22 14:25,04/26/22 14:25,Injured/Sick Person,CBE,"81, Wind Tunnel Building at 8167  Paint Branch  Dr"
@@ -1780,7 +1782,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00031044,04/30/22 23:57,05/01/22 00:10,Assault,Arrest,Baltimore  Ave
 2022-00031206,05/01/22 16:25,05/01/22 16:33,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00031264,05/01/22 22:45,05/01/22 23:03,CDS Violation,CBE,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
+2022-00031444,04/27/22 14:20,05/02/22 12:24,Suspicious Activity,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2022-00031521,05/02/22 16:10,05/02/22 16:38,Theft,Active/Pending,McKeldin Mall
+2022-00031613,05/02/22 23:19,05/02/22 23:19,DWI/DUI,Arrest,Baltimore  Ave
 2022-00031658,05/02/22 19:30,05/03/22 02:15,Injured Officer,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00031908,05/03/22 21:30,05/03/22 22:16,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00031925,05/03/22 23:00,05/03/22 23:30,Assist Other Agency / Indecent Exposure,Active/Pending,4300 block of  Knox  Rd
@@ -1791,9 +1795,17 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00032343,05/05/22 06:41,05/05/22 07:26,Check on the  Welfare,CBE,4200 block of  Valley  Dr
 2022-00032391,05/05/22 13:09,05/05/22 13:23,Other Incident,CBE,Geology Building at 8000  Regents  Dr
 2022-00032410,02/24/22 09:00,05/05/22 15:39,Lost Property,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
+2022-00032509,05/06/22 00:29,05/06/22 00:29,DWI/DUI,Arrest,Baltimore  Ave
+2022-00032550,05/06/22 02:57,05/06/22 02:57,DWI/DUI,Arrest,University  Blvd
+2022-00032555,05/06/22 03:35,05/06/22 03:35,Assist Other Agency / Weapon Violation,CBE,7400 block of  Baltimore  Ave
 2022-00032575,05/05/22 16:00,05/06/22 07:40,Vandalism,Active/Pending,"79, Dairy, Turner Hall, Visitor Center at 7736  Baltimore  Ave"
 2022-00032684,05/05/22 20:00,05/06/22 16:06,Theft,Active/Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
+2022-00032690,07/01/21 08:00,05/06/22 16:22,Burglary,Investigation Pending,Adelphi Road Office Annex at 8765  Adelphi  Rd
 2022-00032892,05/07/22 02:41,05/07/22 02:41,Injured/Sick Person,CBE,McKeldin Mall
+2022-00033057,05/07/22 21:56,05/07/22 21:56,Injured/Sick Person,CBE,"Riggs, Riggs Alumni, Riggs Alumni Center at 7801  Alumni  Dr"
+2022-00033103,05/08/22 00:23,05/08/22 00:27,Injured/Sick Person,CBE,Lot R3
+2022-00033143,04/08/22 03:00,05/08/22 04:11,Suspicious Activity,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
+2022-00033172,05/08/22 09:23,05/08/22 11:09,Damage to State Property,Active/Pending,7600 block of  Mowatt  Ln
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
