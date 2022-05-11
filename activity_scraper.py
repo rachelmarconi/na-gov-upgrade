@@ -78,23 +78,25 @@ else:
     rescrape_only_filter = open_cases.duplicated(keep = 'last')
     update_filter = [ (tup[0] and not tup[1]) for tup in zip(case_filter,rescrape_only_filter)]
     #[case_filter[i] and not(rescrape_only_filter[i]) for i in range(len(case_filter))]
-    print("update_filter\n",update_filter)
+    #print("update_filter\n",update_filter)
     
     
     new_all_data = everything.loc[everything.duplicated(subset = 0, keep = False) == False]
-    new_now_data = pd.DataFrame()
+    new_now_list = []
     for row in new_all_data.itertuples():
+        row = row[1:]
         year = row[2].split('/')[2].split()[0]
-        if len(year)== 4 and int(year) >= (THIS_YEAR - 1):
-            new_now_data.append( row , ignore_index = False)
-        elif len(year)== 2 and int(year) >= (THIS_YEAR - 2001):
-            new_now_data.append( row , ignore_index = False)
+        if (len(year)== 4 and int(year) >= (THIS_YEAR - 1)) or (len(year)== 2 and int(year) >= (THIS_YEAR - 2001)):
+            new_now_list.append(row)
+            
+    new_now_data = pd.DataFrame(new_now_list)
+    print("new cases: ",new_now_data)
+
     
     if len(new_now_data) > 0:
         new_now_data.to_csv('./data/new_cases.csv', index = False, header = False)
     else:
         pd.DataFrame().to_csv('./data/new_cases.csv',index = False, header = False)
-    print("new cases: ",new_now_data)
     
     dupes = pd.DataFrame(open_cases).loc[update_filter]
     print("dupes\n",dupes)
