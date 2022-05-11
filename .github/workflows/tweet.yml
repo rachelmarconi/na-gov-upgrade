@@ -22,7 +22,7 @@ jobs:
       - uses: actions/checkout@v2
       
       - name: grab python dependencies
-        run: python -m pip install tweepy
+        run: python -m pip install tweepy pandas
       
       # Runs a single command using the runners shell
       - name: Run tweeting script
