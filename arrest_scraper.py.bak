@@ -15,7 +15,7 @@ first = True
 #YEAR = '2021'
 THIS_YEAR = date.today().year
 
-for YEAR in range(THIS_YEAR - 1, THIS_YEAR +1):
+for YEAR in range(THIS_YEAR - 7, THIS_YEAR +1):
     YEAR = str(YEAR)
     print(YEAR)
 

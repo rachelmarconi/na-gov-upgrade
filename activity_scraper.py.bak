@@ -94,7 +94,7 @@ else:
 
     
     if len(new_now_data) > 0:
-        new_now_data.to_csv('./data/new_cases.csv', index = False, header = False)
+        new_now_data.to_csv('./data/new_cases.csv', index = False, header = False, sep = ";")
     else:
         pd.DataFrame().to_csv('./data/new_cases.csv',index = False, header = False)
     
@@ -106,5 +106,5 @@ else:
         dupe_path = ('./data/updated-activities.csv')
         dupes.to_csv(dupe_path, index = False, header = False)
     else:
-        pd.DataFrame().to_csv('./data/updated-activities.csv',index = False, header = False)
+        pd.DataFrame().to_csv('./data/updated-activities.csv',index = False, header = False, sep = ";")
     

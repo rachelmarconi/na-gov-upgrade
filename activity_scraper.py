@@ -9,7 +9,6 @@ import pandas as pd
 
 row_list = []
 cell_list = []
-header_row = []
 
 THIS_MONTH = str(date.today().month)
 THIS_YEAR = date.today().year
@@ -29,7 +28,6 @@ for YEAR in range(THIS_YEAR -1,THIS_YEAR +1):
 
         soup = BeautifulSoup(html, features="html.parser")
         #print(soup.prettify())
-        #print(soup.find('table').find_all('tr'))
 
         table = soup.find('table').find_all('tr')
 
@@ -37,8 +35,6 @@ for YEAR in range(THIS_YEAR -1,THIS_YEAR +1):
             #print(table[row_index],'\n')
             if (first): 
                 first = False
-                #there is the issue of removing <br> leaves no space-- 
-                #could replace <br> with ' ' before pulling text, but not as clean
                 header_row = [cell.text.strip() for cell in table[0].find_all('th')]
                 header_row.append('LOCATION')
                 #print(header_row)
@@ -48,9 +44,6 @@ for YEAR in range(THIS_YEAR -1,THIS_YEAR +1):
             elif row_index:
                 cell_list.append(table[row_index].find('td').text.strip())
                 row_list.append(cell_list)
-                # for cell in cell_list: 
-                # 	print(cell,'\n')
-                # print('-----------')
                 cell_list = []
                 
         #should split data and time for report and incident
@@ -86,7 +79,7 @@ else:
     for row in new_all_data.itertuples():
         row = row[1:]
         year = row[2].split('/')[2].split()[0]
-        if (len(year)== 4 and int(year) >= (THIS_YEAR - 1)) or (len(year)== 2 and int(year) >= (THIS_YEAR - 2001)):
+        if (len(year)== 4 and int(year) >= (THIS_YEAR - 2)) or (len(year)== 2 and int(year) >= (THIS_YEAR - 2002)):
             new_now_list.append(row)
             
     new_now_data = pd.DataFrame(new_now_list)
@@ -94,7 +87,7 @@ else:
 
     
     if len(new_now_data) > 0:
-        new_now_data.to_csv('./data/new_cases.csv', index = False, header = False)
+        new_now_data.to_csv('./data/new_cases.csv', index = False, header = False, sep = ";")
     else:
         pd.DataFrame().to_csv('./data/new_cases.csv',index = False, header = False)
     
@@ -106,5 +99,5 @@ else:
         dupe_path = ('./data/updated-activities.csv')
         dupes.to_csv(dupe_path, index = False, header = False)
     else:
-        pd.DataFrame().to_csv('./data/updated-activities.csv',index = False, header = False)
+        pd.DataFrame().to_csv('./data/updated-activities.csv',index = False, header = False, sep = ";")
     

@@ -14,42 +14,87 @@ client = tweepy.Client(consumer_key =  c_key,
                         access_token_secret = token_secret)
 
 try:
-    new_data = pd.read_csv('./data/new_cases.csv')
+    new_data = pd.read_csv('./data/new_cases.csv', sep = ';')
 except pd.errors.EmptyDataError:
     new_data = pd.DataFrame()
-
-
-#new_data = pd.DataFrame([['2021-00000011', '1/1/2021 1:16', '1/1/2021 1:16', 'Emergency Petition', 'CBE', 'Baltimore Ave / College Ave']])
-#print(new_data)
+    
+arrest_data = pd.read_csv('./data/all-police-arrests.csv')
 
 try:
-    updated_data = pd.read_csv('./data/updated-activities.csv')
+    updated_data = pd.read_csv('./data/updated-activities.csv', sep =";")
 except pd.errors.EmptyDataError:
     updated_data = pd.DataFrame()
 
 #columns = [UMPD CASENUMBER,	OCCURRED DATE TIMELOCATION,	REPORT DATE TIME,	TYPE,	DISPOSITION,	LOCATION]
 
 tweet_id = None
+print(len(arrest_data))
 
 if len(new_data) > 0:
     total = 0
     for row in new_data.itertuples():
-        occur_date = datetime.strptime(row[2], "%m/%d/%Y %H:%M")
-        report_date = datetime.strptime(row[3], "%m/%d/%Y %H:%M")
-        text = row[4] + " reportedly occurred at " + row[6] + " on " + occur_date.strftime("%b %d, %Y") + ", and is currently "+ row[5]+ ". It was reported on " + report_date.strftime("%b %d, %Y")+ "."
-        print(text)
-        if tweet_id == None:
-            response = client.create_tweet( text = text)
-            print(response)
+    
+        disposition = row[5]
+        if disposition == "CBE":
+            disposition = "closed"
+            
+        spot = ""
+        if str(row[6]) != "nan" and ',' in row[6]:
+            for item in row[6].split(','):
+                if len(item) > len(spot):
+                    spot = item.strip()
         else:
-            response = client.create_tweet( text = text, quote_tweet_id = tweet_id)
-        tweet_id = response.id
+            spot = row[6]
+            if str(spot) == "nan":
+                spot = "somewhere"
+        
+        occur_date = ""
+        try:
+            occur_date = datetime.strptime(row[2], "%m/%d/%Y %H:%M")
+        except: 
+            occur_date = datetime.strptime(row[2], "%m/%d/%Y")
+            
+        report_date = ""
+        try:
+            report_date = datetime.strptime(row[2], "%m/%d/%Y %H:%M")
+        except: 
+            report_date = datetime.strptime(row[2], "%m/%d/%Y")
+        
+        text = "On " + occur_date.strftime("%b %d, %Y") + ", "+ row[4] + " was reported at " + spot + ". The case, now labeled "+ disposition+ ", was reported on " + report_date.strftime("%b %d, %Y")+ "."
+        
+        if disposition == "Arrest":
+            arrest = []
+            for arrest_item in arrest_data.itertuples(): 
+                if str(arrest_item[3]) == str(row[1]):
+                    arrest = arrest_item
+                    break
+                    
+            if len(arrest) != 0:
+                charges = arrest[7].split(';')
+                text += "\nA "
+                if str(arrest[4]) != "nan":
+                    text += str(arrest[4]) + "-year-old "
+                if str(arrest[5]) != "nan":
+                    text += arrest[5]
+                if str(arrest[6]) != "nan":
+                    text += " " + arrest[6]
+                else:
+                    text += "person"
+                text += " was arrested on these charges: " 
+                for charge in charges:
+                    text += charge + ".\n"
+        
+        print(text)
+        # if tweet_id == None:
+            # response = client.create_tweet( text = text)
+            # print(response)
+        # else:
+            # response = client.create_tweet( text = text, quote_tweet_id = tweet_id)
+        # tweet_id = response.id
 
-    text = "Hello world! This is yet another automated tweet!"
-    print(text)
-else:
-    text = "There is no new UMPD activity from yesterday."
-    response = client.create_tweet( text = text )
-    print(response)
+# else:
+    # text = "There is no new UMPD activity from yesterday."
+    # response = client.create_tweet( text = text )
+    # print(response)
 
 
