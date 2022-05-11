@@ -82,18 +82,18 @@ else:
     
     
     new_all_data = everything.loc[everything.duplicated(subset = 0, keep = False) == False]
-    new_now_data = []
+    new_now_data = pd.DataFrame()
     for row in new_all_data.itertuples():
         year = row[2].split('/')[2].split()[0]
         if len(year)== 4 and int(year) >= (THIS_YEAR - 1):
-            new_now_data += row
-        if len(year)== 2 and int(year) >= (THIS_YEAR - 2001):
-            new_now_data += row
+            new_now_data.append( row , ignore_index = False)
+        elif len(year)== 2 and int(year) >= (THIS_YEAR - 2001):
+            new_now_data.append( row , ignore_index = False)
     
     if len(new_now_data) > 0:
-        pd.DataFrame(new_now_data).to_csv('./data/new_cases.csv', mode = 'w+',index = False, index_label = False, header = False)
+        new_now_data.to_csv('./data/new_cases.csv', index = False, header = False)
     else:
-        pd.DataFrame().to_csv('./data/new_cases.csv', mode = 'w+',index = False, index_label = False, header = False)
+        pd.DataFrame().to_csv('./data/new_cases.csv',index = False, header = False)
     print("new cases: ",new_now_data)
     
     dupes = pd.DataFrame(open_cases).loc[update_filter]
@@ -102,7 +102,7 @@ else:
     
     if len(dupes) > 0:
         dupe_path = ('./data/updated-activities.csv')
-        dupes.to_csv(dupe_path, index = False, index_label = False, header = False)
+        dupes.to_csv(dupe_path, index = False, header = False)
     else:
-        pd.DataFrame().to_csv('./data/updated-activities.csv', mode = 'w+',index = False, index_label = False, header = False)
+        pd.DataFrame().to_csv('./data/updated-activities.csv',index = False, header = False)
     

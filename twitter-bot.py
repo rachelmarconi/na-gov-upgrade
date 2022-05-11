@@ -29,6 +29,8 @@ except pd.errors.EmptyDataError:
 
 #columns = [UMPD CASENUMBER,	OCCURRED DATE TIMELOCATION,	REPORT DATE TIME,	TYPE,	DISPOSITION,	LOCATION]
 
+tweet_id = None
+
 if len(new_data) > 0:
     total = 0
     for row in new_data.itertuples():
@@ -36,11 +38,13 @@ if len(new_data) > 0:
         report_date = datetime.strptime(row[3], "%m/%d/%Y %H:%M")
         text = row[4] + " reportedly occurred at " + row[6] + " on " + occur_date.strftime("%b %d, %Y") + ", and is currently "+ row[5]+ ". It was reported on " + report_date.strftime("%b %d, %Y")+ "."
         print(text)
-        response = client.create_tweet( text = text )
-        print(response)
+        if tweet_id == None:
+            response = client.create_tweet( text = text)
+            print(response)
+        else:
+            response = client.create_tweet( text = text, quote_tweet_id = tweet_id)
+        tweet_id = response.id
 
-    text = "Hello world! This is yet another automated tweet!"
-    print(text)
 else:
     text = "There is no new UMPD activity from yesterday."
     response = client.create_tweet( text = text )
