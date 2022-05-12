@@ -28,7 +28,6 @@ except pd.errors.EmptyDataError:
 #columns = [UMPD CASENUMBER,	OCCURRED DATE TIMELOCATION,	REPORT DATE TIME,	TYPE,	DISPOSITION,	LOCATION]
 
 tweet_id = None
-print(len(arrest_data))
 
 if len(new_data) > 0:
     total = 0
@@ -103,16 +102,23 @@ if len(new_data) > 0:
                     text += charge + ".\n"
         
         print(text)
-        # if tweet_id == None:
-            # response = client.create_tweet( text = text)
-            # print(response)
-        # else:
-            # response = client.create_tweet( text = text, quote_tweet_id = tweet_id)
-        # tweet_id = response.id
+        if tweet_id == None:
+            try:
+                response = client.create_tweet( text = text)
+                tweet_id = response.id
+            except:
+                print(response)
+        else:
+            try:
+                response = client.create_tweet( text = text, quote_tweet_id = tweet_id)
+                tweet_id = response.id
+            except: 
+                print(response)
+        
 
-# else:
-    # text = "There is no new UMPD activity from yesterday."
-    # response = client.create_tweet( text = text )
-    # print(response)
+else:
+    text = "There is no new UMPD activity from yesterday."
+    response = client.create_tweet( text = text )
+    print(response)
 
 

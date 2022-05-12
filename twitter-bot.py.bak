@@ -52,13 +52,31 @@ if len(new_data) > 0:
         try:
             occur_date = datetime.strptime(row[2], "%m/%d/%Y %H:%M")
         except: 
-            occur_date = datetime.strptime(row[2], "%m/%d/%Y")
+            try:
+                occur_date = datetime.strptime(row[2], "%m/%d/%y %H:%M")
+            except:
+                try:
+                    occur_date = datetime.strptime(row[2], "%m/%d/%Y")
+                except:
+                    try: 
+                        occur_date = datetime.strptime(row[2], "%m/%d/%y")
+                    except:
+                        occur_date = "unknown time"
             
         report_date = ""
         try:
-            report_date = datetime.strptime(row[2], "%m/%d/%Y %H:%M")
+            report_date = datetime.strptime(row[3], "%m/%d/%Y %H:%M")
         except: 
-            report_date = datetime.strptime(row[2], "%m/%d/%Y")
+            try:
+                report_date = datetime.strptime(row[3], "%m/%d/%y %H:%M")
+            except:
+                try:
+                    report_date = datetime.strptime(row[3], "%m/%d/%Y")
+                except:
+                    try: 
+                        report_date = datetime.strptime(row[3], "%m/%d/%y")
+                    except:
+                        report_date = "unknown time"
         
         text = "On " + occur_date.strftime("%b %d, %Y") + ", "+ row[4] + " was reported at " + spot + ". The case, now labeled "+ disposition+ ", was reported on " + report_date.strftime("%b %d, %Y")+ "."
         
@@ -85,16 +103,23 @@ if len(new_data) > 0:
                     text += charge + ".\n"
         
         print(text)
-        # if tweet_id == None:
-            # response = client.create_tweet( text = text)
-            # print(response)
-        # else:
-            # response = client.create_tweet( text = text, quote_tweet_id = tweet_id)
-        # tweet_id = response.id
+        if tweet_id == None:
+            try:
+                response = client.create_tweet( text = text)
+                tweet_id = response.id
+            except:
+                print(response)
+        else:
+            try:
+                response = client.create_tweet( text = text, quote_tweet_id = tweet_id)
+                tweet_id = response.id
+            except: 
+                print(response)
+        
 
-# else:
-    # text = "There is no new UMPD activity from yesterday."
-    # response = client.create_tweet( text = text )
-    # print(response)
+else:
+    text = "There is no new UMPD activity from yesterday."
+    response = client.create_tweet( text = text )
+    print(response)
 
 
