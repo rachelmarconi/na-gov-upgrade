@@ -79,7 +79,7 @@ else:
     for row in new_all_data.itertuples():
         row = row[1:]
         year = row[2].split('/')[2].split()[0]
-        if (len(year)== 4 and int(year) >= (THIS_YEAR - 2)) or (len(year)== 2 and int(year) >= (THIS_YEAR - 2002)):
+        if (len(year)== 4 and int(year) >= (THIS_YEAR - 1)) or (len(year)== 2 and int(year) >= (THIS_YEAR - 2001)):
             new_now_list.append(row)
             
     new_now_data = pd.DataFrame(new_now_list)
