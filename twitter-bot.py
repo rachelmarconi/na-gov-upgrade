@@ -52,13 +52,31 @@ if len(new_data) > 0:
         try:
             occur_date = datetime.strptime(row[2], "%m/%d/%Y %H:%M")
         except: 
-            occur_date = datetime.strptime(row[2], "%m/%d/%Y")
+            try:
+                occur_date = datetime.strptime(row[2], "%m/%d/%y %H:%M")
+            except:
+                try:
+                    occur_date = datetime.strptime(row[2], "%m/%d/%Y")
+                except:
+                    try: 
+                        occur_date = datetime.strptime(row[2], "%m/%d/%y")
+                    except:
+                        occur_date = "unknown time"
             
         report_date = ""
         try:
-            report_date = datetime.strptime(row[2], "%m/%d/%Y %H:%M")
+            report_date = datetime.strptime(row[3], "%m/%d/%Y %H:%M")
         except: 
-            report_date = datetime.strptime(row[2], "%m/%d/%Y")
+            try:
+                report_date = datetime.strptime(row[3], "%m/%d/%y %H:%M")
+            except:
+                try:
+                    report_date = datetime.strptime(row[3], "%m/%d/%Y")
+                except:
+                    try: 
+                        report_date = datetime.strptime(row[3], "%m/%d/%y")
+                    except:
+                        report_date = "unknown time"
         
         text = "On " + occur_date.strftime("%b %d, %Y") + ", "+ row[4] + " was reported at " + spot + ". The case, now labeled "+ disposition+ ", was reported on " + report_date.strftime("%b %d, %Y")+ "."
         

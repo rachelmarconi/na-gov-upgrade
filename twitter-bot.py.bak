@@ -46,7 +46,7 @@ if len(new_data) > 0:
         else:
             spot = row[6]
             if str(spot) == "nan":
-                spot = "somewhere"
+                spot = "in an undisclosed location"
         
         occur_date = ""
         try:
