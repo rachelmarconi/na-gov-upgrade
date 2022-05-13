@@ -430,6 +430,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23422,05/05/22 00:45,2022-00032250,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 23425,05/06/22 00:51,2022-00032509,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol"
 23424,05/06/22 03:16,2022-00032550,,Black,Male,Suspicion/No Charges
+,,,,,,
 19959,01/01/15 02:46,2015-00000013,,,,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 19961,01/01/15 20:41,2015-00000101,26,Black,Male,"CDS: Possess Paraphernalia; CDS: Possession of Marijuana; CDS:Poss w/Intent to Distribute; Marijuana (Do not use for Narcotics: Crack, Cocaine, LSD or PCP)"
 19963,01/02/15 20:40,2015-00000279,,White,Male,"Person driving motor veh. on (hwy., public use property) on suspended lic. and privilege"
@@ -906,7 +907,6 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 20536,12/30/15 20:26,2015-00058847,19,Black,Female,CDS:Possession Marijuana L/T 10 grams
 20537,12/31/15 00:26,2015-00058915,25,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 20538,12/31/15 03:15,2015-00058933,22,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
-,,,,,,
 20542,01/01/16 00:34,2016-00000005,22,Black,Male,"(Driving, Attempting to drive) veh. while impaired by controlled dangerous substance; (Driving, attempting to drive) veh. while impaired by drug(s) or drug(s) and alcohol"
 20543,01/01/16 03:14,2016-00000048,22,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 20541,01/01/16 03:30,2016-00000050,24,Black,Male,"Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
