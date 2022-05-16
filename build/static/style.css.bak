@@ -10,37 +10,17 @@ body{
 	margin-top: 20px;
 	padding: 0px 10%;
 }
-nav {
-    background-color: #333132;
-    width: 100%;
-    height: 50px;
-}
-nav img {
-    height: 34px;
-    padding: 8px;
-}
 #top-header{
-	background-color: maroon;
+	width: 100%;
+	background-color: #333132;
 }
-.header {
+#header {
     padding: 25px 10px 15px 10px;
     font-family: Times, Times New Roman, serif;
 	font-size: 44px;
     line-height: 50px;
 	color: white;
 	text-align: center;
-}
-h1 {
-    font-weight: bold;
-    font-style: italic;
-    text-shadow: 0.3px 0.3px 0px gray;
-    letter-spacing: .01em;
-}
-.subheader {
-	margin: 0;
-    padding: 0;
-    font-size: 20px;
-    line-height: 26px;
 }
 .byline {
     margin: 20px 0px;
@@ -59,20 +39,19 @@ h1 {
 	flex-direction: row;
 }
 
-#crime-table{
+#mainbar{
 	flex: 0 1 auto;
 }
 #sidebar{
 	flex: 0 1 auto;
 	padding: 10px;
-	padding-top: 40px;
+	padding-bottom: 40px;
 	height: 100%;
 }
 #more-stuff{
 	border: solid black 1px;
 	height: 100%;
 	padding: 10px;
-	margin-top: 30px;
 }
 .more-button{
 	
@@ -104,21 +83,7 @@ a:hover {
     text-decoration: none;
 	color: maroon;
 }
-@media (max-width: 979px) {
-    tr th:nth-of-type(n+5),
-    tr td:nth-of-type(n+5) {
-        display:none;
-    }
-	#table-stuff{
-		flex-direction: column;
-	}
-	#crime-table{
-		order: 99;
-	}
-	#container{
-		padding: 5px;
-	}
-}
+
 footer{
 	margin-top: 20px;
 	padding: 10px;
@@ -129,9 +94,51 @@ footer{
 	text-align: center;
 	color: white;
 }
-@media (max-width: 420px) {
-    tr th:nth-of-type(n+4),
-    tr td:nth-of-type(n+4) {
+
+@media (max-width: 979px) {
+    tr th:nth-of-type(n),
+    tr td:nth-of-type(n) {
         display:none;
     }
+	tr th:nth-of-type(n+5),
+	tr td:nth-of-type(n+5) {
+        display:table-cell;
+    }
+	tr th:nth-of-type(2n),
+	tr td:nth-of-type(2n) {
+        display:table-cell;
+    }
+	#table-stuff{
+		flex-direction: column;
+	}
+	#mainbar{
+		order: 99;
+	}
+	#container{
+		padding: 5px;
+	}
+}
+
+@media (max-width: 420px) {
+    tr th:nth-of-type(n),
+    tr td:nth-of-type(n) {
+        display:none;
+    }
+	tr th:nth-of-type(2n),
+	tr td:nth-of-type(2n) {
+        display:table-cell;
+    }
+	tr th:nth-of-type(n+7),
+	tr td:nth-of-type(n+7) {
+        display:table-cell;
+    }
+	#table-stuff{
+		flex-direction: column;
+	}
+	#mainbar{
+		order: 99;
+	}
+	#container{
+		padding: 5px;
+	}
 }
