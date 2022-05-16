@@ -96,10 +96,26 @@ a:hover {
     text-decoration: none;
 	color: maroon;
 }
+
+footer{
+	margin-top: 20px;
+	padding: 10px;
+	background-color: maroon;
+}
+#footer-text{
+	margin: 0 auto;
+	text-align: center;
+	color: white;
+}
+
 @media (max-width: 979px) {
-    tr th:nth-of-type(n+5),
-    tr td:nth-of-type(n+5) {
+    tr th:nth-of-type(2n+1),
+    tr td:nth-of-type(2n+1) {
         display:none;
+    }
+	tr th:nth-of-type(0n+7),
+	tr td:nth-of-type(0n+7) {
+        display:table-cell;
     }
 	#table-stuff{
 		flex-direction: column;
@@ -111,19 +127,14 @@ a:hover {
 		padding: 5px;
 	}
 }
-footer{
-	margin-top: 20px;
-	padding: 10px;
-	background-color: maroon;
-}
-#footer-text{
-	margin: 0 auto;
-	text-align: center;
-	color: white;
-}
+
 @media (max-width: 420px) {
-    tr th:nth-of-type(n+4),
-    tr td:nth-of-type(n+4) {
+    tr th:nth-of-type(2n+1),
+    tr td:nth-of-type(2n+1) {
         display:none;
+    }
+	tr th:nth-of-type(0n+7),
+	tr td:nth-of-type(0n+7) {
+        display:table-cell;
     }
 }
