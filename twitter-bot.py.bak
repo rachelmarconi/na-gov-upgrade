@@ -28,7 +28,6 @@ except pd.errors.EmptyDataError:
 #columns = [UMPD CASENUMBER,	OCCURRED DATE TIMELOCATION,	REPORT DATE TIME,	TYPE,	DISPOSITION,	LOCATION]
 
 tweet_id = None
-print(len(arrest_data))
 
 if len(new_data) > 0:
     total = 0

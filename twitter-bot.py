@@ -105,15 +105,17 @@ if len(new_data) > 0:
         if tweet_id == None:
             try:
                 response = client.create_tweet( text = text)
-                tweet_id = response.id
+                tweet_id = response.data.id
+                print("success. id: ",tweet_id,". response: ",response.data)
             except:
-                print(response)
+                print("failed: ",response)
         else:
             try:
-                response = client.create_tweet( text = text, quote_tweet_id = tweet_id)
-                tweet_id = response.id
+                response = client.create_tweet( text = text, in_reply_to_tweet_id = tweet_id)
+                tweet_id = response.data.id
+                print("success. id: ",tweet_id,". response: ",response.data)
             except: 
-                print(response)
+                print("failed: ",response)
         
 
 else:
