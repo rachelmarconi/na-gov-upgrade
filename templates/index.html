@@ -35,32 +35,34 @@
 				is no longer active but is not resolved.
 			</div>
 			<div id="table-stuff">
-				<table id="crime-table" data-order='[[ 2, "desc" ]]' border=1 cellpadding=7>
-					<thead>
-						<tr>
-							<th>Case number</th>
-							<th>Occured</th>
-							<th>Reported</th>
-							<th>Type</th>
-							<th>Disposition</th>
-							<th>Location</th>
-							<th>More</th>
-						</tr>
-					</thead>
-					<tbody>
-						{% for obj in activity_list %}
-						<tr>
-							<td>{{ obj['UMPD CASENUMBER'] }}</td>
-							<td>{{ obj['CASE_DATE']}}</td>
-							<td>{{ obj['REPORT_DATE']}}</td>
-							<td>{{ obj['TYPE'] }}</td>
-							<td>{{ obj['DISPOSITION'] }}</td>
-							<td>{{ obj['LOCATION'] }}</td>
-							<td>{% if obj['DISPOSITION'] == 'Arrest' %}<button class= "more-button" data-casedata= {{ obj['UMPD CASENUMBER'] }} onclick = "clickForMore(this,this.getAttribute('data-casedata'))" >More</button>{% endif %}</td>
-						</tr>
-						{% endfor %}
-					</tbody>
-				</table>
+				<div id= "mainbar">
+					<table id="crime-table" data-order='[[ 2, "desc" ]]' border=1 cellpadding=7>
+						<thead>
+							<tr>
+								<th>Case number</th>
+								<th>Occured</th>
+								<th>Reported</th>
+								<th>Type</th>
+								<th>Disposition</th>
+								<th>Location</th>
+								<th>More</th>
+							</tr>
+						</thead>
+						<tbody>
+							{% for obj in activity_list %}
+							<tr>
+								<td>{{ obj['UMPD CASENUMBER'] }}</td>
+								<td>{{ obj['CASE_DATE']}}</td>
+								<td>{{ obj['REPORT_DATE']}}</td>
+								<td>{{ obj['TYPE'] }}</td>
+								<td>{{ obj['DISPOSITION'] }}</td>
+								<td>{{ obj['LOCATION'] }}</td>
+								<td>{% if obj['DISPOSITION'] == 'Arrest' %}<button class= "more-button" data-casedata= {{ obj['UMPD CASENUMBER'] }} onclick = "clickForMore(this,this.getAttribute('data-casedata'))" >More</button>{% endif %}</td>
+							</tr>
+							{% endfor %}
+						</tbody>
+					</table>
+				</div>
 				<div id="sidebar">
 					<div id="more-stuff">Click 'More' to see a connected arrest.</div>
 				</div>

@@ -51,20 +51,19 @@ h1 {
 	flex-direction: row;
 }
 
-#crime-table{
+#mainbar{
 	flex: 0 1 auto;
 }
 #sidebar{
 	flex: 0 1 auto;
 	padding: 10px;
-	padding-top: 40px;
+	padding-bottom: 40px;
 	height: 100%;
 }
 #more-stuff{
 	border: solid black 1px;
 	height: 100%;
 	padding: 10px;
-	margin-top: 30px;
 }
 .more-button{
 	
@@ -113,14 +112,14 @@ footer{
     tr td:nth-of-type(2n+1) {
         display:none;
     }
-	tr th:nth-of-type(0n+6),
-	tr td:nth-of-type(0n+6) {
+	tr th:nth-of-type(n+5),
+	tr td:nth-of-type(n+5) {
         display:table-cell;
     }
 	#table-stuff{
 		flex-direction: column;
 	}
-	#crime-table{
+	#mainbar{
 		order: 99;
 	}
 	#container{
@@ -133,8 +132,17 @@ footer{
     tr td:nth-of-type(2n+1) {
         display:none;
     }
-	tr th:nth-of-type(0n+6),
-	tr td:nth-of-type(0n+6) {
+	tr th:nth-of-type(n+7),
+	tr td:nth-of-type(n+7) {
         display:table-cell;
     }
+	#table-stuff{
+		flex-direction: column;
+	}
+	#mainbar{
+		order: 99;
+	}
+	#container{
+		padding: 5px;
+	}
 }

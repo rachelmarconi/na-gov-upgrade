@@ -39,8 +39,8 @@
 					<thead>
 						<tr>
 							<th>Case number</th>
-							<th>Occured date, time</th>
-							<th>Reported date, time</th>
+							<th>Occured</th>
+							<th>Reported</th>
 							<th>Type</th>
 							<th>Disposition</th>
 							<th>Location</th>
