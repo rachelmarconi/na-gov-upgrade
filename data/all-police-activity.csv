@@ -1785,7 +1785,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00031206,05/01/22 16:25,05/01/22 16:33,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00031264,05/01/22 22:45,05/01/22 23:03,CDS Violation,CBE,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
 2022-00031444,04/27/22 14:20,05/02/22 12:24,Suspicious Activity,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
-2022-00031521,05/02/22 16:10,05/02/22 16:38,Theft,Summons Issued,McKeldin Mall
+2022-00031521,05/02/22 16:10,05/02/22 16:38,Theft,Arrest,McKeldin Mall
 2022-00031613,05/02/22 23:19,05/02/22 23:19,DWI/DUI,Arrest,Baltimore  Ave
 2022-00031658,05/02/22 19:30,05/03/22 02:15,Injured Officer,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00031908,05/03/22 21:30,05/03/22 22:16,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
@@ -1823,9 +1823,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00033932,05/10/22 15:20,05/10/22 20:09,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00033976,05/10/22 22:50,05/10/22 22:55,Accident - Departmental,CBE,Lot W
 2022-00034011,05/11/22 01:00,05/11/22 01:00,DWI/DUI,Arrest,Paint Branch  Dr
+2022-00034041,05/10/22 17:00,05/11/22 07:13,Vandalism,Active/Pending,McKeldin Mall
 2022-00034094,05/10/22 12:00,05/11/22 10:43,Trespassing,CBE,"Kehoe Track, Kehoe Track at Ludwig Field, Ludwig Field at 7898  Championship  Ln"
 2022-00034098,05/04/22 08:00,05/11/22 11:43,Theft,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2022-00034130,05/05/22 06:00,05/11/22 15:04,Theft,Investigation Pending,8100 block of  Paint Branch  Dr
+2022-00034389,05/11/22 17:00,05/12/22 09:46,Vandalism,Active/Pending,McKeldin Mall
+2022-00034428,05/12/22 14:54,05/12/22 14:54,CDS Violation,Arrest,Baltimore  Ave
 2022-00034502,05/12/22 20:15,05/12/22 20:15,Emergency Petition,CBE,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2022-00034774,05/03/22 05:58,05/13/22 15:53,Fraud,Active/Pending,3100 block of  Hamilton  St
 2022-00034946,05/13/22 23:15,05/13/22 23:15,Injured/Sick Person,CBE,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
@@ -1853,6 +1856,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00036429,05/19/22 07:15,05/19/22 20:18,Dept Property Damage/Loss,CBE,Greenbelt  Rd
 2022-00036461,05/19/22 23:13,05/19/22 23:13,Emergency Petition,CBE,University Courtyard #7 at 8700  Boteler  Ln
 2022-00036671,05/20/22 15:00,05/20/22 17:12,Theft,Active/Pending,"Riggs, Riggs Alumni, Riggs Alumni Center at 7801  Alumni  Dr"
+2022-00036887,05/21/22 13:29,05/21/22 13:29,DWI/DUI,Arrest,Campus  Dr
 2022-00036896,05/21/22 15:20,05/21/22 15:20,Assault,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
 2022-00037004,05/21/22 22:36,05/21/22 22:36,Trespassing,CBE,Metzerott  Rd
 2022-00037029,05/22/22 01:24,05/22/22 01:24,Injured/Sick Person,CBE,7500 block of  Dartmouth  Ave
@@ -1860,6 +1864,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00037168,05/22/22 08:00,05/22/22 12:07,Injured/Sick Person,CBE,8300 block of  Boteler  Ln
 2022-00037180,05/22/22 08:00,05/22/22 13:07,Theft,Investigation Pending,4200 block of  Lehigh  Rd
 2022-00037228,05/20/22 07:00,05/22/22 17:46,Vandalism,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2022-00037325,05/23/22 00:30,05/23/22 00:30,DWI/DUI,Arrest,University  Blvd
 2022-00037420,05/23/22 10:30,05/23/22 11:16,Theft,Active/Pending,Health Center at 3983  Campus  Dr
 2022-00037825,05/24/22 16:05,05/24/22 16:16,Assist Other Agency / Other,CBE,3700 block of  Campus  Dr
 2022-00037872,05/24/22 20:10,05/24/22 20:12,Burglary,Active/Pending,4200 block of  Stadium  Dr
@@ -1867,6 +1872,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00037990,05/25/22 04:40,05/25/22 04:40,Suspicious Person/Auto,CBE,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
 2022-00038090,05/25/22 11:04,05/25/22 11:04,Suspicious Activity,Active/Pending,8100 block of  Baltimore  Ave
 2022-00038421,04/28/22 12:00,05/26/22 14:38,Harassment/Stalking (Title IX Related),Active/Pending,4200 block of  Chapel  Ln
+2022-00038463,05/26/22 17:29,05/26/22 17:29,CDS Violation,Arrest,Baltimore  Ave
+2022-00038496,05/26/22 12:15,05/26/22 20:13,Vandalism,Active/Pending,Lot 1b
+2022-00039690,05/31/22 00:56,05/31/22 00:56,DWI/DUI,Arrest,Baltimore  Ave
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
