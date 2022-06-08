@@ -1782,6 +1782,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00030779,04/29/22 22:59,04/29/22 22:59,Injured/Sick Person,CBE,"11, The Hall at 4656  Hotel  Dr"
 2022-00031043,05/01/22 00:01,05/01/22 00:01,Damage to State Property,CBE,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
 2022-00031044,04/30/22 23:57,05/01/22 00:10,Assault,Arrest,Baltimore  Ave
+2022-00031183,05/01/22 14:03,05/01/22 14:03,CDS Violation,CBE,"Ellicott Area Dining Hall, Ellicott Dining Hall at 4028  Stadium  Dr"
 2022-00031206,05/01/22 16:25,05/01/22 16:33,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00031264,05/01/22 22:45,05/01/22 23:03,CDS Violation,CBE,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
 2022-00031444,04/27/22 14:20,05/02/22 12:24,Suspicious Activity,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
@@ -1849,7 +1850,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00035781,05/17/22 16:22,05/17/22 16:22,Dept Property Damage/Loss,CBE,Allegany Alley
 2022-00035787,05/17/22 15:00,05/17/22 17:30,Telephone/EMail Misuse,CBE,7600 block of  Regents  Dr
 2022-00036041,05/17/22 23:00,05/18/22 11:41,Vandalism,Investigation Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
-2022-00036056,05/17/22 13:30,05/18/22 13:42,Theft,Active/Pending,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2022-00036056,05/17/22 13:30,05/18/22 13:42,Theft,Unfounded,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2022-00036154,05/18/22 20:41,05/18/22 20:42,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2022-00036191,05/18/22 22:00,05/18/22 22:14,Vandalism,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2022-00036388,05/19/22 14:09,05/19/22 14:58,Suspicious Activity,Active/Pending,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
@@ -1884,8 +1885,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00040142,06/01/22 11:51,06/01/22 11:51,Suspicious Person/Auto,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2022-00040364,06/02/22 00:19,06/02/22 00:19,Warrant/Summons Service,CBE,9000 block of  Baltimore  Ave
 2022-00040723,06/03/22 02:35,06/03/22 02:35,DWI/DUI,Arrest,Knox  Rd
+2022-00041026,06/04/22 02:49,06/04/22 02:49,DWI/DUI,Arrest,Baltimore  Ave
 2022-00041172,06/04/22 21:00,06/04/22 21:07,Injured/Sick Person,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2022-00041176,06/04/22 21:47,06/04/22 21:47,Damage to State Property,CBE,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
+2022-00041324,06/05/22 13:50,06/05/22 16:06,Theft,Active/Pending,280 at 4326  Rowalt  Dr
+2022-00041346,06/05/22 18:22,06/05/22 18:21,Suspicious Person/Auto,Arrest,Frat Row
+2022-00041569,06/06/22 08:30,06/06/22 12:07,Theft,Active/Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2022-00041573,06/06/22 12:20,06/06/22 12:20,Warrant/Summons Service,Arrest,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
+2022-00041641,06/06/22 21:36,06/06/22 21:36,Suspicious Person/Auto,CBE,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center at 4090  Union  Dr"
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
