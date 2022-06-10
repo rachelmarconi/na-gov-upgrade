@@ -1685,7 +1685,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00026320,04/13/22 22:57,04/13/22 22:57,CDS Violation,CBE,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2022-00026352,04/13/22 14:00,04/14/22 01:08,Extortion,Active/Pending,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
 2022-00026367,04/14/22 02:18,04/14/22 02:18,Assist Other Agency / Other,CBE,9300 block of  Cherry Hill  Rd
-2022-00026509,04/14/22 14:00,04/14/22 15:51,Theft,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
+2022-00026509,04/14/22 14:00,04/14/22 15:51,Theft,Warrant Issued,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2022-00026521,04/01/22 12:00,04/14/22 16:18,Theft,Unfounded,"Commons 2, SCC 2, South Campus Commons 2 at 7524  Calvert Service  Ln"
 2022-00026621,04/14/22 21:03,04/14/22 21:03,Injured/Sick Person,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2022-00026629,04/13/22 22:00,04/14/22 21:40,Hate Bias Incident,Active/Pending,7000 block of  Preinkert  Dr
@@ -1783,7 +1783,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00031043,05/01/22 00:01,05/01/22 00:01,Damage to State Property,CBE,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
 2022-00031044,04/30/22 23:57,05/01/22 00:10,Assault,Arrest,Baltimore  Ave
 2022-00031183,05/01/22 14:03,05/01/22 14:03,CDS Violation,CBE,"Ellicott Area Dining Hall, Ellicott Dining Hall at 4028  Stadium  Dr"
-2022-00031206,05/01/22 16:25,05/01/22 16:33,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2022-00031206,05/01/22 16:25,05/01/22 16:33,Theft,Warrant Issued,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00031264,05/01/22 22:45,05/01/22 23:03,CDS Violation,CBE,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
 2022-00031444,04/27/22 14:20,05/02/22 12:24,Suspicious Activity,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2022-00031521,05/02/22 16:10,05/02/22 16:38,Theft,Arrest,McKeldin Mall
@@ -1793,7 +1793,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00031925,05/03/22 23:00,05/03/22 23:30,Assist Other Agency / Indecent Exposure,Active/Pending,4300 block of  Knox  Rd
 2022-00031929,05/03/22 23:35,05/03/22 23:41,Injured/Sick Person,CBE,"Recreation Artificial Turf Field, Turf Field, Turf Fields"
 2022-00031946,05/04/22 00:50,05/04/22 00:55,CDS Violation,CBE,6900 block of  Preinkert  Dr
-2022-00032241,05/04/22 15:30,05/04/22 23:51,Theft,Active/Pending,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2022-00032241,05/04/22 15:30,05/04/22 23:51,Theft,Arrest,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2022-00032250,05/05/22 00:24,05/05/22 00:24,CDS Violation,Arrest,University  Blvd
 2022-00032254,05/05/22 00:30,05/05/22 00:45,Injured/Sick Person,CBE,4200 block of  Farm  Dr
 2022-00032343,05/05/22 06:41,05/05/22 07:26,Check on the  Welfare,CBE,4200 block of  Valley  Dr
@@ -1816,12 +1816,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00033397,05/09/22 02:30,05/09/22 02:39,Suspicious Person/Auto,CBE,"3, Service Building at 7757  Baltimore  Ave"
 2022-00033512,05/08/22 16:30,05/09/22 12:08,Theft,Unfounded,"38, Lefrak, Lefrak Hall at 7251  Preinkert  Dr"
 2022-00033551,05/08/22 20:00,05/09/22 15:09,Theft,Active/Pending,"88, Martin Hall at 4298  Campus  Dr"
-2022-00033555,05/08/22 01:00,05/09/22 15:32,Theft,Active/Pending,"64, Dorchester, Dorchester Hall at 3947  Campus  Dr"
+2022-00033555,05/08/22 01:00,05/09/22 15:32,Theft,Warrant Issued,"64, Dorchester, Dorchester Hall at 3947  Campus  Dr"
 2022-00033557,05/05/22 14:00,05/09/22 15:45,Other Incident,CBE,"Hornbake, Hornbake Library at 4130  Campus  Dr"
 2022-00033610,05/09/22 20:42,05/09/22 20:42,Injured/Sick Person,CBE,"Recreation Artificial Turf Field, Turf Field, Turf Fields"
 2022-00033800,05/10/22 10:00,05/10/22 10:32,Damage to State Property,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
 2022-00033888,05/09/22 00:00,05/10/22 18:07,Theft,Investigation Pending,"Hornbake Mall, Hornbake Plaza"
-2022-00033932,05/10/22 15:20,05/10/22 20:09,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2022-00033932,05/10/22 15:20,05/10/22 20:09,Theft,Warrant Issued,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00033976,05/10/22 22:50,05/10/22 22:55,Accident - Departmental,CBE,Lot W
 2022-00034011,05/11/22 01:00,05/11/22 01:00,DWI/DUI,Arrest,Paint Branch  Dr
 2022-00034041,05/10/22 17:00,05/11/22 07:13,Vandalism,Active/Pending,McKeldin Mall
@@ -1842,7 +1842,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00035400,05/15/22 20:30,05/15/22 21:07,Suspicious Activity,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2022-00035484,05/12/22 22:00,05/16/22 08:31,Theft,Investigation Pending,Lot 3
 2022-00035506,05/16/22 00:00,05/16/22 11:25,Theft,Investigation Pending,3400 block of  Tulane  Dr
-2022-00035525,05/15/22 15:50,05/16/22 13:23,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
+2022-00035525,05/15/22 15:50,05/16/22 13:23,Theft,Arrest,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2022-00035542,05/15/22 20:30,05/16/22 15:56,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2022-00035711,05/17/22 06:10,05/17/22 06:52,Dept Property Damage/Loss,CBE,I-70 / I-97
 2022-00035742,05/17/22 10:07,05/17/22 10:07,Damage to State Property,CBE,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
@@ -1853,11 +1853,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00036056,05/17/22 13:30,05/18/22 13:42,Theft,Unfounded,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2022-00036154,05/18/22 20:41,05/18/22 20:42,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2022-00036191,05/18/22 22:00,05/18/22 22:14,Vandalism,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
-2022-00036388,05/19/22 14:09,05/19/22 14:58,Suspicious Activity,Active/Pending,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2022-00036388,05/19/22 14:09,05/19/22 14:58,Suspicious Activity,CBE,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2022-00036421,05/19/22 18:00,05/19/22 18:38,Warrant/Summons Service,CBE,7200 block of  Baltimore  Ave
 2022-00036429,05/19/22 07:15,05/19/22 20:18,Dept Property Damage/Loss,CBE,Greenbelt  Rd
 2022-00036461,05/19/22 23:13,05/19/22 23:13,Emergency Petition,CBE,University Courtyard #7 at 8700  Boteler  Ln
-2022-00036671,05/20/22 15:00,05/20/22 17:12,Theft,Active/Pending,"Riggs, Riggs Alumni, Riggs Alumni Center at 7801  Alumni  Dr"
+2022-00036671,05/20/22 15:00,05/20/22 17:12,Theft,Investigation Pending,"Riggs, Riggs Alumni, Riggs Alumni Center at 7801  Alumni  Dr"
 2022-00036887,05/21/22 13:29,05/21/22 13:29,DWI/DUI,Arrest,Campus  Dr
 2022-00036896,05/21/22 15:20,05/21/22 15:20,Assault,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
 2022-00037004,05/21/22 22:36,05/21/22 22:36,Trespassing,CBE,Metzerott  Rd
@@ -1880,6 +1880,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00038975,05/28/22 11:35,05/28/22 11:35,Check on the  Welfare,CBE,4600 block of  Rossborough  Ln
 2022-00039414,05/29/22 23:39,05/29/22 23:39,DWI/DUI,Arrest,University  Blvd
 2022-00039690,05/31/22 00:56,05/31/22 00:56,DWI/DUI,Arrest,Baltimore  Ave
+2022-00039790,04/12/22 16:15,05/31/22 10:53,Injured Officer,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
 2022-00040040,06/01/22 00:45,06/01/22 00:45,CDS Violation,Arrest,Baltimore  Ave
 2022-00040041,06/01/22 01:23,06/01/22 01:23,DWI/DUI,Arrest,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
 2022-00040057,06/01/22 03:55,06/01/22 03:55,Check on the  Welfare,CBE,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
@@ -1892,7 +1893,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00041172,06/04/22 21:00,06/04/22 21:07,Injured/Sick Person,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2022-00041176,06/04/22 21:47,06/04/22 21:47,Damage to State Property,CBE,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2022-00041324,06/05/22 13:50,06/05/22 16:06,Theft,Active/Pending,280 at 4326  Rowalt  Dr
-2022-00041346,06/05/22 18:22,06/05/22 18:21,Suspicious Person/Auto,Arrest,Frat Row
+2022-00041346,06/05/22 18:21,06/05/22 18:21,Suspicious Person/Auto,Arrest,Frat Row
 2022-00041569,06/06/22 08:30,06/06/22 12:07,Theft,Active/Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2022-00041573,06/06/22 12:20,06/06/22 12:20,Warrant/Summons Service,Arrest,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2022-00041641,06/06/22 21:36,06/06/22 21:36,Suspicious Person/Auto,CBE,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center at 4090  Union  Dr"
