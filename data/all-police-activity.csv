@@ -1862,7 +1862,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00036896,05/21/22 15:20,05/21/22 15:20,Assault,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
 2022-00037004,05/21/22 22:36,05/21/22 22:36,Trespassing,CBE,Metzerott  Rd
 2022-00037029,05/22/22 01:24,05/22/22 01:24,Injured/Sick Person,CBE,7500 block of  Dartmouth  Ave
-2022-00037158,05/20/22 19:00,05/22/22 11:13,Vandalism,Active/Pending,Lot 3
+2022-00037158,05/20/22 19:00,05/22/22 11:13,Vandalism,Investigation Pending,Lot 3
 2022-00037168,05/22/22 08:00,05/22/22 12:07,Injured/Sick Person,CBE,8300 block of  Boteler  Ln
 2022-00037180,05/22/22 08:00,05/22/22 13:07,Theft,Investigation Pending,4200 block of  Lehigh  Rd
 2022-00037228,05/20/22 07:00,05/22/22 17:46,Vandalism,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
@@ -1895,9 +1895,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00041324,06/05/22 13:50,06/05/22 16:06,Theft,Active/Pending,280 at 4326  Rowalt  Dr
 2022-00041346,06/05/22 18:21,06/05/22 18:21,Suspicious Person/Auto,Arrest,Frat Row
 2022-00041569,06/06/22 08:30,06/06/22 12:07,Theft,Active/Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2022-00041572,06/03/22 08:00,06/06/22 12:14,Vandalism,Active/Pending,"Architecture, Architecture Building at 3835  Campus  Dr"
 2022-00041573,06/06/22 12:20,06/06/22 12:20,Warrant/Summons Service,Arrest,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2022-00041641,06/06/22 21:36,06/06/22 21:36,Suspicious Person/Auto,CBE,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center at 4090  Union  Dr"
 2022-00041883,06/07/22 19:38,06/07/22 19:38,Suspicious Activity,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
+2022-00042298,06/09/22 08:00,06/09/22 08:16,Other Incident,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
