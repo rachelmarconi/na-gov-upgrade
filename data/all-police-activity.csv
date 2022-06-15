@@ -1887,6 +1887,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00040057,06/01/22 03:55,06/01/22 03:55,Check on the  Welfare,CBE,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2022-00040142,06/01/22 11:51,06/01/22 11:51,Suspicious Person/Auto,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2022-00040364,06/02/22 00:19,06/02/22 00:19,Warrant/Summons Service,CBE,9000 block of  Baltimore  Ave
+2022-00040457,06/02/22 09:26,06/02/22 09:26,Recovered Stolen Property,Arrest,Paint Branch Gate at 8966  Paint Branch  Dr
 2022-00040723,06/03/22 02:35,06/03/22 02:35,DWI/DUI,Arrest,Knox  Rd
 2022-00040832,06/03/22 14:13,06/03/22 14:13,Recovered Stolen Motor Vehicle,Juvenile Arrest,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2022-00040834,06/03/22 14:27,06/03/22 14:27,Resisting Arrest,Arrest,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
@@ -1908,8 +1909,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00042875,06/10/22 17:22,06/10/22 19:02,Identity Theft,Active/Pending,8200 block of  Boteler  Ln
 2022-00042992,06/11/22 01:15,06/11/22 01:47,Injured/Sick Person,CBE,Knox  Rd
 2022-00043014,06/11/22 02:00,06/11/22 02:19,Assist Other Agency / Other,Active/Pending,4300 block of  Hartwick  Rd
-2022-00043175,06/11/22 21:35,06/11/22 21:35,Hate Bias Incident,,"11, The Hall at 4656  Hotel  Dr"
+2022-00043175,06/11/22 21:00,06/11/22 21:35,Hate Bias Incident,Active/Pending,"11, The Hall at 4656  Hotel  Dr"
 2022-00043542,06/13/22 06:00,06/13/22 06:22,Injured/Sick Person,CBE,4300 block of  Rowalt  Dr
+2022-00043822,06/13/22 22:50,06/13/22 22:50,CDS Violation,Arrest,University  Blvd
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
