@@ -1856,7 +1856,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00036388,05/19/22 14:09,05/19/22 14:58,Suspicious Activity,CBE,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2022-00036421,05/19/22 18:00,05/19/22 18:38,Warrant/Summons Service,CBE,7200 block of  Baltimore  Ave
 2022-00036429,05/19/22 07:15,05/19/22 20:18,Dept Property Damage/Loss,CBE,Greenbelt  Rd
-2022-00036461,05/19/22 23:13,05/19/22 23:13,Emergency Petition,CBE,University Courtyard #7 at 8700  Boteler  Ln
+2022-00036461,05/19/22 23:13,05/19/22 23:13,Emergency Petition,Summons Issued,University Courtyard #7 at 8700  Boteler  Ln
 2022-00036671,05/20/22 15:00,05/20/22 17:12,Theft,Investigation Pending,"Riggs, Riggs Alumni, Riggs Alumni Center at 7801  Alumni  Dr"
 2022-00036887,05/21/22 13:29,05/21/22 13:29,DWI/DUI,Arrest,Campus  Dr
 2022-00036896,05/21/22 15:20,05/21/22 15:20,Assault,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
@@ -1917,6 +1917,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00043620,06/11/22 18:00,06/13/22 11:37,Theft,Active/Pending,"Leonardtown #245, Leonardtown at 4689  Rossborough  Ln"
 2022-00043822,06/13/22 22:50,06/13/22 22:50,CDS Violation,Arrest,University  Blvd
 2022-00044059,06/14/22 22:06,06/14/22 22:06,Injured/Sick Person,CBE,Lot 11b
+2022-00044269,06/15/22 18:08,06/15/22 18:08,Suspicious Activity,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
