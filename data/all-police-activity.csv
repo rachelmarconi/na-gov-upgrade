@@ -1896,7 +1896,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00041172,06/04/22 21:00,06/04/22 21:07,Injured/Sick Person,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2022-00041176,06/04/22 21:47,06/04/22 21:47,Damage to State Property,CBE,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2022-00041258,06/05/22 09:05,06/05/22 09:49,Disorderly Conduct,Active/Pending,3500 block of  University  Blvd
-2022-00041324,06/05/22 13:50,06/05/22 16:06,Theft,Active/Pending,280 at 4326  Rowalt  Dr
+2022-00041324,06/05/22 13:50,06/05/22 16:06,Theft,CBE,280 at 4326  Rowalt  Dr
 2022-00041346,06/05/22 18:21,06/05/22 18:21,Suspicious Person/Auto,Arrest,Frat Row
 2022-00041569,06/06/22 08:30,06/06/22 12:07,Theft,Active/Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2022-00041572,06/03/22 08:00,06/06/22 12:14,Vandalism,Active/Pending,"Architecture, Architecture Building at 3835  Campus  Dr"
@@ -1910,7 +1910,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00042875,06/10/22 17:22,06/10/22 19:02,Identity Theft,Active/Pending,8200 block of  Boteler  Ln
 2022-00042992,06/11/22 01:15,06/11/22 01:47,Injured/Sick Person,CBE,Knox  Rd
 2022-00043014,06/11/22 02:00,06/11/22 02:19,Assist Other Agency / Other,Active/Pending,4300 block of  Hartwick  Rd
-2022-00043175,06/11/22 21:00,06/11/22 21:35,Hate Bias Incident,Active/Pending,"11, The Hall at 4656  Hotel  Dr"
+2022-00043175,06/11/22 21:00,06/11/22 21:35,Hate Bias Incident,Investigation Pending,"11, The Hall at 4656  Hotel  Dr"
 2022-00043453,06/12/22 21:53,06/12/22 21:53,DWI/DUI,Arrest,Campus  Dr
 2022-00043471,06/12/22 23:46,06/12/22 23:46,DWI/DUI,Arrest,Metzerott  Rd
 2022-00043542,06/13/22 06:00,06/13/22 06:22,Injured/Sick Person,CBE,4300 block of  Rowalt  Dr
@@ -1923,6 +1923,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00044732,06/17/22 08:15,06/17/22 08:15,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00044761,05/18/22 11:39,06/17/22 14:28,Assist Other Agency / Sex Offense,Active/Pending,14000 block of  Twig Rd
 2022-00045173,06/19/22 01:30,06/19/22 01:30,CDS Violation,Arrest,Baltimore  Ave
+2022-00046035,06/13/22 16:00,06/22/22 13:55,Theft,Active/Pending,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
+2022-00046270,06/23/22 13:21,06/23/22 13:21,CDS Violation,CBE,8200 block of  Boteler  Ln
+2022-00046316,06/17/22 16:00,06/23/22 19:12,Theft,Active/Pending,Kim Engineering Building at 8228  Paint Branch  Dr
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
