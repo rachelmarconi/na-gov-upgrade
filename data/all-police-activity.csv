@@ -1867,7 +1867,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00037180,05/22/22 08:00,05/22/22 13:07,Theft,Investigation Pending,4200 block of  Lehigh  Rd
 2022-00037228,05/20/22 07:00,05/22/22 17:46,Vandalism,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00037325,05/23/22 00:30,05/23/22 00:30,DWI/DUI,Arrest,University  Blvd
-2022-00037420,05/23/22 10:30,05/23/22 11:16,Theft,Summons Issued,Health Center at 3983  Campus  Dr
+2022-00037420,05/23/22 10:30,05/23/22 11:16,Theft,Arrest,Health Center at 3983  Campus  Dr
 2022-00037825,05/24/22 16:05,05/24/22 16:16,Assist Other Agency / Other,CBE,3700 block of  Campus  Dr
 2022-00037872,05/24/22 20:10,05/24/22 20:12,Burglary,Active/Pending,4200 block of  Stadium  Dr
 2022-00037938,05/24/22 23:27,05/24/22 23:27,CDS Violation,Arrest,Baltimore  Ave
@@ -1932,6 +1932,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00046631,06/24/22 15:00,06/24/22 16:23,Damage to State Property,CBE,"President's Residence, University House at 8150  Presidential  Dr"
 2022-00046646,06/24/22 17:38,06/24/22 17:42,Assist Other Agency / Robbery,CBE,7200 block of  Baltimore  Ave
 2022-00046665,06/24/22 20:44,06/24/22 20:44,Injured/Sick Person,CBE,Union  Ln
+2022-00046672,06/24/22 09:00,06/24/22 21:44,Other Incident,Active/Pending,7700 block of  Adelphi  Rd
 2022-00046799,05/10/22 13:00,06/25/22 11:42,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2022-00046967,06/26/22 02:02,06/26/22 02:08,DWI/DUI,Arrest,University  Blvd
 2022-00047192,06/26/22 23:29,06/26/22 23:29,DWI/DUI,Arrest,Greenbelt  Rd
@@ -1939,6 +1940,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00047316,06/26/22 12:00,06/27/22 09:21,Theft,Active/Pending,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2022-00047361,06/24/22 17:00,06/27/22 15:45,Dept Property Damage/Loss,CBE,8100 block of  Baltimore  Ave
 2022-00047667,06/28/22 18:08,06/28/22 18:08,Injured/Sick Person,CBE,University  Blvd
+2022-00047768,06/29/22 04:39,06/29/22 04:39,DWI/DUI,Arrest,Adelphi  Rd
+2022-00047808,06/29/22 09:24,06/29/22 09:24,Other Incident,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
