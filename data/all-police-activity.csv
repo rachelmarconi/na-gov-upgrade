@@ -1923,6 +1923,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00044732,06/17/22 08:15,06/17/22 08:15,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00044761,05/18/22 11:39,06/17/22 14:28,Assist Other Agency / Sex Offense,Active/Pending,14000 block of  Twig Rd
 2022-00045173,06/19/22 01:30,06/19/22 01:30,CDS Violation,Arrest,Baltimore  Ave
+2022-00045185,06/19/22 03:14,06/19/22 03:14,DWI/DUI,Arrest,Baltimore  Ave
 2022-00045424,06/20/22 03:01,06/20/22 03:01,Warrant/Summons Service,Arrest,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00046035,06/13/22 16:00,06/22/22 13:55,Theft,Active/Pending,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
 2022-00046270,06/23/22 13:21,06/23/22 13:21,CDS Violation,CBE,8200 block of  Boteler  Ln
@@ -1942,6 +1943,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00047667,06/28/22 18:08,06/28/22 18:08,Injured/Sick Person,CBE,University  Blvd
 2022-00047768,06/29/22 04:39,06/29/22 04:39,DWI/DUI,Arrest,Adelphi  Rd
 2022-00047808,06/29/22 09:24,06/29/22 09:24,Other Incident,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
+2022-00048084,06/30/22 14:54,06/30/22 14:54,Injured/Sick Person,CBE,4600 block of  Rossborough  Ln
+2022-00048201,07/01/22 00:26,07/01/22 00:26,DWI/DUI,Arrest,University  Blvd
+2022-00048217,07/01/22 02:27,07/01/22 02:27,CDS Violation,Active/Pending,Baltimore  Ave
+2022-00048719,07/03/22 01:27,07/03/22 01:27,DWI/DUI,Arrest,Campus  Dr
+2022-00048931,07/03/22 23:00,07/03/22 23:00,DWI/DUI,Arrest,Campus  Dr
+2022-00048934,07/03/22 23:10,07/03/22 23:10,DWI/DUI,Arrest,Baltimore  Ave
+2022-00048952,07/04/22 00:42,07/04/22 00:42,DWI/DUI,Arrest,Testudo  Way
+2022-00048953,07/04/22 01:00,07/04/22 01:00,DWI/DUI,Active/Pending,Baltimore  Ave
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
