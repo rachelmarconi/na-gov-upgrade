@@ -1925,7 +1925,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00045173,06/19/22 01:30,06/19/22 01:30,CDS Violation,Arrest,Baltimore  Ave
 2022-00045185,06/19/22 03:14,06/19/22 03:14,DWI/DUI,Arrest,Baltimore  Ave
 2022-00045424,06/20/22 03:01,06/20/22 03:01,Warrant/Summons Service,Arrest,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
-2022-00046035,06/13/22 16:00,06/22/22 13:55,Theft,Active/Pending,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
+2022-00046035,06/13/22 16:00,06/22/22 13:55,Theft,Summons Issued,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
 2022-00046270,06/23/22 13:21,06/23/22 13:21,CDS Violation,CBE,8200 block of  Boteler  Ln
 2022-00046316,06/17/22 16:00,06/23/22 19:12,Theft,Active/Pending,Kim Engineering Building at 8228  Paint Branch  Dr
 2022-00046519,06/24/22 07:40,06/24/22 07:42,Injured/Sick Person,CBE,8100 block of  Boteler  Ln
@@ -1956,6 +1956,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00049472,07/05/22 21:28,07/05/22 21:28,Injured/Sick Person,CBE,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2022-00049771,07/06/22 19:40,07/06/22 19:42,Threat Assessment,Active/Pending,"Capital One Field, Capital One Field at Maryland Stadium, Maryland Stadium, Stadium"
 2022-00049948,07/07/22 12:00,07/07/22 12:28,Injured/Sick Person,CBE,"Football Team House, Gossett, Gossett Football Team House at 4068  Fieldhouse  Dr"
+2022-00049981,07/06/22 18:00,07/07/22 14:13,Other Incident,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
