@@ -1955,7 +1955,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00049392,07/05/22 14:32,07/05/22 14:32,Injured/Sick Person,CBE,"77, Main Admin, Main Administration Building, Thomas V. Miller Jr. Administration Building at 7901  Regents  Dr"
 2022-00049472,07/05/22 21:28,07/05/22 21:28,Injured/Sick Person,CBE,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2022-00049771,07/06/22 19:40,07/06/22 19:42,Threat Assessment,Investigation Pending,"Capital One Field, Capital One Field at Maryland Stadium, Maryland Stadium, Stadium"
-2022-00049891,07/07/22 03:18,07/07/22 05:21,Theft from Auto,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2022-00049891,07/07/22 03:18,07/07/22 05:21,Theft from Auto,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2022-00049948,07/07/22 12:00,07/07/22 12:28,Injured/Sick Person,CBE,"Football Team House, Gossett, Gossett Football Team House at 4068  Fieldhouse  Dr"
 2022-00049981,07/06/22 18:00,07/07/22 14:13,Other Incident,Unfounded,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2022-00050151,07/08/22 01:09,07/08/22 01:09,DWI/DUI,Arrest,Baltimore  Ave
@@ -1995,7 +1995,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00053565,07/20/22 22:34,07/20/22 22:34,Injured/Sick Person,CBE,"11, The Hall at 4656  Hotel  Dr"
 2022-00053628,07/21/22 08:48,07/21/22 08:48,Injured/Sick Person,CBE,4500 block of  College  Ave
 2022-00053632,07/12/22 00:00,07/21/22 09:31,Fraud,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
-2022-00053663,07/21/22 09:09,07/21/22 12:39,Fraud,Active/Pending,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2022-00053663,07/21/22 09:09,07/21/22 12:39,Fraud,CBE,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2022-00053665,07/15/22 08:00,07/21/22 13:20,Other Incident,Active/Pending,"Avrum Gudelsky Veterinary Center, Vet Med at 8075  Greenmead  Dr"
 2022-00053678,07/21/22 15:20,07/21/22 15:25,Injured/Sick Person,CBE,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2022-00053708,07/21/22 17:33,07/21/22 17:33,Assist Other Agency / Other,CBE,"Tawes, Tawes Hall at 7751  Alumni  Dr"
@@ -2010,8 +2010,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00054598,07/24/22 22:59,07/24/22 22:59,Injured/Sick Person,CBE,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
 2022-00054618,07/25/22 00:09,07/25/22 00:09,CDS Violation,Arrest,Baltimore  Ave
 2022-00054714,07/25/22 11:18,07/25/22 11:09,Burglary,Arrest,"Phi Sigma Sigma Sorority, Phi Sigma Simga at 4531  College  Ave"
+2022-00054850,07/26/22 00:17,07/26/22 00:17,DWI/DUI,Arrest,Baltimore  Ave
+2022-00054863,07/26/22 03:00,07/26/22 03:00,DWI/DUI,Arrest,University  Blvd
 2022-00054944,07/26/22 12:50,07/26/22 12:54,Indecent Exposure,Arrest,Baltimore  Ave
 2022-00055163,07/18/22 12:00,07/27/22 13:44,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2022-00055268,07/27/22 23:07,07/27/22 23:07,CDS Violation,Arrest,Campus  Dr
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
