@@ -477,6 +477,9 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23476,07/09/22 03:02,2022-00050436,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23477,07/10/22 01:09,2022-00050597,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 23478,07/10/22 02:27,2022-00050614,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
+23506,07/12/22 00:00,2020-00042601,,Black,Male,Malicious Destruction Property/Value Less than $500
+23507,07/12/22 00:00,2020-00040689,,Black,Male,Malicious Destruction Property/Value Less than $500
+23505,07/12/22 00:00,2020-00040876,,Black,Male,Rogue and Vagabond
 23479,07/12/22 02:20,2022-00051236,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver failure to stop at stop sign line; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23480,07/14/22 15:51,2022-00051999,,Black,Male,Indecent Exposure; School Trespassing On Ground
 23481,07/14/22 23:45,2022-00052092,,Black,Male,CDS:Possession Marijuana L/T 10 grams
@@ -487,7 +490,8 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 900,07/21/22 11:37,2022-00010581,,Black,Male,Rape Second Degree
 23486,07/23/22 00:05,2022-00054114,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 23487,07/23/22 17:04,2022-00054309,,Black,Female,CDS:Possession Marijuana L/T 10 grams
-23488,07/25/22 00:53,2022-00054618,,Black,Female,CDS:Possession Marijuana L/T 10 grams
+23504,07/24/22 01:54,2022-00054399,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver consuming alcoholic beverage in passenger area of motor veh. on hwy; Driver failure to obey properly placed traffic control device instructions; Driver failure to stop at stop sign line; Driving veh. in violation of restricted license requirement; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
+23503,07/25/22 00:26,2022-00054618,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23489,07/25/22 12:07,2022-00054714,,Black,Male,Burglary 4th Degree; Attempted Forced Entry; School Trespassing On Ground
 23499,07/26/22 00:00,2021-00091171,,Black,Male,Disorderly Conduct
 23500,07/26/22 00:00,2021-00091172,,Black,Male,Disorderly Conduct
@@ -496,6 +500,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23490,07/26/22 13:13,2022-00054944,,Black,Male,Indecent Exposure; School Trespassing On Ground
 23495,07/27/22 23:43,2022-00055268,,Black,Male,CDS:Possession Marijuana L/T 10 grams
 23498,07/29/22 02:08,2022-00055515,,Black,Female,CDS:Possession Marijuana L/T 10 grams
+23502,07/30/22 16:02,2022-00055935,,Black,Male,CDS: POSS MARIJUANA 10 GM+; Manufacture CDS; Marijuna
 23501,07/31/22 01:12,2022-00056036,,Black,Female,CDS:Possession Marijuana L/T 10 grams
 ,,,,,,
 19959,01/01/15 02:46,2015-00000013,,,,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"

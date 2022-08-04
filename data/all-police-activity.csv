@@ -2006,6 +2006,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00054266,07/23/22 13:30,07/23/22 14:09,Suspicious Person/Auto,Active/Pending,"Delta Gamma, Delta Gamma Sorority at 4518  Knox  Rd"
 2022-00054268,07/23/22 04:25,07/23/22 14:26,Suspicious Activity,Active/Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2022-00054309,07/23/22 17:04,07/23/22 17:04,CDS Violation,Arrest,Baltimore  Ave
+2022-00054399,07/24/22 01:26,07/24/22 01:26,DWI/DUI,Arrest,Metzerott  Rd
 2022-00054402,07/24/22 01:29,07/24/22 01:29,Assist Other Agency / Check on the Welfare,CBE,4200 block of  Knox  Rd
 2022-00054457,07/24/22 09:20,07/24/22 09:28,Injured/Sick Person,CBE,Baltimore  Ave
 2022-00054598,07/24/22 22:59,07/24/22 22:59,Injured/Sick Person,CBE,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
@@ -2018,10 +2019,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00055163,07/18/22 12:00,07/27/22 13:44,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00055234,07/27/22 19:53,07/27/22 19:53,Suspicious Activity,CBE,"Commons 2, SCC 2, South Campus Commons 2 at 7524  Calvert Service  Ln"
 2022-00055268,07/27/22 23:07,07/27/22 23:07,CDS Violation,Arrest,Campus  Dr
+2022-00055414,07/28/22 18:31,07/28/22 18:31,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2022-00055515,07/29/22 01:15,07/29/22 01:15,CDS Violation,Arrest,Baltimore  Ave
 2022-00055630,07/27/22 16:15,07/29/22 12:04,Suspicious Activity,Active/Pending,"Laboratory for Telecommunication Sciences, LTS at 8118  Greenmead  Dr"
 2022-00055911,07/30/22 13:15,07/30/22 13:16,Damage to State Property,CBE,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
+2022-00055935,07/30/22 15:27,07/30/22 15:27,CDS Violation,Arrest,8700 block of  Boteler  Ln
 2022-00056036,07/31/22 00:47,07/31/22 00:47,CDS Violation,Arrest,Greenbelt  Rd
+2022-00056048,07/31/22 01:57,07/31/22 01:57,Injured/Sick Person,CBE,College  Ave
 2022-00056512,07/31/22 20:31,08/01/22 16:57,Other Incident,Active/Pending,"42, Tydings Hall at 7343  Preinkert  Dr"
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
