@@ -1946,7 +1946,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00048084,06/30/22 14:54,06/30/22 14:54,Injured/Sick Person,CBE,4600 block of  Rossborough  Ln
 2022-00048201,07/01/22 00:26,07/01/22 00:26,DWI/DUI,Arrest,University  Blvd
 2022-00048217,07/01/22 02:27,07/01/22 02:27,CDS Violation,Summons Issued,Baltimore  Ave
-2022-00048551,07/02/22 13:01,07/02/22 13:01,Burglary,Active/Pending,"MFRI, MFRI Office/Classroom Building at 4500  Campus  Dr"
+2022-00048551,07/02/22 13:01,07/02/22 13:01,Burglary,Warrant Issued,"MFRI, MFRI Office/Classroom Building at 4500  Campus  Dr"
 2022-00048719,07/03/22 01:27,07/03/22 01:27,DWI/DUI,Arrest,Campus  Dr
 2022-00048931,07/03/22 23:00,07/03/22 23:00,DWI/DUI,Arrest,Campus  Dr
 2022-00048934,07/03/22 23:10,07/03/22 23:10,DWI/DUI,Arrest,Baltimore  Ave
@@ -1996,6 +1996,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00053565,07/20/22 22:34,07/20/22 22:34,Injured/Sick Person,CBE,"11, The Hall at 4656  Hotel  Dr"
 2022-00053628,07/21/22 08:48,07/21/22 08:48,Injured/Sick Person,CBE,4500 block of  College  Ave
 2022-00053632,07/12/22 00:00,07/21/22 09:31,Fraud,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2022-00053651,07/21/22 08:55,07/21/22 10:59,Injured Officer,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00053663,07/21/22 09:09,07/21/22 12:39,Fraud,CBE,"Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2022-00053665,07/15/22 08:00,07/21/22 13:20,Other Incident,Active/Pending,"Avrum Gudelsky Veterinary Center, Vet Med at 8075  Greenmead  Dr"
 2022-00053678,07/21/22 15:20,07/21/22 15:25,Injured/Sick Person,CBE,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
@@ -2019,6 +2020,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00055163,07/18/22 12:00,07/27/22 13:44,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00055234,07/27/22 19:53,07/27/22 19:53,Suspicious Activity,CBE,"Commons 2, SCC 2, South Campus Commons 2 at 7524  Calvert Service  Ln"
 2022-00055268,07/27/22 23:07,07/27/22 23:07,CDS Violation,Arrest,Campus  Dr
+2022-00055300,07/28/22 01:12,07/28/22 01:12,Other Incident,CBE,"60, Anne Arundel, Anne Arundel Hall at 3915  Campus  Dr"
 2022-00055414,07/28/22 18:31,07/28/22 18:31,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2022-00055515,07/29/22 01:15,07/29/22 01:15,CDS Violation,Arrest,Baltimore  Ave
 2022-00055630,07/27/22 16:15,07/29/22 12:04,Suspicious Activity,Active/Pending,"Laboratory for Telecommunication Sciences, LTS at 8118  Greenmead  Dr"
@@ -2026,8 +2028,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00055935,07/30/22 15:27,07/30/22 15:27,CDS Violation,Arrest,8700 block of  Boteler  Ln
 2022-00056036,07/31/22 00:47,07/31/22 00:47,CDS Violation,Arrest,Greenbelt  Rd
 2022-00056048,07/31/22 01:57,07/31/22 01:57,Injured/Sick Person,CBE,College  Ave
-2022-00056512,07/31/22 20:31,08/01/22 16:57,Other Incident,Active/Pending,"42, Tydings Hall at 7343  Preinkert  Dr"
+2022-00056285,05/03/22 12:00,07/31/22 22:24,Theft,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
+2022-00056512,07/31/22 20:31,08/01/22 16:57,Other Incident,CBE,"42, Tydings Hall at 7343  Preinkert  Dr"
+2022-00056634,07/29/22 17:00,08/02/22 11:19,Vandalism,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00056641,08/02/22 11:45,08/02/22 11:45,Injured/Sick Person,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
+2022-00056642,08/02/22 11:58,08/02/22 11:58,Fire,CBE,8000 block of  Greenmead  Dr
+2022-00056665,08/02/22 14:30,08/02/22 15:37,Assist Other Agency / Theft,CBE,8100 block of  Baltimore  Ave
+2022-00057072,08/04/22 06:50,08/04/22 06:53,Injured/Sick Person,CBE,"3, Service Building at 7757  Baltimore  Ave"
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
