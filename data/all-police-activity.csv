@@ -1985,7 +1985,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00052754,07/17/22 09:03,07/17/22 09:03,Assist Other Agency / Other,CBE,6700 block of  Baltimore  Ave
 2022-00053025,07/11/22 08:00,07/18/22 09:57,Theft,Active/Pending,"73, H.J. Patterson Hall, HJ Patterson Hall at 4065  Campus  Dr"
 2022-00053037,07/15/22 17:00,07/18/22 10:43,Vandalism,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
-2022-00053062,06/30/22 08:00,07/18/22 12:51,Vandalism,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
+2022-00053062,06/30/22 08:00,07/18/22 12:51,Vandalism,Investigation Pending,"35, McKeldin Library at 7649  Library  Ln"
 2022-00053129,07/18/22 17:13,07/18/22 17:13,Recovered Stolen Property,CBE,West Gate at 3841  Stadium  Dr
 2022-00053209,07/19/22 01:22,07/19/22 01:22,CDS Violation,Arrest,Baltimore  Ave
 2022-00053210,07/18/22 23:50,07/19/22 01:54,Assist Other Agency (Title IX Related) / Title IX Incident Non Criminal,CBE,4700 block of  Berwyn House  Rd
@@ -2003,8 +2003,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00053708,07/21/22 17:33,07/21/22 17:33,Assist Other Agency / Other,CBE,"Tawes, Tawes Hall at 7751  Alumni  Dr"
 2022-00054027,07/22/22 18:23,07/22/22 18:23,Injured/Sick Person,CBE,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
 2022-00054114,07/22/22 23:52,07/22/22 23:52,DWI/DUI,Arrest,Baltimore  Ave
-2022-00054252,06/01/19 00:00,07/23/22 12:48,Other Incident,Active/Pending,"College Park Fire Station, Company 12 at 8115  Baltimore  Ave"
-2022-00054266,07/23/22 13:30,07/23/22 14:09,Suspicious Person/Auto,Active/Pending,"Delta Gamma, Delta Gamma Sorority at 4518  Knox  Rd"
+2022-00054252,06/01/19 00:00,07/23/22 12:48,Other Incident,CBE,"College Park Fire Station, Company 12 at 8115  Baltimore  Ave"
+2022-00054266,07/23/22 13:30,07/23/22 14:09,Suspicious Person/Auto,CBE,"Delta Gamma, Delta Gamma Sorority at 4518  Knox  Rd"
 2022-00054268,07/23/22 04:25,07/23/22 14:26,Suspicious Activity,Active/Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2022-00054309,07/23/22 17:04,07/23/22 17:04,CDS Violation,Arrest,Baltimore  Ave
 2022-00054399,07/24/22 01:26,07/24/22 01:26,DWI/DUI,Arrest,Metzerott  Rd
@@ -2012,7 +2012,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00054457,07/24/22 09:20,07/24/22 09:28,Injured/Sick Person,CBE,Baltimore  Ave
 2022-00054598,07/24/22 22:59,07/24/22 22:59,Injured/Sick Person,CBE,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
 2022-00054618,07/25/22 00:09,07/25/22 00:09,CDS Violation,Arrest,Baltimore  Ave
-2022-00054714,07/25/22 11:18,07/25/22 11:09,Burglary,Arrest,"Phi Sigma Sigma Sorority, Phi Sigma Simga at 4531  College  Ave"
+2022-00054714,07/25/22 11:09,07/25/22 11:09,Burglary,Arrest,"Phi Sigma Sigma Sorority, Phi Sigma Simga at 4531  College  Ave"
 2022-00054850,07/26/22 00:17,07/26/22 00:17,DWI/DUI,Arrest,Baltimore  Ave
 2022-00054863,07/26/22 03:00,07/26/22 03:00,DWI/DUI,Arrest,University  Blvd
 2022-00054944,07/26/22 12:50,07/26/22 12:54,Indecent Exposure,Arrest,Baltimore  Ave
