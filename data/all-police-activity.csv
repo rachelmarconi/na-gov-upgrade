@@ -1925,7 +1925,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00045173,06/19/22 01:30,06/19/22 01:30,CDS Violation,Arrest,Baltimore  Ave
 2022-00045185,06/19/22 03:14,06/19/22 03:14,DWI/DUI,Arrest,Baltimore  Ave
 2022-00045424,06/20/22 03:01,06/20/22 03:01,Warrant/Summons Service,Arrest,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
-2022-00046035,06/13/22 16:00,06/22/22 13:55,Theft,Summons Issued,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
+2022-00046035,06/13/22 16:00,06/22/22 13:55,Theft,Arrest,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
 2022-00046270,06/23/22 13:21,06/23/22 13:21,CDS Violation,CBE,8200 block of  Boteler  Ln
 2022-00046316,06/17/22 16:00,06/23/22 19:12,Theft,Investigation Pending,Kim Engineering Building at 8228  Paint Branch  Dr
 2022-00046519,06/24/22 07:40,06/24/22 07:42,Injured/Sick Person,CBE,8100 block of  Boteler  Ln
@@ -2024,12 +2024,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00055414,07/28/22 18:31,07/28/22 18:31,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2022-00055515,07/29/22 01:15,07/29/22 01:15,CDS Violation,Arrest,Baltimore  Ave
 2022-00055630,07/27/22 16:15,07/29/22 12:04,Suspicious Activity,Active/Pending,"Laboratory for Telecommunication Sciences, LTS at 8118  Greenmead  Dr"
+2022-00055788,07/30/22 01:23,07/30/22 01:23,DWI/DUI,Arrest,Campus  Dr
 2022-00055911,07/30/22 13:15,07/30/22 13:16,Damage to State Property,CBE,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
 2022-00055935,07/30/22 15:27,07/30/22 15:27,CDS Violation,Arrest,8700 block of  Boteler  Ln
 2022-00056036,07/31/22 00:47,07/31/22 00:47,CDS Violation,Arrest,Greenbelt  Rd
 2022-00056048,07/31/22 01:57,07/31/22 01:57,Injured/Sick Person,CBE,College  Ave
 2022-00056285,05/03/22 12:00,07/31/22 22:24,Theft,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2022-00056303,07/31/22 23:44,07/31/22 23:44,DWI/DUI,Arrest,8400 block of  Baltimore  Ave
+2022-00056453,08/01/22 11:36,08/01/22 11:36,CDS Violation,Arrest,Lot Q
 2022-00056512,07/31/22 20:31,08/01/22 16:57,Other Incident,CBE,"42, Tydings Hall at 7343  Preinkert  Dr"
 2022-00056634,07/29/22 17:00,08/02/22 11:19,Vandalism,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00056641,08/02/22 11:45,08/02/22 11:45,Injured/Sick Person,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
@@ -2054,6 +2056,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00058794,08/11/22 23:41,08/11/22 23:41,Damage to State Property,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
 2022-00058906,08/11/22 16:00,08/12/22 11:19,Child Abuse/Neglect,Active/Pending,Lot BB
 2022-00058914,08/12/22 11:30,08/12/22 13:17,Theft from Auto,Active/Pending,Paint Branch  Dr
+2022-00059103,08/13/22 02:33,08/13/22 02:33,Assist Other Agency / Burglary,CBE,Bentleys at 7323  Baltimore  Ave
+2022-00059433,08/14/22 01:16,08/14/22 01:16,Warrant/Summons Service,Arrest,Baltimore  Ave
+2022-00059717,08/14/22 22:46,08/14/22 22:46,Alcohol Violation,Arrest,University  Blvd
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
