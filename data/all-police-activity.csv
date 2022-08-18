@@ -1705,7 +1705,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00027244,04/17/22 04:58,04/17/22 04:58,DWI/DUI,Arrest,Baltimore  Ave
 2022-00027384,04/17/22 19:31,04/17/22 19:31,Injured/Sick Person,CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2022-00027561,04/18/22 09:20,04/18/22 09:20,Emergency Petition,CBE,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
-2022-00027583,04/16/22 06:39,04/18/22 10:43,Telephone/EMail Misuse,Active/Pending,"Drazek Circle, UMGC at 346  Ehrensberger  Dr"
+2022-00027583,04/16/22 06:39,04/18/22 10:43,Telephone/EMail Misuse,CBE,"Drazek Circle, UMGC at 346  Ehrensberger  Dr"
 2022-00027593,04/18/22 11:20,04/18/22 11:51,Theft,Investigation Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2022-00027653,04/18/22 12:00,04/18/22 14:45,Theft,Active/Pending,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
 2022-00027933,04/19/22 13:30,04/19/22 14:32,Other Incident,CBE,"Alpha Delta Pi Sorority, Alpha Delti Pi at 4535  College  Ave"
@@ -2060,6 +2060,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00059433,08/14/22 01:16,08/14/22 01:16,Warrant/Summons Service,Arrest,Baltimore  Ave
 2022-00059717,08/14/22 22:46,08/14/22 22:46,Alcohol Violation,Arrest,University  Blvd
 2022-00060010,08/15/22 23:18,08/15/22 23:18,DWI/DUI,Arrest,University  Blvd
+2022-00060034,08/16/22 01:12,08/16/22 01:12,Recovered Stolen Property,Arrest,South Gate at 7567  Regents  Dr
+2022-00060135,08/15/22 22:30,08/16/22 12:53,Suspicious Activity,Active/Pending,4100 block of  Campus  Dr
+2022-00060272,08/17/22 00:15,08/17/22 00:15,DWI/DUI,Arrest,Regents  Dr
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
