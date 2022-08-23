@@ -1740,7 +1740,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00028975,04/23/22 14:00,04/23/22 14:08,Injured/Sick Person,CBE,"11, The Hall at 4656  Hotel  Dr"
 2022-00029031,04/23/22 20:48,04/23/22 20:48,Injured/Sick Person,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2022-00029102,04/24/22 04:11,04/24/22 04:11,Assist Other Agency / Check on the Welfare,CBE,3700 block of  Campus  Dr
-2022-00029133,04/23/22 21:00,04/24/22 08:05,Theft,Summons Issued,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
+2022-00029133,04/23/22 21:00,04/24/22 08:05,Theft,Arrest,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2022-00029182,04/24/22 03:54,04/24/22 10:30,Assist Other Agency / Burglary,Active/Pending,7500 block of  Rhode Island  Ave
 2022-00029224,04/24/22 12:31,04/24/22 12:31,Injured/Sick Person,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2022-00029227,04/24/22 12:40,04/24/22 12:52,Injured/Sick Person,CBE,La Plata Hall at 8160  La Plata  Dr
@@ -1984,7 +1984,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00052715,07/17/22 01:55,07/17/22 01:55,DWI/DUI,Arrest,Melbourne  Pl
 2022-00052754,07/17/22 09:03,07/17/22 09:03,Assist Other Agency / Other,CBE,6700 block of  Baltimore  Ave
 2022-00053025,07/11/22 08:00,07/18/22 09:57,Theft,Investigation Pending,"73, H.J. Patterson Hall, HJ Patterson Hall at 4065  Campus  Dr"
-2022-00053037,07/15/22 17:00,07/18/22 10:43,Vandalism,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2022-00053037,07/15/22 17:00,07/18/22 10:43,Vandalism,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2022-00053062,06/30/22 08:00,07/18/22 12:51,Vandalism,Investigation Pending,"35, McKeldin Library at 7649  Library  Ln"
 2022-00053129,07/18/22 17:13,07/18/22 17:13,Recovered Stolen Property,CBE,West Gate at 3841  Stadium  Dr
 2022-00053209,07/19/22 01:22,07/19/22 01:22,CDS Violation,Arrest,Baltimore  Ave
@@ -2045,6 +2045,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00057455,08/05/22 18:00,08/05/22 20:19,Damaged Property,CBE,1 Liberty Dam Rd
 2022-00057490,08/05/22 22:31,08/05/22 22:31,Injured/Sick Person,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
 2022-00057554,08/06/22 01:39,08/06/22 01:39,Injured/Sick Person,CBE,7300 block of  Baltimore  Ave
+2022-00057571,08/06/22 03:27,08/06/22 03:27,DWI/DUI,Arrest,Baltimore  Ave
 2022-00057586,08/06/22 07:00,08/06/22 08:10,Other Incident,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2022-00057984,08/05/22 17:00,08/08/22 10:46,Vandalism,Active/Pending,"11, The Hall at 4656  Hotel  Dr"
 2022-00058224,08/05/22 13:30,08/09/22 14:29,Burglary,Active/Pending,8100 block of  La Plata  Dr
@@ -2059,13 +2060,18 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00059103,08/13/22 02:33,08/13/22 02:33,Assist Other Agency / Burglary,CBE,Bentleys at 7323  Baltimore  Ave
 2022-00059433,08/14/22 01:16,08/14/22 01:16,Warrant/Summons Service,Arrest,Baltimore  Ave
 2022-00059717,08/14/22 22:46,08/14/22 22:46,Alcohol Violation,Arrest,University  Blvd
+2022-00059950,08/15/22 16:49,08/15/22 16:49,Recovered Stolen Property,Arrest,West Gate at 3841  Stadium  Dr
+2022-00059975,08/12/22 18:10,08/15/22 20:26,Theft,Active/Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
 2022-00060010,08/15/22 23:18,08/15/22 23:18,DWI/DUI,Arrest,University  Blvd
 2022-00060034,08/16/22 01:12,08/16/22 01:12,Recovered Stolen Property,Arrest,South Gate at 7567  Regents  Dr
 2022-00060082,08/16/22 08:58,08/16/22 08:58,Trespassing,Active/Pending,"Leonardtown #250, Leonardtown Community Center at 7559  Yale  Ave"
 2022-00060135,08/15/22 22:30,08/16/22 12:53,Suspicious Activity,Active/Pending,4100 block of  Campus  Dr
 2022-00060240,08/16/22 04:30,08/16/22 22:19,Damage to State Property,Active/Pending,Campus  Dr
 2022-00060272,08/17/22 00:15,08/17/22 00:15,DWI/DUI,Arrest,Regents  Dr
+2022-00060369,08/17/22 09:35,08/17/22 09:35,Trespassing,Active/Pending,3400 block of  Tulane  Dr
 2022-00060546,08/17/22 23:03,08/17/22 23:03,Warrant/Summons Service,Arrest,Baltimore  Ave
+2022-00061174,08/19/22 21:58,08/19/22 21:58,Assist Other Agency / Check on the Welfare,CBE,4300 block of  Knox  Rd
+2022-00061244,08/20/22 01:15,08/20/22 01:15,Warrant/Summons Service,Arrest,University  Blvd
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
