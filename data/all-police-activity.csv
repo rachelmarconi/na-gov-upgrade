@@ -1553,7 +1553,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00016246,03/10/22 15:27,03/10/22 17:38,Theft,Investigation Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00016250,03/10/22 18:04,03/10/22 18:04,Emergency Petition,CBE,"Leonardtown #247, Leonardtown at 4713  Rossborough  Ln"
 2022-00016255,03/02/22 00:01,03/10/22 19:16,Other Incident,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
-2022-00016280,03/10/22 06:15,03/10/22 23:04,Theft,Active/Pending,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
+2022-00016280,03/10/22 06:15,03/10/22 23:04,Theft,Unfounded,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2022-00016307,03/10/22 23:52,03/10/22 23:52,Injured/Sick Person,CBE,Knox  Rd
 2022-00016341,03/11/22 01:08,03/11/22 01:08,DWI/DUI,Arrest,Baltimore  Ave
 2022-00016348,03/11/22 01:16,03/11/22 01:16,CDS Violation,Arrest,Baltimore  Ave
@@ -2104,22 +2104,30 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00062761,08/25/22 21:22,08/25/22 21:22,Indecent Exposure,Active/Pending,"Dunkin Donuts, Landmark s at 4500  College  Ave"
 2022-00062790,08/25/22 23:07,08/25/22 23:07,Alcohol Violation,Arrest,Knox  Rd
 2022-00062809,08/25/22 23:47,08/25/22 23:47,Alcohol Violation,Arrest,Knox  Rd
+2022-00062822,08/26/22 00:16,08/26/22 00:16,Injured/Sick Person,CBE,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
 2022-00062842,08/26/22 01:42,08/26/22 01:42,Alcohol Violation,Arrest,College  Ave
 2022-00062860,08/26/22 01:50,08/26/22 02:07,Assist Other Agency / Assault,CBE,4300 block of  Hartwick  Rd
 2022-00063140,08/27/22 00:52,08/27/22 00:52,Other Incident,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2022-00063189,08/27/22 10:33,08/27/22 10:33,Injured/Sick Person,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
 2022-00063290,08/27/22 19:08,08/27/22 19:08,CDS Violation,CBE,7500 block of  Regents  Dr
 2022-00063320,08/27/22 21:22,08/27/22 22:44,Assist Other Agency / Other,CBE,8200 block of  Baltimore  Ave
 2022-00063342,08/28/22 00:17,08/28/22 00:17,Injured/Sick Person,CBE,4500 block of  Knox  Rd
+2022-00063344,08/28/22 00:38,08/28/22 00:38,DWI/DUI,Arrest,Greenbelt  Rd
+2022-00063345,08/28/22 00:38,08/28/22 00:38,DWI/DUI,Arrest,Baltimore  Ave
 2022-00063496,08/28/22 17:45,08/28/22 18:13,Injured/Sick Person,CBE,La Plata Hall at 8160  La Plata  Dr
 2022-00063512,08/28/22 19:00,08/28/22 20:00,Damage to State Property,CBE,Animal Science Building at 8127  Regents  Dr
 2022-00063527,08/28/22 20:30,08/28/22 20:35,Injured/Sick Person,CBE,"77, Main Admin, Main Administration Building, Thomas V. Miller Jr. Administration Building at 7901  Regents  Dr"
 2022-00063529,08/28/22 20:32,08/28/22 20:32,Other Incident,CBE,UMGC Hotel at 348  Ehrensberger  Dr
 2022-00063713,08/26/22 17:00,08/29/22 08:33,Theft,Active/Pending,Manufacturing Building at 8197  Regents  Dr
 2022-00063766,08/29/22 12:30,08/29/22 14:16,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2022-00063790,01/01/86 18:00,08/29/22 16:12,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00063805,08/29/22 17:27,08/29/22 17:27,Injured/Sick Person,CBE,436 at 4136  Stadium  Dr
 2022-00064006,08/29/22 14:00,08/30/22 10:10,Other Incident,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
 2022-00064061,08/30/22 11:40,08/30/22 11:50,Injured/Sick Person,CBE,Lot UU
 2022-00064081,08/30/22 12:43,08/30/22 12:43,Injured/Sick Person,CBE,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
+2022-00064247,08/31/22 00:35,08/31/22 00:35,Injured/Sick Person,CBE,4600 block of  Knox  Rd
+2022-00064602,09/01/22 07:46,09/01/22 07:46,Injured/Sick Person,CBE,Varsity Sports Teamhouse at 4117  Stadium  Dr
+2022-00064688,09/01/22 13:51,09/01/22 13:51,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
