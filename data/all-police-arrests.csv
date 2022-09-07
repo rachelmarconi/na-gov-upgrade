@@ -522,6 +522,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23518,08/16/22 01:35,2022-00060034,,Black,Male,Theft Less Than $100
 23519,08/17/22 00:30,2022-00060272,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 23541,08/18/22 12:00,2022-00026756,,Black,Male,"Motor Vehicle Theft/Unlawful Taking; Automobiles; Motor Vehicle Theft; Other Vehicles; Rogue and Vagabond; School Trespassing On Ground; THEFT: $1,500 TO UNDER $25,000"
+23546,08/18/22 13:47,2022-00060697,,White,Male,Suspicion - Arrested and Released without Charges
 23529,08/20/22 01:35,2022-00061245,,White,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23530,08/21/22 03:20,2022-00061571,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver changing lanes when unsafe; Driving veh. on hwy. at speed exceeding speed limit by 30 to 39 mph; Failure of driver to drive to curb upon signal by (emergency, police) veh.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23525,08/21/22 22:49,2022-00061759,,Black,Male,CDS:Possession Marijuana L/T 10 grams
@@ -535,10 +536,14 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23535,08/25/22 22:10,2022-00062790,,White,Male,Consuming/Possessing Open Alcoholic Beverage in Public; Underage Possession: Alcoholic Beverage
 23536,08/25/22 23:40,2022-00062809,,White,Female,Consuming/Possessing Open Alcoholic Beverage in Public
 23540,08/26/22 01:50,2022-00062842,,Asian/Pacific Islander,Male,Consuming/Possessing Open Alcoholic Beverage in Public
+23547,08/26/22 13:54,2022-00058914,,Black,Male,"THEFT: $100 TO UNDER $1,500"
 23539,08/26/22 14:22,2022-00061917,,White,Male,Indecent Exposure
+23548,08/27/22 03:46,2022-00063165,,White,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely; (Driving, Attempting to drive) veh. while under the influence of alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23544,08/27/22 23:32,2022-00063322,,Black,Female,CDS:Possession Marijuana L/T 10 grams
 23542,08/28/22 00:52,2022-00063344,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 23543,08/28/22 01:03,2022-00063345,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
+23549,09/02/22 01:01,2022-00064811,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Displaying expired registration plates(s) issued by any state; Driver fail to stop at steady circular red signal; Driver failure to obey properly placed traffic control device instructions; Knowingly driving uninsured vehicle; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Permitting veh. to be driven on hwy. w/o current registration and validation tabs issued by Adm; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
+23545,09/04/22 00:33,2022-00065382,,White,Female,CDS:Possession Marijuana L/T 10 grams
 ,,,,,,
 19959,01/01/15 02:46,2015-00000013,,,,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 19961,01/01/15 20:41,2015-00000101,26,Black,Male,"CDS: Possess Paraphernalia; CDS: Possession of Marijuana; CDS:Poss w/Intent to Distribute; Marijuana (Do not use for Narcotics: Crack, Cocaine, LSD or PCP)"
