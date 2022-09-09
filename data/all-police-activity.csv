@@ -2102,6 +2102,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00062373,08/24/22 11:30,08/24/22 11:53,Damage to State Property,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2022-00062376,08/24/22 12:24,08/24/22 12:24,Suspicious Person/Auto,CBE,7700 block of  Alumni  Dr
 2022-00062397,08/24/22 15:36,08/24/22 15:36,Injured/Sick Person,CBE,8200 block of  Paint Branch  Dr
+2022-00062554,08/25/22 01:33,08/25/22 01:33,DWI/DUI,Arrest,Navahoe  St
 2022-00062581,08/25/22 05:29,08/25/22 05:29,Other Incident,CBE,University Courtyard #5 at 8500  Boteler  Ln
 2022-00062648,08/25/22 12:48,08/25/22 12:48,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2022-00062761,08/25/22 21:22,08/25/22 21:22,Indecent Exposure,Active/Pending,"Dunkin Donuts, Landmark s at 4500  College  Ave"
@@ -2135,10 +2136,15 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00064081,08/30/22 12:43,08/30/22 12:43,Injured/Sick Person,CBE,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
 2022-00064247,08/31/22 00:35,08/31/22 00:35,Injured/Sick Person,CBE,4600 block of  Knox  Rd
 2022-00064411,08/31/22 14:00,08/31/22 14:41,Suspicious Activity,Active/Pending,"78, Armory, Reckord Armory at 4490  Rossborough  Ln"
+2022-00064412,08/31/22 10:40,08/31/22 14:50,Theft,Active/Pending,"Art Soc, Art Sociology Building, Art-Sociology Building, Parren J. Mitchell Art-Sociology Building at 3834  Campus  Dr"
+2022-00064441,08/31/22 16:39,08/31/22 16:39,Check on the  Welfare,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00064536,08/31/22 23:52,08/31/22 23:52,Suspicious Person/Auto,CBE,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176  Campus  Dr"
+2022-00064598,09/01/22 05:48,09/01/22 05:48,Warrant/Summons Service,Arrest,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176  Campus  Dr"
 2022-00064602,09/01/22 07:46,09/01/22 07:46,Injured/Sick Person,CBE,Varsity Sports Teamhouse at 4117  Stadium  Dr
 2022-00064656,09/01/22 07:19,09/01/22 11:42,Damage to State Property,CBE,S Interstate 95 / E Maryland Route 32
 2022-00064688,09/01/22 13:51,09/01/22 13:51,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
+2022-00064713,09/01/22 15:36,09/01/22 15:36,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
+2022-00064732,09/01/22 17:15,09/01/22 17:52,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00064747,09/01/22 20:18,09/01/22 20:18,Injured/Sick Person,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
 2022-00064811,09/02/22 00:36,09/02/22 00:36,DWI/DUI,Arrest,Baltimore  Ave
 2022-00064837,09/02/22 02:13,09/02/22 02:13,DWI/DUI,Arrest,University  Blvd
@@ -2157,6 +2163,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00065385,09/04/22 01:04,09/04/22 01:04,DWI/DUI,Arrest,University  Blvd
 2022-00065403,09/04/22 02:25,09/04/22 02:54,Trespassing,CBE,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
 2022-00065655,09/05/22 01:39,09/05/22 01:39,DWI/DUI,Arrest,University  Blvd
+2022-00065960,09/05/22 23:15,09/05/22 23:15,Emergency Petition,CBE,7500 block of  Rhode Island  Ave
+2022-00066199,09/03/22 18:00,09/06/22 22:13,Theft,Active/Pending,"Leonardtown #246, Leonardtown at 7575  Yale  Ave"
+2022-00066221,09/06/22 23:20,09/06/22 23:20,Emergency Petition,CBE,Johnson-Whittle Hall at 4118  Stadium  Dr
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
