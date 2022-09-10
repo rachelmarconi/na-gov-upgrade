@@ -2105,7 +2105,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00062554,08/25/22 01:33,08/25/22 01:33,DWI/DUI,Arrest,Navahoe  St
 2022-00062581,08/25/22 05:29,08/25/22 05:29,Other Incident,CBE,University Courtyard #5 at 8500  Boteler  Ln
 2022-00062648,08/25/22 12:48,08/25/22 12:48,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
-2022-00062761,08/25/22 21:22,08/25/22 21:22,Indecent Exposure,Active/Pending,"Dunkin Donuts, Landmark s at 4500  College  Ave"
+2022-00062761,08/25/22 21:22,08/25/22 21:22,Indecent Exposure,Summons Issued,"Dunkin Donuts, Landmark s at 4500  College  Ave"
 2022-00062790,08/25/22 23:07,08/25/22 23:07,Alcohol Violation,Arrest,Knox  Rd
 2022-00062798,08/25/22 23:22,08/25/22 23:21,Indecent Exposure (Title IX Related),Arrest,Knox  Rd
 2022-00062809,08/25/22 23:47,08/25/22 23:47,Alcohol Violation,Arrest,Knox  Rd
@@ -2122,15 +2122,17 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00063342,08/28/22 00:17,08/28/22 00:17,Injured/Sick Person,CBE,4500 block of  Knox  Rd
 2022-00063344,08/28/22 00:38,08/28/22 00:38,DWI/DUI,Arrest,Greenbelt  Rd
 2022-00063345,08/28/22 00:38,08/28/22 00:38,DWI/DUI,Arrest,Baltimore  Ave
+2022-00063455,08/23/22 12:00,08/28/22 11:51,Fraud,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2022-00063496,08/28/22 17:45,08/28/22 18:13,Injured/Sick Person,CBE,La Plata Hall at 8160  La Plata  Dr
 2022-00063512,08/28/22 19:00,08/28/22 20:00,Damage to State Property,CBE,Animal Science Building at 8127  Regents  Dr
 2022-00063527,08/28/22 20:30,08/28/22 20:35,Injured/Sick Person,CBE,"77, Main Admin, Main Administration Building, Thomas V. Miller Jr. Administration Building at 7901  Regents  Dr"
 2022-00063529,08/28/22 20:32,08/28/22 20:32,Other Incident,CBE,UMGC Hotel at 348  Ehrensberger  Dr
 2022-00063713,08/26/22 17:00,08/29/22 08:33,Theft,Active/Pending,Manufacturing Building at 8197  Regents  Dr
 2022-00063729,08/29/22 10:53,08/29/22 10:53,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
-2022-00063766,08/29/22 12:30,08/29/22 14:16,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2022-00063766,08/29/22 12:30,08/29/22 14:16,Theft,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2022-00063790,01/01/86 18:00,08/29/22 16:12,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00063805,08/29/22 17:27,08/29/22 17:27,Injured/Sick Person,CBE,436 at 4136  Stadium  Dr
+2022-00063809,08/10/22 11:04,08/29/22 17:34,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2022-00064006,08/29/22 14:00,08/30/22 10:10,Other Incident,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
 2022-00064061,08/30/22 11:40,08/30/22 11:50,Injured/Sick Person,CBE,Lot UU
 2022-00064081,08/30/22 12:43,08/30/22 12:43,Injured/Sick Person,CBE,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
@@ -2156,16 +2158,32 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00065030,09/02/22 16:46,09/02/22 16:46,Other Incident,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
 2022-00065091,09/02/22 17:00,09/02/22 22:29,Indecent Exposure (Title IX Related),Active/Pending,"81, Wind Tunnel Building at 8167  Paint Branch  Dr"
 2022-00065103,09/03/22 00:00,09/03/22 00:14,Other Incident,CBE,8100 block of  Boteler  Ln
+2022-00065111,09/03/22 00:30,09/03/22 01:02,Injured/Sick Person,CBE,4400 block of  Lehigh  Rd
 2022-00065139,09/03/22 04:35,09/03/22 04:35,Warrant/Summons Service,Arrest,University  Blvd
+2022-00065193,08/29/22 10:00,09/03/22 10:35,Injured/Sick Person,CBE,7000 block of  Preinkert  Dr
+2022-00065203,09/03/22 11:08,09/03/22 11:08,Injured/Sick Person,CBE,Johnson-Whittle Hall at 4118  Stadium  Dr
+2022-00065204,09/03/22 11:13,09/03/22 11:13,Injured/Sick Person,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
+2022-00065255,09/03/22 13:50,09/03/22 13:53,Injured/Sick Person,CBE,Alumni  Dr
 2022-00065275,09/03/22 12:15,09/03/22 15:30,Theft,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
+2022-00065340,09/03/22 20:00,09/03/22 21:54,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
 2022-00065348,09/03/22 22:25,09/03/22 22:25,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00065382,09/04/22 00:11,09/04/22 00:11,CDS Violation,Arrest,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
 2022-00065385,09/04/22 01:04,09/04/22 01:04,DWI/DUI,Arrest,University  Blvd
+2022-00065400,09/04/22 00:00,09/04/22 02:35,Injured/Sick Person,CBE,4000 block of  Stadium  Dr
 2022-00065403,09/04/22 02:25,09/04/22 02:54,Trespassing,CBE,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
+2022-00065511,09/03/22 13:00,09/04/22 12:07,Theft,Active/Pending,Lot 1d
+2022-00065578,09/04/22 18:40,09/04/22 18:50,Injured/Sick Person,CBE,436 at 4136  Stadium  Dr
 2022-00065655,09/05/22 01:39,09/05/22 01:39,DWI/DUI,Arrest,University  Blvd
 2022-00065960,09/05/22 23:15,09/05/22 23:15,Emergency Petition,CBE,7500 block of  Rhode Island  Ave
+2022-00066059,09/06/22 09:37,09/06/22 09:37,Injured/Sick Person,CBE,Fieldhouse  Dr
+2022-00066062,09/05/22 13:33,09/06/22 09:43,Hate Bias Incident,Active/Pending,4200 block of  Chapel  Ln
 2022-00066199,09/03/22 18:00,09/06/22 22:13,Theft,Active/Pending,"Leonardtown #246, Leonardtown at 7575  Yale  Ave"
 2022-00066221,09/06/22 23:20,09/06/22 23:20,Emergency Petition,CBE,Johnson-Whittle Hall at 4118  Stadium  Dr
+2022-00066230,09/07/22 00:35,09/07/22 00:35,Disorderly Conduct,Arrest,Baltimore  Ave
+2022-00066634,09/06/22 19:00,09/08/22 14:24,Theft from Auto,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2022-00066655,09/07/22 06:15,09/08/22 15:38,Theft,Active/Pending,"Wye Oak, Wye Oak Building at 4201  Landscape  Ln"
+2022-00066834,09/09/22 08:00,09/09/22 08:07,Emergency Petition,CBE,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
+2022-00066874,09/08/22 15:30,09/09/22 11:01,Theft,Active/Pending,3400 block of  Tulane  Dr
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
