@@ -2061,7 +2061,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00059433,08/14/22 01:16,08/14/22 01:16,Warrant/Summons Service,Arrest,Baltimore  Ave
 2022-00059717,08/14/22 22:46,08/14/22 22:46,Alcohol Violation,Arrest,University  Blvd
 2022-00059950,08/15/22 16:49,08/15/22 16:49,Recovered Stolen Property,Arrest,West Gate at 3841  Stadium  Dr
-2022-00059975,08/12/22 18:10,08/15/22 20:26,Theft,Active/Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
+2022-00059975,08/12/22 18:10,08/15/22 20:26,Theft,Investigation Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
 2022-00060010,08/15/22 23:18,08/15/22 23:18,DWI/DUI,Arrest,University  Blvd
 2022-00060034,08/16/22 01:12,08/16/22 01:12,Recovered Stolen Property,Arrest,South Gate at 7567  Regents  Dr
 2022-00060082,08/16/22 08:58,08/16/22 08:58,Trespassing,CBE,"Leonardtown #250, Leonardtown Community Center at 7559  Yale  Ave"
@@ -2230,6 +2230,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00068008,09/13/22 10:43,09/13/22 10:43,Theft,Arrest,"Frat 3, Tau Kappa Epsilon, Tau Kappa Epsilon Fraternity, TKE at 3  Fraternity  Row"
 2022-00068040,09/13/22 14:15,09/13/22 14:15,Injured/Sick Person,CBE,8200 block of  Alumni  Dr
 2022-00068041,09/13/22 14:28,09/13/22 14:28,Injured/Sick Person,CBE,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
+2022-00068059,08/25/22 08:00,09/13/22 15:59,Fraud,Active/Pending,3900 block of  Denton Service  Ln
 2022-00068070,09/12/22 15:00,09/13/22 17:03,Theft,Active/Pending,University Courtyard #4 at 8400  Boteler  Ln
 2022-00068145,09/13/22 23:09,09/13/22 23:09,CDS Violation,Arrest,Baltimore  Ave
 2022-00068149,09/13/22 23:07,09/13/22 23:07,Assault,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
@@ -2248,17 +2249,22 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00068829,09/15/02 22:06,09/16/22 03:49,Damage to State Property,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2022-00068859,09/16/22 05:18,09/16/22 05:18,Vandalism,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2022-00068978,09/16/22 14:00,09/16/22 16:07,Theft,Active/Pending,"83, J.M. Patterson Building, JM Patterson, JM Patterson Building at 4356  Stadium  Dr"
+2022-00068986,09/15/22 20:19,09/16/22 16:50,Extortion,Active/Pending,3800 block of  Stadium  Dr
+2022-00068999,09/15/22 14:00,09/16/22 17:37,Theft,Active/Pending,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
 2022-00069099,09/17/22 02:08,09/17/22 02:08,DWI/DUI,Arrest,Adelphi  Rd
 2022-00069102,09/07/22 01:25,09/17/22 02:20,Other Incident,CBE,6800 block of  Preinkert  Dr
 2022-00069104,09/17/22 02:35,09/17/22 02:42,Injured/Sick Person,CBE,"Cornerstone, Cornerstone Grill at 7325  Baltimore  Ave"
 2022-00069124,09/17/22 05:58,09/17/22 05:58,Damage to State Property,CBE,"PG3, SDG, Stadium Drive Garage, Stadium Drive Parking Garage at 4025  Stadium  Dr"
 2022-00069153,09/16/22 20:00,09/17/22 09:25,Stolen Motor Vehicle,Unfounded,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2022-00069213,09/17/22 01:45,09/17/22 15:51,Assist Other Agency / Assault,CBE,8000 block of  Baltimore  Ave
+2022-00069217,09/17/22 16:41,09/17/22 16:41,Warrant/Summons Service,Arrest,Campus  Dr
 2022-00069229,09/17/22 18:30,09/17/22 18:35,Injured/Sick Person,CBE,Knox  Rd
 2022-00069236,09/17/22 20:04,09/17/22 20:04,CDS Violation,Arrest,Admissions Welcome Center at 7777  Baltimore  Ave
 2022-00069240,09/17/22 19:45,09/17/22 20:18,Injured/Sick Person,CBE,"Capital One Field, Capital One Field at Maryland Stadium, Maryland Stadium, Stadium"
 2022-00069245,09/17/22 20:30,09/17/22 20:53,Damage to State Property,CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
+2022-00069247,09/17/22 21:05,09/17/22 21:04,Injured/Sick Person,CBE,Tyser Tower at 8197  Fieldhouse  Dr
 2022-00069251,09/17/22 21:49,09/17/22 21:49,Injured/Sick Person,CBE,8100 block of  La Plata  Dr
+2022-00069254,09/17/22 22:24,09/17/22 22:24,Injured/Sick Person,CBE,"Capital One Field, Capital One Field at Maryland Stadium, Maryland Stadium, Stadium"
 2022-00069307,09/18/22 02:19,09/18/22 02:21,Injured/Sick Person,CBE,"46, Marie Mount, Marie Mount Hall at 7814  Regents  Dr"
 2022-00069342,09/18/22 05:40,09/18/22 05:40,DWI/DUI,Arrest,Campus  Dr
 2022-00069513,09/18/22 20:00,09/18/22 20:16,Injured/Sick Person,CBE,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
@@ -2267,6 +2273,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00069748,09/19/22 18:00,09/19/22 18:29,Assist Other Agency / Check on the Welfare,CBE,8700 block of  Baltimore  Ave
 2022-00069750,09/19/22 18:39,09/19/22 18:39,Emergency Petition,CBE,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2022-00069763,09/15/22 20:00,09/19/22 20:32,Theft,Active/Pending,"Leonardtown #248, Leonardtown at 7567  Yale  Ave"
+2022-00069992,09/20/22 16:53,09/20/22 16:53,Emergency Petition,CBE,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
