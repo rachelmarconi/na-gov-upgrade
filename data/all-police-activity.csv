@@ -2249,6 +2249,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00068780,09/16/22 01:47,09/16/22 01:47,Assist Other Agency / Check on the Welfare,CBE,7300 block of  Baltimore  Ave
 2022-00068829,09/15/02 22:06,09/16/22 03:49,Damage to State Property,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2022-00068859,09/16/22 05:18,09/16/22 05:18,Vandalism,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
+2022-00068959,09/13/22 22:50,09/16/22 13:39,Assault,Active/Pending,4600 block of  Rossborough  Ln
 2022-00068978,09/16/22 14:00,09/16/22 16:07,Theft,Active/Pending,"83, J.M. Patterson Building, JM Patterson, JM Patterson Building at 4356  Stadium  Dr"
 2022-00068986,09/15/22 20:19,09/16/22 16:50,Extortion,Active/Pending,3800 block of  Stadium  Dr
 2022-00068999,09/15/22 14:00,09/16/22 17:37,Theft,Active/Pending,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
@@ -2278,6 +2279,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00069992,09/20/22 16:53,09/20/22 16:53,Emergency Petition,CBE,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
 2022-00070315,09/21/22 19:30,09/21/22 20:03,Injured/Sick Person,CBE,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176  Campus  Dr"
 2022-00070452,09/22/22 08:58,09/22/22 08:58,Other Incident,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
+2022-00070538,09/22/22 10:00,09/22/22 16:47,Damage to State Property,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2022-00070540,09/13/22 11:00,09/22/22 16:51,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
