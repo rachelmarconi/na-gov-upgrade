@@ -2286,6 +2286,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00070500,09/22/22 12:26,09/22/22 12:26,Assist Other Agency / Check on the Welfare,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00070538,09/22/22 10:00,09/22/22 16:47,Damage to State Property,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00070540,09/13/22 11:00,09/22/22 16:51,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
+2022-00070590,09/22/22 22:29,09/22/22 22:29,Alcohol Violation,Arrest,Princeton  Ave
 2022-00070646,09/23/22 00:45,09/23/22 00:56,Vandalism,Arrest,7400 block of  Baltimore  Ave
 2022-00070855,09/23/22 13:09,09/23/22 13:09,Check on the  Welfare,CBE,"Looney's Pub, The Varsity at 8150  Baltimore  Ave"
 2022-00070858,09/22/22 18:25,09/23/22 14:07,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
@@ -2305,7 +2306,15 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00071273,09/25/22 09:53,09/25/22 09:53,Injured/Sick Person,CBE,UMGC Hotel at 348  Ehrensberger  Dr
 2022-00071581,09/26/22 10:19,09/26/22 10:19,Injured/Sick Person,CBE,"Chesapeake, Chesapeake Building at 4300  Terrapin  Trl"
 2022-00071606,09/26/22 12:15,09/26/22 12:49,Injured/Sick Person,CBE,"Tawes, Tawes Hall at 7751  Alumni  Dr"
+2022-00071640,09/16/22 12:00,09/26/22 15:26,Theft,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2022-00071685,09/26/22 21:50,09/26/22 22:06,Injured/Sick Person,CBE,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
+2022-00071840,09/18/22 03:00,09/27/22 09:36,Assist Other Agency / Trespassing,CBE,4700 block of  College  Ave
+2022-00071865,09/26/22 10:15,09/27/22 12:21,Theft,Active/Pending,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
+2022-00071874,09/27/22 13:43,09/27/22 13:43,Assist Other Agency / Other,CBE,9200 block of  26th  Ave
+2022-00071886,09/27/22 15:17,09/27/22 15:17,Injured/Sick Person,Active/Pending,Lot Z
+2022-00071907,09/27/22 13:55,09/27/22 16:12,Theft,Active/Pending,"Microbiology, Microbiology Building at 4062  Campus  Dr"
+2022-00071972,09/27/22 19:06,09/27/22 19:06,Injured/Sick Person,CBE,3  Fraternity  Row
+2022-00072070,09/28/22 00:49,09/28/22 01:08,Assist Other Agency / Theft,CBE,"7-11 Berwyn, 7-Eleven Berwyn at 8600  Baltimore  Ave"
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
