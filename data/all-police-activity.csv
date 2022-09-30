@@ -2157,7 +2157,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00065026,09/02/22 16:22,09/02/22 16:22,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2022-00065027,09/02/22 16:17,09/02/22 16:17,CDS Violation,CBE,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2022-00065030,09/02/22 16:46,09/02/22 16:46,Other Incident,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
-2022-00065091,09/02/22 17:00,09/02/22 22:29,Indecent Exposure (Title IX Related),CBE,"81, Wind Tunnel Building at 8167  Paint Branch  Dr"
+2022-00065091,09/02/22 17:00,09/02/22 22:29,Indecent Exposure (Title IX Related),Investigation Pending,"81, Wind Tunnel Building at 8167  Paint Branch  Dr"
 2022-00065103,09/03/22 00:00,09/03/22 00:14,Other Incident,CBE,8100 block of  Boteler  Ln
 2022-00065111,09/03/22 00:30,09/03/22 01:02,Injured/Sick Person,CBE,4400 block of  Lehigh  Rd
 2022-00065139,09/03/22 04:35,09/03/22 04:35,Warrant/Summons Service,Arrest,University  Blvd
@@ -2180,7 +2180,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00065960,09/05/22 23:15,09/05/22 23:15,Emergency Petition,CBE,7500 block of  Rhode Island  Ave
 2022-00066059,09/06/22 09:37,09/06/22 09:37,Injured/Sick Person,CBE,Fieldhouse  Dr
 2022-00066062,09/05/22 13:33,09/06/22 09:43,Hate Bias Incident,Active/Pending,4200 block of  Chapel  Ln
-2022-00066199,09/03/22 18:00,09/06/22 22:13,Theft,Active/Pending,"Leonardtown #246, Leonardtown at 7575  Yale  Ave"
+2022-00066199,09/03/22 18:00,09/06/22 22:13,Theft,Investigation Pending,"Leonardtown #246, Leonardtown at 7575  Yale  Ave"
 2022-00066221,09/06/22 23:20,09/06/22 23:20,Emergency Petition,CBE,Johnson-Whittle Hall at 4118  Stadium  Dr
 2022-00066230,09/07/22 00:35,09/07/22 00:35,Disorderly Conduct,Arrest,Baltimore  Ave
 2022-00066383,09/04/22 07:00,09/07/22 16:27,Theft,Active/Pending,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
@@ -2203,7 +2203,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00067049,09/10/22 01:25,09/10/22 01:43,Injured/Sick Person,CBE,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
 2022-00067058,09/10/22 03:18,09/10/22 03:18,DWI/DUI,Arrest,University  Blvd
 2022-00067174,09/09/22 23:00,09/10/22 11:15,Suspicious Activity,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
-2022-00067176,09/10/22 11:39,09/10/22 11:31,CDS Violation,CBE,7500 block of  Mowatt  Ln
+2022-00067176,09/10/22 11:31,09/10/22 11:31,CDS Violation,CBE,7500 block of  Mowatt  Ln
 2022-00067184,09/10/22 12:20,09/10/22 12:25,Animal Complaint,CBE,"11, The Hall at 4656  Hotel  Dr"
 2022-00067193,09/10/22 14:42,09/10/22 14:42,Death Investigation,Active/Pending,436 at 4136  Stadium  Dr
 2022-00067195,09/09/22 20:00,09/10/22 15:59,Theft,Active/Pending,University Courtyard #4 at 8400  Boteler  Ln
