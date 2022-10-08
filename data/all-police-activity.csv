@@ -2193,11 +2193,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00066795,09/09/22 02:14,09/09/22 02:14,Rape,Active/Pending,8500 block of  Boteler  Ln
 2022-00066834,09/09/22 08:00,09/09/22 08:07,Emergency Petition,CBE,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
 2022-00066858,06/21/22 14:47,09/09/22 10:22,Assist Other Agency / Indecent Exposure,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
-2022-00066874,09/08/22 15:30,09/09/22 11:01,Theft,Active/Pending,3400 block of  Tulane  Dr
+2022-00066874,09/08/22 15:30,09/09/22 11:01,Theft,Investigation Pending,3400 block of  Tulane  Dr
 2022-00066902,09/09/22 14:33,09/09/22 14:33,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2022-00066905,09/09/22 14:56,09/09/22 14:56,Emergency Petition,CBE,279 at 4325  Rowalt  Dr
 2022-00066914,09/09/22 16:01,09/09/22 16:01,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
-2022-00066927,09/08/22 21:00,09/09/22 17:07,Theft,Active/Pending,Graduate Hills #291 at 3413  Tulane  Dr
+2022-00066927,09/08/22 21:00,09/09/22 17:07,Theft,Investigation Pending,Graduate Hills #291 at 3413  Tulane  Dr
 2022-00066962,09/09/22 09:45,09/09/22 20:19,Other Incident,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00066991,09/09/22 22:21,09/09/22 22:21,Injured/Sick Person,CBE,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
 2022-00067049,09/10/22 01:25,09/10/22 01:43,Injured/Sick Person,CBE,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
@@ -2231,7 +2231,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00068026,09/13/22 12:20,09/13/22 12:20,Injured/Sick Person,Active/Pending,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
 2022-00068040,09/13/22 14:15,09/13/22 14:15,Injured/Sick Person,CBE,8200 block of  Alumni  Dr
 2022-00068041,09/13/22 14:28,09/13/22 14:28,Injured/Sick Person,CBE,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
-2022-00068059,08/25/22 08:00,09/13/22 15:59,Fraud,Active/Pending,3900 block of  Denton Service  Ln
+2022-00068059,08/25/22 08:00,09/13/22 15:59,Fraud,CBE,3900 block of  Denton Service  Ln
 2022-00068070,09/12/22 15:00,09/13/22 17:03,Theft,Active/Pending,University Courtyard #4 at 8400  Boteler  Ln
 2022-00068145,09/13/22 23:09,09/13/22 23:09,CDS Violation,Arrest,Baltimore  Ave
 2022-00068149,09/13/22 23:07,09/13/22 23:07,Assault,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
@@ -2253,7 +2253,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00068959,09/13/22 22:50,09/16/22 13:39,Assault,Active/Pending,4600 block of  Rossborough  Ln
 2022-00068978,09/16/22 14:00,09/16/22 16:07,Theft,Active/Pending,"83, J.M. Patterson Building, JM Patterson, JM Patterson Building at 4356  Stadium  Dr"
 2022-00068986,09/15/22 20:19,09/16/22 16:50,Extortion,Active/Pending,3800 block of  Stadium  Dr
-2022-00068999,09/15/22 14:00,09/16/22 17:37,Theft,Investigation Pending,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
+2022-00068999,09/15/22 14:00,09/16/22 17:37,Theft,Active/Pending,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
 2022-00069099,09/17/22 02:08,09/17/22 02:08,DWI/DUI,Arrest,Adelphi  Rd
 2022-00069102,09/07/22 01:25,09/17/22 02:20,Other Incident,CBE,6800 block of  Preinkert  Dr
 2022-00069104,09/17/22 02:35,09/17/22 02:42,Injured/Sick Person,CBE,"Cornerstone, Cornerstone Grill at 7325  Baltimore  Ave"
@@ -2322,7 +2322,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00071865,09/26/22 10:15,09/27/22 12:21,Theft,Active/Pending,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2022-00071874,09/27/22 13:43,09/27/22 13:43,Assist Other Agency / Other,CBE,9200 block of  26th  Ave
 2022-00071886,09/27/22 15:17,09/27/22 15:17,Injured/Sick Person,Active/Pending,Lot Z
-2022-00071907,09/27/22 13:55,09/27/22 16:12,Theft,Active/Pending,"Microbiology, Microbiology Building at 4062  Campus  Dr"
+2022-00071907,09/27/22 13:55,09/27/22 16:12,Theft,Investigation Pending,"Microbiology, Microbiology Building at 4062  Campus  Dr"
 2022-00071972,09/27/22 19:06,09/27/22 19:06,Injured/Sick Person,CBE,3  Fraternity  Row
 2022-00071973,09/27/22 15:00,09/27/22 19:05,Theft,Active/Pending,"Architecture, Architecture Building at 3835  Campus  Dr"
 2022-00071995,09/27/22 20:51,09/27/22 20:51,Fraud,CBE,University Courtyard #5 at 8500  Boteler  Ln
@@ -2347,15 +2347,18 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00073019,09/30/22 19:18,09/30/22 19:18,Warrant/Summons Service,Arrest,University  Blvd
 2022-00073037,09/30/22 16:00,09/30/22 20:45,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2022-00073060,09/30/22 21:10,09/30/22 22:05,Found/Recovered Property,CBE,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
+2022-00073062,09/30/22 22:16,09/30/22 22:16,CDS Violation,Arrest,7500 block of  Calvert Service  Ln
 2022-00073127,10/01/22 01:30,10/01/22 02:39,Injured/Sick Person,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
 2022-00073275,10/01/22 19:06,10/01/22 19:06,Injured/Sick Person,CBE,7300 block of  Baltimore  Ave
 2022-00073297,10/01/22 21:41,10/01/22 21:41,Juvenile Offense,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2022-00073305,10/01/22 23:18,10/01/22 23:18,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
+2022-00073408,10/02/22 04:00,10/02/22 05:19,Dept Property Damage/Loss,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2022-00073548,10/02/22 15:30,10/02/22 15:40,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2022-00073570,09/08/22 18:00,10/02/22 17:59,Theft,Active/Pending,Cumberland Hall at 4250  Farm  Dr
 2022-00073581,10/02/22 18:25,10/02/22 18:32,Assault,Arrest,Energy Plant at 7743  Baltimore  Ave
 2022-00073582,10/02/22 16:30,10/02/22 18:36,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2022-00073584,10/02/22 19:30,10/02/22 19:58,Injured/Sick Person,CBE,"Dunkin Donuts, Landmark s at 4500  College  Ave"
+2022-00073604,10/02/22 17:00,10/02/22 23:12,Vandalism,Active/Pending,8200 block of  Paint Branch  Dr
 2022-00073619,10/02/22 23:53,10/02/22 23:53,CDS Violation,CBE,3900 block of  Denton Service  Ln
 2022-00073733,10/02/22 09:00,10/03/22 09:11,Other Incident,CBE,"Leonardtown #250, Leonardtown Community Center at 7559  Yale  Ave"
 2022-00073972,10/03/22 22:25,10/03/22 22:25,Injured/Sick Person,CBE,Fieldhouse  Dr
@@ -2364,6 +2367,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00074469,09/28/22 12:00,10/05/22 16:51,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2022-00074703,10/06/22 05:00,10/06/22 05:59,Injured/Sick Person,CBE,"College Park Fire Station, Company 12 at 8115  Baltimore  Ave"
 2022-00074705,10/06/22 06:09,10/06/22 06:09,Injured/Sick Person,CBE,Regents  Dr
+2022-00074989,10/07/22 00:05,10/07/22 01:35,Injured/Sick Person,CBE,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
