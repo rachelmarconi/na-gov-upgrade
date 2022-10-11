@@ -2206,13 +2206,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00067176,09/10/22 11:31,09/10/22 11:31,CDS Violation,CBE,7500 block of  Mowatt  Ln
 2022-00067184,09/10/22 12:20,09/10/22 12:25,Animal Complaint,CBE,"11, The Hall at 4656  Hotel  Dr"
 2022-00067193,09/10/22 14:42,09/10/22 14:42,Death Investigation,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
-2022-00067195,09/09/22 20:00,09/10/22 15:59,Theft,Active/Pending,University Courtyard #4 at 8400  Boteler  Ln
+2022-00067195,09/09/22 20:00,09/10/22 15:59,Theft,Investigation Pending,University Courtyard #4 at 8400  Boteler  Ln
 2022-00067197,09/10/22 16:36,09/10/22 16:36,Assist Other Agency / Check on the Welfare,CBE,4500 block of  College  Ave
 2022-00067210,09/08/22 13:45,09/10/22 17:39,Theft,Active/Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
 2022-00067277,09/11/22 00:31,09/11/22 00:31,Injured/Sick Person,CBE,4500 block of  Knox  Rd
 2022-00067326,09/11/22 04:13,09/11/22 04:13,Injured/Sick Person,CBE,7600 block of  Preinkert  Dr
 2022-00067375,09/11/22 11:15,09/11/22 11:15,Alarm,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
-2022-00067390,09/10/22 12:00,09/11/22 12:21,Suspicious Person/Auto,Active/Pending,4200 block of  Farm  Dr
+2022-00067390,09/10/22 12:00,09/11/22 12:21,Suspicious Person/Auto,Investigation Pending,4200 block of  Farm  Dr
 2022-00067391,09/11/22 12:21,09/11/22 12:21,Injured/Sick Person,CBE,Hagerstown  Dr
 2022-00067417,09/11/22 14:53,09/11/22 14:53,Injured/Sick Person,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2022-00067430,09/11/22 15:50,09/11/22 15:52,Assist Other Agency / Assault,CBE,7700 block of  Baltimore  Ave
@@ -2252,7 +2252,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00068859,09/16/22 05:18,09/16/22 05:18,Vandalism,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2022-00068959,09/13/22 22:50,09/16/22 13:39,Assault,Active/Pending,4600 block of  Rossborough  Ln
 2022-00068978,09/16/22 14:00,09/16/22 16:07,Theft,Active/Pending,"83, J.M. Patterson Building, JM Patterson, JM Patterson Building at 4356  Stadium  Dr"
-2022-00068986,09/15/22 20:19,09/16/22 16:50,Extortion,Active/Pending,3800 block of  Stadium  Dr
+2022-00068986,09/15/22 20:19,09/16/22 16:50,Extortion,CBE,3800 block of  Stadium  Dr
 2022-00068999,09/15/22 14:00,09/16/22 17:37,Theft,Active/Pending,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
 2022-00069099,09/17/22 02:08,09/17/22 02:08,DWI/DUI,Arrest,Adelphi  Rd
 2022-00069102,09/07/22 01:25,09/17/22 02:20,Other Incident,CBE,6800 block of  Preinkert  Dr
@@ -2304,7 +2304,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00071058,09/23/22 18:00,09/24/22 12:15,Theft,Active/Pending,University Courtyard #1 at 8100  Boteler  Ln
 2022-00071062,09/24/22 00:45,09/24/22 13:00,Assist Other Agency / Theft,CBE,7300 block of  Baltimore  Ave
 2022-00071073,09/24/22 14:45,09/24/22 14:45,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
-2022-00071075,09/24/22 13:00,09/24/22 15:20,Theft from Auto,Active/Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
+2022-00071075,09/24/22 13:00,09/24/22 15:20,Theft from Auto,Investigation Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2022-00071100,09/24/22 16:44,09/24/22 16:44,Assist Other Agency / Assault,CBE,"Alpha Chi Omega, Alpha Chi Omega Sorority at 4525  College  Ave"
 2022-00071166,09/24/22 22:20,09/24/22 22:20,DWI/DUI,Arrest,University  Blvd
 2022-00071187,09/25/22 00:55,09/25/22 01:05,Assault,Active/Pending,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
@@ -2324,7 +2324,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00071886,09/27/22 15:17,09/27/22 15:17,Injured/Sick Person,Active/Pending,Lot Z
 2022-00071907,09/27/22 13:55,09/27/22 16:12,Theft,Investigation Pending,"Microbiology, Microbiology Building at 4062  Campus  Dr"
 2022-00071972,09/27/22 19:06,09/27/22 19:06,Injured/Sick Person,CBE,3  Fraternity  Row
-2022-00071973,09/27/22 15:00,09/27/22 19:05,Theft,Active/Pending,"Architecture, Architecture Building at 3835  Campus  Dr"
+2022-00071973,09/27/22 15:00,09/27/22 19:05,Theft,Unfounded,"Architecture, Architecture Building at 3835  Campus  Dr"
 2022-00071995,09/27/22 20:51,09/27/22 20:51,Fraud,CBE,University Courtyard #5 at 8500  Boteler  Ln
 2022-00072070,09/28/22 00:49,09/28/22 01:08,Assist Other Agency / Theft,CBE,"7-11 Berwyn, 7-Eleven Berwyn at 8600  Baltimore  Ave"
 2022-00072165,09/28/22 08:36,09/28/22 08:36,Warrant/Summons Service,Arrest,"42, Tydings Hall at 7343  Preinkert  Dr"
@@ -2342,11 +2342,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00072759,09/30/22 01:25,09/30/22 01:25,CDS Violation,CBE,4200 block of  Farm  Dr
 2022-00072788,09/30/22 02:52,09/30/22 02:52,Injured/Sick Person,CBE,"51, Worcester, Worcester Hall at 7405  Preinkert  Dr"
 2022-00072896,09/29/22 16:00,09/30/22 09:34,Theft,Active/Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
-2022-00072911,09/29/22 21:00,09/30/22 10:57,Vandalism,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
+2022-00072911,09/29/22 21:00,09/30/22 10:57,Vandalism,Investigation Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2022-00072918,09/30/22 11:19,09/30/22 11:19,Injured/Sick Person,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00073019,09/30/22 19:18,09/30/22 19:18,Warrant/Summons Service,Arrest,University  Blvd
 2022-00073037,09/30/22 16:00,09/30/22 20:45,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
-2022-00073060,09/30/22 21:10,09/30/22 22:05,Found/Recovered Property,CBE,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
+2022-00073060,09/30/22 21:10,09/30/22 22:05,Found/Recovered Property,Unfounded,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
 2022-00073062,09/30/22 22:16,09/30/22 22:16,CDS Violation,Arrest,7500 block of  Calvert Service  Ln
 2022-00073127,10/01/22 01:30,10/01/22 02:39,Injured/Sick Person,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
 2022-00073275,10/01/22 19:06,10/01/22 19:06,Injured/Sick Person,CBE,7300 block of  Baltimore  Ave
