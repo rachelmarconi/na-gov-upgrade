@@ -2157,7 +2157,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00065026,09/02/22 16:22,09/02/22 16:22,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2022-00065027,09/02/22 16:17,09/02/22 16:17,CDS Violation,CBE,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2022-00065030,09/02/22 16:46,09/02/22 16:46,Other Incident,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
-2022-00065091,09/02/22 17:00,09/02/22 22:29,Indecent Exposure (Title IX Related),Active/Pending,"81, Wind Tunnel Building at 8167  Paint Branch  Dr"
+2022-00065091,09/02/22 17:00,09/02/22 22:29,Indecent Exposure (Title IX Related),Investigation Pending,"81, Wind Tunnel Building at 8167  Paint Branch  Dr"
 2022-00065103,09/03/22 00:00,09/03/22 00:14,Other Incident,CBE,8100 block of  Boteler  Ln
 2022-00065111,09/03/22 00:30,09/03/22 01:02,Injured/Sick Person,CBE,4400 block of  Lehigh  Rd
 2022-00065139,09/03/22 04:35,09/03/22 04:35,Warrant/Summons Service,Arrest,University  Blvd
@@ -2320,7 +2320,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00071685,09/26/22 21:50,09/26/22 22:06,Injured/Sick Person,CBE,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
 2022-00071687,09/26/22 22:05,09/26/22 22:21,Assist Other Agency / Assault,CBE,Campus Village at 8145  Baltimore  Ave
 2022-00071840,09/18/22 03:00,09/27/22 09:36,Assist Other Agency / Trespassing,CBE,4700 block of  College  Ave
-2022-00071865,09/26/22 10:15,09/27/22 12:21,Theft,Active/Pending,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
+2022-00071865,09/26/22 10:15,09/27/22 12:21,Theft,Investigation Pending,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2022-00071874,09/27/22 13:43,09/27/22 13:43,Assist Other Agency / Other,CBE,9200 block of  26th  Ave
 2022-00071886,09/27/22 15:17,09/27/22 15:17,Injured/Sick Person,Active/Pending,Lot Z
 2022-00071907,09/27/22 13:55,09/27/22 16:12,Theft,Investigation Pending,"Microbiology, Microbiology Building at 4062  Campus  Dr"
@@ -2407,7 +2407,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00076468,10/11/22 15:13,10/11/22 15:13,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
 2022-00076509,10/11/22 17:01,10/11/22 17:01,Emergency Petition,CBE,4200 block of  Farm  Dr
 2022-00076510,10/11/22 17:18,10/11/22 17:18,Injured/Sick Person,CBE,4200 block of  Farm  Dr
-2022-00076551,10/09/22 08:00,10/11/22 21:43,Hate Bias Incident,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
+2022-00076551,10/09/22 08:00,10/11/22 21:43,Hate Bias Incident,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2022-00076776,10/12/22 09:06,10/12/22 09:06,Trespassing,Arrest,285 at 4335  Rowalt  Dr
 2022-00076806,10/12/22 10:55,10/12/22 11:00,Injured/Sick Person,CBE,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176  Campus  Dr"
 2022-00076874,10/12/22 08:57,10/12/22 15:44,Lost Property,CBE,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
@@ -2445,6 +2445,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00078587,10/18/22 08:30,10/18/22 08:38,Injured/Sick Person,CBE,4200 block of  Farm  Dr
 2022-00078594,10/14/22 18:00,10/18/22 09:36,Vandalism,Active/Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2022-00078599,10/17/22 21:30,10/18/22 09:54,Assist Other Agency / Check on the Welfare,CBE,320 block of  23rd St
+2022-00078696,10/18/22 16:40,10/18/22 16:40,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
+2022-00078993,10/19/22 12:31,10/19/22 12:31,Fire,CBE,University  Blvd
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
