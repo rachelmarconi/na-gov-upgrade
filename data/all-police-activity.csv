@@ -1353,7 +1353,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00004807,01/23/22 01:19,01/23/22 01:19,DWI/DUI,Arrest,University  Blvd
 2022-00004809,01/23/22 01:30,01/23/22 01:36,Injured/Sick Person,CBE,8100 block of  Boteler  Ln
 2022-00004820,01/23/22 00:00,01/23/22 03:24,Suspicious Activity,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
-2022-00004881,01/22/22 19:15,01/23/22 10:37,Burglary,Summons Issued,3900 block of  Denton Service  Ln
+2022-00004881,01/22/22 19:15,01/23/22 10:37,Burglary,Arrest,3900 block of  Denton Service  Ln
 2022-00005097,01/24/22 01:09,01/24/22 01:09,Assault,Active/Pending,7000 block of  Preinkert  Dr
 2022-00005251,12/18/21 15:00,01/24/22 13:53,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2022-00005260,01/24/22 15:48,01/24/22 15:48,Injured/Sick Person,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
@@ -2382,7 +2382,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00074989,10/07/22 00:05,10/07/22 01:35,Injured/Sick Person,CBE,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2022-00075011,10/07/22 03:00,10/07/22 03:11,Alarm,Active/Pending,"Frat 2, Pi Kappa Alpha, Pi Kappa Alpha Fraternity at 2  Fraternity  Row"
 2022-00075089,10/05/22 09:50,10/07/22 10:25,Theft,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center at 4090  Union  Dr"
-2022-00075247,10/07/22 07:00,10/07/22 16:31,Vandalism,Active/Pending,Field Hockey & Women's Lacrosse Stadium at 8483  Paint Branch  Dr
+2022-00075247,10/07/22 07:00,10/07/22 16:31,Vandalism,Unfounded,Field Hockey & Women's Lacrosse Stadium at 8483  Paint Branch  Dr
 2022-00075248,10/06/22 18:00,10/07/22 16:23,Theft,Investigation Pending,University Courtyard #1 at 8100  Boteler  Ln
 2022-00075357,10/07/22 23:37,10/07/22 23:37,Injured/Sick Person,CBE,7300 block of  Baltimore  Ave
 2022-00075363,10/07/22 23:48,10/07/22 23:48,Injured/Sick Person,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
@@ -2467,6 +2467,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00079070,10/19/22 17:00,10/19/22 17:29,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00079250,10/20/22 02:30,10/20/22 02:30,DWI/DUI,Arrest,University  Blvd
 2022-00079272,10/20/22 05:45,10/20/22 05:45,Damage to State Property,Active/Pending,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
+2022-00079309,10/20/22 09:58,10/20/22 09:58,Resisting Arrest,Arrest,7500 block of  Baltimore  Ave
 2022-00079312,10/20/22 09:54,10/20/22 10:04,Assist Other Agency / Other,CBE,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
 2022-00079317,10/20/22 11:50,10/20/22 11:50,Damaged Property,Active/Pending,"6, Plant Operations & Maintenance Shops, WeWork at 7761  Diamondback  Dr"
 2022-00079319,10/20/22 12:20,10/20/22 12:37,Suspicious Person/Auto,Active/Pending,Lot 3
@@ -2474,6 +2475,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00079741,10/18/22 02:06,10/21/22 12:34,Other Incident,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00079752,10/21/22 13:26,10/21/22 13:26,Other Incident,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2022-00079759,10/21/22 14:22,10/21/22 14:22,Emergency Petition,CBE,"Kehoe Track, Kehoe Track at Ludwig Field, Ludwig Field at 7898  Championship  Ln"
+2022-00079970,10/20/22 22:00,10/21/22 22:18,Vandalism,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2022-00079980,10/21/22 22:40,10/21/22 22:40,Alcohol Violation,Arrest,North Gate at 4306  Campus  Dr
 2022-00079981,10/21/22 22:41,10/21/22 22:41,Injured/Sick Person,CBE,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
 2022-00080041,10/22/22 01:03,10/22/22 01:03,Injured/Sick Person,CBE,7600 block of  Preinkert  Dr
@@ -2516,7 +2518,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00081648,10/26/22 22:00,10/26/22 22:26,CDS Violation,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
 2022-00081707,10/27/22 00:24,10/27/22 00:24,Injured/Sick Person,CBE,McKeldin Mall
 2022-00081817,10/26/22 10:15,10/27/22 09:26,Injured Officer,Active/Pending,1500 block of  Signature Dr
+2022-00081827,10/27/22 10:00,10/27/22 10:00,Fire,CBE,Rhode Island  Ave
 2022-00081837,10/27/22 11:00,10/27/22 11:38,Assist Other Agency / Indecent Exposure,CBE,"College Park Metro, Metro at 7390  River  Rd"
+2022-00082046,10/27/22 23:45,10/27/22 23:50,Disorderly Conduct,Arrest,"7-11 Guilford, 7-Eleven Guilford at 7201  Baltimore  Ave"
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
