@@ -1688,7 +1688,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00026509,04/14/22 14:00,04/14/22 15:51,Theft,Warrant Issued,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2022-00026521,04/01/22 12:00,04/14/22 16:18,Theft,Unfounded,"Commons 2, SCC 2, South Campus Commons 2 at 7524  Calvert Service  Ln"
 2022-00026621,04/14/22 21:03,04/14/22 21:03,Injured/Sick Person,CBE,"35, McKeldin Library at 7649  Library  Ln"
-2022-00026629,04/13/22 22:00,04/14/22 21:40,Hate Bias Incident,Active/Pending,7000 block of  Preinkert  Dr
+2022-00026629,04/13/22 22:00,04/14/22 21:40,Hate Bias Incident,Investigation Pending,7000 block of  Preinkert  Dr
 2022-00026630,04/14/22 21:40,04/14/22 21:50,Suspicious Person/Auto,CBE,Cumberland Hall at 4250  Farm  Dr
 2022-00026650,04/14/22 23:09,04/14/22 23:09,CDS Violation,Arrest,Baltimore  Ave
 2022-00026679,04/15/22 01:43,04/15/22 01:43,Theft,Arrest,"Capital One Field, Football Stadium, SECU Stadium"
@@ -1750,7 +1750,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00029344,04/24/22 23:23,04/24/22 23:23,DWI/DUI,Arrest,Greenbelt  Rd
 2022-00029479,04/25/22 10:45,04/25/22 10:45,Fire,CBE,7900 block of  Regents  Dr
 2022-00029515,04/24/22 15:00,04/25/22 12:34,Other Incident,CBE,University Courtyard Clubhouse at 8000  Boteler  Ln
-2022-00029520,04/25/22 02:00,04/25/22 13:02,Extortion,Active/Pending,4300 block of  Knox  Rd
+2022-00029520,04/25/22 02:00,04/25/22 13:02,Extortion,Investigation Pending,4300 block of  Knox  Rd
 2022-00029558,04/21/22 15:00,04/25/22 16:18,Theft,Active/Pending,"28, Howard, Howard Hall at 4296  Lehigh  Rd"
 2022-00029565,04/25/22 17:06,04/25/22 17:06,CDS Violation,Arrest,7200 block of  Baltimore  Ave
 2022-00029607,10/15/21 12:00,04/25/22 20:36,Theft from Auto,Investigation Pending,"Seneca Building, UC Center, University Centre at 4716  Pontiac  St"
@@ -2166,7 +2166,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00065204,09/03/22 11:13,09/03/22 11:13,Injured/Sick Person,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
 2022-00065255,09/03/22 13:50,09/03/22 13:53,Injured/Sick Person,CBE,Alumni  Dr
 2022-00065275,09/03/22 12:15,09/03/22 15:30,Theft,Investigation Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
-2022-00065277,09/01/22 17:15,09/03/22 15:32,Extortion,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2022-00065277,09/01/22 17:15,09/03/22 15:32,Extortion,Investigation Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2022-00065340,09/03/22 20:00,09/03/22 21:54,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
 2022-00065348,09/03/22 22:25,09/03/22 22:25,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00065382,09/04/22 00:11,09/04/22 00:11,CDS Violation,Arrest,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
@@ -2226,7 +2226,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00067688,09/02/22 14:30,09/12/22 14:37,Theft,Investigation Pending,Baltimore  Ave
 2022-00067696,09/12/22 14:51,09/12/22 15:52,Extortion (Title IX Related),CBE,7400 block of  Preinkert  Dr
 2022-00067715,09/12/22 17:18,09/12/22 17:18,Recovered Stolen Motor Vehicle,Arrest,Metzerott  Rd
-2022-00067723,09/12/22 17:00,09/12/22 18:48,Theft,Warrant Issued,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2022-00067723,09/12/22 17:00,09/12/22 18:48,Theft,Arrest,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00068008,09/13/22 10:43,09/13/22 10:43,Theft,Arrest,"Frat 3, Tau Kappa Epsilon, Tau Kappa Epsilon Fraternity, TKE at 3  Fraternity  Row"
 2022-00068026,09/13/22 12:20,09/13/22 12:20,Injured/Sick Person,Active/Pending,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
 2022-00068040,09/13/22 14:15,09/13/22 14:15,Injured/Sick Person,CBE,8200 block of  Alumni  Dr
@@ -2307,7 +2307,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00071075,09/24/22 13:00,09/24/22 15:20,Theft from Auto,Investigation Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2022-00071100,09/24/22 16:44,09/24/22 16:44,Assist Other Agency / Assault,CBE,"Alpha Chi Omega, Alpha Chi Omega Sorority at 4525  College  Ave"
 2022-00071166,09/24/22 22:20,09/24/22 22:20,DWI/DUI,Arrest,University  Blvd
-2022-00071187,09/25/22 00:55,09/25/22 01:05,Assault,Active/Pending,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
+2022-00071187,09/25/22 00:55,09/25/22 01:05,Assault,Arrest,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
 2022-00071197,09/25/22 03:11,09/25/22 03:11,DWI/DUI,Arrest,University  Blvd
 2022-00071273,09/25/22 09:53,09/25/22 09:53,Injured/Sick Person,CBE,UMGC Hotel at 348  Ehrensberger  Dr
 2022-00071423,09/25/22 20:45,09/25/22 20:45,Indecent Exposure (Title IX Related),Arrest,7600 block of  Library  Ln
@@ -2403,6 +2403,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00076273,10/10/22 21:09,10/10/22 21:11,Trespassing,Active/Pending,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
 2022-00076274,10/10/22 21:38,10/10/22 21:38,Disorderly Conduct,Arrest,4500 block of  College  Ave
 2022-00076275,10/10/22 22:00,10/10/22 22:14,Title IX Incident Non Criminal,Active/Pending,3900 block of  Campus  Dr
+2022-00076419,10/10/22 18:00,10/11/22 09:54,Title IX Incident Non Criminal,Active/Pending,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
 2022-00076445,10/07/22 18:30,10/11/22 12:13,Theft,Investigation Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2022-00076449,10/11/22 12:42,10/11/22 12:42,Other Incident,CBE,Fieldhouse  Dr
 2022-00076468,10/11/22 15:13,10/11/22 15:13,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
@@ -2433,7 +2434,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00077638,10/15/22 01:02,10/15/22 01:02,Assault,Active/Pending,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
 2022-00077669,10/15/22 03:38,10/15/22 03:38,Other Incident,CBE,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
 2022-00077725,10/15/22 09:24,10/15/22 09:29,Recovered Stolen Motor Vehicle,CBE,Dartmouth  Ave
-2022-00077730,10/14/22 16:30,10/15/22 10:14,Recovered Stolen Motor Vehicle,Active/Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2022-00077730,10/14/22 16:30,10/15/22 10:14,Recovered Stolen Motor Vehicle,Investigation Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2022-00077899,10/16/22 00:14,10/16/22 00:14,Vandalism,Active/Pending,4300 block of  Knox  Rd
 2022-00077912,10/16/22 01:17,10/16/22 01:17,Injured/Sick Person,CBE,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
 2022-00077990,10/16/22 07:58,10/16/22 07:58,DWI/DUI,Arrest,Regents  Dr
@@ -2472,7 +2473,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00079317,10/20/22 11:50,10/20/22 11:50,Damaged Property,Active/Pending,"6, Plant Operations & Maintenance Shops, WeWork at 7761  Diamondback  Dr"
 2022-00079319,10/20/22 12:20,10/20/22 12:37,Suspicious Person/Auto,Active/Pending,Lot 3
 2022-00079695,10/21/22 08:55,10/21/22 08:58,Injured/Sick Person,CBE,"9, Chapel, Memorial Chapel at 7744  Regents  Dr"
-2022-00079741,10/18/22 02:06,10/21/22 12:34,Other Incident,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2022-00079741,10/18/22 02:06,10/21/22 12:34,Other Incident,Arrest,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00079752,10/21/22 13:26,10/21/22 13:26,Other Incident,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2022-00079759,10/21/22 14:22,10/21/22 14:22,Emergency Petition,CBE,"Kehoe Track, Kehoe Track at Ludwig Field, Ludwig Field at 7898  Championship  Ln"
 2022-00079970,10/20/22 22:00,10/21/22 22:18,Vandalism,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
@@ -2520,7 +2521,18 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00081817,10/26/22 10:15,10/27/22 09:26,Injured Officer,Active/Pending,1500 block of  Signature Dr
 2022-00081827,10/27/22 10:00,10/27/22 10:00,Fire,CBE,Rhode Island  Ave
 2022-00081837,10/27/22 11:00,10/27/22 11:38,Assist Other Agency / Indecent Exposure,CBE,"College Park Metro, Metro at 7390  River  Rd"
+2022-00082030,10/27/22 23:18,10/27/22 23:18,Injured/Sick Person,CBE,7400 block of  Baltimore  Ave
 2022-00082046,10/27/22 23:45,10/27/22 23:50,Disorderly Conduct,Arrest,"7-11 Guilford, 7-Eleven Guilford at 7201  Baltimore  Ave"
+2022-00082082,10/28/22 01:15,10/28/22 01:45,Injured/Sick Person,CBE,7300 block of  Baltimore  Ave
+2022-00082264,10/27/22 15:00,10/28/22 11:32,Assist Other Agency / Theft,CBE,8200 block of  Baltimore  Ave
+2022-00082428,10/28/22 21:24,10/28/22 21:42,Injured/Sick Person,Active/Pending,University  Blvd
+2022-00082429,10/28/22 21:44,10/28/22 21:44,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
+2022-00082492,10/29/22 00:08,10/29/22 00:08,DWI/DUI,Arrest,4300 block of  Hartwick  Rd
+2022-00082498,10/29/22 01:17,10/29/22 01:17,Injured/Sick Person,CBE,8000 block of  Hagerstown  Dr
+2022-00082778,10/29/22 21:44,10/29/22 21:44,Injured/Sick Person,CBE,7400 block of  Baltimore  Ave
+2022-00082784,10/29/22 22:15,10/29/22 22:15,Injured/Sick Person,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2022-00082886,10/30/22 02:10,10/30/22 02:10,Injured/Sick Person,CBE,Baltimore  Ave
+2022-00083221,10/31/22 07:30,10/31/22 07:48,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
