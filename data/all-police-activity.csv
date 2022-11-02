@@ -2208,7 +2208,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00067193,09/10/22 14:42,09/10/22 14:42,Death Investigation,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
 2022-00067195,09/09/22 20:00,09/10/22 15:59,Theft,Investigation Pending,University Courtyard #4 at 8400  Boteler  Ln
 2022-00067197,09/10/22 16:36,09/10/22 16:36,Assist Other Agency / Check on the Welfare,CBE,4500 block of  College  Ave
-2022-00067210,09/08/22 13:45,09/10/22 17:39,Theft,Active/Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
+2022-00067210,09/08/22 13:45,09/10/22 17:39,Theft,Summons Issued,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
 2022-00067277,09/11/22 00:31,09/11/22 00:31,Injured/Sick Person,CBE,4500 block of  Knox  Rd
 2022-00067326,09/11/22 04:13,09/11/22 04:13,Injured/Sick Person,CBE,7600 block of  Preinkert  Dr
 2022-00067375,09/11/22 11:15,09/11/22 11:15,Alarm,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
@@ -2289,7 +2289,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00070458,09/21/22 20:30,09/22/22 09:26,Theft from Auto,Active/Pending,University Courtyard #5 at 8500  Boteler  Ln
 2022-00070500,09/22/22 12:26,09/22/22 12:26,Assist Other Agency / Check on the Welfare,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00070538,09/22/22 10:00,09/22/22 16:47,Damage to State Property,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
-2022-00070540,09/13/22 11:00,09/22/22 16:51,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
+2022-00070540,09/13/22 11:00,09/22/22 16:51,Theft,CBE,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2022-00070590,09/22/22 22:29,09/22/22 22:29,Alcohol Violation,Arrest,Princeton  Ave
 2022-00070646,09/23/22 00:45,09/23/22 00:56,Vandalism,Arrest,815 at 7401  Baltimore  Ave
 2022-00070855,09/23/22 13:09,09/23/22 13:09,Check on the  Welfare,CBE,"Looney's Pub, The Varsity at 8150  Baltimore  Ave"
