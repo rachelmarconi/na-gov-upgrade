@@ -2471,6 +2471,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00079309,10/20/22 09:58,10/20/22 09:58,Resisting Arrest,Arrest,7500 block of  Baltimore  Ave
 2022-00079312,10/20/22 09:54,10/20/22 10:04,Assist Other Agency / Other,CBE,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
 2022-00079317,10/20/22 11:50,10/20/22 11:50,Damaged Property,Active/Pending,"6, Plant Operations & Maintenance Shops, WeWork at 7761  Diamondback  Dr"
+2022-00079318,10/20/22 11:00,10/20/22 12:43,Hate Bias Incident,CBE,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
 2022-00079319,10/20/22 12:20,10/20/22 12:37,Suspicious Person/Auto,Active/Pending,Lot 3
 2022-00079695,10/21/22 08:55,10/21/22 08:58,Injured/Sick Person,CBE,"9, Chapel, Memorial Chapel at 7744  Regents  Dr"
 2022-00079741,10/18/22 02:06,10/21/22 12:34,Other Incident,Arrest,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
@@ -2529,7 +2530,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00082429,10/28/22 21:44,10/28/22 21:44,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
 2022-00082492,10/29/22 00:08,10/29/22 00:08,DWI/DUI,Arrest,4300 block of  Hartwick  Rd
 2022-00082498,10/29/22 01:17,10/29/22 01:17,Injured/Sick Person,CBE,8000 block of  Hagerstown  Dr
-2022-00082517,10/29/22 02:38,10/29/22 02:38,Assist Other Agency / Weapon Violation,Active/Pending,4500 block of  College  Ave
+2022-00082517,10/29/22 02:38,10/29/22 02:38,Assist Other Agency / Weapon Violation,Warrant Issued,4500 block of  College  Ave
 2022-00082638,10/29/22 01:00,10/29/22 11:24,Assist Other Agency / Sex Offense,CBE,Baltimore  Ave
 2022-00082778,10/29/22 21:44,10/29/22 21:44,Injured/Sick Person,CBE,7400 block of  Baltimore  Ave
 2022-00082784,10/29/22 22:15,10/29/22 22:15,Injured/Sick Person,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
@@ -2541,8 +2542,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00083336,10/31/22 14:00,10/31/22 15:34,Robbery,Active/Pending,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
 2022-00083376,10/29/22 01:22,10/31/22 20:21,Extortion (Title IX Related),Active/Pending,4000 block of  Stadium  Dr
 2022-00083408,10/31/22 22:46,10/31/22 23:50,Suspicious Activity (Title IX Related),Active/Pending,4700 block of  Rossborough  Ln
+2022-00083516,10/27/22 10:00,11/01/22 09:38,Damage to State Property,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2022-00083582,11/01/22 14:58,11/01/22 14:58,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2022-00083619,11/01/22 16:30,11/01/22 18:58,Theft,Active/Pending,Lot R3
+2022-00083823,11/02/22 12:15,11/02/22 12:15,Animal Complaint,CBE,"President's Residence, University House at 8150  Presidential  Dr"
+2022-00083904,11/02/02 20:24,11/02/22 20:24,Warrant/Summons Service,CBE,"11, The Hall at 4656  Hotel  Dr"
+2022-00083918,11/02/22 13:00,11/02/22 22:54,Vandalism,Active/Pending,7900 block of  Ehrensberger  Dr
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
