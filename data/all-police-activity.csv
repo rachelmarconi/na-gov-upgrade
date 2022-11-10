@@ -2493,6 +2493,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00080274,10/22/22 17:59,10/22/22 17:59,Injured/Sick Person,CBE,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
 2022-00080278,10/22/22 13:30,10/22/22 18:29,Theft from Auto,Active/Pending,Golf Course Parking Lot
 2022-00080286,10/22/22 20:33,10/22/22 20:33,Injured/Sick Person,CBE,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
+2022-00080289,10/22/22 20:54,10/22/22 20:54,Assist Other Agency / Assault,CBE,"Sigma Delta Tau, Sigma Delta Tau Sorority at 4516  Knox  Rd"
 2022-00080314,10/22/22 22:43,10/22/22 22:43,Assault,Active/Pending,"Sigma Delta Tau, Sigma Delta Tau Sorority at 4516  Knox  Rd"
 2022-00080315,10/22/22 22:30,10/22/22 22:49,Assist Other Agency / Assault,CBE,7300 block of  River  Rd
 2022-00080326,10/22/22 23:00,10/22/22 23:46,Disorderly Conduct,Arrest,"Drazek Circle, UMGC at 346  Ehrensberger  Dr"
@@ -2558,6 +2559,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00083900,11/02/22 15:00,11/02/22 20:10,Theft,Active/Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
 2022-00083904,11/02/02 20:24,11/02/22 20:24,Warrant/Summons Service,CBE,"11, The Hall at 4656  Hotel  Dr"
 2022-00083918,11/02/22 13:00,11/02/22 22:54,Vandalism,Active/Pending,7900 block of  Ehrensberger  Dr
+2022-00084100,11/03/22 14:02,11/03/22 14:09,Emergency Petition,CBE,3900 block of  Campus  Dr
 2022-00084172,11/03/22 21:29,11/03/22 21:29,CDS Violation,Arrest,University  Blvd
 2022-00084340,10/31/22 19:03,11/04/22 10:03,Check on the  Welfare,CBE,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2022-00084344,11/03/22 13:45,11/04/22 11:21,Theft,Active/Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
@@ -2571,9 +2573,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00084502,11/04/22 21:45,11/05/22 00:23,Theft,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2022-00084581,11/05/22 03:18,11/05/22 03:18,Assist Other Agency / Domestic,CBE,9000 block of  Baltimore  Ave
 2022-00084752,11/05/22 15:20,11/05/22 15:27,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2022-00084816,09/16/22 00:00,11/05/22 19:03,Other Incident,CBE,7700 block of  Adelphi  Rd
 2022-00084892,11/06/22 00:40,11/06/22 00:40,Emergency Petition,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2022-00085169,11/06/22 20:41,11/06/22 20:41,Injured/Sick Person,CBE,4600 block of  Norwich  Rd
 2022-00085257,11/07/22 00:21,11/07/22 00:21,Injured/Sick Person,CBE,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
+2022-00085790,11/08/22 13:31,11/08/22 13:31,Injured/Sick Person,CBE,4200 block of  Valley  Dr
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
