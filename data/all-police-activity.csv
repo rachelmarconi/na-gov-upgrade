@@ -2559,7 +2559,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00083899,11/02/22 20:05,11/02/22 20:05,CDS Violation,CBE,Lot LL5
 2022-00083900,11/02/22 15:00,11/02/22 20:10,Theft,Active/Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
 2022-00083904,11/02/02 20:24,11/02/22 20:24,Warrant/Summons Service,CBE,"11, The Hall at 4656  Hotel  Dr"
-2022-00083918,11/02/22 13:00,11/02/22 22:54,Theft,Active/Pending,7900 block of  Ehrensberger  Dr
+2022-00083918,11/02/22 13:00,11/02/22 22:54,Theft,Investigation Pending,7900 block of  Ehrensberger  Dr
 2022-00084100,11/03/22 14:02,11/03/22 14:09,Emergency Petition,CBE,3900 block of  Campus  Dr
 2022-00084172,11/03/22 21:29,11/03/22 21:29,CDS Violation,Arrest,University  Blvd
 2022-00084340,10/31/22 19:03,11/04/22 10:03,Check on the  Welfare,CBE,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
@@ -2575,6 +2575,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00084581,11/05/22 03:18,11/05/22 03:18,Assist Other Agency / Domestic,CBE,9000 block of  Baltimore  Ave
 2022-00084752,11/05/22 15:20,11/05/22 15:27,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2022-00084816,09/16/22 00:00,11/05/22 19:03,Other Incident,CBE,7700 block of  Adelphi  Rd
+2022-00084882,11/05/22 00:00,11/06/22 00:29,Vandalism,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2022-00084892,11/06/22 00:40,11/06/22 00:40,Emergency Petition,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2022-00084902,11/06/22 01:34,11/06/22 01:34,Assist Other Agency / Theft,CBE,7300 block of  Baltimore  Ave
 2022-00085035,11/06/22 11:38,11/06/22 11:38,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
@@ -2588,10 +2589,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00085499,11/04/22 14:00,11/07/22 14:17,Theft,Active/Pending,8500 block of  Boteler  Ln
 2022-00085504,11/07/22 14:30,11/07/22 14:37,Suspicious Person/Auto,CBE,4200 block of  Campus  Dr
 2022-00085541,11/07/22 14:00,11/07/22 18:23,Theft,Active/Pending,"Hornbake, Hornbake Library at 4130  Campus  Dr"
+2022-00085560,11/07/22 19:21,11/07/22 19:21,Theft,Investigation Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2022-00085771,11/08/22 11:02,11/08/22 11:02,Assist Other Agency / Other,CBE,8100 block of  Baltimore  Ave
 2022-00085773,11/08/22 08:30,11/08/22 11:23,Theft,Active/Pending,"Bio Psych, Biology-Psychology Building at 4094  Campus  Dr"
 2022-00085790,11/08/22 13:31,11/08/22 13:31,Injured/Sick Person,CBE,4200 block of  Valley  Dr
 2022-00086279,11/09/22 19:10,11/09/22 19:10,CDS Violation,CBE,3900 block of  Denton Service  Ln
+2022-00086285,11/09/22 14:00,11/09/22 19:42,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2022-00086286,11/09/22 19:49,11/09/22 19:49,Warrant/Summons Service,Arrest,Baltimore  Ave
 2022-00086297,11/09/22 22:49,11/09/22 22:49,Emergency Petition,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2022-00086397,11/10/22 06:45,11/10/22 06:45,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
