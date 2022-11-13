@@ -2506,7 +2506,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00080731,10/24/22 04:45,10/24/22 04:45,Injured/Sick Person,CBE,8700 block of  Boteler  Ln
 2022-00080833,08/05/22 12:00,10/24/22 11:55,Lost Property,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00080840,10/24/22 10:45,10/24/22 12:25,Assist Other Agency / Assault,CBE,8600 block of  Baltimore  Ave
-2022-00080906,10/23/22 01:30,10/24/22 16:32,Theft,Active/Pending,3400 block of  Tulane  Dr
+2022-00080906,10/23/22 01:30,10/24/22 16:32,Theft,CBE,3400 block of  Tulane  Dr
 2022-00080985,10/24/22 21:42,10/24/22 21:42,Injured/Sick Person,CBE,8100 block of  La Plata  Dr
 2022-00080990,10/24/22 20:00,10/24/22 22:23,Injured/Sick Person,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
 2022-00081065,10/25/22 02:00,10/25/22 02:00,Extortion,Active/Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
@@ -2590,6 +2590,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00085504,11/07/22 14:30,11/07/22 14:37,Suspicious Person/Auto,CBE,4200 block of  Campus  Dr
 2022-00085541,11/07/22 14:00,11/07/22 18:23,Theft,Active/Pending,"Hornbake, Hornbake Library at 4130  Campus  Dr"
 2022-00085560,11/07/22 19:21,11/07/22 19:21,Theft,Investigation Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2022-00085644,11/07/22 21:30,11/08/22 01:30,Theft,Active/Pending,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
 2022-00085771,11/08/22 11:02,11/08/22 11:02,Assist Other Agency / Other,CBE,8100 block of  Baltimore  Ave
 2022-00085773,11/08/22 08:30,11/08/22 11:23,Theft,Active/Pending,"Bio Psych, Biology-Psychology Building at 4094  Campus  Dr"
 2022-00085790,11/08/22 13:31,11/08/22 13:31,Injured/Sick Person,CBE,4200 block of  Valley  Dr
