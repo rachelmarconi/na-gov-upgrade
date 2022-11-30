@@ -2657,9 +2657,18 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00090332,11/22/22 01:22,11/22/22 01:22,Injured/Sick Person,CBE,4400 block of  Lehigh  Rd
 2022-00090522,11/18/22 16:10,11/22/22 10:47,Dept Property Damage/Loss,CBE,6200 block of  Briar Ct
 2022-00090665,11/22/22 20:35,11/22/22 20:35,CDS Violation,CBE,"Frat 7, Lamda Chi Alpha Fraternity at 7  Fraternity  Row"
+2022-00091096,11/24/22 00:30,11/24/22 00:30,DWI/DUI,Arrest,Baltimore  Ave
 2022-00091130,11/24/22 02:38,11/24/22 02:38,CDS Violation,Arrest,8100 block of  Baltimore  Ave
 2022-00091146,11/24/22 03:46,11/24/22 03:46,DWI/DUI,Arrest,Metzerott  Rd
 2022-00091172,11/24/22 10:32,11/24/22 10:32,CDS Violation,Arrest,Metzerott  Rd
+2022-00091220,11/22/22 12:00,11/24/22 12:53,Threat Assessment,CBE,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
+2022-00091297,11/24/22 20:27,11/24/22 20:34,Suspicious Activity,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2022-00091385,11/25/22 03:51,11/25/22 03:51,DWI/DUI,Arrest,University  Blvd
+2022-00092272,11/22/22 08:00,11/27/22 16:25,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
+2022-00092310,11/27/22 20:33,11/27/22 20:33,CDS Violation,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2022-00092661,11/26/22 08:00,11/28/22 09:58,Theft,Unfounded,University Courtyard #4 at 8400  Boteler  Ln
+2022-00092715,11/28/22 11:00,11/28/22 11:46,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2022-00092781,11/28/22 14:39,11/28/22 14:39,Injured/Sick Person,CBE,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
