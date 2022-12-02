@@ -2658,6 +2658,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00090332,11/22/22 01:22,11/22/22 01:22,Injured/Sick Person,CBE,4400 block of  Lehigh  Rd
 2022-00090522,11/18/22 16:10,11/22/22 10:47,Dept Property Damage/Loss,CBE,6200 block of  Briar Ct
 2022-00090665,11/22/22 20:35,11/22/22 20:35,CDS Violation,CBE,"Frat 7, Lamda Chi Alpha Fraternity at 7  Fraternity  Row"
+2022-00090676,11/22/22 21:00,11/22/22 21:11,Assist Other Agency / Vandalism,CBE,Adelphi  Rd
 2022-00091096,11/24/22 00:30,11/24/22 00:30,DWI/DUI,Arrest,Baltimore  Ave
 2022-00091130,11/24/22 02:38,11/24/22 02:38,CDS Violation,Arrest,8100 block of  Baltimore  Ave
 2022-00091146,11/24/22 03:46,11/24/22 03:46,DWI/DUI,Arrest,Metzerott  Rd
@@ -2676,6 +2677,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00093081,11/29/22 15:35,11/29/22 15:47,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
 2022-00093102,11/29/22 17:52,11/29/22 17:52,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2022-00093134,11/26/22 11:00,11/29/22 22:40,Theft,Active/Pending,8100 block of  Fieldhouse  Dr
+2022-00093293,11/29/22 08:00,11/30/22 13:57,Theft,Active/Pending,"Avrum Gudelsky Veterinary Center, Vet Med at 8075  Greenmead  Dr"
+2022-00093534,12/01/22 12:30,12/01/22 13:30,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
