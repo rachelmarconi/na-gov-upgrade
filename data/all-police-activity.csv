@@ -2286,7 +2286,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00070252,09/01/22 00:00,09/21/22 14:11,Theft,Investigation Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2022-00070315,09/21/22 19:30,09/21/22 20:03,Injured/Sick Person,CBE,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176  Campus  Dr"
 2022-00070452,09/22/22 08:58,09/22/22 08:58,Other Incident,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
-2022-00070458,09/21/22 20:30,09/22/22 09:26,Theft from Auto,Active/Pending,University Courtyard #5 at 8500  Boteler  Ln
+2022-00070458,09/21/22 20:30,09/22/22 09:26,Theft from Auto,Summons Issued,University Courtyard #5 at 8500  Boteler  Ln
 2022-00070500,09/22/22 12:26,09/22/22 12:26,Assist Other Agency / Check on the Welfare,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2022-00070538,09/22/22 10:00,09/22/22 16:47,Damage to State Property,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2022-00070540,09/13/22 11:00,09/22/22 16:51,Theft,CBE,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
@@ -2395,7 +2395,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00075783,10/06/22 15:26,10/09/22 13:54,Damage to State Property,Active/Pending,"President's Residence, University House at 8150  Presidential  Dr"
 2022-00075959,10/10/22 00:04,10/10/22 00:04,Domestic (Title IX Related),Arrest,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
 2022-00075971,10/10/22 01:14,10/10/22 01:14,Injured/Sick Person,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
-2022-00076111,10/10/22 10:30,10/10/22 10:43,Assault,Active/Pending,7700 block of  Adelphi  Rd
+2022-00076111,10/10/22 10:30,10/10/22 10:43,Assault,CBE,7700 block of  Adelphi  Rd
 2022-00076123,10/10/22 08:45,10/10/22 11:29,Injured/Sick Person,CBE,Biomolecular Sciences Building at 8314  Paint Branch  Dr
 2022-00076146,10/10/22 12:59,10/10/22 12:59,Injured/Sick Person,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2022-00076152,10/10/22 13:26,10/10/22 13:26,Injured/Sick Person,CBE,"Laboratory for Physical Sciences, LPS at 8050  Greenmead  Dr"
@@ -2552,7 +2552,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00083376,10/29/22 01:22,10/31/22 20:21,Extortion (Title IX Related),Active/Pending,4000 block of  Stadium  Dr
 2022-00083382,10/31/22 12:00,10/31/22 21:23,Suspicious Activity,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
 2022-00083408,10/31/22 22:46,10/31/22 23:50,Suspicious Activity (Title IX Related),Active/Pending,4700 block of  Rossborough  Ln
-2022-00083516,10/27/22 10:00,11/01/22 09:38,Damage to State Property,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
+2022-00083516,10/27/22 10:00,11/01/22 09:38,Vandalism,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2022-00083582,11/01/22 14:58,11/01/22 14:58,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2022-00083619,11/01/22 16:30,11/01/22 18:58,Theft,Investigation Pending,Lot R3
 2022-00083822,11/02/22 11:39,11/02/22 11:39,Recovered Stolen Motor Vehicle,Arrest,Varsity Sports Teamhouse at 4117  Stadium  Dr
@@ -2667,6 +2667,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00091297,11/24/22 20:27,11/24/22 20:34,Suspicious Activity,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2022-00091385,11/25/22 03:51,11/25/22 03:51,DWI/DUI,Arrest,University  Blvd
 2022-00091787,11/26/22 07:43,11/26/22 07:43,Accident - Departmental,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2022-00092170,11/26/22 15:15,11/27/22 09:32,Theft,Active/Pending,8100 block of  Fieldhouse  Dr
 2022-00092272,11/22/22 08:00,11/27/22 16:25,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2022-00092310,11/27/22 20:33,11/27/22 20:33,CDS Violation,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2022-00092661,11/26/22 08:00,11/28/22 09:58,Theft,Unfounded,University Courtyard #4 at 8400  Boteler  Ln
@@ -2679,9 +2680,16 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00093134,11/26/22 11:00,11/29/22 22:40,Theft,Active/Pending,8100 block of  Fieldhouse  Dr
 2022-00093293,11/29/22 08:00,11/30/22 13:57,Theft,Active/Pending,"Avrum Gudelsky Veterinary Center, Vet Med at 8075  Greenmead  Dr"
 2022-00093295,11/21/22 13:00,11/30/22 14:03,Theft,Investigation Pending,7500 block of  Calvert Service  Ln
+2022-00093298,11/30/22 10:00,11/30/22 14:20,Vandalism,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2022-00093314,11/22/22 14:00,11/30/22 16:03,Vandalism,Investigation Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2022-00093533,11/29/22 00:30,12/01/22 12:34,Theft,Active/Pending,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
 2022-00093534,12/01/22 12:30,12/01/22 13:30,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
+2022-00093597,12/01/22 18:00,12/01/22 21:29,Injured/Sick Person,CBE,7400 block of  Calvert Service  Ln
+2022-00093739,12/02/22 03:09,12/02/22 03:09,DWI/DUI,Arrest,Knox  Rd
+2022-00094306,12/03/22 23:46,12/03/22 23:46,DWI/DUI,Arrest,Baltimore  Ave
+2022-00094357,12/04/22 05:00,12/04/22 05:00,Injured/Sick Person,CBE,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
+2022-00094470,12/04/22 14:21,12/04/22 14:21,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2022-00094643,12/04/22 23:29,12/04/22 23:29,Emergency Petition,CBE,Cumberland Hall at 4250  Farm  Dr
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
