@@ -2696,16 +2696,25 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00093839,12/02/22 12:00,12/02/22 15:29,Theft from Auto,Active/Pending,Lot N9
 2022-00093912,12/02/02 19:59,12/02/22 19:59,Other Incident,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2022-00093998,12/02/22 17:00,12/03/22 00:05,Other Incident,CBE,Yahentamitsi at 4136  Stadium  Dr
+2022-00094039,12/02/22 01:00,12/03/22 01:41,Other Incident,CBE,8000 block of  Hagerstown  Dr
+2022-00094217,12/03/22 12:00,12/03/22 16:09,Theft from Auto,Active/Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
+2022-00094220,12/02/22 23:15,12/03/22 16:31,Suspicious Activity,Active/Pending,4200 block of  Lehigh  Rd
 2022-00094230,12/03/22 17:10,12/03/22 17:33,Assist Other Agency / Indecent Exposure,CBE,7400 block of  Princeton  Ave
 2022-00094231,12/03/22 17:30,12/03/22 17:58,Suspicious Activity,CBE,"Phi Sigma Sigma Sorority, Phi Sigma Simga at 4531  College  Ave"
 2022-00094306,12/03/22 23:46,12/03/22 23:46,DWI/DUI,Arrest,Baltimore  Ave
 2022-00094357,12/04/22 05:00,12/04/22 05:00,Injured/Sick Person,CBE,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
+2022-00094362,12/04/22 01:30,12/04/22 05:42,Vandalism,Active/Pending,Lot 1d
 2022-00094470,12/04/22 14:21,12/04/22 14:21,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2022-00094643,12/04/22 23:29,12/04/22 23:29,Emergency Petition,CBE,Cumberland Hall at 4250  Farm  Dr
 2022-00094941,11/15/22 08:00,12/05/22 16:18,Other Incident,Active/Pending,7500 block of  Regents  Dr
 2022-00094942,12/03/22 21:00,12/05/22 16:25,Theft,Active/Pending,4200 block of  Farm  Dr
+2022-00094945,12/05/22 12:20,12/05/22 16:39,Theft,Active/Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2022-00095063,12/06/22 00:37,12/06/22 00:37,Trespassing,Active/Pending,8700 block of  Baltimore  Ave
+2022-00095130,12/06/22 03:40,12/06/22 03:52,Assist Other Agency / Robbery,CBE,Campus  Dr
 2022-00095216,12/06/22 10:40,12/06/22 10:40,Emergency Petition,CBE,7600 block of  Preinkert  Dr
+2022-00095228,12/06/22 11:00,12/06/22 12:09,Vandalism,Active/Pending,"Football Team House, Gossett, Gossett Football Team House at 4068  Fieldhouse  Dr"
+2022-00095520,12/05/22 08:30,12/07/22 11:20,Damage to State Property,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
+2022-00095533,12/05/22 18:36,12/07/22 12:23,Theft,Active/Pending,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176  Campus  Dr"
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
