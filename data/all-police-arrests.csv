@@ -608,6 +608,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23614,11/02/22 16:04,2022-00068999,,Black,Male,Malicious Destruction Property/Value -$1000
 23609,11/03/22 22:04,2022-00084172,,White,Male,CDS:Possession Marijuana L/T 10 grams
 23613,11/04/22 22:30,2022-00084479,,White,Male,Disorderly Conduct
+23638,11/10/22 08:00,2022-00072896,,Black,Male,"THEFT: $100 TO UNDER $1,500"
 23615,11/13/22 01:13,2022-00087378,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by controlled dangerous substance"
 23617,11/13/22 05:56,2022-00087417,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23620,11/14/22 19:49,2022-00087854,,Black,Male,CDS:Possession Marijuana L/T 10 grams
@@ -624,8 +625,10 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23631,11/24/22 11:00,2022-00091172,,White,Male,CDS:Possession Marijuana L/T 10 grams
 23632,11/25/22 04:14,2022-00091385,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driver failure to obey properly placed traffic control device instructions; Driving veh. in excess of reasonable and prudent speed on hwy.; Driving veh. on hwy. with suspended registration; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23634,11/29/22 10:24,2022-00093042,,White,Male,Disorderly Conduct; Indecent Exposure; Public Indecency; School: Disturb Operation
+23639,11/29/22 13:33,2022-00090037,,White,Male,Indecent Exposure
 23635,12/02/22 03:34,2022-00093739,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23636,12/03/22 23:57,2022-00094306,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
+903,12/08/22 11:44,2022-00085176,,White,Female,"Motor Vehicle Theft; Other Vehicles; THEFT: $1,500 TO UNDER $25,000"
 23637,12/08/22 16:42,2022-00095533,,Asian/Pacific Islander,Female,Theft Less Than $100
 ,,,,,,
 19959,01/01/15 02:46,2015-00000013,,,,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
