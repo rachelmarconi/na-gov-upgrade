@@ -2123,7 +2123,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00063342,08/28/22 00:17,08/28/22 00:17,Injured/Sick Person,CBE,4500 block of  Knox  Rd
 2022-00063344,08/28/22 00:38,08/28/22 00:38,DWI/DUI,Arrest,Greenbelt  Rd
 2022-00063345,08/28/22 00:38,08/28/22 00:38,DWI/DUI,Arrest,Baltimore  Ave
-2022-00063455,08/23/22 12:00,08/28/22 11:51,Fraud,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
+2022-00063455,08/23/22 12:00,08/28/22 11:51,Fraud,Investigation Pending,"35, McKeldin Library at 7649  Library  Ln"
 2022-00063496,08/28/22 17:45,08/28/22 18:13,Injured/Sick Person,CBE,La Plata Hall at 8160  La Plata  Dr
 2022-00063512,08/28/22 19:00,08/28/22 20:00,Damage to State Property,CBE,Animal Science Building at 8127  Regents  Dr
 2022-00063527,08/28/22 20:30,08/28/22 20:35,Injured/Sick Person,CBE,"77, Main Admin, Main Administration Building, Thomas V. Miller Jr. Administration Building at 7901  Regents  Dr"
@@ -2758,6 +2758,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00098545,12/16/22 08:39,12/16/22 08:58,Accident - Departmental,CBE,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
 2022-00098641,12/16/22 05:30,12/16/22 14:16,Theft,Investigation Pending,4100 block of  Valley  Dr
 2022-00098658,12/16/22 13:30,12/16/22 15:52,Theft,Active/Pending,"88, Martin Hall at 4298  Campus  Dr"
+2022-00098659,12/16/22 16:00,12/16/22 16:00,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2022-00098763,12/16/22 22:01,12/16/22 22:01,Emergency Petition,CBE,3900 block of  Campus  Dr
 2022-00098786,12/16/22 22:54,12/16/22 22:54,DWI/DUI,Arrest,Baltimore  Ave
 2022-00098802,12/16/22 21:15,12/16/22 23:15,Injured/Sick Person,CBE,7600 block of  Regents  Dr
@@ -2777,6 +2778,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00099738,12/20/22 02:00,12/20/22 02:04,Alcohol Violation,CBE,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
 2022-00100242,10/01/22 08:00,12/21/22 17:06,Lost Property,CBE,"89, C. D. Mote, Jr. Engineering Laboratory at 8136  Paint Branch  Dr"
 2022-00100311,12/21/22 20:00,12/21/22 20:00,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2022-00101656,12/25/22 14:51,12/25/22 14:51,Damaged Property,CBE,"90, Chem Nuc, Chemical & Nuclear Engineering at 4418  Stadium  Dr"
 2015-00000012,1/1/2015 2:05,1/1/2015 2:12,Assault,CBE,7500 block of  Princeton  Ave
 2015-00000013,1/1/2015 2:36,1/1/2015 2:36,DWI/DUI,Arrest,"Capital One Field at Byrd Stadium, Maryland Stadium"
 2015-00000050,1/1/2015 9:45,1/1/2015 10:14,Damage to State Property,Active/Pending,Van Munching Hall at 7699  Mowatt  Ln
