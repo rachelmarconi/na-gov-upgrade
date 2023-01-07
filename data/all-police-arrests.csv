@@ -327,6 +327,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 906,01/04/23 09:44,2022-00096498,,White,Male,Burglary 4th Degree; Unlawful Entry
 905,01/04/23 09:52,2022-00090096,,White,Male,Burglary 4th Degree; Unlawful Entry; Malicious Destruction Property/Value -$1000; Theft Less Than $100 From Building
 904,01/04/23 09:54,2022-00087705,,White,Male,"Burglary 4th Degree; Unlawful Entry; Theft Less Than $100 From Building; THEFT: $100 TO UNDER $1,500-From Building"
+,,,,,,
 22970,01/03/21 20:54,2021-00000618,,White,Male,CDS:Possession Marijuana L/T 10 grams
 22961,01/05/21 14:17,2020-00067830,,Asian/Pacific Islander,Male,Electronic Mail Harassment; School: Disturb Operation
 22963,01/08/21 00:14,2021-00001794,,Black,Male,CDS:Possession Marijuana L/T 10 grams
@@ -652,7 +653,6 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23309,12/20/21 01:30,2021-00095566,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23310,12/25/21 01:36,2021-00096826,,White,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driver failure to obey properly placed traffic control device instructions; Driving veh. on hwy. at speed exceeding speed limit by 20 to 29 mph.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23311,12/28/21 01:19,2021-00097433,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
-,,,,,,
 19959,01/01/15 02:46,2015-00000013,,,,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 19961,01/01/15 20:41,2015-00000101,26,Black,Male,"CDS: Possess Paraphernalia; CDS: Possession of Marijuana; CDS:Poss w/Intent to Distribute; Marijuana (Do not use for Narcotics: Crack, Cocaine, LSD or PCP)"
 19963,01/02/15 20:40,2015-00000279,,White,Male,"Person driving motor veh. on (hwy., public use property) on suspended lic. and privilege"
