@@ -1469,7 +1469,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00000111,12/31/22 11:00,01/01/23 11:12,Vandalism,Unfounded,7700 block of  Adelphi  Rd
 2023-00000669,12/26/22 12:00,01/02/23 18:05,Lost Property,CBE,3400 block of  Tulane  Dr
 2023-00000777,01/03/23 00:26,01/03/23 00:26,DWI/DUI,Arrest,Campus  Dr
-2023-00000896,12/31/22 16:00,01/03/23 10:16,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2023-00000896,12/31/22 16:00,01/03/23 10:16,Theft,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2023-00000914,12/21/22 14:00,01/03/23 12:18,Dept Property Damage/Loss,Active/Pending,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
 2023-00001082,01/03/22 20:24,01/03/23 20:46,Theft,Active/Pending,Mowatt  Ln
 2023-00001287,01/04/23 07:56,01/04/23 07:58,Injured Officer,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
@@ -1485,7 +1485,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00003392,12/23/22 14:56,01/10/23 08:33,Theft,Active/Pending,"Ellicott Area Dining Hall, Ellicott Dining Hall at 4028  Stadium  Dr"
 2023-00003526,01/09/23 14:00,01/10/23 18:19,Theft,Active/Pending,Lot 11b
 2023-00003731,01/11/23 01:37,01/11/23 01:37,CDS Violation,Active/Pending,University  Blvd
-2023-00003800,01/11/23 07:00,01/11/23 10:25,Theft,Active/Pending,3900 block of  Campus  Dr
+2023-00003800,01/11/23 07:00,01/11/23 10:25,Theft,Unfounded,3900 block of  Campus  Dr
+2023-00003848,01/10/23 16:30,01/11/23 16:27,Assist Other Agency / Death Investigation,CBE,8400 block of  Baltimore  Ave
+2023-00003874,01/11/23 19:06,01/11/23 19:06,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
