@@ -1471,7 +1471,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00000777,01/03/23 00:26,01/03/23 00:26,DWI/DUI,Arrest,Campus  Dr
 2023-00000896,12/31/22 16:00,01/03/23 10:16,Theft,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2023-00000914,12/21/22 14:00,01/03/23 12:18,Dept Property Damage/Loss,Active/Pending,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
-2023-00001082,01/03/22 20:24,01/03/23 20:46,Theft,Summons Issued,Mowatt  Ln
+2023-00001082,01/03/22 20:24,01/03/23 20:46,Theft,Arrest,Mowatt  Ln
 2023-00001287,01/04/23 07:56,01/04/23 07:58,Injured Officer,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
 2023-00001301,01/04/23 08:55,01/04/23 08:55,Fire,CBE,"Ellicott Area Dining Hall, Ellicott Dining Hall at 4028  Stadium  Dr"
 2023-00001570,01/05/23 00:49,01/05/23 00:49,CDS Violation,Active/Pending,Baltimore  Ave
@@ -1501,7 +1501,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00005501,01/16/23 16:42,01/16/23 16:42,Recovered Stolen Property,Arrest,West Gate at 3841  Stadium  Dr
 2023-00005548,01/16/23 18:46,01/16/23 19:43,Traffic Offense,Active/Pending,Lot R3
 2023-00005738,01/17/23 09:57,01/17/23 09:57,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
+2023-00005820,01/14/23 09:30,01/17/23 15:43,Other Incident,CBE,8200 block of  Alumni  Dr
 2023-00005877,01/17/23 23:00,01/17/23 23:00,Injured/Sick Person,CBE,8400 block of  Boteler  Ln
+2023-00006163,01/18/23 18:07,01/18/23 18:07,Emergency Petition,CBE,Lot FF2
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
