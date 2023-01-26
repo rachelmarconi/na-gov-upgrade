@@ -1,4 +1,55 @@
 UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOCATION
+2023-00000110,12/31/22 20:00,01/01/23 10:35,Vandalism,Active/Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
+2023-00000111,12/31/22 11:00,01/01/23 11:12,Vandalism,Unfounded,7700 block of  Adelphi  Rd
+2023-00000669,12/26/22 12:00,01/02/23 18:05,Lost Property,CBE,3400 block of  Tulane  Dr
+2023-00000777,01/03/23 00:26,01/03/23 00:26,DWI/DUI,Arrest,Campus  Dr
+2023-00000896,12/31/22 16:00,01/03/23 10:16,Theft,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2023-00000914,12/21/22 14:00,01/03/23 12:18,Dept Property Damage/Loss,Active/Pending,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
+2023-00001082,01/03/22 20:24,01/03/23 20:46,Theft,Arrest,Mowatt  Ln
+2023-00001287,01/04/23 07:56,01/04/23 07:58,Injured Officer,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
+2023-00001301,01/04/23 08:55,01/04/23 08:55,Fire,CBE,"Ellicott Area Dining Hall, Ellicott Dining Hall at 4028  Stadium  Dr"
+2023-00001570,01/05/23 00:49,01/05/23 00:49,CDS Violation,Active/Pending,Baltimore  Ave
+2023-00001612,01/05/23 03:11,01/05/23 03:11,Assist Other Agency / Vehicle Tampering,CBE,"Terrapin Row, Terrapin Row #2, Terrapin Row 2, TR2 at 4300  Hartwick  Rd"
+2023-00001712,01/05/23 01:15,01/05/23 13:55,Stolen Motor Vehicle,Active/Pending,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
+2023-00001854,01/05/23 23:55,01/05/23 23:55,Suspicious Person/Auto,Active/Pending,4800 block of  College  Ave
+2023-00002154,01/06/23 04:30,01/06/23 17:16,Vandalism,Active/Pending,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
+2023-00002340,01/07/23 04:27,01/07/23 04:29,Injured/Sick Person,CBE,Breezewood  Dr
+2023-00002790,12/20/22 12:00,01/08/23 17:33,Theft,Active/Pending,La Plata Hall at 8160  La Plata  Dr
+2023-00002849,01/08/23 16:40,01/08/23 21:21,Theft,Active/Pending,University Courtyard #4 at 8400  Boteler  Ln
+2023-00003184,01/09/23 17:37,01/09/23 17:37,Assist Other Agency / Death Investigation,CBE,7400 block of  Columbia  Ave
+2023-00003392,12/23/22 14:56,01/10/23 08:33,Theft,Investigation Pending,"Ellicott Area Dining Hall, Ellicott Dining Hall at 4028  Stadium  Dr"
+2023-00003414,12/29/22 12:00,01/10/23 09:50,Theft,Investigation Pending,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
+2023-00003526,01/09/23 14:00,01/10/23 18:19,Theft,Active/Pending,Lot 11b
+2023-00003731,01/11/23 01:37,01/11/23 01:37,CDS Violation,Active/Pending,University  Blvd
+2023-00003800,01/11/23 07:00,01/11/23 10:25,Theft,Unfounded,3900 block of  Campus  Dr
+2023-00003848,01/10/23 16:30,01/11/23 16:27,Assist Other Agency / Death Investigation,CBE,8400 block of  Baltimore  Ave
+2023-00003874,01/11/23 19:06,01/11/23 19:06,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2023-00004179,01/12/23 17:56,01/12/23 17:56,CDS Violation,Active/Pending,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
+2023-00004351,01/13/23 03:00,01/13/23 03:00,DWI/DUI,Arrest,University  Blvd
+2023-00004417,01/10/23 12:00,01/13/23 09:16,Title IX Incident Non Criminal,Active/Pending,8200 block of  Paint Branch  Dr
+2023-00004431,01/13/23 10:49,01/13/23 10:49,Other Incident,CBE,Health Center at 3983  Campus  Dr
+2023-00004784,01/14/23 14:25,01/14/23 14:28,Traffic Offense,CBE,Baltimore  Ave
+2023-00005136,01/15/23 15:44,01/15/23 15:44,Emergency Petition,CBE,8100 block of  Baltimore  Ave
+2023-00005206,01/15/23 21:59,01/15/23 21:59,CDS Violation,Active/Pending,Adelphi  Rd
+2023-00005441,01/14/23 17:00,01/16/23 14:09,Dept Property Damage/Loss,CBE,11000 block of  Treeview Lane
+2023-00005501,01/16/23 16:42,01/16/23 16:42,Recovered Stolen Property,Arrest,West Gate at 3841  Stadium  Dr
+2023-00005548,01/16/23 18:46,01/16/23 19:43,Traffic Offense,Summons Issued,Lot R3
+2023-00005738,01/17/23 09:57,01/17/23 09:57,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
+2023-00005820,01/14/23 09:30,01/17/23 15:43,Other Incident,CBE,8200 block of  Alumni  Dr
+2023-00005877,01/17/23 23:00,01/17/23 23:00,Injured/Sick Person,CBE,8400 block of  Boteler  Ln
+2023-00006163,01/18/23 18:07,01/18/23 18:07,Emergency Petition,CBE,Lot FF2
+2023-00006389,01/19/23 11:52,01/19/23 11:52,Suspicious Activity,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2023-00006405,01/19/23 14:25,01/19/23 14:25,Injured/Sick Person,CBE,4200 block of  Valley  Dr
+2023-00006506,01/19/23 21:40,01/19/23 22:20,Vandalism,Active/Pending,Shuttle Bus Facility at 8537  Paint Branch  Dr
+2023-00006818,01/20/23 15:46,01/20/23 15:46,Other Incident,Active/Pending,4200 block of  Lehigh  Rd
+2023-00006990,01/20/23 23:39,01/20/23 23:39,DWI/DUI,Arrest,Baltimore  Ave
+2023-00007132,01/21/23 09:00,01/21/23 11:23,Suspicious Person/Auto,CBE,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
+2023-00007393,01/22/23 03:16,01/22/23 03:16,Theft,Arrest,Baltimore  Ave
+2023-00007486,12/17/22 14:00,01/22/23 13:23,Theft,Active/Pending,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
+2023-00007637,01/23/23 01:17,01/23/23 01:17,Injured/Sick Person,CBE,262 at 4305  Rowalt  Dr
+2023-00007777,01/23/23 10:34,01/23/23 10:34,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
+2023-00007810,01/23/23 13:56,01/23/23 13:56,Suspicious Activity,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2023-00008142,01/24/23 18:56,01/24/23 18:56,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
@@ -1465,56 +1516,6 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2022-00102866,12/29/22 23:00,12/29/22 23:10,Injured/Sick Person,CBE,"88, Martin Hall at 4298  Campus  Dr"
 2022-00103213,12/30/22 20:05,12/30/22 20:20,Accident - Departmental,CBE,Campus  Dr
 2022-00103454,12/31/22 18:32,12/31/22 18:32,Injured/Sick Person,CBE,Graduate Hills #287 at 3410  Tulane  Dr
-2023-00000110,12/31/22 20:00,01/01/23 10:35,Vandalism,Active/Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
-2023-00000111,12/31/22 11:00,01/01/23 11:12,Vandalism,Unfounded,7700 block of  Adelphi  Rd
-2023-00000669,12/26/22 12:00,01/02/23 18:05,Lost Property,CBE,3400 block of  Tulane  Dr
-2023-00000777,01/03/23 00:26,01/03/23 00:26,DWI/DUI,Arrest,Campus  Dr
-2023-00000896,12/31/22 16:00,01/03/23 10:16,Theft,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
-2023-00000914,12/21/22 14:00,01/03/23 12:18,Dept Property Damage/Loss,Active/Pending,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
-2023-00001082,01/03/22 20:24,01/03/23 20:46,Theft,Arrest,Mowatt  Ln
-2023-00001287,01/04/23 07:56,01/04/23 07:58,Injured Officer,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
-2023-00001301,01/04/23 08:55,01/04/23 08:55,Fire,CBE,"Ellicott Area Dining Hall, Ellicott Dining Hall at 4028  Stadium  Dr"
-2023-00001570,01/05/23 00:49,01/05/23 00:49,CDS Violation,Active/Pending,Baltimore  Ave
-2023-00001612,01/05/23 03:11,01/05/23 03:11,Assist Other Agency / Vehicle Tampering,CBE,"Terrapin Row, Terrapin Row #2, Terrapin Row 2, TR2 at 4300  Hartwick  Rd"
-2023-00001712,01/05/23 01:15,01/05/23 13:55,Stolen Motor Vehicle,Active/Pending,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
-2023-00001854,01/05/23 23:55,01/05/23 23:55,Suspicious Person/Auto,Active/Pending,4800 block of  College  Ave
-2023-00002154,01/06/23 04:30,01/06/23 17:16,Vandalism,Active/Pending,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
-2023-00002340,01/07/23 04:27,01/07/23 04:29,Injured/Sick Person,CBE,Breezewood  Dr
-2023-00002790,12/20/22 12:00,01/08/23 17:33,Theft,Active/Pending,La Plata Hall at 8160  La Plata  Dr
-2023-00002849,01/08/23 16:40,01/08/23 21:21,Theft,Active/Pending,University Courtyard #4 at 8400  Boteler  Ln
-2023-00003184,01/09/23 17:37,01/09/23 17:37,Assist Other Agency / Death Investigation,CBE,7400 block of  Columbia  Ave
-2023-00003392,12/23/22 14:56,01/10/23 08:33,Theft,Investigation Pending,"Ellicott Area Dining Hall, Ellicott Dining Hall at 4028  Stadium  Dr"
-2023-00003414,12/29/22 12:00,01/10/23 09:50,Theft,Investigation Pending,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
-2023-00003526,01/09/23 14:00,01/10/23 18:19,Theft,Active/Pending,Lot 11b
-2023-00003731,01/11/23 01:37,01/11/23 01:37,CDS Violation,Active/Pending,University  Blvd
-2023-00003800,01/11/23 07:00,01/11/23 10:25,Theft,Unfounded,3900 block of  Campus  Dr
-2023-00003848,01/10/23 16:30,01/11/23 16:27,Assist Other Agency / Death Investigation,CBE,8400 block of  Baltimore  Ave
-2023-00003874,01/11/23 19:06,01/11/23 19:06,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
-2023-00004179,01/12/23 17:56,01/12/23 17:56,CDS Violation,Active/Pending,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
-2023-00004351,01/13/23 03:00,01/13/23 03:00,DWI/DUI,Arrest,University  Blvd
-2023-00004417,01/10/23 12:00,01/13/23 09:16,Title IX Incident Non Criminal,Active/Pending,8200 block of  Paint Branch  Dr
-2023-00004431,01/13/23 10:49,01/13/23 10:49,Other Incident,CBE,Health Center at 3983  Campus  Dr
-2023-00004784,01/14/23 14:25,01/14/23 14:28,Traffic Offense,CBE,Baltimore  Ave
-2023-00005136,01/15/23 15:44,01/15/23 15:44,Emergency Petition,CBE,8100 block of  Baltimore  Ave
-2023-00005206,01/15/23 21:59,01/15/23 21:59,CDS Violation,Active/Pending,Adelphi  Rd
-2023-00005441,01/14/23 17:00,01/16/23 14:09,Dept Property Damage/Loss,CBE,11000 block of  Treeview Lane
-2023-00005501,01/16/23 16:42,01/16/23 16:42,Recovered Stolen Property,Arrest,West Gate at 3841  Stadium  Dr
-2023-00005548,01/16/23 18:46,01/16/23 19:43,Traffic Offense,Active/Pending,Lot R3
-2023-00005738,01/17/23 09:57,01/17/23 09:57,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
-2023-00005820,01/14/23 09:30,01/17/23 15:43,Other Incident,CBE,8200 block of  Alumni  Dr
-2023-00005877,01/17/23 23:00,01/17/23 23:00,Injured/Sick Person,CBE,8400 block of  Boteler  Ln
-2023-00006163,01/18/23 18:07,01/18/23 18:07,Emergency Petition,CBE,Lot FF2
-2023-00006389,01/19/23 11:52,01/19/23 11:52,Suspicious Activity,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
-2023-00006405,01/19/23 14:25,01/19/23 14:25,Injured/Sick Person,CBE,4200 block of  Valley  Dr
-2023-00006506,01/19/23 21:40,01/19/23 22:20,Vandalism,Active/Pending,Shuttle Bus Facility at 8537  Paint Branch  Dr
-2023-00006818,01/20/23 15:46,01/20/23 15:46,Other Incident,Active/Pending,4200 block of  Lehigh  Rd
-2023-00006990,01/20/23 23:39,01/20/23 23:39,DWI/DUI,Arrest,Baltimore  Ave
-2023-00007132,01/21/23 09:00,01/21/23 11:23,Suspicious Person/Auto,CBE,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
-2023-00007393,01/22/23 03:16,01/22/23 03:16,Theft,Arrest,Baltimore  Ave
-2023-00007486,12/17/22 14:00,01/22/23 13:23,Theft,Active/Pending,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
-2023-00007637,01/23/23 01:17,01/23/23 01:17,Injured/Sick Person,CBE,262 at 4305  Rowalt  Dr
-2023-00007777,01/23/23 10:34,01/23/23 10:34,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
-2023-00007810,01/23/23 13:56,01/23/23 13:56,Suspicious Activity,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
