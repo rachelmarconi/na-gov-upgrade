@@ -1560,7 +1560,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00010178,01/30/23 13:37,01/30/23 13:37,Check on the  Welfare,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
 2023-00010247,01/30/23 19:00,01/30/23 19:08,Pedestrian Struck,CBE,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176  Campus  Dr"
 2023-00010508,01/31/23 13:04,01/31/23 13:04,Animal Complaint,CBE,University  Blvd
-2023-00010514,01/31/23 13:30,01/31/23 13:43,Injured/Sick Person,Arrest,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
+2023-00010514,01/31/23 13:30,01/31/23 13:43,Injured/Sick Person,CBE,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
 2023-00010516,01/31/23 14:05,01/31/23 14:05,Injured/Sick Person,CBE,"38, Lefrak, Lefrak Hall at 7251  Preinkert  Dr"
 2023-00010535,01/31/23 10:04,01/31/23 16:41,Other Incident,Active/Pending,"Satellite Central Utilities Building 4, SCUB 4 at 4455  Stadium  Dr"
 2023-00010585,01/31/23 18:00,01/31/23 19:02,Extortion,Active/Pending,4200 block of  Farm  Dr
@@ -1568,6 +1568,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00010631,01/31/23 22:39,01/31/23 22:39,Assist Other Agency / Title IX Incident Non Criminal,CBE,4300 block of  Knox  Rd
 2023-00010807,02/01/23 09:38,02/01/23 09:38,Disorderly Conduct,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2023-00010816,02/01/23 10:48,02/01/23 10:48,Trespassing,Arrest,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
+2023-00010833,01/31/23 16:00,02/01/23 12:37,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00010834,01/30/23 12:00,02/01/23 12:52,Theft,Investigation Pending,"Tawes, Tawes Hall at 7751  Alumni  Dr"
 2023-00010872,02/01/23 16:02,02/01/23 16:18,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00010922,02/01/23 19:19,02/01/23 19:19,Emergency Petition,CBE,4300 block of  Hartwick  Rd
@@ -1582,7 +1583,10 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00012032,02/05/23 00:08,02/05/23 00:08,Injured/Sick Person,CBE,"Domain, Domain College Park, The Domain at 3711  Campus  Dr"
 2023-00012308,02/05/23 18:30,02/06/23 01:19,Injured/Sick Person,CBE,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2023-00012401,02/06/23 09:10,02/06/23 09:10,Injured/Sick Person,CBE,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
+2023-00012447,02/03/23 17:00,02/06/23 12:11,Vandalism,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00012451,02/06/23 12:25,02/06/23 12:29,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
+2023-00012550,02/06/23 17:56,02/06/23 17:56,Emergency Petition,CBE,4200 block of  Chapel  Ln
+2023-00012570,02/06/23 20:53,02/06/23 20:53,Injured/Sick Person,CBE,UMGC Hotel at 348  Ehrensberger  Dr
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
