@@ -1529,7 +1529,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00008142,01/24/23 18:56,01/24/23 18:56,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00008143,12/19/22 09:00,01/24/23 19:04,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2023-00008386,01/25/23 11:30,01/25/23 11:33,Injured/Sick Person,CBE,7000 block of  Preinkert  Dr
-2023-00008416,12/31/22 16:00,01/25/23 16:21,Theft,Active/Pending,8100 block of  Boteler  Ln
+2023-00008416,12/31/22 16:00,01/25/23 16:21,Theft,Investigation Pending,8100 block of  Boteler  Ln
 2023-00008420,01/25/23 16:36,01/25/23 16:36,Other Incident,CBE,Lot UU
 2023-00008423,01/25/23 17:07,01/25/23 17:07,Theft,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00008464,01/25/23 21:47,01/25/23 21:47,Injured/Sick Person,CBE,UMGC Hotel at 348  Ehrensberger  Dr
@@ -1616,6 +1616,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00014417,02/11/23 22:25,02/11/23 22:25,DWI/DUI,Arrest,Baltimore  Ave
 2023-00014441,02/11/23 23:27,02/11/23 23:27,Disorderly Conduct,Arrest,Baltimore  Ave
 2023-00014447,02/11/23 23:38,02/11/23 23:38,Injured/Sick Person,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2023-00014530,02/12/23 04:50,02/12/23 04:50,DWI/DUI,Arrest,University  Blvd
 2023-00014632,02/07/23 11:00,02/12/23 16:12,Injured Officer,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2023-00014687,02/12/23 20:35,02/12/23 21:00,Accident,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2023-00014774,02/10/23 17:00,02/13/23 05:59,Damage to State Property,Active/Pending,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
@@ -1629,6 +1630,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00015136,02/14/23 13:25,02/14/23 13:34,Suspicious Activity,CBE,Yahentamitsi at 4136  Stadium  Dr
 2023-00015165,02/14/23 18:14,02/14/23 18:14,Injured/Sick Person,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
 2023-00015220,02/14/23 21:00,02/14/23 22:49,Injured/Sick Person,CBE,8000 block of  La Plata  Dr
+2023-00015499,02/15/23 22:15,02/15/23 22:15,Emergency Petition,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
