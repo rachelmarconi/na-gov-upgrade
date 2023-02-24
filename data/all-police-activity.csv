@@ -1644,6 +1644,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00015332,02/15/23 01:00,02/15/23 09:25,Theft,Active/Pending,7700 block of  Adelphi  Rd
 2023-00015378,02/15/23 10:50,02/15/23 13:01,Theft,Active/Pending,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
 2023-00015400,02/11/23 12:45,02/15/23 15:14,Theft,Active/Pending,"9, Chapel, Memorial Chapel at 7744  Regents  Dr"
+2023-00015432,02/15/23 09:15,02/15/23 17:38,Suspicious Activity,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2023-00015499,02/15/23 22:15,02/15/23 22:15,Emergency Petition,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2023-00015616,02/16/23 07:00,02/16/23 07:32,Assist Other Agency / Other,CBE,4000 block of  Stadium  Dr
 2023-00015633,02/14/23 12:30,02/16/23 08:29,Other Incident,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
@@ -1674,10 +1675,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00016915,02/19/23 23:30,02/20/23 06:48,Other Incident,Active/Pending,"69, Wicomico, Wicomico Hall at 7218  Preinkert  Dr"
 2023-00017059,02/20/23 12:00,02/20/23 14:55,Assault,Active/Pending,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
 2023-00017070,02/17/23 11:30,02/20/23 16:33,Theft,Active/Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
+2023-00017403,02/21/23 19:30,02/21/23 19:48,Accident - Departmental,CBE,"College Park Shopping Center, CVS at 7300  Baltimore  Ave"
 2023-00017414,02/21/23 21:30,02/21/23 21:40,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00017454,02/22/23 00:44,02/22/23 00:44,DWI/DUI,Arrest,Baltimore  Ave
 2023-00017459,02/22/23 01:09,02/22/23 01:09,Recovered Stolen Property,CBE,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
+2023-00017546,02/20/23 08:00,02/22/23 07:28,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2023-00017560,02/22/23 10:22,02/22/23 10:22,Injured/Sick Person,CBE,8100 block of  La Plata  Dr
+2023-00017626,02/22/23 11:00,02/22/23 13:04,Theft,Active/Pending,"34, Jimenez, Jimenez Hall at 4125 N Library  Ln"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
