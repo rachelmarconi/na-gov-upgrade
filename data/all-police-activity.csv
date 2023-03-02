@@ -1681,6 +1681,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00016915,02/19/23 23:30,02/20/23 06:48,Other Incident,Active/Pending,"69, Wicomico, Wicomico Hall at 7218  Preinkert  Dr"
 2023-00017059,02/20/23 12:00,02/20/23 14:55,Assault,Active/Pending,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
 2023-00017070,02/17/23 11:30,02/20/23 16:33,Theft,Active/Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
+2023-00017363,02/20/23 18:50,02/21/23 16:32,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00017403,02/21/23 19:30,02/21/23 19:48,Accident - Departmental,CBE,"College Park Shopping Center, CVS at 7300  Baltimore  Ave"
 2023-00017404,02/13/23 11:00,02/21/23 19:55,Threat Assessment,Active/Pending,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
 2023-00017414,02/21/23 21:30,02/21/23 21:40,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
@@ -1689,7 +1690,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00017546,02/20/23 08:00,02/22/23 07:28,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2023-00017560,02/22/23 10:22,02/22/23 10:22,Injured/Sick Person,CBE,8100 block of  La Plata  Dr
 2023-00017626,02/22/23 11:00,02/22/23 13:04,Theft,Active/Pending,"34, Jimenez, Jimenez Hall at 4125 N Library  Ln"
-2023-00017676,12/23/22 08:00,02/22/23 16:54,Theft,Active/Pending,3800 block of  Campus  Dr
+2023-00017676,12/23/22 08:00,02/22/23 16:54,Theft,Investigation Pending,3800 block of  Campus  Dr
 2023-00017701,02/21/23 23:00,02/22/23 17:57,Theft,Active/Pending,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2023-00017855,02/22/23 23:47,02/22/23 23:47,Injured/Sick Person,CBE,4400 block of  Lehigh  Rd
 2023-00017944,02/22/23 08:20,02/23/23 09:02,Other Incident,Active/Pending,Lot 1c
@@ -1711,7 +1712,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00019125,02/27/23 01:18,02/27/23 01:18,DWI/DUI,Arrest,Baltimore  Ave
 2023-00019242,02/27/23 10:38,02/27/23 10:38,Emergency Petition,CBE,3900 block of  Denton Service  Ln
 2023-00019340,02/24/23 23:30,02/27/23 15:23,Title IX Incident Non Criminal,CBE,4000 block of  Stadium  Dr
+2023-00019404,02/27/23 23:04,02/27/23 23:04,CDS Violation,Arrest,4500 block of  College  Ave
 2023-00019439,02/28/23 01:03,02/28/23 01:03,Check on the  Welfare,CBE,"Commons 7, SCC 7, South Campus Commons 7 at 6801  Preinkert  Dr"
+2023-00019476,02/28/23 04:28,02/28/23 04:28,Emergency Petition,CBE,Johnson-Whittle Hall at 4118  Stadium  Dr
+2023-00019580,02/28/23 10:15,02/28/23 10:29,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2023-00019588,02/28/23 11:03,02/28/23 11:03,Injured/Sick Person,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2023-00019678,02/28/23 17:44,02/28/23 17:44,CDS Violation,Arrest,University  Blvd
+2023-00019705,02/28/23 11:00,02/28/23 20:11,Theft,Active/Pending,"Hornbake, Hornbake Library at 4130  Campus  Dr"
+2023-00019900,03/01/23 08:04,03/01/23 08:04,Injured/Sick Person,CBE,340 block of  Ehrensberger  Dr
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
