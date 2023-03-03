@@ -1668,7 +1668,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00016225,02/17/23 21:00,02/18/23 00:32,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
 2023-00016229,02/17/23 21:00,02/18/23 01:00,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
 2023-00016231,02/18/23 01:21,02/18/23 01:21,Injured/Sick Person,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
-2023-00016232,02/18/23 01:34,02/18/23 01:34,CDS Violation,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2023-00016232,02/18/23 01:34,02/18/23 01:34,CDS Violation,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00016352,02/13/23 08:00,02/18/23 11:00,Suspicious Activity,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2023-00016386,02/18/23 13:30,02/18/23 13:35,Injured/Sick Person,CBE,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2023-00016405,02/14/23 18:15,02/18/23 15:04,Vandalism,Investigation Pending,38.9827658506793;-76.9333009201224 / Adjacent To L
@@ -1720,6 +1720,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00019678,02/28/23 17:44,02/28/23 17:44,CDS Violation,Arrest,University  Blvd
 2023-00019705,02/28/23 11:00,02/28/23 20:11,Theft,Active/Pending,"Hornbake, Hornbake Library at 4130  Campus  Dr"
 2023-00019900,03/01/23 08:04,03/01/23 08:04,Injured/Sick Person,CBE,340 block of  Ehrensberger  Dr
+2023-00019953,03/01/23 10:58,03/01/23 10:58,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
+2023-00019958,03/01/23 11:14,03/01/23 11:14,Suspicious Person/Auto,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
