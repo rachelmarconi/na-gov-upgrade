@@ -1519,6 +1519,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00007637,01/23/23 01:17,01/23/23 01:17,Injured/Sick Person,CBE,262 at 4305  Rowalt  Dr
 2023-00007777,01/23/23 10:34,01/23/23 10:34,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
 2023-00007810,01/23/23 13:56,01/23/23 13:56,Suspicious Activity,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2023-00007820,01/20/23 15:00,01/23/23 14:59,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2023-00007846,01/21/23 17:00,01/23/23 15:56,Vandalism,Active/Pending,University Courtyard #7 at 8700  Boteler  Ln
 2023-00008054,01/24/23 09:02,01/24/23 09:02,Other Incident,CBE,Paint Branch Gate at 8966  Paint Branch  Dr
 2023-00008060,01/23/23 23:45,01/24/23 09:44,Theft,Active/Pending,3900 block of  Denton Service  Ln
@@ -1729,15 +1730,22 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00019953,03/01/23 10:58,03/01/23 10:58,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
 2023-00019958,03/01/23 11:14,03/01/23 11:14,Suspicious Person/Auto,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00019960,02/28/23 13:43,03/01/23 11:42,Other Incident,CBE,Paint Branch Building at 4505  Campus  Dr
+2023-00020002,03/01/23 17:00,03/01/23 17:59,Other Incident,Active/Pending,"64, Dorchester, Dorchester Hall at 3947  Campus  Dr"
+2023-00020070,03/01/23 22:40,03/01/23 22:40,Warrant/Summons Service,Arrest,University  Blvd
+2023-00020294,03/01/23 21:00,03/02/23 16:00,Suspicious Activity,CBE,8200 block of  Baltimore  Ave
 2023-00020301,03/02/23 16:34,03/02/23 17:45,Emergency Petition,CBE,4800 block of  Harvard  Rd
 2023-00020425,03/03/23 02:13,03/03/23 02:13,DWI/DUI,Arrest,College  Ave
 2023-00020622,03/03/23 14:50,03/03/23 14:50,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2023-00020684,03/03/23 10:00,03/03/23 17:53,Extortion,Active/Pending,8600 block of  Boteler  Ln
-2023-00020759,03/03/23 20:30,03/03/23 22:11,Vandalism,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2023-00020759,03/03/23 20:30,03/03/23 22:11,Vandalism,Investigation Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2023-00020772,03/03/23 22:43,03/03/23 22:43,DWI/DUI,Arrest,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
 2023-00020788,03/03/23 23:55,03/04/23 00:03,Pedestrian Struck,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00020810,03/04/23 02:02,03/04/23 02:02,Assist Other Agency / Other,CBE,8200 block of  Baltimore  Ave
+2023-00021047,03/04/23 00:00,03/04/23 20:45,Vandalism,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
+2023-00021065,03/04/23 23:02,03/04/23 23:00,Alcohol Violation,Arrest,4700 block of  Rossborough  Ln
+2023-00021100,03/04/23 22:00,03/05/23 01:32,Hate Bias Incident,Unfounded,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2023-00021102,03/05/23 02:24,03/05/23 02:24,DWI/DUI,Arrest,Baltimore  Ave
+2023-00021120,03/05/23 02:00,03/05/23 05:05,Assist Other Agency / Other,CBE,4700 block of  Berwyn House  Rd
 2023-00021676,03/06/23 20:00,03/06/23 21:39,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
