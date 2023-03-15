@@ -1520,7 +1520,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00007777,01/23/23 10:34,01/23/23 10:34,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
 2023-00007810,01/23/23 13:56,01/23/23 13:56,Suspicious Activity,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00007820,01/20/23 15:00,01/23/23 14:59,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
-2023-00007846,01/21/23 17:00,01/23/23 15:56,Vandalism,Active/Pending,University Courtyard #7 at 8700  Boteler  Ln
+2023-00007846,01/21/23 17:00,01/23/23 15:56,Vandalism,Investigation Pending,University Courtyard #7 at 8700  Boteler  Ln
 2023-00008054,01/24/23 09:02,01/24/23 09:02,Other Incident,CBE,Paint Branch Gate at 8966  Paint Branch  Dr
 2023-00008060,01/23/23 23:45,01/24/23 09:44,Theft,Active/Pending,3900 block of  Denton Service  Ln
 2023-00008094,01/24/23 10:00,01/24/23 12:36,Theft,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
@@ -1704,7 +1704,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00018480,02/24/23 16:45,02/24/23 16:45,Accident - Departmental,CBE,490 block of  / Baltimore Ave
 2023-00018616,02/24/23 22:03,02/24/23 22:07,CDS Violation,Active/Pending,4200 block of  Valley  Dr
 2023-00018633,02/24/23 23:31,02/24/23 23:31,Traffic Arrest,Arrest,Baltimore  Ave
-2023-00018664,02/25/23 01:30,02/25/23 02:13,Vandalism,Summons Issued,8000 block of  Hagerstown  Dr
+2023-00018664,02/25/23 01:30,02/25/23 02:13,Vandalism,Arrest,8000 block of  Hagerstown  Dr
 2023-00018823,02/24/23 21:52,02/25/23 16:58,Hate Bias Incident,Active/Pending,4200 block of  Farm  Dr
 2023-00018826,02/25/23 17:20,02/25/23 17:29,Injured/Sick Person,CBE,8100 block of  Paint Branch  Dr
 2023-00018903,02/26/23 00:20,02/26/23 00:49,Injured/Sick Person,CBE,"Alpha Chi Omega, Alpha Chi Omega Sorority at 4525  College  Ave"
@@ -1746,7 +1746,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00020788,03/03/23 23:55,03/04/23 00:03,Pedestrian Struck,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00020810,03/04/23 02:02,03/04/23 02:02,Assist Other Agency / Other,CBE,8200 block of  Baltimore  Ave
 2023-00021047,03/04/23 00:00,03/04/23 20:45,Vandalism,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
-2023-00021065,03/04/23 23:02,03/04/23 23:00,Alcohol Violation,Arrest,4700 block of  Rossborough  Ln
+2023-00021065,03/04/23 23:00,03/04/23 23:00,Alcohol Violation,Arrest,4700 block of  Rossborough  Ln
 2023-00021100,03/04/23 22:00,03/05/23 01:32,Hate Bias Incident,Unfounded,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2023-00021102,03/05/23 02:24,03/05/23 02:24,DWI/DUI,Arrest,Baltimore  Ave
 2023-00021120,03/05/23 02:00,03/05/23 05:05,Assist Other Agency / Other,CBE,4700 block of  Berwyn House  Rd
@@ -1756,16 +1756,24 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00021514,02/24/23 13:00,03/06/23 09:24,Theft,Active/Pending,7900 block of  Regents  Dr
 2023-00021519,03/06/23 09:35,03/06/23 09:35,Other Incident,CBE,7800 block of  Regents  Dr
 2023-00021571,03/04/23 18:52,03/06/23 11:36,Burglary,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2023-00021606,03/06/23 14:02,03/06/23 14:02,Injured/Sick Person,CBE,8400 block of  Baltimore  Ave
 2023-00021641,03/06/23 13:00,03/06/23 16:25,Check on the  Welfare,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2023-00021676,03/06/23 20:00,03/06/23 21:39,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
 2023-00021692,03/06/23 21:46,03/06/23 23:19,Theft,Active/Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
 2023-00021703,03/07/23 00:11,03/07/23 00:11,Assist Other Agency / Theft,CBE,Mowatt  Ln
 2023-00021837,03/06/23 14:00,03/07/23 09:18,Vandalism,Active/Pending,"77, Main Admin, Main Administration Building, Thomas V. Miller Jr. Administration Building at 7901  Regents  Dr"
+2023-00021883,03/07/23 09:10,03/07/23 12:16,Injured/Sick Person,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
+2023-00021889,03/07/23 10:50,03/07/23 12:23,Injured/Sick Person,CBE,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2023-00021951,03/07/23 18:56,03/07/23 18:56,CDS Violation,CBE,4200 block of  Farm  Dr
 2023-00021988,03/07/23 20:55,03/07/23 20:55,Suspicious Activity,CBE,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
+2023-00022039,03/07/23 23:05,03/07/23 23:05,Disorderly Conduct,Arrest,Knox  Rd
+2023-00022104,03/08/23 02:00,03/08/23 02:00,Emergency Petition,CBE,7200 block of  Preinkert  Dr
+2023-00022117,02/08/23 04:06,03/08/23 04:06,Extortion (Title IX Related),Active/Pending,4500 block of  Hartwick  Rd
 2023-00022173,03/08/23 10:05,03/08/23 10:20,Vandalism,CBE,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
+2023-00022174,03/08/23 09:57,03/08/23 10:33,Injured/Sick Person,CBE,3900 block of  Campus  Dr
 2023-00022231,03/08/23 15:55,03/08/23 16:33,Assist Other Agency / Other,CBE,"EARTH SYSTEM SCIENCE INTERDISCIPLINARY CENTER, ESSIC at 5825  University Research  Ct"
 2023-00022337,03/08/23 16:00,03/09/23 01:02,Extortion,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2023-00022399,03/08/23 17:00,03/09/23 09:03,Injured/Sick Person,CBE,"Bob  Turtle Smith Stadium, Shipley Field, Shipley Field at Bob ""Turtle"" Smith Stadium, Turtle Stadium at 4122  Fieldhouse  Dr"
 2023-00022450,02/16/23 08:30,03/09/23 11:31,Suspicious Activity,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2023-00022467,03/08/23 18:30,03/09/23 12:56,Theft,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
 2023-00022492,02/19/23 08:00,03/09/23 15:13,Theft,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
@@ -1774,10 +1782,30 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00022618,03/10/23 00:24,03/10/23 00:24,Alcohol Violation,Arrest,College  Ave
 2023-00022627,03/10/23 00:30,03/10/23 01:03,Assist Other Agency / Death Investigation,CBE,3700 block of  Campus  Dr
 2023-00022772,03/09/23 19:00,03/10/23 10:48,Theft,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
+2023-00022792,03/10/23 12:34,03/10/23 12:34,Emergency Petition,CBE,Admissions Welcome Center at 7777  Baltimore  Ave
 2023-00022799,03/09/23 07:30,03/10/23 13:01,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2023-00022903,03/10/23 21:22,03/10/23 21:22,Injured/Sick Person,CBE,4600 block of  College  Ave
+2023-00022908,03/10/23 22:38,03/10/23 22:38,Injured/Sick Person,CBE,7500 block of  Calvert Service  Ln
+2023-00022909,03/10/23 22:41,03/10/23 22:41,Injured/Sick Person,CBE,"Ledos, Ledos Restaraunt at 4509  Knox  Rd"
+2023-00022934,03/11/23 00:30,03/11/23 00:30,Injured/Sick Person,CBE,8100 block of  La Plata  Dr
 2023-00022935,03/10/23 17:00,03/11/23 00:44,Theft,Active/Pending,Johnson-Whittle Hall at 4118  Stadium  Dr
 2023-00022945,03/11/23 01:15,03/11/23 01:15,Other Incident,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2023-00022946,12/12/22 00:00,03/11/23 01:22,Theft,Active/Pending,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176  Campus  Dr"
+2023-00022947,03/11/23 01:45,03/11/23 01:45,Injured/Sick Person,CBE,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
+2023-00022965,03/11/23 03:02,03/11/23 03:02,DWI/DUI,Arrest,University  Blvd
+2023-00023008,03/11/23 08:23,03/11/23 08:43,Injured/Sick Person,CBE,"Chestertown, Chestertown Hall at 4201  Valley  Dr"
+2023-00023053,03/09/23 12:00,03/11/23 10:34,Theft,Active/Pending,"71, Lee Building, South Administration at 7809  Regents  Dr"
+2023-00023109,03/11/23 06:17,03/11/23 15:31,Vandalism,Active/Pending,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
+2023-00023127,03/11/23 10:00,03/11/23 17:44,Burglary,Active/Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
+2023-00023191,03/11/23 23:43,03/11/23 23:43,Injured/Sick Person,CBE,4200 block of  Valley  Dr
+2023-00023275,03/12/23 07:30,03/12/23 09:34,Damage to State Property,CBE,"Benjamin, Benjamin Bldg, Benjamin Building at 3942  Campus  Dr"
+2023-00023384,03/12/23 14:45,03/12/23 15:18,Theft,Active/Pending,7600 block of  Regents  Dr
+2023-00023393,03/12/23 16:10,03/12/23 16:10,Animal Complaint,Active/Pending,LaPlata Beach
+2023-00023472,03/13/23 01:01,03/13/23 01:21,Assist Other Agency / Robbery,CBE,8900 block of  Rhode Island  Ave
+2023-00023634,03/09/23 22:00,03/13/23 10:02,Theft,Active/Pending,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
+2023-00023667,03/11/23 01:29,03/13/23 11:47,Burglary,Active/Pending,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176  Campus  Dr"
+2023-00023671,03/13/23 12:25,03/13/23 12:25,Assist Other Agency / Other,CBE,8400 block of  Baltimore  Ave
+2023-00023902,03/06/23 08:00,03/14/23 07:09,Theft,Active/Pending,4100 block of  Campus  Dr
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
