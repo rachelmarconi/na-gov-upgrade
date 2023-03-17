@@ -1478,7 +1478,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00001612,01/05/23 03:11,01/05/23 03:11,Assist Other Agency / Vehicle Tampering,CBE,"Terrapin Row, Terrapin Row #2, Terrapin Row 2, TR2 at 4300  Hartwick  Rd"
 2023-00001712,01/05/23 01:15,01/05/23 13:55,Stolen Motor Vehicle,Active/Pending,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
 2023-00001854,01/05/23 23:55,01/05/23 23:55,Suspicious Person/Auto,Investigation Pending,4800 block of  College  Ave
-2023-00002154,01/06/23 04:30,01/06/23 17:16,Vandalism,Active/Pending,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
+2023-00002154,01/06/23 04:30,01/06/23 17:16,Vandalism,Investigation Pending,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
 2023-00002340,01/07/23 04:27,01/07/23 04:29,Injured/Sick Person,CBE,Breezewood  Dr
 2023-00002790,12/20/22 12:00,01/08/23 17:33,Theft,Investigation Pending,La Plata Hall at 8160  La Plata  Dr
 2023-00002849,01/08/23 16:40,01/08/23 21:21,Theft,Active/Pending,University Courtyard #4 at 8400  Boteler  Ln
@@ -1637,7 +1637,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00015111,02/01/23 19:29,02/14/23 10:04,Fraud,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00015114,02/09/23 09:00,02/14/23 10:30,Suspicious Activity,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2023-00015123,02/09/23 17:00,02/14/23 11:41,Other Incident,CBE,4200 block of  Valley  Dr
-2023-00015136,02/14/23 13:25,02/14/23 13:34,Suspicious Activity,CBE,Yahentamitsi at 4136  Stadium  Dr
+2023-00015136,02/14/23 13:25,02/14/23 13:34,Suspicious Activity,Unfounded,Yahentamitsi at 4136  Stadium  Dr
 2023-00015165,02/14/23 18:14,02/14/23 18:14,Injured/Sick Person,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
 2023-00015185,02/14/23 18:00,02/14/23 19:54,Theft,Active/Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
 2023-00015220,02/14/23 21:00,02/14/23 22:49,Injured/Sick Person,CBE,8000 block of  La Plata  Dr
@@ -1752,8 +1752,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00021102,03/05/23 02:24,03/05/23 02:24,DWI/DUI,Arrest,Baltimore  Ave
 2023-00021120,03/05/23 02:00,03/05/23 05:05,Assist Other Agency / Other,CBE,4700 block of  Berwyn House  Rd
 2023-00021331,03/05/23 02:00,03/05/23 17:38,Hate Bias Incident,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
-2023-00021334,03/05/23 17:15,03/05/23 18:37,Theft,Active/Pending,La Plata Hall at 8160  La Plata  Dr
+2023-00021334,03/05/23 17:15,03/05/23 18:37,Theft,Investigation Pending,La Plata Hall at 8160  La Plata  Dr
 2023-00021357,03/05/23 21:53,03/05/23 21:58,Accident - Departmental,CBE,"46, Marie Mount, Marie Mount Hall at 7814  Regents  Dr"
+2023-00021433,03/06/23 02:30,03/06/23 02:30,DWI/DUI,Arrest,University  Blvd
 2023-00021514,02/24/23 13:00,03/06/23 09:24,Theft,Active/Pending,7900 block of  Regents  Dr
 2023-00021519,03/06/23 09:35,03/06/23 09:35,Other Incident,CBE,7800 block of  Regents  Dr
 2023-00021571,03/04/23 18:52,03/06/23 11:36,Burglary,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
@@ -1797,7 +1798,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00022965,03/11/23 03:02,03/11/23 03:02,DWI/DUI,Arrest,University  Blvd
 2023-00023008,03/11/23 08:23,03/11/23 08:43,Injured/Sick Person,CBE,"Chestertown, Chestertown Hall at 4201  Valley  Dr"
 2023-00023053,03/09/23 12:00,03/11/23 10:34,Theft,Active/Pending,"71, Lee Building, South Administration at 7809  Regents  Dr"
-2023-00023109,03/11/23 06:17,03/11/23 15:31,Vandalism,Investigation Pending,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
+2023-00023109,03/11/23 06:17,03/11/23 15:31,Vandalism,Active/Pending,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
 2023-00023127,03/11/23 10:00,03/11/23 17:44,Burglary,Active/Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
 2023-00023156,03/11/23 20:43,03/11/23 20:43,Injured/Sick Person,CBE,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2023-00023191,03/11/23 23:43,03/11/23 23:43,Injured/Sick Person,CBE,4200 block of  Valley  Dr
@@ -1813,6 +1814,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00023950,03/14/23 11:25,03/14/23 11:27,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00023964,03/04/23 19:58,03/14/23 14:21,Theft,Active/Pending,3900 block of  Denton Service  Ln
 2023-00023965,03/13/23 14:30,03/14/23 14:39,Theft,Active/Pending,"14, Harford Hall at 7660  Regents  Dr"
+2023-00024204,03/15/23 11:00,03/15/23 12:25,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
