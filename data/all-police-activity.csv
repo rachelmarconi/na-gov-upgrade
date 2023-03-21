@@ -1580,7 +1580,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00011196,02/01/23 18:30,02/02/23 18:46,Injured/Sick Person,CBE,Animal Science Building at 8127  Regents  Dr
 2023-00011217,02/02/23 19:57,02/02/23 19:57,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00011370,02/03/23 02:24,02/03/23 02:24,DWI/DUI,Arrest,University  Blvd
-2023-00011503,01/12/23 16:00,02/03/23 10:54,Theft,Active/Pending,8500 block of  Paint Branch  Dr
+2023-00011503,01/12/23 16:00,02/03/23 10:54,Theft,Investigation Pending,8500 block of  Paint Branch  Dr
 2023-00011687,02/03/23 19:10,02/03/23 23:17,Title IX Incident Non Criminal,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2023-00011695,02/04/23 00:27,02/04/23 00:27,Injured/Sick Person,CBE,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
 2023-00012032,02/05/23 00:08,02/05/23 00:08,Injured/Sick Person,CBE,"Domain, Domain College Park, The Domain at 3711  Campus  Dr"
@@ -1626,7 +1626,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00014687,02/12/23 20:35,02/12/23 21:00,Accident,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2023-00014724,02/13/23 01:35,02/13/23 01:47,Injured/Sick Person,CBE,4600 block of  College  Ave
 2023-00014774,02/10/23 17:00,02/13/23 05:59,Damage to State Property,Active/Pending,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
-2023-00014912,02/13/23 09:55,02/13/23 12:12,Theft,Active/Pending,"Bio Psych, Biology-Psychology Building at 4094  Campus  Dr"
+2023-00014912,02/13/23 09:55,02/13/23 12:12,Theft,Investigation Pending,"Bio Psych, Biology-Psychology Building at 4094  Campus  Dr"
 2023-00014949,02/08/23 07:30,02/13/23 13:58,Suspicious Activity,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2023-00014956,02/13/23 11:30,02/13/23 14:27,Theft,Active/Pending,"14, Harford Hall at 7660  Regents  Dr"
 2023-00014957,02/10/23 14:00,02/13/23 14:28,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
@@ -1646,6 +1646,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00015378,02/15/23 10:50,02/15/23 13:01,Theft,Active/Pending,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
 2023-00015400,02/11/23 12:45,02/15/23 15:14,Theft,Active/Pending,"9, Chapel, Memorial Chapel at 7744  Regents  Dr"
 2023-00015432,02/15/23 09:15,02/15/23 17:38,Suspicious Activity,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
+2023-00015436,02/03/23 08:00,02/15/23 17:57,Fraud,Unfounded,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2023-00015499,02/15/23 22:15,02/15/23 22:15,Emergency Petition,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2023-00015616,02/16/23 07:00,02/16/23 07:32,Assist Other Agency / Other,CBE,4000 block of  Stadium  Dr
 2023-00015633,02/14/23 12:30,02/16/23 08:29,Other Incident,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
@@ -1660,7 +1661,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00015865,02/17/23 03:00,02/17/23 03:00,Weapon Violation,Arrest,University  Blvd
 2023-00015976,02/16/23 18:00,02/17/23 10:03,Theft,Investigation Pending,4100 block of N Library  Ln
 2023-00015994,02/15/23 10:30,02/17/23 10:35,Suspicious Activity,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
-2023-00016079,02/17/23 12:00,02/17/23 16:58,Theft,Active/Pending,"16, Baltimore, Baltimore Hall at 7497  Calvert Service  Ln"
+2023-00016079,02/17/23 12:00,02/17/23 16:58,Theft,Investigation Pending,"16, Baltimore, Baltimore Hall at 7497  Calvert Service  Ln"
 2023-00016087,02/17/23 17:00,02/17/23 17:16,Injured/Sick Person,CBE,6800 block of  Preinkert  Dr
 2023-00016127,02/17/23 12:00,02/17/23 19:05,Injured/Sick Person,CBE,6800 block of  Preinkert  Dr
 2023-00016210,02/17/23 23:00,02/17/23 23:21,Injured/Sick Person,CBE,Baltimore  Ave
@@ -1758,6 +1759,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00021514,02/24/23 13:00,03/06/23 09:24,Theft,Active/Pending,7900 block of  Regents  Dr
 2023-00021519,03/06/23 09:35,03/06/23 09:35,Other Incident,CBE,7800 block of  Regents  Dr
 2023-00021571,03/04/23 18:52,03/06/23 11:36,Burglary,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2023-00021584,03/06/23 12:20,03/06/23 12:30,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2023-00021606,03/06/23 14:02,03/06/23 14:02,Injured/Sick Person,CBE,8400 block of  Baltimore  Ave
 2023-00021641,03/06/23 13:00,03/06/23 16:25,Check on the  Welfare,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2023-00021676,03/06/23 20:00,03/06/23 21:39,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
@@ -1779,12 +1781,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00022399,03/08/23 17:00,03/09/23 09:03,Injured/Sick Person,CBE,"Bob  Turtle Smith Stadium, Shipley Field, Shipley Field at Bob ""Turtle"" Smith Stadium, Turtle Stadium at 4122  Fieldhouse  Dr"
 2023-00022450,02/16/23 08:30,03/09/23 11:31,Suspicious Activity,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2023-00022467,03/08/23 18:30,03/09/23 12:56,Theft,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
-2023-00022492,02/19/23 08:00,03/09/23 15:13,Theft,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
+2023-00022492,02/19/23 08:00,03/09/23 15:13,Theft,Investigation Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
+2023-00022537,03/09/23 18:25,03/09/23 18:25,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00022548,03/09/23 19:19,03/09/23 19:19,Alarm,CBE,"Frat 1, Greek House 1, KA, Kappa Alpha, Kappa Alpha Fraternity at 1  Fraternity  Row"
 2023-00022609,03/09/23 16:00,03/09/23 23:58,Theft,Active/Pending,Manufacturing Building at 8197  Regents  Dr
 2023-00022618,03/10/23 00:24,03/10/23 00:24,Alcohol Violation,Arrest,College  Ave
 2023-00022627,03/10/23 00:30,03/10/23 01:03,Assist Other Agency / Death Investigation,CBE,3700 block of  Campus  Dr
-2023-00022772,03/09/23 19:00,03/10/23 10:48,Theft,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
+2023-00022772,03/09/23 19:00,03/10/23 10:48,Theft,Investigation Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2023-00022792,03/10/23 12:34,03/10/23 12:34,Emergency Petition,CBE,Admissions Welcome Center at 7777  Baltimore  Ave
 2023-00022799,03/09/23 07:30,03/10/23 13:01,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2023-00022903,03/10/23 21:22,03/10/23 21:22,Injured/Sick Person,CBE,4600 block of  College  Ave
@@ -1801,20 +1804,30 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00023109,03/11/23 06:17,03/11/23 15:31,Vandalism,Active/Pending,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
 2023-00023127,03/11/23 10:00,03/11/23 17:44,Burglary,Active/Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
 2023-00023156,03/11/23 20:43,03/11/23 20:43,Injured/Sick Person,CBE,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
+2023-00023167,03/05/23 23:00,03/11/23 22:33,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00023191,03/11/23 23:43,03/11/23 23:43,Injured/Sick Person,CBE,4200 block of  Valley  Dr
 2023-00023275,03/12/23 07:30,03/12/23 09:34,Damage to State Property,CBE,"Benjamin, Benjamin Bldg, Benjamin Building at 3942  Campus  Dr"
 2023-00023384,03/12/23 14:45,03/12/23 15:18,Theft,Active/Pending,7600 block of  Regents  Dr
 2023-00023393,03/12/23 16:10,03/12/23 16:10,Animal Complaint,Active/Pending,LaPlata Beach
+2023-00023426,10/24/22 00:01,03/12/23 21:14,Rape,Active/Pending,"Leonardtown, Leonardtown #201, Leonardtown Leonardtown Office Building at 4725  Rossborough  Ln"
 2023-00023472,03/13/23 01:01,03/13/23 01:21,Assist Other Agency / Robbery,CBE,8900 block of  Rhode Island  Ave
+2023-00023512,03/10/23 16:30,03/13/23 06:29,Burglary,Active/Pending,Field Hockey & Women's Lacrosse Stadium at 8483  Paint Branch  Dr
 2023-00023634,03/09/23 22:00,03/13/23 10:02,Theft,Active/Pending,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2023-00023667,03/11/23 01:29,03/13/23 11:47,Burglary,Active/Pending,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176  Campus  Dr"
 2023-00023671,03/13/23 12:25,03/13/23 12:25,Assist Other Agency / Other,CBE,8400 block of  Baltimore  Ave
+2023-00023782,03/13/23 16:30,03/13/23 17:31,Assist Other Agency / Other,CBE,8700 block of  Baltimore  Ave
 2023-00023848,03/13/23 22:00,03/14/23 00:16,Vandalism,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
 2023-00023902,03/06/23 08:00,03/14/23 07:09,Theft,Active/Pending,4100 block of  Campus  Dr
 2023-00023950,03/14/23 11:25,03/14/23 11:27,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00023964,03/04/23 19:58,03/14/23 14:21,Theft,Active/Pending,3900 block of  Denton Service  Ln
 2023-00023965,03/13/23 14:30,03/14/23 14:39,Theft,Active/Pending,"14, Harford Hall at 7660  Regents  Dr"
+2023-00024012,03/14/23 16:52,03/14/23 16:52,Recovered Stolen Property,CBE,"Drazek Circle, UMGC at 346  Ehrensberger  Dr"
+2023-00024042,03/14/23 20:35,03/14/23 20:35,Trespassing,Arrest,"9, Chapel, Memorial Chapel at 7744  Regents  Dr"
 2023-00024204,03/15/23 11:00,03/15/23 12:25,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
+2023-00024272,03/15/23 17:45,03/15/23 17:56,Peeping Tom (Title IX Related),Active/Pending,"69, Wicomico, Wicomico Hall at 7218  Preinkert  Dr"
+2023-00024476,03/15/23 21:00,03/16/23 10:43,Theft,Active/Pending,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
+2023-00024489,03/15/23 01:23,03/16/23 11:50,Burglary,Active/Pending,4100 block of  Campus  Dr
+2023-00024843,02/28/23 07:45,03/17/23 13:29,Other Incident,Active/Pending,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
