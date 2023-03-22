@@ -1681,7 +1681,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00016496,02/18/23 19:00,02/19/23 00:43,Injured/Sick Person,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
 2023-00016502,02/19/23 01:48,02/19/23 01:48,Injured/Sick Person,CBE,Jull Hall at 4196  Stadium  Dr
 2023-00016506,02/18/23 23:00,02/19/23 02:12,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
-2023-00016915,02/19/23 23:30,02/20/23 06:48,Other Incident,Active/Pending,"69, Wicomico, Wicomico Hall at 7218  Preinkert  Dr"
+2023-00016915,02/19/23 23:30,02/20/23 06:48,Other Incident,Unfounded,"69, Wicomico, Wicomico Hall at 7218  Preinkert  Dr"
 2023-00017059,02/20/23 12:00,02/20/23 14:55,Assault,Active/Pending,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
 2023-00017070,02/17/23 11:30,02/20/23 16:33,Theft,Active/Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
 2023-00017340,02/20/23 15:37,02/21/23 15:02,Trespassing,Summons Issued,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
@@ -1784,7 +1784,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00022492,02/19/23 08:00,03/09/23 15:13,Theft,Investigation Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2023-00022537,03/09/23 18:25,03/09/23 18:25,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00022548,03/09/23 19:19,03/09/23 19:19,Alarm,CBE,"Frat 1, Greek House 1, KA, Kappa Alpha, Kappa Alpha Fraternity at 1  Fraternity  Row"
-2023-00022609,03/09/23 16:00,03/09/23 23:58,Theft,Active/Pending,Manufacturing Building at 8197  Regents  Dr
+2023-00022609,03/09/23 16:00,03/09/23 23:58,Theft,Investigation Pending,Manufacturing Building at 8197  Regents  Dr
 2023-00022618,03/10/23 00:24,03/10/23 00:24,Alcohol Violation,Arrest,College  Ave
 2023-00022627,03/10/23 00:30,03/10/23 01:03,Assist Other Agency / Death Investigation,CBE,3700 block of  Campus  Dr
 2023-00022772,03/09/23 19:00,03/10/23 10:48,Theft,Investigation Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
@@ -1817,7 +1817,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00023671,03/13/23 12:25,03/13/23 12:25,Assist Other Agency / Other,CBE,8400 block of  Baltimore  Ave
 2023-00023782,03/13/23 16:30,03/13/23 17:31,Assist Other Agency / Other,CBE,8700 block of  Baltimore  Ave
 2023-00023848,03/13/23 22:00,03/14/23 00:16,Vandalism,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
-2023-00023902,03/06/23 08:00,03/14/23 07:09,Theft,Active/Pending,4100 block of  Campus  Dr
+2023-00023902,03/06/23 08:00,03/14/23 07:09,Theft,Investigation Pending,4100 block of  Campus  Dr
 2023-00023950,03/14/23 11:25,03/14/23 11:27,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00023964,03/04/23 19:58,03/14/23 14:21,Theft,Active/Pending,3900 block of  Denton Service  Ln
 2023-00023965,03/13/23 14:30,03/14/23 14:39,Theft,Active/Pending,"14, Harford Hall at 7660  Regents  Dr"
@@ -1825,9 +1825,16 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00024042,03/14/23 20:35,03/14/23 20:35,Trespassing,Arrest,"9, Chapel, Memorial Chapel at 7744  Regents  Dr"
 2023-00024204,03/15/23 11:00,03/15/23 12:25,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2023-00024272,03/15/23 17:45,03/15/23 17:56,Peeping Tom (Title IX Related),Active/Pending,"69, Wicomico, Wicomico Hall at 7218  Preinkert  Dr"
+2023-00024456,03/16/23 09:25,03/16/23 09:30,Injured/Sick Person,CBE,7700 block of  Adelphi  Rd
 2023-00024476,03/15/23 21:00,03/16/23 10:43,Theft,Active/Pending,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
 2023-00024489,03/15/23 01:23,03/16/23 11:50,Burglary,Active/Pending,4100 block of  Campus  Dr
+2023-00024599,03/16/23 19:45,03/16/23 19:45,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2023-00024692,03/17/23 01:00,03/17/23 01:20,Injured/Sick Person,CBE,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
+2023-00024709,03/17/23 02:43,03/17/23 02:43,Traffic Arrest,Arrest,Adelphi  Rd
 2023-00024843,02/28/23 07:45,03/17/23 13:29,Other Incident,Active/Pending,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
+2023-00024976,03/17/23 20:29,03/17/23 20:29,Recovered Stolen Property,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
+2023-00025052,03/18/23 00:44,03/18/23 00:44,Injured/Sick Person,CBE,4400 block of  Knox  Rd
+2023-00025684,03/19/23 17:50,03/19/23 18:16,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
