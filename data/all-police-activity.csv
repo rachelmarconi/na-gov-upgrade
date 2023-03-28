@@ -1783,6 +1783,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00022467,03/08/23 18:30,03/09/23 12:56,Theft,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
 2023-00022492,02/19/23 08:00,03/09/23 15:13,Theft,Investigation Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2023-00022537,03/09/23 18:25,03/09/23 18:25,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2023-00022542,03/09/23 18:47,03/09/23 18:47,Found/Recovered Property,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00022548,03/09/23 19:19,03/09/23 19:19,Alarm,CBE,"Frat 1, Greek House 1, KA, Kappa Alpha, Kappa Alpha Fraternity at 1  Fraternity  Row"
 2023-00022609,03/09/23 16:00,03/09/23 23:58,Theft,Investigation Pending,Manufacturing Building at 8197  Regents  Dr
 2023-00022618,03/10/23 00:24,03/10/23 00:24,Alcohol Violation,Arrest,College  Ave
@@ -1806,6 +1807,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00023156,03/11/23 20:43,03/11/23 20:43,Injured/Sick Person,CBE,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2023-00023167,03/05/23 23:00,03/11/23 22:33,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00023191,03/11/23 23:43,03/11/23 23:43,Injured/Sick Person,CBE,4200 block of  Valley  Dr
+2023-00023221,03/12/23 01:34,03/12/23 01:34,Disorderly Conduct,Arrest,Baltimore  Ave
 2023-00023275,03/12/23 07:30,03/12/23 09:34,Damage to State Property,CBE,"Benjamin, Benjamin Bldg, Benjamin Building at 3942  Campus  Dr"
 2023-00023384,03/12/23 14:45,03/12/23 15:18,Theft,Active/Pending,7600 block of  Regents  Dr
 2023-00023393,03/12/23 16:10,03/12/23 16:10,Animal Complaint,Active/Pending,LaPlata Beach
