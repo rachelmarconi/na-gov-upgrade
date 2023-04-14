@@ -1746,7 +1746,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00020772,03/03/23 22:43,03/03/23 22:43,DWI/DUI,Arrest,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
 2023-00020788,03/03/23 23:55,03/04/23 00:03,Pedestrian Struck,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00020810,03/04/23 02:02,03/04/23 02:02,Assist Other Agency / Other,CBE,8200 block of  Baltimore  Ave
-2023-00020812,03/04/23 02:09,03/04/23 02:09,Assault,Summons Issued,"76, Symons Hall at 7998  Regents  Dr"
+2023-00020812,03/04/23 02:09,03/04/23 02:09,Assault,Arrest,"76, Symons Hall at 7998  Regents  Dr"
 2023-00021047,03/04/23 00:00,03/04/23 20:45,Vandalism,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00021065,03/04/23 23:00,03/04/23 23:00,Alcohol Violation,Arrest,4700 block of  Rossborough  Ln
 2023-00021100,03/04/23 22:00,03/05/23 01:32,Hate Bias Incident,Unfounded,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
@@ -1808,11 +1808,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00023156,03/11/23 20:43,03/11/23 20:43,Injured/Sick Person,CBE,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2023-00023167,03/05/23 23:00,03/11/23 22:33,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00023191,03/11/23 23:43,03/11/23 23:43,Injured/Sick Person,CBE,4200 block of  Valley  Dr
-2023-00023221,03/12/23 01:34,03/12/23 01:34,Disorderly Conduct,Arrest,Baltimore  Ave
+2023-00023221,03/12/23 01:34,03/12/23 01:34,Resisting Arrest,Arrest,Baltimore  Ave
 2023-00023275,03/12/23 07:30,03/12/23 09:34,Damage to State Property,CBE,"Benjamin, Benjamin Bldg, Benjamin Building at 3942  Campus  Dr"
 2023-00023384,03/12/23 14:45,03/12/23 15:18,Theft,Active/Pending,7600 block of  Regents  Dr
 2023-00023393,03/12/23 16:10,03/12/23 16:10,Animal Complaint,Active/Pending,LaPlata Beach
-2023-00023426,10/24/22 00:01,03/12/23 21:14,Rape,Active/Pending,"Leonardtown, Leonardtown #201, Leonardtown Leonardtown Office Building at 4725  Rossborough  Ln"
+2023-00023426,10/24/22 00:01,03/12/23 21:14,Rape,CBE,"Leonardtown, Leonardtown #201, Leonardtown Leonardtown Office Building at 4725  Rossborough  Ln"
 2023-00023472,03/13/23 01:01,03/13/23 01:21,Assist Other Agency / Robbery,CBE,8900 block of  Rhode Island  Ave
 2023-00023512,03/10/23 16:30,03/13/23 06:29,Burglary,Active/Pending,Field Hockey & Women's Lacrosse Stadium at 8483  Paint Branch  Dr
 2023-00023634,03/09/23 22:00,03/13/23 10:02,Theft,Summons Issued,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
@@ -1930,13 +1930,20 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00032500,04/09/23 07:00,04/09/23 17:28,Theft,Active/Pending,3900 block of  Denton Service  Ln
 2023-00032512,04/09/23 18:35,04/09/23 18:35,CDS Violation,CBE,3800 block of  Stadium  Dr
 2023-00032783,04/10/23 10:17,04/10/23 10:17,Injured/Sick Person,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
+2023-00032874,04/05/23 09:00,04/10/23 13:46,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2023-00032878,04/10/23 14:10,04/10/23 14:10,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2023-00032880,03/15/23 12:00,04/10/23 14:34,Theft,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2023-00032881,03/31/23 13:48,04/10/23 14:34,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2023-00033184,04/11/23 12:31,04/11/23 12:31,Damage to State Property,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2023-00033210,04/11/23 13:00,04/11/23 14:57,Theft,Active/Pending,"46, Marie Mount, Marie Mount Hall at 7814  Regents  Dr"
 2023-00033246,04/08/23 00:00,04/11/23 16:48,Title IX Incident Non Criminal,CBE,3900 block of  Campus  Dr
 2023-00033297,04/11/23 20:38,04/11/23 20:38,Emergency Petition,CBE,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
 2023-00033416,04/12/23 04:51,04/12/23 05:01,Assist Other Agency / Burglary,CBE,8100 block of  Baltimore  Ave
+2023-00033432,04/11/23 17:00,04/12/23 08:07,Theft,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2023-00033456,04/11/23 22:00,04/12/23 10:06,Injured/Sick Person,CBE,3400 block of  Tulane  Dr
+2023-00033480,04/11/23 16:00,04/12/23 11:10,Theft,Active/Pending,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
+2023-00033566,04/12/23 19:20,04/12/23 19:20,Injured/Sick Person,CBE,"Recreation Artificial Turf Field, Turf Field, Turf Fields"
+2023-00033785,04/13/23 10:27,04/13/23 10:29,Injured/Sick Person,CBE,8500 block of  Paint Branch  Dr
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
