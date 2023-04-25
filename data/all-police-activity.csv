@@ -1936,6 +1936,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00032512,04/09/23 18:35,04/09/23 18:35,CDS Violation,CBE,3800 block of  Stadium  Dr
 2023-00032537,04/09/23 20:27,04/09/23 20:27,Recovered Stolen Property,Arrest,La Plata Hall at 8160  La Plata  Dr
 2023-00032783,04/10/23 10:17,04/10/23 10:17,Injured/Sick Person,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
+2023-00032869,04/07/23 14:00,04/10/23 13:32,Fraud,Active/Pending,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2023-00032874,04/05/23 09:00,04/10/23 13:46,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2023-00032878,04/10/23 14:10,04/10/23 14:10,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2023-00032880,03/15/23 12:00,04/10/23 14:34,Theft,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
@@ -1955,12 +1956,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00033563,04/12/23 18:46,04/12/23 18:46,Traffic Offense,Active/Pending,Health Center at 3983  Campus  Dr
 2023-00033566,04/12/23 19:20,04/12/23 19:20,Injured/Sick Person,CBE,"Recreation Artificial Turf Field, Turf Field, Turf Fields"
 2023-00033785,04/13/23 10:27,04/13/23 10:29,Injured/Sick Person,CBE,8500 block of  Paint Branch  Dr
+2023-00033820,03/27/23 17:00,04/13/23 12:52,Assist Other Agency (Title IX Related) / Rape,CBE,8400 block of  Baltimore  Ave
 2023-00033833,04/13/23 13:00,04/13/23 14:50,Injured Officer,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
 2023-00033874,04/13/23 09:15,04/13/23 17:48,Theft,Active/Pending,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
 2023-00033887,04/13/23 19:28,04/13/23 19:28,Injured/Sick Person,CBE,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center at 4090  Union  Dr"
 2023-00033890,04/13/23 19:58,04/13/23 20:58,Injured/Sick Person,CBE,7500 block of  Regents  Dr
 2023-00033892,04/12/23 23:30,04/13/23 21:10,Vandalism,Active/Pending,8000 block of  Hagerstown  Dr
 2023-00034102,04/09/23 07:40,04/14/23 09:06,Hate Bias Incident,Active/Pending,4200 block of  Farm  Dr
+2023-00034109,04/12/23 21:00,04/14/23 09:53,Theft,Active/Pending,"15, Calvert, Calvert Hall at 7551  Calvert Service  Ln"
 2023-00034131,04/14/23 10:30,04/14/23 11:23,Title IX Incident Non Criminal,CBE,"46, Marie Mount, Marie Mount Hall at 7814  Regents  Dr"
 2023-00034138,04/14/23 13:14,04/14/23 13:14,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2023-00034139,04/13/23 10:00,04/14/23 13:37,Theft,Active/Pending,Kim Engineering Building at 8228  Paint Branch  Dr
@@ -1968,16 +1971,21 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00034351,04/15/23 00:29,04/15/23 00:29,Injured/Sick Person,CBE,"73, H.J. Patterson Hall, HJ Patterson Hall at 4065  Campus  Dr"
 2023-00034505,04/15/23 13:58,04/15/23 13:58,Assist Other Agency / Check on the Welfare,CBE,4000 block of  Stadium  Dr
 2023-00034509,04/12/23 13:00,04/15/23 14:53,Theft,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2023-00034672,04/16/23 01:31,04/16/23 01:31,Injured/Sick Person,CBE,"Cornerstone, Cornerstone Grill at 7325  Baltimore  Ave"
 2023-00034696,04/15/23 23:30,04/16/23 03:45,Other Incident,Active/Pending,Washington Quad
+2023-00034756,03/28/23 00:01,04/16/23 12:09,Fraud,Active/Pending,6900 block of  Preinkert  Dr
 2023-00034762,04/16/23 07:00,04/16/23 13:19,Assist Other Agency / Death Investigation,CBE,4313a Guilford Drive Dr
 2023-00034790,04/15/23 22:00,04/16/23 19:00,Extortion (Title IX Related),Active/Pending,4200 block of  Lehigh  Rd
 2023-00034805,04/16/23 21:42,04/16/23 21:44,Assist Other Agency / Vandalism,CBE,4600 block of  College  Ave
 2023-00034918,04/17/23 07:50,04/17/23 08:05,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00034968,04/17/23 11:44,04/17/23 11:44,Hazardous Condition,CBE,"Leonardtown #250, Leonardtown Community Center at 7559  Yale  Ave"
+2023-00034973,04/13/23 05:45,04/17/23 12:00,Theft,Active/Pending,Lot 9b
 2023-00035096,04/18/23 00:45,04/18/23 00:59,Assist Other Agency / Carjacking,CBE,7400 block of  Baltimore  Ave
 2023-00035177,04/17/23 15:50,04/18/23 07:38,Injured Officer,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
+2023-00035187,04/09/23 16:00,04/18/23 09:38,Hate Bias Incident,Active/Pending,4200 block of  Farm  Dr
 2023-00035201,04/18/23 12:02,04/18/23 12:02,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
 2023-00035212,04/18/23 12:23,04/18/23 12:42,Assist Other Agency / Weapon Violation,CBE,Baltimore  Ave
+2023-00035219,04/18/23 13:45,04/18/23 14:21,Accident,CBE,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
 2023-00035220,04/18/23 14:40,04/18/23 14:56,Emergency Petition,CBE,3900 block of  Denton Service  Ln
 2023-00035223,04/18/23 15:07,04/18/23 15:07,Accident - Departmental,CBE,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2023-00035234,04/18/23 16:28,04/18/23 16:28,Injured/Sick Person,CBE,8400 block of  Boteler  Ln
@@ -1987,6 +1995,16 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00035506,10/22/21 22:30,04/19/23 13:21,Assist Other Agency / Rape,CBE,9600 block of  Milestone  Way
 2023-00035517,04/16/23 00:00,04/19/23 14:08,Assist Other Agency / Rape,CBE,4500 block of  Knox  Rd
 2023-00035724,04/20/23 02:30,04/20/23 02:53,Injured/Sick Person,CBE,"54, Preinkert, Preinkert Hall at 7480  Preinkert  Dr"
+2023-00035820,04/20/23 10:30,04/20/23 11:44,Other Incident,CBE,8100 block of  La Plata  Dr
+2023-00035870,04/18/23 00:00,04/20/23 17:20,Suspicious Activity,Active/Pending,8000 block of  Hagerstown  Dr
+2023-00035975,04/21/23 00:49,04/21/23 00:49,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
+2023-00036006,04/21/23 02:15,04/21/23 02:15,Injured/Sick Person,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
+2023-00036156,04/20/23 17:00,04/21/23 10:16,Theft,Active/Pending,7700 block of  Baltimore  Ave
+2023-00036194,04/20/23 17:59,04/21/23 14:38,Hate Bias Incident,Active/Pending,3900 block of  Campus  Dr
+2023-00036307,04/20/23 20:00,04/21/23 20:22,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
+2023-00036358,04/21/23 20:30,04/21/23 22:07,Injured/Sick Person,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
+2023-00036419,04/22/23 04:28,04/22/23 04:28,Emergency Petition,CBE,3400 block of  Tulane  Dr
+2023-00036483,04/22/23 10:30,04/22/23 10:30,Damage to State Property,Active/Pending,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
