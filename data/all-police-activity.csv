@@ -1675,7 +1675,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00016386,02/18/23 13:30,02/18/23 13:35,Injured/Sick Person,CBE,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2023-00016405,02/14/23 18:15,02/18/23 15:04,Vandalism,Investigation Pending,38.9827658506793;-76.9333009201224 / Adjacent To L
 2023-00016419,02/18/23 17:15,02/18/23 17:16,CDS Violation,Active/Pending,"Alpha Sigma Phi, Frat 9 at 9  Fraternity  Row"
-2023-00016420,02/18/23 11:00,02/18/23 17:15,Theft,Active/Pending,"14, Harford Hall at 7660  Regents  Dr"
+2023-00016420,02/18/23 11:00,02/18/23 17:15,Theft,Investigation Pending,"14, Harford Hall at 7660  Regents  Dr"
 2023-00016491,02/18/23 22:00,02/19/23 00:17,Other Incident,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2023-00016495,02/19/23 00:59,02/19/23 00:59,Injured/Sick Person,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2023-00016496,02/18/23 19:00,02/19/23 00:43,Injured/Sick Person,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
@@ -1999,6 +1999,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00035517,04/16/23 00:00,04/19/23 14:08,Assist Other Agency / Rape,CBE,4500 block of  Knox  Rd
 2023-00035724,04/20/23 02:30,04/20/23 02:53,Injured/Sick Person,CBE,"54, Preinkert, Preinkert Hall at 7480  Preinkert  Dr"
 2023-00035820,04/20/23 10:30,04/20/23 11:44,Other Incident,CBE,8100 block of  La Plata  Dr
+2023-00035868,01/24/23 12:00,04/20/23 16:44,Theft,Active/Pending,Manokin Building at 5801  University Research  Ct
 2023-00035870,04/18/23 00:00,04/20/23 17:20,Suspicious Activity,Active/Pending,8000 block of  Hagerstown  Dr
 2023-00035895,04/20/23 19:37,04/20/23 19:37,Alcohol Violation,Arrest,College  Ave
 2023-00035975,04/21/23 00:49,04/21/23 00:49,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
@@ -2017,10 +2018,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00036731,04/21/23 15:00,04/23/23 12:13,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2023-00036740,04/23/23 12:15,04/23/23 13:54,Theft,Active/Pending,7600 block of  Regents  Dr
 2023-00036747,04/20/23 08:30,04/23/23 15:59,Other Incident,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2023-00036830,04/23/23 18:00,04/23/23 21:27,Theft,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2023-00037025,04/24/23 12:00,04/24/23 12:48,Assist Other Agency / Other,CBE,Adelphi  Rd
 2023-00037077,04/07/23 18:15,04/24/23 15:36,Theft,Active/Pending,"88, Martin Hall at 4298  Campus  Dr"
 2023-00037169,04/24/23 21:00,04/24/23 21:06,Accident - Departmental,Active/Pending,8400 block of  Baltimore  Ave
 2023-00037372,04/25/23 09:48,04/25/23 10:16,Injured Officer,Active/Pending,University  Blvd
+2023-00037532,04/25/23 22:48,04/25/23 22:48,Assist Other Agency / Burglary,CBE,4200 block of  Knox  Rd
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
