@@ -1642,7 +1642,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00015185,02/14/23 18:00,02/14/23 19:54,Theft,Investigation Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
 2023-00015220,02/14/23 21:00,02/14/23 22:49,Injured/Sick Person,CBE,8000 block of  La Plata  Dr
 2023-00015275,02/15/23 02:04,02/15/23 02:04,DWI/DUI,Arrest,University  Blvd
-2023-00015332,02/15/23 01:00,02/15/23 09:25,Theft,Active/Pending,7700 block of  Adelphi  Rd
+2023-00015332,02/15/23 01:00,02/15/23 09:25,Theft,Investigation Pending,7700 block of  Adelphi  Rd
 2023-00015378,02/15/23 10:50,02/15/23 13:01,Theft,Investigation Pending,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
 2023-00015400,02/11/23 12:45,02/15/23 15:14,Theft,Investigation Pending,"9, Chapel, Memorial Chapel at 7744  Regents  Dr"
 2023-00015432,02/15/23 09:15,02/15/23 17:38,Suspicious Activity,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
@@ -1713,7 +1713,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00018912,02/26/23 02:24,02/26/23 02:24,DWI/DUI,Arrest,Tecumseh  St
 2023-00018914,02/26/23 03:58,02/26/23 03:58,Injured/Sick Person,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
 2023-00018915,02/26/23 04:22,02/26/23 04:22,DWI/DUI,Arrest,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
-2023-00018947,02/25/23 16:00,02/26/23 08:48,Stolen Motor Vehicle,Active/Pending,3400 block of  Tulane  Dr
+2023-00018947,02/25/23 16:00,02/26/23 08:48,Stolen Motor Vehicle,Investigation Pending,3400 block of  Tulane  Dr
 2023-00019013,02/26/23 13:55,02/26/23 13:59,Assault,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00019017,02/24/23 21:24,02/26/23 14:08,Extortion,Active/Pending,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
 2023-00019026,02/26/23 14:30,02/26/23 14:30,Suspicious Activity,Active/Pending,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
@@ -1995,6 +1995,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00035241,04/18/23 10:25,04/18/23 17:26,Stolen Motor Vehicle,Active/Pending,Lot O3
 2023-00035482,04/16/23 22:20,04/19/23 09:59,Threat Assessment,Active/Pending,"Elkins, Elkins Building, Systems Office, UM Systems Office at 3300  Metzerott  Rd"
 2023-00035489,04/19/23 11:16,04/19/23 11:16,Injured/Sick Person,CBE,"Art Soc, Art Sociology Building, Art-Sociology Building, Parren J. Mitchell Art-Sociology Building at 3834  Campus  Dr"
+2023-00035493,04/18/23 17:00,04/19/23 11:50,Stolen Motor Vehicle,Active/Pending,Lot UU
 2023-00035506,10/22/21 22:30,04/19/23 13:21,Assist Other Agency / Rape,CBE,9600 block of  Milestone  Way
 2023-00035517,04/16/23 00:00,04/19/23 14:08,Assist Other Agency / Rape,CBE,4500 block of  Knox  Rd
 2023-00035724,04/20/23 02:30,04/20/23 02:53,Injured/Sick Person,CBE,"54, Preinkert, Preinkert Hall at 7480  Preinkert  Dr"
@@ -2024,6 +2025,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00037169,04/24/23 21:00,04/24/23 21:06,Accident - Departmental,Active/Pending,8400 block of  Baltimore  Ave
 2023-00037372,04/25/23 09:48,04/25/23 10:16,Injured Officer,Active/Pending,University  Blvd
 2023-00037532,04/25/23 22:48,04/25/23 22:48,Assist Other Agency / Burglary,CBE,4200 block of  Knox  Rd
+2023-00037759,04/26/23 17:43,04/26/23 17:43,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
+2023-00037796,04/26/23 21:00,04/26/23 21:47,Vandalism,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
