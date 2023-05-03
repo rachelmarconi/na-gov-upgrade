@@ -1918,7 +1918,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00031147,04/04/23 16:00,04/05/23 13:50,Theft,Active/Pending,"Frat 2, Pi Kappa Alpha, Pi Kappa Alpha Fraternity at 2  Fraternity  Row"
 2023-00031149,04/05/23 14:00,04/05/23 14:21,Extortion,Active/Pending,4300 block of  Rowalt  Dr
 2023-00031215,04/05/23 18:30,04/05/23 18:30,Burglary,Arrest,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
-2023-00031474,04/06/23 10:30,04/06/23 11:01,Theft,Active/Pending,"Hornbake, Hornbake Library at 4130  Campus  Dr"
+2023-00031474,04/06/23 10:30,04/06/23 11:01,Theft,Investigation Pending,"Hornbake, Hornbake Library at 4130  Campus  Dr"
 2023-00031476,04/06/23 11:36,04/06/23 11:36,Check on the  Welfare,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2023-00031483,04/05/23 23:30,04/06/23 13:25,Damaged Property,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2023-00031515,04/06/23 18:09,04/06/23 18:09,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
@@ -1953,7 +1953,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00033456,04/11/23 22:00,04/12/23 10:06,Injured/Sick Person,CBE,3400 block of  Tulane  Dr
 2023-00033480,04/11/23 16:00,04/12/23 11:10,Theft,Active/Pending,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
 2023-00033490,04/12/23 11:54,04/12/23 11:54,Police Information,Active/Pending,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
-2023-00033497,04/11/23 22:00,04/12/23 13:13,Theft,Active/Pending,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
+2023-00033497,04/11/23 22:00,04/12/23 13:13,Theft,Investigation Pending,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
 2023-00033561,04/11/23 22:00,04/12/23 18:11,Theft,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2023-00033563,04/12/23 18:46,04/12/23 18:46,Traffic Offense,Active/Pending,Health Center at 3983  Campus  Dr
 2023-00033566,04/12/23 19:20,04/12/23 19:20,Injured/Sick Person,CBE,"Recreation Artificial Turf Field, Turf Field, Turf Fields"
@@ -2029,6 +2029,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00037077,04/07/23 18:15,04/24/23 15:36,Theft,Active/Pending,"88, Martin Hall at 4298  Campus  Dr"
 2023-00037169,04/24/23 21:00,04/24/23 21:06,Accident - Departmental,Active/Pending,8400 block of  Baltimore  Ave
 2023-00037372,04/25/23 09:48,04/25/23 10:16,Injured Officer,Active/Pending,University  Blvd
+2023-00037412,04/25/23 14:50,04/25/23 14:57,Other Incident,Active/Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2023-00037532,04/25/23 22:48,04/25/23 22:48,Assist Other Agency / Burglary,CBE,4200 block of  Knox  Rd
 2023-00037631,04/26/23 06:59,04/26/23 06:59,Vandalism,Arrest,Technology Ventures Building at 5000  College  Ave
 2023-00037689,04/26/23 01:00,04/26/23 13:50,Vandalism,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
@@ -2037,14 +2038,20 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00037975,04/27/23 09:20,04/27/23 09:26,Injured/Sick Person,CBE,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
 2023-00038195,04/28/23 01:18,04/28/23 01:18,Injured/Sick Person,CBE,"60, Anne Arundel, Anne Arundel Hall at 3915  Campus  Dr"
 2023-00038241,04/28/23 03:27,04/28/23 03:27,Injured/Sick Person,CBE,"Frat 2, Pi Kappa Alpha, Pi Kappa Alpha Fraternity at 2  Fraternity  Row"
+2023-00038333,04/27/23 15:00,04/28/23 09:50,Other Incident,Active/Pending,Manokin Building at 5801  University Research  Ct
 2023-00038365,04/28/23 12:35,04/28/23 12:35,Emergency Petition,CBE,4200 block of  Chapel  Ln
 2023-00038441,04/28/23 17:55,04/28/23 17:55,Injured/Sick Person,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2023-00038579,04/29/23 02:30,04/29/23 02:30,DWI/DUI,Arrest,Baltimore  Ave
+2023-00038619,04/29/23 01:00,04/29/23 09:18,Hate Bias Incident,Active/Pending,La Plata Hall at 8160  La Plata  Dr
+2023-00038629,04/29/23 01:30,04/29/23 11:18,Vandalism,Active/Pending,La Plata Hall at 8160  La Plata  Dr
 2023-00038630,04/29/23 11:20,04/29/23 11:25,Injured/Sick Person,CBE,McKeldin Mall
 2023-00038632,04/29/23 11:40,04/29/23 11:47,Injured/Sick Person,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2023-00038662,04/29/23 15:55,04/29/23 16:11,Other Incident,CBE,McKeldin Mall
 2023-00038663,04/29/23 16:10,04/29/23 16:14,Injured/Sick Person,CBE,McKeldin Mall
 2023-00038666,04/29/23 16:25,04/29/23 16:33,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2023-00038973,04/30/23 16:27,04/30/23 16:27,Emergency Petition,CBE,8200 block of  Alumni  Dr
+2023-00039194,04/29/23 16:30,05/01/23 11:48,Theft,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
+2023-00039219,05/01/23 13:00,05/01/23 14:29,Assist Other Agency / Assault,CBE,Pineway
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
