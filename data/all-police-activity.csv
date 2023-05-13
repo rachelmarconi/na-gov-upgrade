@@ -2058,6 +2058,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00038782,04/30/23 00:39,04/30/23 00:39,Vandalism,Active/Pending,"Leonardtown #250, Leonardtown Community Center at 7559  Yale  Ave"
 2023-00038937,04/30/23 01:00,04/30/23 12:42,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00038973,04/30/23 16:27,04/30/23 16:27,Emergency Petition,CBE,8200 block of  Alumni  Dr
+2023-00041237,04/29/23 12:18,04/29/23 12:18,CDS Violation,Arrest,Campus  Dr
 2023-00039073,05/01/23 01:39,05/01/23 01:39,Weapon Violation,Arrest,Knox  Rd
 2023-00039191,05/01/23 11:55,05/01/23 11:55,Suspicious Person/Auto,Arrest,4500 block of  College  Ave
 2023-00039194,04/29/23 16:30,05/01/23 11:48,Theft,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
@@ -2075,6 +2076,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00039684,05/03/23 04:00,05/03/23 04:09,Vandalism,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2023-00039720,05/03/23 08:08,05/03/23 08:08,Assist Other Agency / Domestic,CBE,4300 block of  Guilford  Dr
 2023-00039735,04/30/23 18:50,05/03/23 10:34,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2023-00039752,05/03/23 06:00,05/03/23 12:33,Theft,Active/Pending,"Commons 6, SCC 6, South Campus Commons 6 at 6901  Preinkert  Dr"
 2023-00039780,05/03/23 15:45,05/03/23 15:45,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
 2023-00039814,05/03/23 19:03,05/03/23 19:03,Warrant/Summons Service,Arrest,Campus  Dr
 2023-00039818,05/03/23 19:16,05/03/23 19:16,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
@@ -2094,6 +2096,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00040487,05/05/23 19:57,05/05/23 19:57,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00040493,05/04/23 22:00,05/05/23 20:20,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00040540,05/05/23 21:00,05/05/23 22:08,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
+2023-00040548,05/05/23 22:00,05/05/23 22:44,Theft,CBE,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2023-00040581,05/06/23 00:53,05/06/23 00:53,Injured/Sick Person,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2023-00040583,05/06/23 01:11,05/06/23 01:11,DWI/DUI,Arrest,Greenbelt  Rd
 2023-00040584,05/06/23 01:31,05/06/23 01:31,DWI/DUI,Arrest,Branchville  Rd
@@ -2105,6 +2108,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00040782,05/06/23 21:51,05/06/23 21:51,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00040800,05/06/23 23:34,05/06/23 23:35,Disorderly Conduct,Arrest,Knox  Rd
 2023-00040856,05/07/23 03:36,05/07/23 03:36,Assault,Arrest,Johnson-Whittle Hall at 4118  Stadium  Dr
+2023-00040931,05/05/23 14:10,05/07/23 12:11,Theft,Active/Pending,"88, Martin Hall at 4298  Campus  Dr"
 2023-00040941,05/07/23 13:17,05/07/23 13:17,Traffic Offense,Active/Pending,North Gate at 4306  Campus  Dr
 2023-00040984,04/08/23 11:32,05/07/23 16:42,Theft,Active/Pending,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
 2023-00041034,05/05/23 00:00,05/07/23 21:14,Vandalism,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
@@ -2113,14 +2117,19 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00041151,05/08/23 07:40,05/08/23 07:40,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00041163,05/08/23 08:21,05/08/23 08:21,Theft,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2023-00041190,05/08/23 09:45,05/08/23 09:45,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
-2023-00041237,04/29/23 12:18,05/08/23 12:09,CDS Violation,Arrest,Campus  Dr
 2023-00041244,05/08/23 12:00,05/08/23 12:41,Other Incident,Active/Pending,"9, Chapel, Memorial Chapel at 7744  Regents  Dr"
+2023-00041276,05/08/23 02:30,05/08/23 14:52,Theft,Active/Pending,La Plata Hall at 8160  La Plata  Dr
 2023-00041382,05/08/23 20:48,05/08/23 20:48,Injured/Sick Person,CBE,"11, The Hall at 4656  Hotel  Dr"
+2023-00041385,05/08/23 20:54,05/08/23 20:54,Other Incident,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2023-00041408,05/08/23 16:00,05/09/23 00:32,Theft,Active/Pending,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
 2023-00041474,05/09/23 08:23,05/09/23 08:23,Assist Other Agency / Other,Active/Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2023-00041488,05/09/23 10:10,05/09/23 10:21,Injured/Sick Person,CBE,"Tawes, Tawes Hall at 7751  Alumni  Dr"
+2023-00041570,05/09/23 17:45,05/09/23 18:10,Assault,Arrest,"Animal Science Service Building, Campus Farm at 8156  Regents  Dr"
 2023-00041574,05/07/23 18:00,05/09/23 19:55,Theft,Active/Pending,Lot 11b
 2023-00041576,05/09/23 20:25,05/09/23 20:35,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2023-00041786,05/06/23 13:44,05/10/23 12:18,Other Incident,Active/Pending,8600 block of  Boteler  Ln
+2023-00041838,05/10/23 17:23,05/10/23 17:23,Hazardous Condition,CBE,"Bio Psych, Biology-Psychology Building at 4094  Campus  Dr"
+2023-00042057,05/10/23 13:15,05/11/23 12:22,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
