@@ -2002,7 +2002,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00035517,04/16/23 00:00,04/19/23 14:08,Assist Other Agency / Rape,CBE,4500 block of  Knox  Rd
 2023-00035724,04/20/23 02:30,04/20/23 02:53,Injured/Sick Person,CBE,"54, Preinkert, Preinkert Hall at 7480  Preinkert  Dr"
 2023-00035820,04/20/23 10:30,04/20/23 11:44,Other Incident,CBE,8100 block of  La Plata  Dr
-2023-00035868,01/24/23 12:00,04/20/23 16:44,Theft,Active/Pending,Manokin Building at 5801  University Research  Ct
+2023-00035868,01/24/23 12:00,04/20/23 16:44,Theft,Unfounded,Manokin Building at 5801  University Research  Ct
 2023-00035870,04/18/23 00:00,04/20/23 17:20,Suspicious Activity,Unfounded,8000 block of  Hagerstown  Dr
 2023-00035895,04/20/23 19:37,04/20/23 19:37,Alcohol Violation,Arrest,College  Ave
 2023-00035975,04/21/23 00:49,04/21/23 00:49,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
@@ -2133,7 +2133,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00041576,05/09/23 20:25,05/09/23 20:35,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00041786,05/06/23 13:44,05/10/23 12:18,Other Incident,Active/Pending,8600 block of  Boteler  Ln
 2023-00041838,05/10/23 17:23,05/10/23 17:23,Hazardous Condition,CBE,"Bio Psych, Biology-Psychology Building at 4094  Campus  Dr"
-2023-00042057,05/10/23 13:15,05/11/23 12:22,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2023-00042057,05/10/23 13:15,05/11/23 12:22,Theft,Investigation Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2023-00042063,03/11/23 12:00,05/11/23 12:54,Harassment/Stalking,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2023-00042111,05/11/23 17:00,05/11/23 17:16,Injured/Sick Person,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
 2023-00042231,05/12/23 02:02,05/12/23 02:02,DWI/DUI,Arrest,University  Blvd
