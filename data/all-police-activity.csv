@@ -2151,6 +2151,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00042568,05/13/23 00:54,05/13/23 00:54,Injured/Sick Person,CBE,"Bioscience, Bioscience Research Building at 4066  Campus  Dr"
 2023-00042594,05/13/23 03:23,05/13/23 03:23,DWI/DUI,Arrest,University  Blvd
 2023-00042688,03/30/23 18:00,05/13/23 13:04,Theft,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2023-00042702,05/10/23 12:45,05/13/23 15:23,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2023-00042811,05/11/23 17:25,05/13/23 21:34,Theft,Active/Pending,Graduate Hills #291 at 3413  Tulane  Dr
 2023-00042907,05/14/23 02:16,05/14/23 02:16,DWI/DUI,Arrest,Greenbelt  Rd
 2023-00042916,05/14/23 00:00,05/14/23 03:49,Vandalism,Summons Issued,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
@@ -2168,10 +2169,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00043605,05/16/23 04:41,05/16/23 04:41,Vandalism,Active/Pending,"Hornbake, Hornbake Library at 4130  Campus  Dr"
 2023-00043702,01/01/23 00:00,05/16/23 13:47,Theft,Investigation Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00043730,05/16/23 16:20,05/16/23 16:20,Injured/Sick Person,CBE,7800 block of  Regents  Dr
+2023-00043737,05/16/23 16:30,05/16/23 17:00,Accident - Departmental,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2023-00043739,05/16/23 17:05,05/16/23 17:15,Assault,CBE,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2023-00043740,05/14/23 22:00,05/16/23 17:34,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00043746,05/16/23 15:50,05/16/23 18:32,Assault,CBE,4400 block of  Rossborough  Ln
 2023-00043747,05/16/23 14:21,05/16/23 18:52,Vandalism,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
+2023-00043751,05/16/23 20:07,05/16/23 20:22,Recovered Stolen Property,CBE,8000 block of  Hagerstown  Dr
 2023-00043845,05/17/23 01:50,05/17/23 01:52,Resisting Arrest,Arrest,Baltimore  Ave
 2023-00043847,05/17/23 01:43,05/17/23 02:13,Injured/Sick Person,CBE,8100 block of  La Plata  Dr
 2023-00043993,05/16/23 17:00,05/17/23 13:37,Theft,Active/Pending,6800 block of  Preinkert  Dr
@@ -2202,7 +2205,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00045776,05/23/23 08:00,05/23/23 09:46,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2023-00045812,05/23/23 01:45,05/23/23 11:49,Other Incident,CBE,8200 block of  Baltimore  Ave
 2023-00045822,05/23/23 12:59,05/23/23 12:59,Trespassing,Arrest,"Applied Research Lab for Intelligence and Security, ARLIS, CASL, Center for the Advanced Study of Language at 7005  52nd  Ave"
-2023-00045830,05/16/23 08:20,05/23/23 14:39,Vandalism,Active/Pending,"Animal Science Service Building, Campus Farm at 8156  Regents  Dr"
+2023-00045830,05/16/23 08:20,05/23/23 14:39,Vandalism,Investigation Pending,"Animal Science Service Building, Campus Farm at 8156  Regents  Dr"
 2023-00046003,05/22/23 05:45,05/24/23 07:43,Theft,Active/Pending,Kim Engineering Building at 8228  Paint Branch  Dr
 2023-00046070,05/24/23 12:50,05/24/23 12:54,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00046370,05/18/23 15:00,05/25/23 13:44,Theft,Active/Pending,Lot 11b
@@ -2219,6 +2222,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00048150,05/17/23 01:50,05/17/23 01:50,Assault,CBE,Baltimore  Ave
 2023-00048375,05/31/23 21:00,05/31/23 21:36,Other Incident,CBE,"Alpha Epsilon Phi, Alpha Epsilon Phi Sorority, Frat 11 at 11  Fraternity  Row"
 2023-00048495,06/01/23 06:36,06/01/23 06:36,Death Investigation,Active/Pending,"Hornbake, Hornbake Library at 4130  Campus  Dr"
+2023-00048621,06/01/23 15:31,06/01/23 15:31,Injured/Sick Person,CBE,"MFRI, MFRI Office/Classroom Building at 4500  Campus  Dr"
+2023-00048900,06/02/23 09:20,06/02/23 09:30,Injured/Sick Person,CBE,4100 block of  Stadium  Dr
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
