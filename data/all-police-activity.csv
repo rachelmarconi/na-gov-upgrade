@@ -1803,7 +1803,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00022965,03/11/23 03:02,03/11/23 03:02,DWI/DUI,Arrest,University  Blvd
 2023-00023008,03/11/23 08:23,03/11/23 08:43,Injured/Sick Person,CBE,"Chestertown, Chestertown Hall at 4201  Valley  Dr"
 2023-00023053,03/09/23 12:00,03/11/23 10:34,Theft,Investigation Pending,"71, Lee Building, South Administration at 7809  Regents  Dr"
-2023-00023109,03/11/23 06:17,03/11/23 15:31,Vandalism,Active/Pending,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
+2023-00023109,03/11/23 06:17,03/11/23 15:31,Vandalism,Investigation Pending,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
 2023-00023127,03/11/23 10:00,03/11/23 17:44,Burglary,Investigation Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
 2023-00023156,03/11/23 20:43,03/11/23 20:43,Injured/Sick Person,CBE,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2023-00023167,03/05/23 23:00,03/11/23 22:33,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
@@ -2183,7 +2183,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00044262,05/13/23 10:30,05/18/23 11:15,Vandalism,Investigation Pending,Lot 11b
 2023-00044274,05/18/23 13:50,05/18/23 14:00,Sex Offense,Active/Pending,"Capital One Field, Football Stadium, SECU Stadium"
 2023-00044277,05/11/23 09:00,05/18/23 14:31,Theft,Active/Pending,"64, Dorchester, Dorchester Hall at 3947  Campus  Dr"
-2023-00044287,05/17/23 20:00,05/18/23 16:02,Theft,Active/Pending,275 at 4321  Rowalt  Dr
+2023-00044287,05/17/23 20:00,05/18/23 16:02,Theft,Investigation Pending,275 at 4321  Rowalt  Dr
 2023-00044335,05/17/23 21:00,05/18/23 20:23,Lost Property,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2023-00044387,05/17/23 22:00,05/18/23 23:02,Theft,Active/Pending,3800 block of  Stadium  Dr
 2023-00044407,05/18/23 23:57,05/18/23 23:57,Overdose,Active/Pending,University  Blvd
@@ -2228,7 +2228,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00048580,05/22/23 06:00,06/01/23 12:30,Vandalism,Active/Pending,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
 2023-00048621,06/01/23 15:31,06/01/23 15:31,Injured/Sick Person,CBE,"MFRI, MFRI Office/Classroom Building at 4500  Campus  Dr"
 2023-00048900,06/02/23 09:20,06/02/23 09:30,Injured/Sick Person,CBE,4100 block of  Stadium  Dr
-2023-00048913,06/01/23 10:14,06/02/23 10:14,Vandalism,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2023-00048913,06/01/23 10:14,06/02/23 10:14,Vandalism,Investigation Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00048996,06/02/23 13:10,06/02/23 13:16,Damaged Property,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00049900,06/05/23 10:48,06/05/23 10:48,Burglary,Arrest,Mowatt  Ln
 2023-00050065,06/05/23 23:23,06/05/23 23:27,Assist Other Agency / Other,CBE,Campus Village at 8145  Baltimore  Ave
