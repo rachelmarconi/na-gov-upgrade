@@ -2181,7 +2181,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00044017,04/12/23 08:00,05/17/23 16:01,Theft,Active/Pending,"78, Armory, Reckord Armory at 4490  Rossborough  Ln"
 2023-00044158,05/18/23 01:02,05/18/23 01:02,Theft,Arrest,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2023-00044262,05/13/23 10:30,05/18/23 11:15,Vandalism,Investigation Pending,Lot 11b
-2023-00044274,05/18/23 13:50,05/18/23 14:00,Sex Offense,Active/Pending,"Capital One Field, Football Stadium, SECU Stadium"
+2023-00044274,05/18/23 13:50,05/18/23 14:00,Sex Offense,Summons Issued,"Capital One Field, Football Stadium, SECU Stadium"
 2023-00044277,05/11/23 09:00,05/18/23 14:31,Theft,Active/Pending,"64, Dorchester, Dorchester Hall at 3947  Campus  Dr"
 2023-00044287,05/17/23 20:00,05/18/23 16:02,Theft,Investigation Pending,275 at 4321  Rowalt  Dr
 2023-00044335,05/17/23 21:00,05/18/23 20:23,Lost Property,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
@@ -2194,7 +2194,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00044530,05/19/23 14:00,05/19/23 15:02,Theft,Investigation Pending,Engineering Fields
 2023-00044587,05/17/23 10:26,05/19/23 19:44,Harassment/Stalking (Title IX Related),CBE,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
 2023-00044848,05/05/23 07:00,05/20/23 14:17,Theft,Active/Pending,7500 block of  Regents  Dr
-2023-00044854,05/20/23 14:00,05/20/23 15:03,Fire,Active/Pending,"47, Woods, Woods Hall at 4302  Chapel  Ln"
+2023-00044854,05/20/23 14:00,05/20/23 15:03,Fire,Investigation Pending,"47, Woods, Woods Hall at 4302  Chapel  Ln"
 2023-00044981,05/19/23 00:00,05/20/23 22:25,Vandalism,Active/Pending,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
 2023-00045063,05/21/23 01:37,05/21/23 01:37,DWI/DUI,Arrest,University  Blvd
 2023-00045171,05/21/23 01:00,05/21/23 11:44,Vandalism,Active/Pending,8000 block of  Hagerstown  Dr
@@ -2241,7 +2241,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00051366,06/10/23 00:00,06/10/23 11:29,Vandalism,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
 2023-00051446,06/10/23 17:15,06/10/23 17:15,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00051517,06/10/23 22:00,06/10/23 22:11,Suspicious Person/Auto,CBE,"11, The Hall at 4656  Hotel  Dr"
-2023-00051587,06/11/23 02:19,06/11/23 02:20,Assist Other Agency / Indecent Exposure,Active/Pending,4300 block of  Knox  Rd
+2023-00051587,06/11/23 02:19,06/11/23 02:20,Assist Other Agency (Title IX Related) / Indecent Exposure,Active/Pending,4300 block of  Knox  Rd
+2023-00051609,06/11/23 04:30,06/11/23 04:45,Assist Fire Department,Active/Pending,7400 block of  Hopkins  Ave
+2023-00051684,06/10/23 00:00,06/11/23 13:28,Dept Property Damage/Loss,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2023-00052026,06/01/23 00:01,06/12/23 10:10,Damage to State Property,Active/Pending,Grounds Operations & Maintenance Building at 4205  Landscape  Ln
+2023-00052030,06/12/23 10:00,06/12/23 10:21,Suspicious Activity,Active/Pending,7900 block of  Regents  Dr
+2023-00052083,06/12/23 11:00,06/12/23 14:59,Injured Officer,CBE,7500 block of  Baltimore  Ave
+2023-00052291,05/17/23 08:30,06/13/23 04:00,Lost Property,CBE,436 at 4136  Stadium  Dr
+2023-00052346,06/13/23 10:05,06/13/23 10:05,Emergency Petition,CBE,3400 block of  Tulane  Dr
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
