@@ -2171,7 +2171,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00043730,05/16/23 16:20,05/16/23 16:20,Injured/Sick Person,CBE,7800 block of  Regents  Dr
 2023-00043737,05/16/23 16:30,05/16/23 17:00,Accident - Departmental,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2023-00043739,05/16/23 17:05,05/16/23 17:15,Assault,CBE,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
-2023-00043740,05/14/23 22:00,05/16/23 17:34,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2023-00043740,05/14/23 22:00,05/16/23 17:34,Theft,Summons Issued,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00043746,05/16/23 15:50,05/16/23 18:32,Assault,CBE,4400 block of  Rossborough  Ln
 2023-00043747,05/16/23 14:21,05/16/23 18:52,Vandalism,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00043751,05/16/23 20:07,05/16/23 20:22,Recovered Stolen Property,CBE,8000 block of  Hagerstown  Dr
@@ -2197,7 +2197,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00044854,05/20/23 14:00,05/20/23 15:03,Fire,Investigation Pending,"47, Woods, Woods Hall at 4302  Chapel  Ln"
 2023-00044981,05/19/23 00:00,05/20/23 22:25,Vandalism,Active/Pending,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
 2023-00045063,05/21/23 01:37,05/21/23 01:37,DWI/DUI,Arrest,University  Blvd
-2023-00045171,05/21/23 01:00,05/21/23 11:44,Vandalism,Active/Pending,8000 block of  Hagerstown  Dr
+2023-00045171,05/21/23 01:00,05/21/23 11:44,Vandalism,Summons Issued,8000 block of  Hagerstown  Dr
 2023-00045197,05/21/23 14:15,05/21/23 14:36,Injured/Sick Person,CBE,"34, Jimenez, Jimenez Hall at 4125 N Library  Ln"
 2023-00045458,05/20/23 20:30,05/22/23 08:32,Theft,Active/Pending,University Courtyard #4 at 8400  Boteler  Ln
 2023-00045527,05/22/23 15:05,05/22/23 15:49,Dept Property Damage/Loss,CBE,"Capital One Field, Football Stadium, SECU Stadium"
@@ -2235,8 +2235,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00050065,06/05/23 23:23,06/05/23 23:27,Assist Other Agency / Other,CBE,Campus Village at 8145  Baltimore  Ave
 2023-00050066,06/05/23 23:00,06/05/23 23:32,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2023-00050153,05/27/23 07:58,06/06/23 10:13,Threat Assessment,Active/Pending,4200 block of  Chapel  Ln
+2023-00050383,06/06/23 14:00,06/07/23 08:05,Theft,Active/Pending,Lot 11b
 2023-00050427,06/05/23 15:30,06/07/23 12:32,Damage to State Property,Active/Pending,"School of Public Policy, Thurgood Marshall Hall at 7805  Regents  Dr"
+2023-00050696,06/08/23 10:33,06/08/23 14:55,Harassment/Stalking (Title IX Related),Active/Pending,"S Campus Surge, Susquehanna, Susquehanna Hall at 4200  Lehigh  Rd"
 2023-00050928,06/09/23 02:34,06/09/23 02:41,Assist Other Agency / Theft,CBE,Admissions Welcome Center at 7777  Baltimore  Ave
+2023-00051026,06/04/23 14:00,06/09/23 13:21,Theft,Active/Pending,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
 2023-00051159,06/08/23 22:00,06/09/23 21:06,Assist Other Agency / Assault,Active/Pending,Terrapin's Turf at 4410  Knox  Rd
 2023-00051366,06/10/23 00:00,06/10/23 11:29,Vandalism,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
 2023-00051446,06/10/23 17:15,06/10/23 17:15,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
@@ -2248,7 +2251,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00052030,06/12/23 10:00,06/12/23 10:21,Suspicious Activity,Active/Pending,7900 block of  Regents  Dr
 2023-00052083,06/12/23 11:00,06/12/23 14:59,Injured Officer,CBE,7500 block of  Baltimore  Ave
 2023-00052291,05/17/23 08:30,06/13/23 04:00,Lost Property,CBE,436 at 4136  Stadium  Dr
+2023-00052345,06/13/23 10:03,06/13/23 10:03,Assist Other Agency / Other,CBE,7200 block of  Baltimore  Ave
 2023-00052346,06/13/23 10:05,06/13/23 10:05,Emergency Petition,CBE,3400 block of  Tulane  Dr
+2023-00052645,06/14/23 10:20,06/14/23 10:22,Assist Other Agency / Shoplifter,CBE,8600 block of  Baltimore  Ave
+2023-00052649,06/14/23 14:45,06/14/23 14:45,Theft,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
+2023-00052666,06/14/23 16:01,06/14/23 15:59,Suspicious Person/Auto,Active/Pending,Baltimore  Ave
+2023-00052853,06/14/23 13:00,06/15/23 09:34,Theft,Active/Pending,Fieldhouse  Dr
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
