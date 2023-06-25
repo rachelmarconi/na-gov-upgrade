@@ -340,6 +340,10 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23674,01/27/23 01:10,2023-00008832,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; Failure to equip veh. with required rear stop lamp; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property; Willfully driving motor veh. at slow speed impeding normal and reasonable trafffic movement"
 23680,01/27/23 10:27,2022-00097215,,Hawaiian/Other Pacific Islander,Female,Theft or Duplication of State-Owned Keys
 23676,02/01/23 10:48,2023-00010816,,Black,Male,School Trespassing/Refuse to leave buidling; Trespass-Posted Property; Trespass: Private Property
+23737,02/02/23 08:00,2022-00026509,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
+23738,02/02/23 08:00,2022-00031206,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
+23739,02/02/23 08:00,2022-00033555,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
+23740,02/02/23 08:00,2022-00033932,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 23695,02/02/23 08:00,2022-00097391,,Black,Male,"THEFT: $100 TO UNDER $1,500-From Building"
 23679,02/03/23 02:41,2023-00011370,,White,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Displaying expired registration plates(s) issued by any state; Driver failure to obey properly placed traffic control device instructions; Driving veh. on hwy. with suspended registration; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23701,02/03/23 12:00,2022-00095001,,Black,Female,"THEFT: $100 TO UNDER $1,500-From Building"
@@ -365,32 +369,27 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23694,02/27/23 01:43,2023-00019125,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23700,02/27/23 23:55,2023-00019404,,White,Male,CDS:Possession Cannabis-Personal Amount
 23709,02/28/23 05:00,2023-00018664,,Asian,Male,Malicious Destruction Property/Value -$1000
+23730,02/28/23 08:00,2023-00007486,,White,Female,"THEFT: $100 TO UNDER $1,500-From Building; Unauth Removal of Property"
 23702,02/28/23 17:44,2023-00019678,,Black,Male,CDS:Possession Cannabis-Civil Amount
+23741,03/02/23 08:00,2022-00035542,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 23705,03/03/23 02:13,2023-00020425,,Asian,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver fail to stop at steady circular red signal"
 23703,03/03/23 23:09,2023-00020772,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Displaying expired registration plates(s) issued by any state; Driver failure to exercise due care to avoid pedestrian collison; Driver failure to stop at stop sign line; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23706,03/04/23 23:36,2023-00021065,,Black,Male,Alc Bev-Furnishing  Alcohol to Persons under 21
 23704,03/05/23 02:38,2023-00021102,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 23713,03/06/23 02:41,2023-00021433,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
+23792,03/06/23 12:00,2021-00015811,,Black,Male,"THEFT: $100 TO UNDER $1,500-From Building"
 23710,03/07/23 23:05,2023-00022039,,White,Male,Urinating or Defecating in Public
+23729,03/09/23 12:00,2021-00026601,,Black,Male,"BURGLARY/2ND DEGREE/GENERAL; THEFT: $1,500 TO UNDER $25,000-From Building"
 23707,03/10/23 00:28,2023-00022618,,White,Female,Consuming/Possessing Open Alcoholic Beverage in Public
+23725,03/10/23 00:58,2023-00022625,,White,Male,"ASSAULT-SEC DEGREE-Simple, Not Aggravated; Disorderly Conduct; Resist/Interfere with Arrest"
 23711,03/11/23 03:20,2023-00022965,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 23719,03/12/23 01:49,2023-00023221,,Black,Male,Disorderly Conduct; Resist/Interfere with Arrest; Rogue and Vagabond
 23714,03/14/23 20:53,2023-00024042,,Black,Male,School Trespassing On Ground
 23717,03/15/23 23:53,2023-00024367,,Black,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol; CDS:Possession Cannabis-Personal Amount"
 23715,03/17/23 03:02,2023-00024709,,Black,Male,False Statement to Officer
+23722,03/19/23 03:33,2023-00025506,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23716,03/19/23 17:45,2023-00025680,,Black,Male,Driving veh. on hwy. with revoked registration; False Statement to Peace Officer; FRAUD-PER. IDENT. AVOID PROS
 23718,03/21/23 23:06,2023-00026430,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driving veh. in excess of reasonable and prudent speed on hwy.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property; Unauthorized display and use of reg. plate"
-,,,,,,
-23737,02/02/23 08:00,2022-00026509,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
-23738,02/02/23 08:00,2022-00031206,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
-23739,02/02/23 08:00,2022-00033555,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
-23740,02/02/23 08:00,2022-00033932,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
-23730,02/28/23 08:00,2023-00007486,,White,Female,"THEFT: $100 TO UNDER $1,500-From Building; Unauth Removal of Property"
-23741,03/02/23 08:00,2022-00035542,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
-23792,03/06/23 12:00,2021-00015811,,Black,Male,"THEFT: $100 TO UNDER $1,500-From Building"
-23729,03/09/23 12:00,2021-00026601,,Black,Male,"BURGLARY/2ND DEGREE/GENERAL; THEFT: $1,500 TO UNDER $25,000-From Building"
-23725,03/10/23 00:58,2023-00022625,,White,Male,"ASSAULT-SEC DEGREE-Simple, Not Aggravated; Disorderly Conduct; Resist/Interfere with Arrest"
-23722,03/19/23 03:33,2023-00025506,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23726,03/23/23 17:05,2023-00026907,,Black,Male,"ASSAULT SEC DEG-LE Officer,Parole/Probation Agent - Aggravated; ASSAULT-SEC DEGREE-Simple, Not Aggravated; Attempt by driver to elude uniformed police by fleeing on foot; Fail Obey Reasonable/Lawful order of Law Enforcement Officer; Obstructing and Hindering; Resist/Interfere with Arrest"
 23720,03/24/23 16:39,2023-00027263,,Black,Male,School Trespassing On Ground
 23723,03/25/23 01:43,2023-00027404,,White,Male,Theft Less Than $100
@@ -461,6 +460,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23801,06/18/23 03:56,2023-00053634,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 23802,06/20/23 00:53,2023-00054159,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driving veh. on hwy. at speed exceeding speed limit by 30 to 39 mph; Driving,attempt to drive veh. not equipped with an ingition interlock as required by Ignition Interlock System Prog; Fail driver mk lane chng avail lane not immed adj stopped,standing,parked veh on hwy disp(vis sig,haz lts,rd flrs or caut sig); Failure of individual driving on hwy. to display lic. to uniformed police on demand; Person driving motor veh. on (hwy., public use property) on suspended lic. and privilege; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23806,06/21/23 03:29,2023-00054467,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driver failure to obey properly placed traffic control device instructions; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
+,,,,,,
 22970,01/03/21 20:54,2021-00000618,,White,Male,CDS:Possession Marijuana L/T 10 grams
 22961,01/05/21 14:17,2020-00067830,,Asian/Pacific Islander,Male,Electronic Mail Harassment; School: Disturb Operation
 22963,01/08/21 00:14,2021-00001794,,Black,Male,CDS:Possession Marijuana L/T 10 grams
