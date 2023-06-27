@@ -2233,6 +2233,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00049278,06/01/23 13:00,06/03/23 09:16,Damage to State Property,Active/Pending,Lot 4B
 2023-00049741,06/04/23 21:41,06/04/23 21:40,Assault,Active/Pending,Hartwick  Rd
 2023-00049900,06/05/23 10:48,06/05/23 10:48,Burglary,Arrest,Mowatt  Ln
+2023-00049946,06/05/23 15:23,06/05/23 15:23,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2023-00050065,06/05/23 23:23,06/05/23 23:27,Assist Other Agency / Other,CBE,Campus Village at 8145  Baltimore  Ave
 2023-00050066,06/05/23 23:00,06/05/23 23:32,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2023-00050153,05/27/23 07:58,06/06/23 10:13,Threat Assessment,Active/Pending,4200 block of  Chapel  Ln
@@ -2261,10 +2262,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00052666,06/14/23 16:01,06/14/23 15:59,Suspicious Person/Auto,Active/Pending,Baltimore  Ave
 2023-00052794,06/15/23 01:52,06/15/23 01:52,DWI/DUI,Arrest,Baltimore  Ave
 2023-00052853,06/14/23 13:00,06/15/23 09:34,Theft,Active/Pending,Fieldhouse  Dr
+2023-00052978,06/15/23 07:00,06/15/23 22:19,Vandalism,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
 2023-00053244,06/16/23 16:20,06/16/23 17:08,Other Incident,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2023-00053585,06/17/23 21:16,06/17/23 21:16,DWI/DUI,Arrest,University  Blvd
 2023-00053631,06/18/23 01:55,06/18/23 02:25,Injured/Sick Person,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2023-00053634,06/18/23 03:42,06/18/23 03:42,DWI/DUI,Arrest,Adelphi  Rd
 2023-00053996,06/19/23 10:38,06/19/23 10:38,Trespassing,Active/Pending,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
+2023-00054005,06/19/23 13:00,06/19/23 13:04,Assist Other Agency / Robbery,CBE,8600 block of  Baltimore  Ave
 2023-00054006,06/19/23 12:00,06/19/23 14:36,Dept Property Damage/Loss,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
 2023-00054020,06/19/23 17:00,06/19/23 17:00,Sex Offense (Title IX Related),CBE,4300 block of  Rowalt  Dr
 2023-00054101,06/19/23 22:00,06/19/23 22:13,Vandalism,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
@@ -2272,10 +2276,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00054231,06/20/23 06:40,06/20/23 07:58,Accident,CBE,Baltimore  Ave
 2023-00054248,06/20/23 09:46,06/20/23 09:46,Accident - Departmental,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2023-00054251,06/20/23 07:30,06/20/23 10:51,Damage to State Property,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2023-00054287,06/20/23 15:34,06/20/23 15:34,Recovered Stolen Motor Vehicle,Active/Pending,Lot J2
 2023-00054294,06/20/23 15:30,06/20/23 16:39,Stolen Motor Vehicle,Active/Pending,Lot 16b
 2023-00054467,06/21/23 03:13,06/21/23 03:13,DWI/DUI,Arrest,University  Blvd
 2023-00054513,06/20/23 15:00,06/21/23 08:18,Theft,Active/Pending,"Leonardtown #246, Leonardtown at 7575  Yale  Ave"
 2023-00054558,06/20/23 18:54,06/21/23 13:18,Theft,Active/Pending,"Leonardtown #246, Leonardtown at 7575  Yale  Ave"
+2023-00054686,06/21/23 21:00,06/21/23 22:26,Extortion (Title IX Related),Active/Pending,4300 block of  Rowalt  Dr
+2023-00054874,06/13/23 17:00,06/22/23 08:20,Theft from Auto,Active/Pending,"Ellicott Area Dining Hall, Ellicott Dining Hall at 4028  Stadium  Dr"
+2023-00054904,06/22/23 10:00,06/22/23 10:29,Warrant/Summons Service,Arrest,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
