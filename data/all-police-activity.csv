@@ -1661,7 +1661,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00015865,02/17/23 03:00,02/17/23 03:00,Weapon Violation,Arrest,University  Blvd
 2023-00015976,02/16/23 18:00,02/17/23 10:03,Theft,Investigation Pending,4100 block of N Library  Ln
 2023-00015994,02/15/23 10:30,02/17/23 10:35,Suspicious Activity,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
-2023-00016079,02/17/23 12:00,02/17/23 16:58,Theft,Investigation Pending,"16, Baltimore, Baltimore Hall at 7497  Calvert Service  Ln"
+2023-00016079,02/17/23 12:00,02/17/23 16:58,Theft,Active/Pending,"16, Baltimore, Baltimore Hall at 7497  Calvert Service  Ln"
 2023-00016087,02/17/23 17:00,02/17/23 17:16,Injured/Sick Person,CBE,6800 block of  Preinkert  Dr
 2023-00016127,02/17/23 12:00,02/17/23 19:05,Injured/Sick Person,CBE,6800 block of  Preinkert  Dr
 2023-00016210,02/17/23 23:00,02/17/23 23:21,Injured/Sick Person,CBE,Baltimore  Ave
@@ -2231,7 +2231,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00048913,06/01/23 10:14,06/02/23 10:14,Vandalism,Investigation Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00048996,06/02/23 13:10,06/02/23 13:16,Damaged Property,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00049278,06/01/23 13:00,06/03/23 09:16,Damage to State Property,Active/Pending,Lot 4B
-2023-00049741,06/04/23 21:41,06/04/23 21:40,Assault,Active/Pending,Hartwick  Rd
+2023-00049741,06/04/23 21:40,06/04/23 21:40,Assault,Active/Pending,Hartwick  Rd
 2023-00049900,06/05/23 10:48,06/05/23 10:48,Burglary,Arrest,Mowatt  Ln
 2023-00049946,06/05/23 15:23,06/05/23 15:23,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2023-00050065,06/05/23 23:23,06/05/23 23:27,Assist Other Agency / Other,CBE,Campus Village at 8145  Baltimore  Ave
@@ -2299,6 +2299,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00056005,06/26/23 04:56,06/26/23 04:56,Trespassing,Arrest,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176  Campus  Dr"
 2023-00056209,06/26/23 20:00,06/26/23 20:14,Assist Other Agency / Other,CBE,4300 block of  Hartwick  Rd
 2023-00056250,06/26/23 23:07,06/26/23 23:07,Damage to State Property,Active/Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
+2023-00056310,06/27/23 01:42,06/27/23 01:42,DWI/DUI,Arrest,University  Blvd
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
