@@ -2240,7 +2240,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00050383,06/06/23 14:00,06/07/23 08:05,Theft,Active/Pending,Lot 11b
 2023-00050427,06/05/23 15:30,06/07/23 12:32,Damage to State Property,Active/Pending,"School of Public Policy, Thurgood Marshall Hall at 7805  Regents  Dr"
 2023-00050508,06/07/23 19:50,06/07/23 19:50,Suspicious Activity,Active/Pending,Lot 11b
-2023-00050696,06/08/23 10:33,06/08/23 14:55,Harassment/Stalking (Title IX Related),Active/Pending,"S Campus Surge, Susquehanna, Susquehanna Hall at 4200  Lehigh  Rd"
+2023-00050696,06/08/23 10:33,06/08/23 14:55,Harassment/Stalking (Title IX Related),CBE,"S Campus Surge, Susquehanna, Susquehanna Hall at 4200  Lehigh  Rd"
 2023-00050928,06/09/23 02:34,06/09/23 02:41,Assist Other Agency / Theft,CBE,Admissions Welcome Center at 7777  Baltimore  Ave
 2023-00051026,06/04/23 14:00,06/09/23 13:21,Theft,Investigation Pending,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
 2023-00051159,06/08/23 22:00,06/09/23 21:06,Assist Other Agency / Assault,Active/Pending,Terrapin's Turf at 4410  Knox  Rd
@@ -2302,6 +2302,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00056310,06/27/23 01:42,06/27/23 01:42,DWI/DUI,Arrest,University  Blvd
 2023-00056384,06/27/23 09:55,06/27/23 09:57,Trespassing,Arrest,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2023-00056390,06/27/23 11:40,06/27/23 11:59,Other Incident,CBE,7500 block of  Yale  Ave
+2023-00056573,06/27/23 23:58,06/27/23 23:58,DWI/DUI,Arrest,Baltimore  Ave
 2023-00056581,06/28/23 00:10,06/28/23 00:10,Suspicious Person/Auto,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2023-00056884,06/29/23 07:03,06/29/23 07:04,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
