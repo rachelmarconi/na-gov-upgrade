@@ -2279,10 +2279,10 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00054287,06/20/23 15:34,06/20/23 15:34,Recovered Stolen Motor Vehicle,Active/Pending,Lot J2
 2023-00054294,06/20/23 15:30,06/20/23 16:39,Stolen Motor Vehicle,Active/Pending,Lot 16b
 2023-00054467,06/21/23 03:13,06/21/23 03:13,DWI/DUI,Arrest,University  Blvd
-2023-00054513,06/20/23 15:00,06/21/23 08:18,Theft,Active/Pending,"Leonardtown #246, Leonardtown at 7575  Yale  Ave"
-2023-00054558,06/20/23 18:54,06/21/23 13:18,Theft,Active/Pending,"Leonardtown #246, Leonardtown at 7575  Yale  Ave"
+2023-00054513,06/20/23 15:00,06/21/23 08:18,Theft,Investigation Pending,"Leonardtown #246, Leonardtown at 7575  Yale  Ave"
+2023-00054558,06/20/23 18:54,06/21/23 13:18,Theft,Investigation Pending,"Leonardtown #246, Leonardtown at 7575  Yale  Ave"
 2023-00054686,06/21/23 21:00,06/21/23 22:26,Extortion (Title IX Related),Active/Pending,4300 block of  Rowalt  Dr
-2023-00054874,06/13/23 17:00,06/22/23 08:20,Theft from Auto,Active/Pending,"Ellicott Area Dining Hall, Ellicott Dining Hall at 4028  Stadium  Dr"
+2023-00054874,06/13/23 17:00,06/22/23 08:20,Theft from Auto,Investigation Pending,"Ellicott Area Dining Hall, Ellicott Dining Hall at 4028  Stadium  Dr"
 2023-00054899,06/21/23 15:30,06/22/23 10:10,Vandalism,CBE,7800 block of  Regents  Dr
 2023-00054904,06/22/23 10:00,06/22/23 10:29,Warrant/Summons Service,Arrest,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2023-00055101,06/23/23 00:59,06/23/23 00:59,Assist Other Agency / Other,Active/Pending,4600 block of  Knox  Rd
@@ -2290,7 +2290,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00055167,06/22/23 13:00,06/23/23 08:42,Theft,Active/Pending,"Laboratory for Physical Sciences, LPS at 8050  Greenmead  Dr"
 2023-00055223,06/23/23 11:39,06/23/23 11:39,Suspicious Person/Auto,Active/Pending,4100 block of  Campus  Dr
 2023-00055228,05/23/23 06:00,06/23/23 13:01,Assist Other Agency / Theft,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
-2023-00055254,06/22/23 08:00,06/23/23 14:37,Theft,Active/Pending,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
+2023-00055254,06/22/23 08:00,06/23/23 14:37,Theft,Investigation Pending,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
 2023-00055298,05/18/23 13:00,06/23/23 18:35,Other Incident,CBE,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
 2023-00055428,06/24/23 07:00,06/24/23 07:19,Other Incident,CBE,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2023-00055666,06/25/23 01:30,06/25/23 01:39,Assist Other Agency / Other,Active/Pending,4600 block of  College  Ave
