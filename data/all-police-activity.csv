@@ -2232,7 +2232,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00048996,06/02/23 13:10,06/02/23 13:16,Damaged Property,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00049278,06/01/23 13:00,06/03/23 09:16,Damage to State Property,Active/Pending,Lot 4B
 2023-00049741,06/04/23 21:40,06/04/23 21:40,Assault,Active/Pending,Hartwick  Rd
-2023-00049900,06/05/23 10:48,06/05/23 10:48,Burglary,Arrest,Mowatt  Ln
+2023-00049900,06/05/23 10:48,06/05/23 10:48,Theft,Arrest,Mowatt  Ln
 2023-00049946,06/05/23 15:23,06/05/23 15:23,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2023-00050065,06/05/23 23:23,06/05/23 23:27,Assist Other Agency / Other,CBE,Campus Village at 8145  Baltimore  Ave
 2023-00050066,06/05/23 23:00,06/05/23 23:32,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
@@ -2320,7 +2320,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00057472,07/01/23 00:50,07/01/23 01:03,Assist Other Agency / Carjacking,Active/Pending,4800 block of  Delaware  St
 2023-00057640,07/01/23 16:57,07/01/23 16:57,Recovered Stolen Motor Vehicle,Summons Issued,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2023-00057648,07/01/23 19:35,07/01/23 18:55,Assault,Arrest,Paint Branch  Dr
+2023-00057666,07/01/23 22:33,07/01/23 22:54,Robbery,Active/Pending,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
 2023-00057826,07/02/23 15:20,07/02/23 15:20,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
+2023-00058042,07/03/23 05:30,07/03/23 05:50,Trespassing,Arrest,"Leonardtown #250, Leonardtown Community Center at 7559  Yale  Ave"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
