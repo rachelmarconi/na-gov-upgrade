@@ -2015,7 +2015,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00036409,04/22/23 03:06,04/22/23 03:06,DWI/DUI,Arrest,University  Blvd
 2023-00036419,04/22/23 04:28,04/22/23 04:28,Emergency Petition,CBE,3400 block of  Tulane  Dr
 2023-00036483,04/22/23 10:30,04/22/23 10:30,Damage to State Property,Active/Pending,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
-2023-00036499,04/21/23 20:00,04/22/23 11:58,Theft,Summons Issued,4100 block of  Stadium  Dr
+2023-00036499,04/21/23 20:00,04/22/23 11:58,Theft,Arrest,4100 block of  Stadium  Dr
 2023-00036632,04/22/23 23:00,04/22/23 23:09,Vandalism,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2023-00036640,04/23/23 00:26,04/23/23 00:26,Disorderly Conduct,Arrest,College  Ave
 2023-00036667,04/23/23 01:57,04/23/23 01:57,DWI/DUI,Arrest,"80, Rossborough Inn at 7682  Baltimore  Ave"
@@ -2291,6 +2291,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00055101,06/23/23 00:59,06/23/23 00:59,Assist Other Agency / Other,Active/Pending,4600 block of  Knox  Rd
 2023-00055154,06/23/23 04:00,06/23/23 04:18,Suspicious Person/Auto,Active/Pending,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2023-00055167,06/22/23 13:00,06/23/23 08:42,Theft,Active/Pending,"Laboratory for Physical Sciences, LPS at 8050  Greenmead  Dr"
+2023-00055179,06/23/23 08:08,06/23/23 09:39,Vandalism,Active/Pending,Trader Joe's at 4429  Calvert  Rd
 2023-00055223,06/23/23 11:39,06/23/23 11:39,Suspicious Person/Auto,Active/Pending,4100 block of  Campus  Dr
 2023-00055228,05/23/23 06:00,06/23/23 13:01,Assist Other Agency / Theft,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2023-00055254,06/22/23 08:00,06/23/23 14:37,Theft,Investigation Pending,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
@@ -2302,6 +2303,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00055678,06/25/23 03:54,06/25/23 03:54,Check on the  Welfare,CBE,"Chesapeake, Chesapeake Building at 4300  Terrapin  Trl"
 2023-00056005,06/26/23 04:56,06/26/23 04:56,Trespassing,Arrest,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176  Campus  Dr"
 2023-00056209,06/26/23 20:00,06/26/23 20:14,Assist Other Agency / Other,CBE,4300 block of  Hartwick  Rd
+2023-00056245,06/19/23 13:00,06/26/23 23:00,Assault,Active/Pending,8600 block of  Baltimore  Ave
 2023-00056250,06/26/23 23:07,06/26/23 23:07,Damage to State Property,Active/Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
 2023-00056310,06/27/23 01:42,06/27/23 01:42,DWI/DUI,Arrest,University  Blvd
 2023-00056384,06/27/23 09:55,06/27/23 09:57,Trespassing,Arrest,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
@@ -2323,6 +2325,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00057666,07/01/23 22:33,07/01/23 22:54,Robbery,Active/Pending,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
 2023-00057826,07/02/23 15:20,07/02/23 15:20,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
 2023-00058042,07/03/23 05:30,07/03/23 05:50,Trespassing,Arrest,"Leonardtown #250, Leonardtown Community Center at 7559  Yale  Ave"
+2023-00059112,06/30/23 06:00,07/06/23 09:52,Lost Property,CBE,"Riggs, Riggs Alumni, Riggs Alumni Center at 7801  Alumni  Dr"
+2023-00059130,07/06/23 11:33,07/06/23 11:33,Damage to State Property,CBE,Baltimore  Ave
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
