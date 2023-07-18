@@ -2218,7 +2218,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00047308,05/15/23 00:00,05/28/23 13:07,Vandalism,Active/Pending,"Leonardtown #250, Leonardtown Community Center at 7559  Yale  Ave"
 2023-00047488,05/29/23 00:42,05/29/23 00:42,DWI/DUI,Arrest,Metzerott  Rd
 2023-00047934,05/24/23 12:00,05/30/23 10:16,Burglary,Active/Pending,"Capital One Field, Football Stadium, SECU Stadium"
-2023-00048009,05/28/23 20:00,05/30/23 17:20,Death Investigation,Active/Pending,University Courtyard #1 at 8100  Boteler  Ln
+2023-00048009,05/28/23 20:00,05/30/23 17:20,Death Investigation,CBE,University Courtyard #1 at 8100  Boteler  Ln
 2023-00048150,05/17/23 01:50,05/17/23 01:50,Assault,CBE,Baltimore  Ave
 2023-00048288,05/31/23 14:45,05/31/23 15:29,Suspicious Person/Auto,Active/Pending,"Physical Sciences Complex, PSC at 4296  Stadium  Dr"
 2023-00048375,05/31/23 21:00,05/31/23 21:36,Other Incident,CBE,"Alpha Epsilon Phi, Alpha Epsilon Phi Sorority, Frat 11 at 11  Fraternity  Row"
@@ -2304,7 +2304,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00055678,06/25/23 03:54,06/25/23 03:54,Check on the  Welfare,CBE,"Chesapeake, Chesapeake Building at 4300  Terrapin  Trl"
 2023-00056005,06/26/23 04:56,06/26/23 04:56,Trespassing,Arrest,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176  Campus  Dr"
 2023-00056209,06/26/23 20:00,06/26/23 20:14,Assist Other Agency / Other,CBE,4300 block of  Hartwick  Rd
-2023-00056245,06/19/23 13:00,06/26/23 23:00,Assault,Active/Pending,8600 block of  Baltimore  Ave
+2023-00056245,06/19/23 13:00,06/19/23 13:05,Assault,Active/Pending,8600 block of  Baltimore  Ave
 2023-00056250,06/26/23 23:07,06/26/23 23:07,Damage to State Property,Active/Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
 2023-00056310,06/27/23 01:42,06/27/23 01:42,DWI/DUI,Arrest,University  Blvd
 2023-00056384,06/27/23 09:55,06/27/23 09:57,Trespassing,Arrest,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
@@ -2325,7 +2325,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00057300,06/30/23 13:10,06/30/23 13:21,Assist Other Agency (Title IX Related) / Title IX Incident Non Criminal,CBE,4800 block of  Berwyn House  Rd
 2023-00057472,07/01/23 00:50,07/01/23 01:03,Assist Other Agency / Carjacking,Active/Pending,4800 block of  Delaware  St
 2023-00057640,07/01/23 16:57,07/01/23 16:57,Recovered Stolen Motor Vehicle,Summons Issued,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
-2023-00057648,07/01/23 19:35,07/01/23 18:55,Assault,Arrest,Paint Branch  Dr
+2023-00057648,07/01/23 18:55,07/01/23 18:55,Assault,Arrest,Paint Branch  Dr
 2023-00057666,07/01/23 22:33,07/01/23 22:54,Robbery,Active/Pending,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
 2023-00057673,07/01/23 23:42,07/01/23 23:42,Fraud,Arrest,3400 block of  Tulane  Dr
 2023-00057826,07/02/23 15:20,07/02/23 15:20,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
@@ -2340,6 +2340,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00059670,07/08/23 03:06,07/08/23 03:06,Injured/Sick Person,CBE,4100 block of  Stadium  Dr
 2023-00059672,07/08/23 03:36,07/08/23 03:36,DWI/DUI,Arrest,Baltimore  Ave
 2023-00059675,07/08/23 04:46,07/08/23 04:46,DWI/DUI,Arrest,Baltimore  Ave
+2023-00059869,07/08/23 22:00,07/08/23 23:02,Other Incident,Active/Pending,"16, Baltimore, Baltimore Hall at 7497  Calvert Service  Ln"
 2023-00059906,07/09/23 02:37,07/09/23 02:37,Injured/Sick Person,CBE,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
 2023-00059916,07/09/23 02:00,07/09/23 03:07,Injured/Sick Person,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
 2023-00060034,07/09/23 14:50,07/09/23 14:59,Injured/Sick Person,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
@@ -2349,6 +2350,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00060334,07/10/23 15:01,07/10/23 15:01,Damage to State Property,CBE,Health Center at 3983  Campus  Dr
 2023-00060539,07/11/23 07:00,07/11/23 07:15,Injured/Sick Person,CBE,Johnson-Whittle Hall at 4118  Stadium  Dr
 2023-00060660,07/11/23 15:30,07/11/23 16:07,Suspicious Activity,CBE,Lot 9b
+2023-00061878,07/15/23 02:08,07/15/23 02:08,Assist Other Agency / Other,CBE,"Cornerstone, Cornerstone Grill at 7325  Baltimore  Ave"
+2023-00061892,07/15/23 03:27,07/15/23 03:27,DWI/DUI,Arrest,Branchville  Rd
+2023-00062116,07/15/23 22:04,07/15/23 22:04,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2023-00062215,07/16/23 02:55,07/16/23 02:55,DWI/DUI,Arrest,University  Blvd
+2023-00062309,07/16/23 13:25,07/16/23 13:25,Injured/Sick Person,CBE,3800 block of  Golf Course  Rd
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
