@@ -2140,7 +2140,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00042235,05/12/23 02:26,05/12/23 02:26,DWI/DUI,Arrest,Berwyn House  Rd
 2023-00042314,05/11/23 17:00,05/12/23 08:24,Damage to State Property,CBE,Lot Y
 2023-00042358,05/12/23 00:00,05/12/23 11:43,Theft,Arrest,"24, Allegany, Allegany Hall at 4299  Lehigh  Rd"
-2023-00042370,05/12/23 02:50,05/12/23 12:13,Other Incident,Active/Pending,7600 block of  Library  Ln
+2023-00042370,05/12/23 02:50,05/12/23 12:13,Other Incident,CBE,7600 block of  Library  Ln
 2023-00042380,05/12/23 12:45,05/12/23 13:00,Injured/Sick Person,CBE,UMGC Hotel at 348  Ehrensberger  Dr
 2023-00042383,05/12/23 13:20,05/12/23 13:35,Injured/Sick Person,CBE,7700 block of  Baltimore  Ave
 2023-00042384,05/11/23 07:00,05/12/23 13:44,Theft,Active/Pending,4100 block of  Stadium  Dr
@@ -2359,6 +2359,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00062402,07/16/23 01:00,07/16/23 20:17,Other Incident,Active/Pending,UMGC Hotel at 348  Ehrensberger  Dr
 2023-00062565,07/17/23 07:00,07/17/23 08:24,Other Incident,CBE,"46, Marie Mount, Marie Mount Hall at 7814  Regents  Dr"
 2023-00062818,07/17/23 21:48,07/17/23 21:57,Other Incident,Active/Pending,Paint Branch Building at 4505  Campus  Dr
+2023-00063422,07/19/23 21:30,07/19/23 21:30,Injured/Sick Person,CBE,"11, The Hall at 4656  Hotel  Dr"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
