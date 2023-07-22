@@ -2350,6 +2350,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00060334,07/10/23 15:01,07/10/23 15:01,Damage to State Property,CBE,Health Center at 3983  Campus  Dr
 2023-00060539,07/11/23 07:00,07/11/23 07:15,Injured/Sick Person,CBE,Johnson-Whittle Hall at 4118  Stadium  Dr
 2023-00060660,07/11/23 15:30,07/11/23 16:07,Suspicious Activity,CBE,Lot 9b
+2023-00061383,07/13/23 17:00,07/13/23 22:18,Suspicious Activity,Active/Pending,4200 block of  Lehigh  Rd
+2023-00061619,07/14/23 00:00,07/14/23 09:57,Suspicious Activity,Active/Pending,"Elkins, Elkins Building, Systems Office, UM Systems Office at 3300  Metzerott  Rd"
 2023-00061878,07/15/23 02:08,07/15/23 02:08,Assist Other Agency / Other,CBE,"Cornerstone, Cornerstone Grill at 7325  Baltimore  Ave"
 2023-00061892,07/15/23 03:27,07/15/23 03:27,DWI/DUI,Arrest,Branchville  Rd
 2023-00062116,07/15/23 22:04,07/15/23 22:04,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
@@ -2359,7 +2361,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00062402,07/16/23 01:00,07/16/23 20:17,Other Incident,Active/Pending,UMGC Hotel at 348  Ehrensberger  Dr
 2023-00062565,07/17/23 07:00,07/17/23 08:24,Other Incident,CBE,"46, Marie Mount, Marie Mount Hall at 7814  Regents  Dr"
 2023-00062818,07/17/23 21:48,07/17/23 21:57,Other Incident,Active/Pending,Paint Branch Building at 4505  Campus  Dr
+2023-00062971,07/17/23 16:00,07/18/23 10:58,Title IX Incident Non Criminal,Active/Pending,7600 block of  Library  Ln
+2023-00062985,07/17/23 15:00,07/18/23 12:09,Theft,Active/Pending,7300 block of  Preinkert  Dr
 2023-00063422,07/19/23 21:30,07/19/23 21:30,Injured/Sick Person,CBE,"11, The Hall at 4656  Hotel  Dr"
+2023-00063440,07/19/23 23:14,07/19/23 23:14,Recovered Stolen Motor Vehicle,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
+2023-00063699,07/20/23 21:05,07/20/23 21:09,Robbery,Active/Pending,Chapel Field
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
