@@ -1506,7 +1506,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00005853,01/17/23 13:09,01/17/23 20:36,Fraud,Investigation Pending,8600 block of  Boteler  Ln
 2023-00005877,01/17/23 23:00,01/17/23 23:00,Injured/Sick Person,CBE,8400 block of  Boteler  Ln
 2023-00006163,01/18/23 18:07,01/18/23 18:07,Emergency Petition,CBE,Lot FF2
-2023-00006389,01/19/23 11:52,01/19/23 11:52,Theft,Warrant Issued,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2023-00006389,01/19/23 11:52,01/19/23 11:52,Theft,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00006405,01/19/23 14:25,01/19/23 14:25,Injured/Sick Person,CBE,4200 block of  Valley  Dr
 2023-00006506,01/19/23 21:40,01/19/23 22:20,Vandalism,Active/Pending,Shuttle Bus Facility at 8537  Paint Branch  Dr
 2023-00006535,01/09/23 11:00,01/19/23 23:23,Suspicious Activity,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
@@ -2206,7 +2206,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00045812,05/23/23 01:45,05/23/23 11:49,Other Incident,CBE,8200 block of  Baltimore  Ave
 2023-00045822,05/23/23 12:59,05/23/23 12:59,Trespassing,Arrest,"Applied Research Lab for Intelligence and Security, ARLIS, CASL, Center for the Advanced Study of Language at 7005  52nd  Ave"
 2023-00045830,05/16/23 08:20,05/23/23 14:39,Vandalism,Investigation Pending,"Animal Science Service Building, Campus Farm at 8156  Regents  Dr"
-2023-00046003,05/22/23 05:45,05/24/23 07:43,Theft,Summons Issued,Kim Engineering Building at 8228  Paint Branch  Dr
+2023-00046003,05/22/23 05:45,05/24/23 07:43,Theft,Arrest,Kim Engineering Building at 8228  Paint Branch  Dr
 2023-00046070,05/24/23 12:50,05/24/23 12:54,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00046370,05/18/23 15:00,05/25/23 13:44,Theft,Investigation Pending,Lot 11b
 2023-00046377,05/25/23 12:30,05/25/23 14:26,Damage to State Property,Active/Pending,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
@@ -2232,7 +2232,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00048996,06/02/23 13:10,06/02/23 13:16,Damaged Property,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00049278,06/01/23 13:00,06/03/23 09:16,Damage to State Property,Active/Pending,Lot 4B
 2023-00049292,06/03/23 10:03,06/03/23 10:13,Injured/Sick Person,CBE,Varsity Sports Teamhouse at 4117  Stadium  Dr
-2023-00049741,06/04/23 21:40,06/04/23 21:40,Assault,Active/Pending,Hartwick  Rd
+2023-00049741,06/04/23 21:40,06/04/23 21:40,Assault,Arrest,Hartwick  Rd
 2023-00049900,06/05/23 10:48,06/05/23 10:48,Theft,Arrest,Mowatt  Ln
 2023-00049946,06/05/23 15:23,06/05/23 15:23,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2023-00050065,06/05/23 23:23,06/05/23 23:27,Assist Other Agency / Other,CBE,Campus Village at 8145  Baltimore  Ave
@@ -2352,6 +2352,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00060660,07/11/23 15:30,07/11/23 16:07,Suspicious Activity,CBE,Lot 9b
 2023-00061383,07/13/23 17:00,07/13/23 22:18,Suspicious Activity,Active/Pending,4200 block of  Lehigh  Rd
 2023-00061619,07/14/23 00:00,07/14/23 09:57,Suspicious Activity,Active/Pending,"Elkins, Elkins Building, Systems Office, UM Systems Office at 3300  Metzerott  Rd"
+2023-00061652,07/14/23 13:00,07/14/23 13:48,Damage to State Property,Active/Pending,Southbound 95  / 198
 2023-00061878,07/15/23 02:08,07/15/23 02:08,Assist Other Agency / Other,CBE,"Cornerstone, Cornerstone Grill at 7325  Baltimore  Ave"
 2023-00061892,07/15/23 03:27,07/15/23 03:27,DWI/DUI,Arrest,Branchville  Rd
 2023-00062116,07/15/23 22:04,07/15/23 22:04,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
@@ -2365,7 +2366,19 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00062985,07/17/23 15:00,07/18/23 12:09,Theft,Active/Pending,7300 block of  Preinkert  Dr
 2023-00063422,07/19/23 21:30,07/19/23 21:30,Injured/Sick Person,CBE,"11, The Hall at 4656  Hotel  Dr"
 2023-00063440,07/19/23 23:14,07/19/23 23:14,Recovered Stolen Motor Vehicle,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
+2023-00063545,07/20/23 08:40,07/20/23 08:40,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
+2023-00063592,07/19/23 23:00,07/20/23 11:58,Injured/Sick Person,CBE,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
+2023-00063593,07/20/23 12:05,07/20/23 12:05,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2023-00063699,07/20/23 21:05,07/20/23 21:09,Robbery,Active/Pending,Chapel Field
+2023-00063877,07/21/23 10:30,07/21/23 10:34,Other Incident,CBE,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
+2023-00063879,07/21/23 07:00,07/21/23 11:24,Animal Complaint,CBE,265 at 4311  Rowalt  Dr
+2023-00063884,07/21/23 12:51,07/21/23 12:51,Assist Other Agency / Other,CBE,Admissions Welcome Center at 7777  Baltimore  Ave
+2023-00063990,07/21/23 18:35,07/21/23 18:42,Pedestrian Struck,CBE,Hotel  Dr
+2023-00064079,07/22/23 02:39,07/22/23 02:39,DWI/DUI,Arrest,University  Blvd
+2023-00064169,07/20/23 12:00,07/22/23 11:14,Theft,Active/Pending,8600 block of  Boteler  Ln
+2023-00064289,07/21/23 09:10,07/22/23 19:42,Burglary,Active/Pending,"64, Dorchester, Dorchester Hall at 3947  Campus  Dr"
+2023-00064290,07/22/23 20:00,07/22/23 20:00,Theft,Arrest,"Clarion Inn, Lidl at 8601  Baltimore  Ave"
+2023-00064414,07/23/23 02:01,07/23/23 02:01,DWI/DUI,Arrest,Metzerott  Rd
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
