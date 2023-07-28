@@ -2364,6 +2364,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00062818,07/17/23 21:48,07/17/23 21:57,Other Incident,Active/Pending,Paint Branch Building at 4505  Campus  Dr
 2023-00062971,07/17/23 16:00,07/18/23 10:58,Title IX Incident Non Criminal,Active/Pending,7600 block of  Library  Ln
 2023-00062985,07/17/23 15:00,07/18/23 12:09,Theft,Active/Pending,7300 block of  Preinkert  Dr
+2023-00063403,07/19/23 17:45,07/19/23 18:45,Recovered Stolen Motor Vehicle,Arrest,Campus  Dr
 2023-00063422,07/19/23 21:30,07/19/23 21:30,Injured/Sick Person,CBE,"11, The Hall at 4656  Hotel  Dr"
 2023-00063440,07/19/23 23:14,07/19/23 23:14,Recovered Stolen Motor Vehicle,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
 2023-00063545,07/20/23 08:40,07/20/23 08:40,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
@@ -2385,6 +2386,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00064894,07/24/23 10:25,07/24/23 10:30,Hazardous Condition,CBE,7500 block of  Mowatt  Ln
 2023-00065027,07/24/23 18:55,07/24/23 18:55,DWI/DUI,Arrest,Baltimore  Ave
 2023-00065033,07/24/23 07:00,07/24/23 20:33,Assault,Active/Pending,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
+2023-00065221,07/24/23 22:40,07/25/23 09:50,Stolen Motor Vehicle,Active/Pending,University Courtyard #4 at 8400  Boteler  Ln
+2023-00065552,07/26/23 09:43,07/26/23 09:46,Injured/Sick Person,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
+2023-00065627,07/26/23 16:30,07/26/23 16:45,Injured/Sick Person,CBE,"79, Turner Hall, Visitor Center at 7736  Baltimore  Ave"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
