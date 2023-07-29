@@ -1522,7 +1522,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00007820,01/20/23 15:00,01/23/23 14:59,Theft,Arrest,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2023-00007846,01/21/23 17:00,01/23/23 15:56,Vandalism,Investigation Pending,University Courtyard #7 at 8700  Boteler  Ln
 2023-00008054,01/24/23 09:02,01/24/23 09:02,Other Incident,CBE,Paint Branch Gate at 8966  Paint Branch  Dr
-2023-00008060,01/23/23 23:45,01/24/23 09:44,Theft,Summons Issued,3900 block of  Denton Service  Ln
+2023-00008060,01/23/23 23:45,01/24/23 09:44,Theft,Arrest,3900 block of  Denton Service  Ln
 2023-00008094,01/24/23 10:00,01/24/23 12:36,Theft,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00008095,12/19/22 13:00,01/24/23 12:42,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2023-00008101,12/19/22 15:00,01/24/23 14:24,Theft,Investigation Pending,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
@@ -2387,6 +2387,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00065027,07/24/23 18:55,07/24/23 18:55,DWI/DUI,Arrest,Baltimore  Ave
 2023-00065033,07/24/23 07:00,07/24/23 20:33,Assault,Active/Pending,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
 2023-00065221,07/24/23 22:40,07/25/23 09:50,Stolen Motor Vehicle,Active/Pending,University Courtyard #4 at 8400  Boteler  Ln
+2023-00065538,07/26/23 06:20,07/26/23 08:36,Vandalism,Active/Pending,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
 2023-00065552,07/26/23 09:43,07/26/23 09:46,Injured/Sick Person,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
 2023-00065627,07/26/23 16:30,07/26/23 16:45,Injured/Sick Person,CBE,"79, Turner Hall, Visitor Center at 7736  Baltimore  Ave"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
