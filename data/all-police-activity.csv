@@ -2236,7 +2236,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00049900,06/05/23 10:48,06/05/23 10:48,Theft,Arrest,Mowatt  Ln
 2023-00049946,06/05/23 15:23,06/05/23 15:23,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2023-00050065,06/05/23 23:23,06/05/23 23:27,Assist Other Agency / Other,CBE,Campus Village at 8145  Baltimore  Ave
-2023-00050066,06/05/23 23:00,06/05/23 23:32,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2023-00050066,06/05/23 23:00,06/05/23 23:32,Theft,Investigation Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2023-00050153,05/27/23 07:58,06/06/23 10:13,Threat Assessment,Active/Pending,4200 block of  Chapel  Ln
 2023-00050383,06/06/23 14:00,06/07/23 08:05,Theft,Summons Issued,Lot 11b
 2023-00050427,06/05/23 15:30,06/07/23 12:32,Damage to State Property,Active/Pending,"School of Public Policy, Thurgood Marshall Hall at 7805  Regents  Dr"
@@ -2259,7 +2259,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00052345,06/13/23 10:03,06/13/23 10:03,Assist Other Agency / Other,CBE,7200 block of  Baltimore  Ave
 2023-00052346,06/13/23 10:05,06/13/23 10:05,Emergency Petition,CBE,3400 block of  Tulane  Dr
 2023-00052645,06/14/23 10:20,06/14/23 10:22,Assist Other Agency / Shoplifter,CBE,8600 block of  Baltimore  Ave
-2023-00052649,06/14/23 14:45,06/14/23 14:45,Theft,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
+2023-00052649,06/14/23 14:45,06/14/23 14:45,Theft,Investigation Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2023-00052666,06/14/23 16:01,06/14/23 15:59,Suspicious Person/Auto,Active/Pending,Baltimore  Ave
 2023-00052794,06/15/23 01:52,06/15/23 01:52,DWI/DUI,Arrest,Baltimore  Ave
 2023-00052853,06/14/23 13:00,06/15/23 09:34,Theft,Investigation Pending,Fieldhouse  Dr
@@ -2397,7 +2397,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00065961,07/23/23 17:00,07/27/23 19:04,Suspicious Activity,CBE,4600 block of  College  Ave
 2023-00066236,07/27/23 17:30,07/28/23 12:38,Theft,Active/Pending,"Art Soc, Art Sociology Building, Art-Sociology Building, Parren J. Mitchell Art-Sociology Building at 3834  Campus  Dr"
 2023-00066282,07/28/23 12:50,07/28/23 15:51,Stolen Motor Vehicle,Arrest,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2023-00066472,07/29/23 00:10,07/29/23 00:10,DWI/DUI,Arrest,University  Blvd
 2023-00066672,07/27/23 20:00,07/29/23 18:38,Vehicle Tampering,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2023-00067143,07/31/23 08:32,07/31/23 08:23,Other Incident,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2023-00067263,07/27/23 16:00,07/31/23 12:13,Theft,Active/Pending,"62, St Marys Hall, St. Mary, St. Mary's, St. Mary's Hall at 3949  Campus  Dr"
+2023-00067280,07/28/23 09:00,07/31/23 12:52,Other Incident,CBE,4100 block of  Campus  Dr
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
