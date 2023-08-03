@@ -2291,7 +2291,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00054958,06/21/23 11:00,06/22/23 16:16,Extortion,Active/Pending,Graduate Hills #291 at 3413  Tulane  Dr
 2023-00055101,06/23/23 00:59,06/23/23 00:59,Assist Other Agency / Other,Active/Pending,4600 block of  Knox  Rd
 2023-00055154,06/23/23 04:00,06/23/23 04:18,Suspicious Person/Auto,Active/Pending,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
-2023-00055167,06/22/23 13:00,06/23/23 08:42,Theft,Active/Pending,"Laboratory for Physical Sciences, LPS at 8050  Greenmead  Dr"
+2023-00055167,06/22/23 13:00,06/23/23 08:42,Theft,Warrant Issued,"Laboratory for Physical Sciences, LPS at 8050  Greenmead  Dr"
 2023-00055179,06/23/23 08:08,06/23/23 09:39,Vandalism,Active/Pending,Trader Joe's at 4429  Calvert  Rd
 2023-00055223,06/23/23 11:39,06/23/23 11:39,Suspicious Person/Auto,Active/Pending,4100 block of  Campus  Dr
 2023-00055228,05/23/23 06:00,06/23/23 13:01,Assist Other Agency / Theft,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
@@ -2377,11 +2377,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00063884,07/21/23 12:51,07/21/23 12:51,Assist Other Agency / Other,CBE,Admissions Welcome Center at 7777  Baltimore  Ave
 2023-00063990,07/21/23 18:35,07/21/23 18:42,Pedestrian Struck,CBE,Hotel  Dr
 2023-00064079,07/22/23 02:39,07/22/23 02:39,DWI/DUI,Arrest,University  Blvd
-2023-00064169,07/20/23 12:00,07/22/23 11:14,Theft,Active/Pending,8600 block of  Boteler  Ln
+2023-00064169,07/20/23 12:00,07/22/23 11:14,Theft,Investigation Pending,8600 block of  Boteler  Ln
 2023-00064187,02/28/23 15:00,07/22/23 13:38,Theft,Active/Pending,3900 block of  Campus  Dr
-2023-00064289,07/21/23 09:10,07/22/23 19:42,Burglary,Active/Pending,"64, Dorchester, Dorchester Hall at 3947  Campus  Dr"
+2023-00064289,07/21/23 09:10,07/22/23 19:42,Burglary,Investigation Pending,"64, Dorchester, Dorchester Hall at 3947  Campus  Dr"
 2023-00064290,07/22/23 20:00,07/22/23 20:00,Theft,Arrest,"Clarion Inn, Lidl at 8601  Baltimore  Ave"
-2023-00064291,07/20/23 15:00,07/22/23 20:13,Theft,Active/Pending,University Courtyard #6 at 8600  Boteler  Ln
+2023-00064291,07/20/23 15:00,07/22/23 20:13,Theft,Investigation Pending,University Courtyard #6 at 8600  Boteler  Ln
 2023-00064414,07/23/23 02:01,07/23/23 02:01,DWI/DUI,Arrest,Metzerott  Rd
 2023-00064894,07/24/23 10:25,07/24/23 10:30,Hazardous Condition,CBE,7500 block of  Mowatt  Ln
 2023-00064935,07/24/23 13:28,07/24/23 13:28,CDS Violation,Arrest,Baltimore  Ave
@@ -2394,6 +2394,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00065552,07/26/23 09:43,07/26/23 09:46,Injured/Sick Person,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
 2023-00065627,07/26/23 16:30,07/26/23 16:45,Injured/Sick Person,CBE,"79, Turner Hall, Visitor Center at 7736  Baltimore  Ave"
 2023-00065700,07/26/23 15:30,07/26/23 20:46,Theft from Auto,Active/Pending,Lot R4
+2023-00065925,07/27/23 07:30,07/27/23 16:17,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2023-00065961,07/23/23 17:00,07/27/23 19:04,Suspicious Activity,CBE,4600 block of  College  Ave
 2023-00066236,07/27/23 17:30,07/28/23 12:38,Theft,Active/Pending,"Art Soc, Art Sociology Building, Art-Sociology Building, Parren J. Mitchell Art-Sociology Building at 3834  Campus  Dr"
 2023-00066282,07/28/23 12:50,07/28/23 15:51,Stolen Motor Vehicle,Arrest,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
@@ -2402,6 +2403,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00067143,07/31/23 08:32,07/31/23 08:23,Other Incident,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00067263,07/27/23 16:00,07/31/23 12:13,Theft,Active/Pending,"62, St Marys Hall, St. Mary, St. Mary's, St. Mary's Hall at 3949  Campus  Dr"
 2023-00067280,07/28/23 09:00,07/31/23 12:52,Other Incident,CBE,4100 block of  Campus  Dr
+2023-00067624,07/25/23 10:30,08/01/23 10:33,Theft,Active/Pending,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
