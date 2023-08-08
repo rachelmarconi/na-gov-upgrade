@@ -2123,7 +2123,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00041244,05/08/23 12:00,05/08/23 12:41,Other Incident,Active/Pending,"9, Chapel, Memorial Chapel at 7744  Regents  Dr"
 2023-00041276,05/08/23 02:30,05/08/23 14:52,Theft,Investigation Pending,La Plata Hall at 8160  La Plata  Dr
 2023-00041382,05/08/23 20:48,05/08/23 20:48,Injured/Sick Person,CBE,"11, The Hall at 4656  Hotel  Dr"
-2023-00041385,05/08/23 20:54,05/08/23 20:54,Other Incident,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2023-00041385,05/08/23 20:54,05/08/23 20:54,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2023-00041408,05/08/23 16:00,05/09/23 00:32,Theft,Investigation Pending,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
 2023-00041474,05/09/23 08:23,05/09/23 08:23,Assist Other Agency / Other,Active/Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2023-00041488,05/09/23 10:10,05/09/23 10:21,Injured/Sick Person,CBE,"Tawes, Tawes Hall at 7751  Alumni  Dr"
@@ -2314,7 +2314,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00056590,06/28/23 01:20,06/28/23 01:20,Suspicious Person/Auto,CBE,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2023-00056783,06/28/23 17:15,06/28/23 18:08,Fire,Active/Pending,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2023-00056817,06/28/23 22:27,06/28/23 22:28,Theft,Arrest,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
-2023-00056843,06/28/23 11:48,06/29/23 00:09,Assault,Active/Pending,Admissions Welcome Center at 7777  Baltimore  Ave
+2023-00056843,06/28/23 11:48,06/29/23 00:09,Assault,Unfounded,Admissions Welcome Center at 7777  Baltimore  Ave
 2023-00056848,06/29/23 00:00,06/29/23 00:40,Suspicious Activity,CBE,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2023-00056854,06/25/23 19:00,06/29/23 01:19,Theft,Active/Pending,"Commons 2, SCC 2, South Campus Commons 2 at 7524  Calvert Service  Ln"
 2023-00056880,06/29/23 06:02,06/29/23 06:02,Trespassing,Arrest,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
@@ -2388,9 +2388,10 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00065027,07/24/23 18:55,07/24/23 18:55,DWI/DUI,Arrest,Baltimore  Ave
 2023-00065033,07/24/23 07:00,07/24/23 20:33,Assault,Active/Pending,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
 2023-00065221,07/24/23 22:40,07/25/23 09:50,Stolen Motor Vehicle,Active/Pending,University Courtyard #4 at 8400  Boteler  Ln
+2023-00065253,07/23/23 22:30,07/25/23 13:06,Extortion,Active/Pending,4300 block of  Rowalt  Dr
 2023-00065271,07/25/23 05:40,07/25/23 16:14,Vandalism,Active/Pending,Admissions Welcome Center at 7777  Baltimore  Ave
 2023-00065281,07/25/23 16:00,07/25/23 17:34,Other Incident,CBE,4300 block of  Chapel  Ln
-2023-00065538,07/26/23 06:20,07/26/23 08:36,Vandalism,Active/Pending,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
+2023-00065538,07/26/23 06:20,07/26/23 08:36,Vandalism,CBE,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
 2023-00065552,07/26/23 09:43,07/26/23 09:46,Injured/Sick Person,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
 2023-00065627,07/26/23 16:30,07/26/23 16:45,Injured/Sick Person,CBE,"79, Turner Hall, Visitor Center at 7736  Baltimore  Ave"
 2023-00065700,07/26/23 15:30,07/26/23 20:46,Theft from Auto,Active/Pending,Lot R4
@@ -2401,9 +2402,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00066472,07/29/23 00:10,07/29/23 00:10,DWI/DUI,Arrest,University  Blvd
 2023-00066672,07/27/23 20:00,07/29/23 18:38,Vehicle Tampering,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2023-00067143,07/31/23 08:32,07/31/23 08:23,Other Incident,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
-2023-00067263,07/27/23 16:00,07/31/23 12:13,Theft,Active/Pending,"62, St Marys Hall, St. Mary, St. Mary's, St. Mary's Hall at 3949  Campus  Dr"
+2023-00067153,07/28/23 16:30,07/31/23 08:47,Damage to State Property,Active/Pending,7600 block of  Regents  Dr
+2023-00067263,07/27/23 16:00,07/31/23 12:13,Theft,Investigation Pending,"62, St Marys Hall, St. Mary, St. Mary's, St. Mary's Hall at 3949  Campus  Dr"
 2023-00067280,07/28/23 09:00,07/31/23 12:52,Other Incident,CBE,4100 block of  Campus  Dr
 2023-00067624,07/25/23 10:30,08/01/23 10:33,Theft,Active/Pending,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
+2023-00067980,08/02/23 07:00,08/02/23 10:30,Injured/Sick Person,CBE,"Commons 7, SCC 7, South Campus Commons 7 at 6801  Preinkert  Dr"
+2023-00068001,12/21/22 14:00,08/02/23 13:24,Suspicious Activity,Active/Pending,4200 block of  Valley  Dr
+2023-00068209,08/03/23 03:50,08/03/23 04:47,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2023-00068323,08/03/23 11:15,08/03/23 11:22,Assist Other Agency / Other,CBE,Hartwick  Rd
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
