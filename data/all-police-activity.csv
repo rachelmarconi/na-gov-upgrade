@@ -2351,7 +2351,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00060539,07/11/23 07:00,07/11/23 07:15,Injured/Sick Person,CBE,Johnson-Whittle Hall at 4118  Stadium  Dr
 2023-00060660,07/11/23 15:30,07/11/23 16:07,Suspicious Activity,CBE,Lot 9b
 2023-00061383,07/13/23 17:00,07/13/23 22:18,Suspicious Activity,CBE,4200 block of  Lehigh  Rd
-2023-00061619,07/14/23 00:00,07/14/23 09:57,Suspicious Activity,Active/Pending,"Elkins, Elkins Building, Systems Office, UM Systems Office at 3300  Metzerott  Rd"
+2023-00061619,07/14/23 00:00,07/14/23 09:57,Suspicious Activity,CBE,"Elkins, Elkins Building, Systems Office, UM Systems Office at 3300  Metzerott  Rd"
 2023-00061652,07/14/23 13:00,07/14/23 13:48,Damage to State Property,Active/Pending,Southbound 95  / 198
 2023-00061878,07/15/23 02:08,07/15/23 02:08,Assist Other Agency / Other,CBE,"Cornerstone, Cornerstone Grill at 7325  Baltimore  Ave"
 2023-00061892,07/15/23 03:27,07/15/23 03:27,DWI/DUI,Arrest,Branchville  Rd
@@ -2359,7 +2359,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00062215,07/16/23 02:55,07/16/23 02:55,DWI/DUI,Arrest,University  Blvd
 2023-00062309,07/16/23 13:25,07/16/23 13:25,Injured/Sick Person,CBE,3800 block of  Golf Course  Rd
 2023-00062320,07/16/23 14:59,07/16/23 14:59,Vandalism,CBE,La Plata Hall at 8160  La Plata  Dr
-2023-00062402,07/16/23 01:00,07/16/23 20:17,Other Incident,Active/Pending,UMGC Hotel at 348  Ehrensberger  Dr
+2023-00062402,07/16/23 01:00,07/16/23 20:17,Other Incident,Investigation Pending,UMGC Hotel at 348  Ehrensberger  Dr
 2023-00062565,07/17/23 07:00,07/17/23 08:24,Other Incident,CBE,"46, Marie Mount, Marie Mount Hall at 7814  Regents  Dr"
 2023-00062818,07/17/23 21:48,07/17/23 21:57,Other Incident,Active/Pending,Paint Branch Building at 4505  Campus  Dr
 2023-00062971,07/17/23 16:00,07/18/23 10:58,Title IX Incident Non Criminal,CBE,7600 block of  Library  Ln
@@ -2401,7 +2401,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00066282,07/28/23 12:50,07/28/23 15:51,Stolen Motor Vehicle,Arrest,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2023-00066472,07/29/23 00:10,07/29/23 00:10,DWI/DUI,Arrest,University  Blvd
 2023-00066672,07/27/23 20:00,07/29/23 18:38,Vehicle Tampering,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
-2023-00067143,07/31/23 08:32,07/31/23 08:23,Other Incident,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2023-00067143,07/31/23 08:23,07/31/23 08:23,Other Incident,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00067153,07/28/23 16:30,07/31/23 08:47,Damage to State Property,Unfounded,7600 block of  Regents  Dr
 2023-00067263,07/27/23 16:00,07/31/23 12:13,Theft,Investigation Pending,"62, St Marys Hall, St. Mary, St. Mary's, St. Mary's Hall at 3949  Campus  Dr"
 2023-00067280,07/28/23 09:00,07/31/23 12:52,Other Incident,CBE,4100 block of  Campus  Dr
@@ -2413,9 +2413,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00068340,08/02/23 13:00,08/03/23 14:07,Peeping Tom (Title IX Related),Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2023-00068685,08/04/23 07:03,08/04/23 08:32,Other Incident,CBE,"Hornbake, Hornbake Library at 4130  Campus  Dr"
 2023-00069194,08/05/23 18:58,08/05/23 18:58,Injured/Sick Person,CBE,Paint Branch  Dr
+2023-00069256,08/05/23 23:45,08/05/23 23:45,Found/Recovered Property,Active/Pending,7200 block of  Dartmouth  Ave
 2023-00069280,08/06/23 01:20,08/06/23 01:20,Suspicious Person/Auto,CBE,Lot GG1
+2023-00069285,08/06/23 02:34,08/06/23 02:34,DWI/DUI,Arrest,University  Blvd
 2023-00069351,08/06/23 08:46,08/06/23 08:46,Fire,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
+2023-00069425,08/06/23 17:27,08/06/23 17:27,Suspicious Activity,Active/Pending,4800 block of  Guilford  Rd
 2023-00069460,08/06/23 12:30,08/06/23 20:40,Lost Property,CBE,4300 block of  Rowalt  Dr
+2023-00069672,08/07/23 12:00,08/07/23 12:07,Assist Other Agency / Robbery,CBE,8900 block of  Rhode Island  Ave
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
