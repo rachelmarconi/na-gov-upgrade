@@ -1837,7 +1837,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00024683,03/16/23 22:45,03/17/23 00:56,Injured/Sick Person,CBE,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
 2023-00024692,03/17/23 01:00,03/17/23 01:20,Injured/Sick Person,CBE,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2023-00024709,03/17/23 02:43,03/17/23 02:43,Traffic Arrest,Arrest,Adelphi  Rd
-2023-00024843,02/28/23 07:45,03/17/23 13:29,Other Incident,Active/Pending,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
+2023-00024843,02/28/23 07:45,03/17/23 13:29,Other Incident,CBE,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
 2023-00024864,07/06/22 17:00,03/17/23 15:56,Fraud,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00024943,03/17/23 19:00,03/17/23 19:08,Theft,Investigation Pending,3400 block of  Tulane  Dr
 2023-00024976,03/17/23 20:29,03/17/23 20:29,Recovered Stolen Property,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
@@ -2386,7 +2386,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00064894,07/24/23 10:25,07/24/23 10:30,Hazardous Condition,CBE,7500 block of  Mowatt  Ln
 2023-00064935,07/24/23 13:28,07/24/23 13:28,CDS Violation,Arrest,Baltimore  Ave
 2023-00065027,07/24/23 18:55,07/24/23 18:55,DWI/DUI,Arrest,Baltimore  Ave
-2023-00065033,07/24/23 07:00,07/24/23 20:33,Assault,Active/Pending,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
+2023-00065033,07/24/23 07:00,07/24/23 20:33,Assault,CBE,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
 2023-00065221,07/24/23 22:40,07/25/23 09:50,Stolen Motor Vehicle,Active/Pending,University Courtyard #4 at 8400  Boteler  Ln
 2023-00065253,07/23/23 22:30,07/25/23 13:06,Extortion,Active/Pending,4300 block of  Rowalt  Dr
 2023-00065271,07/25/23 05:40,07/25/23 16:14,Vandalism,Active/Pending,Admissions Welcome Center at 7777  Baltimore  Ave
@@ -2411,6 +2411,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00068209,08/03/23 03:50,08/03/23 04:47,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2023-00068323,08/03/23 11:15,08/03/23 11:22,Assist Other Agency / Other,CBE,Hartwick  Rd
 2023-00068340,08/02/23 13:00,08/03/23 14:07,Peeping Tom (Title IX Related),Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2023-00068464,08/03/23 16:00,08/03/23 21:33,Theft,Active/Pending,Varsity Sports Teamhouse at 4117  Stadium  Dr
 2023-00068685,08/04/23 07:03,08/04/23 08:32,Other Incident,CBE,"Hornbake, Hornbake Library at 4130  Campus  Dr"
 2023-00069194,08/05/23 18:58,08/05/23 18:58,Injured/Sick Person,CBE,Paint Branch  Dr
 2023-00069256,08/05/23 23:45,08/05/23 23:45,Found/Recovered Property,Active/Pending,7200 block of  Dartmouth  Ave
@@ -2420,6 +2421,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00069425,08/06/23 17:27,08/06/23 17:27,Suspicious Activity,Active/Pending,4800 block of  Guilford  Rd
 2023-00069460,08/06/23 12:30,08/06/23 20:40,Lost Property,CBE,4300 block of  Rowalt  Dr
 2023-00069672,08/07/23 12:00,08/07/23 12:07,Assist Other Agency / Robbery,CBE,8900 block of  Rhode Island  Ave
+2023-00069997,08/08/23 08:35,08/08/23 08:42,Injured/Sick Person,CBE,"MFRI, MFRI Office/Classroom Building at 4500  Campus  Dr"
+2023-00070043,04/13/23 15:00,08/08/23 14:19,Theft,Active/Pending,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
