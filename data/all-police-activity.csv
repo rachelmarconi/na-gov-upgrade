@@ -2414,6 +2414,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00068340,08/02/23 13:00,08/03/23 14:07,Peeping Tom (Title IX Related),Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2023-00068464,08/03/23 16:00,08/03/23 21:33,Theft,Active/Pending,Varsity Sports Teamhouse at 4117  Stadium  Dr
 2023-00068685,08/04/23 07:03,08/04/23 08:32,Other Incident,CBE,"Hornbake, Hornbake Library at 4130  Campus  Dr"
+2023-00069114,08/04/23 23:33,08/05/23 12:54,Stolen Motor Vehicle,Active/Pending,Varsity Sports Teamhouse at 4117  Stadium  Dr
 2023-00069194,08/05/23 18:58,08/05/23 18:58,Injured/Sick Person,CBE,Paint Branch  Dr
 2023-00069256,08/05/23 23:45,08/05/23 23:45,Found/Recovered Property,Active/Pending,7200 block of  Dartmouth  Ave
 2023-00069280,08/06/23 01:20,08/06/23 01:20,Suspicious Person/Auto,CBE,Lot GG1
@@ -2440,6 +2441,15 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00072401,08/12/23 13:00,08/15/23 15:14,Stolen Motor Vehicle,Active/Pending,Lot 14c
 2023-00072691,08/16/23 11:40,08/16/23 11:43,Assault,CBE,"81, Wind Tunnel Building at 8167  Paint Branch  Dr"
 2023-00072774,08/16/23 18:15,08/16/23 20:45,Theft,Active/Pending,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
+2023-00073103,08/17/23 20:50,08/17/23 20:55,Assist Other Agency / Death Investigation,CBE,Lakeland  Rd
+2023-00073376,08/17/23 20:00,08/18/23 13:56,Theft from Auto,Active/Pending,Lot 8
+2023-00073388,08/18/23 14:15,08/18/23 14:37,Injured Officer,CBE,7100 block of  51st  Ave
+2023-00073389,08/18/23 08:00,08/18/23 14:49,Theft,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
+2023-00073668,08/19/23 09:13,08/19/23 09:13,Emergency Petition,CBE,3400 block of  Tulane  Dr
+2023-00073682,08/19/23 11:09,08/19/23 11:09,Injured/Sick Person,CBE,Tyser Tower at 8197  Fieldhouse  Dr
+2023-00074317,10/29/22 18:00,08/21/23 09:41,Theft,Active/Pending,340 block of  Ehrensberger  Dr
+2023-00074400,08/20/23 14:00,08/21/23 17:13,Vandalism,Active/Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
+2023-00074624,08/22/23 04:50,08/22/23 05:12,Injured/Sick Person,CBE,"Microbiology, Microbiology Building at 4062  Campus  Dr"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
