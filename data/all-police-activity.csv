@@ -1500,7 +1500,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00005206,01/15/23 21:59,01/15/23 21:59,CDS Violation,Active/Pending,Adelphi  Rd
 2023-00005441,01/14/23 17:00,01/16/23 14:09,Dept Property Damage/Loss,CBE,11000 block of  Treeview Lane
 2023-00005501,01/16/23 16:42,01/16/23 16:42,Recovered Stolen Property,Arrest,West Gate at 3841  Stadium  Dr
-2023-00005548,01/16/23 18:46,01/16/23 19:43,Traffic Offense,Summons Issued,Lot R3
+2023-00005548,01/16/23 18:46,01/16/23 19:43,Traffic Offense,Arrest,Lot R3
 2023-00005738,01/17/23 09:57,01/17/23 09:57,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2023-00005820,01/14/23 09:30,01/17/23 15:43,Other Incident,CBE,8200 block of  Alumni  Dr
 2023-00005853,01/17/23 13:09,01/17/23 20:36,Fraud,Investigation Pending,8600 block of  Boteler  Ln
@@ -2055,7 +2055,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00038663,04/29/23 16:10,04/29/23 16:14,Injured/Sick Person,CBE,McKeldin Mall
 2023-00038666,04/29/23 16:25,04/29/23 16:33,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2023-00038780,04/30/23 00:15,04/30/23 00:15,Traffic Offense,Warrant Issued,Baltimore  Ave
-2023-00038782,04/30/23 00:39,04/30/23 00:39,Vandalism,Active/Pending,"Leonardtown #250, Leonardtown Community Center at 7559  Yale  Ave"
+2023-00038782,04/30/23 00:39,04/30/23 00:39,Vandalism,Summons Issued,"Leonardtown #250, Leonardtown Community Center at 7559  Yale  Ave"
 2023-00038937,04/30/23 01:00,04/30/23 12:42,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00038973,04/30/23 16:27,04/30/23 16:27,Emergency Petition,CBE,8200 block of  Alumni  Dr
 2023-00041237,04/29/23 12:18,04/29/23 12:18,CDS Violation,Arrest,Campus  Dr
@@ -2408,7 +2408,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00067280,07/28/23 09:00,07/31/23 12:52,Other Incident,CBE,4100 block of  Campus  Dr
 2023-00067624,07/25/23 10:30,08/01/23 10:33,Theft,Active/Pending,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
 2023-00067980,08/02/23 07:00,08/02/23 10:30,Injured/Sick Person,CBE,"Commons 7, SCC 7, South Campus Commons 7 at 6801  Preinkert  Dr"
-2023-00068001,12/21/22 14:00,08/02/23 13:24,Suspicious Activity,Active/Pending,4200 block of  Valley  Dr
+2023-00068001,12/21/22 14:00,08/02/23 13:24,Suspicious Activity,Investigation Pending,4200 block of  Valley  Dr
 2023-00068209,08/03/23 03:50,08/03/23 04:47,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2023-00068323,08/03/23 11:15,08/03/23 11:22,Assist Other Agency / Other,CBE,Hartwick  Rd
 2023-00068340,08/02/23 13:00,08/03/23 14:07,Peeping Tom (Title IX Related),CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
@@ -2466,6 +2466,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00075101,08/23/23 19:01,08/23/23 19:11,Damage to State Property,CBE,Alpha Phi Sorority at 7402  Princeton  Ave
 2023-00075123,08/23/23 21:43,08/23/23 21:43,Assist Other Agency (Title IX Related) / Indecent Exposure,CBE,8400 block of  Baltimore  Ave
 2023-00075127,08/23/23 22:52,08/23/23 22:52,Recovered Stolen Property,CBE,North Gate at 4306  Campus  Dr
+2023-00075360,08/24/23 13:13,08/24/23 13:13,Warrant/Summons Service,Arrest,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
 2023-00075399,08/24/23 19:30,08/24/23 19:30,Injured/Sick Person,CBE,Lot U1
 2023-00075423,08/24/23 21:00,08/24/23 21:08,Assist Other Agency / Other,CBE,4300 block of  Knox  Rd
 2023-00075659,08/24/23 17:32,08/25/23 09:20,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
@@ -2486,6 +2487,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00076554,08/25/23 09:46,08/28/23 09:10,Other Incident,Active/Pending,"52, Clarence M. Mitchell, Jr. Building, Mitchell Building, North Administration at 7999  Regents  Dr"
 2023-00076607,08/26/23 09:00,08/28/23 15:05,Theft,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center at 4090  Union  Dr"
 2023-00076877,08/29/23 10:47,08/29/23 10:47,Animal Complaint,CBE,McKeldin Mall
+2023-00076915,08/29/23 01:00,08/29/23 14:20,Assist Other Agency / Burglary,Active/Pending,4500 block of  Hartwick  Rd
 2023-00076920,08/29/23 15:10,08/29/23 15:11,Injured/Sick Person,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2023-00076938,08/29/23 16:30,08/29/23 17:02,Theft,Active/Pending,"Leonardtown, Leonardtown #201, Leonardtown Leonardtown Office Building at 4725  Rossborough  Ln"
 2023-00076946,08/24/23 12:00,08/29/23 17:41,Dept Property Damage/Loss,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
