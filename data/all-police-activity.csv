@@ -2511,6 +2511,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00077563,08/31/23 14:00,08/31/23 14:42,Theft,Active/Pending,Xfinity Visitor Lot
 2023-00077566,08/28/23 14:19,08/31/23 15:26,Telephone/EMail Misuse,Active/Pending,4100 block of  Campus  Dr
 2023-00077595,08/21/23 12:00,08/31/23 16:18,Extortion,Active/Pending,3400 block of  Tulane  Dr
+2023-00077619,08/31/23 17:00,08/31/23 17:33,Fraud,Active/Pending,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
+2023-00077666,08/31/23 18:40,08/31/23 20:32,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00077780,09/01/23 02:40,09/01/23 02:47,Stolen Motor Vehicle,Active/Pending,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
 2023-00077879,09/01/23 02:30,09/01/23 13:12,Hate Bias Incident,Active/Pending,Cumberland Hall at 4250  Farm  Dr
 2023-00077946,09/01/23 18:47,09/01/23 18:59,Dept Property Damage/Loss,CBE,I 95 N @ Exit 130
@@ -2522,10 +2524,17 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00078537,09/03/23 01:45,09/03/23 12:51,Other Incident,Active/Pending,Ellicott Quad
 2023-00078652,09/03/23 18:51,09/03/23 18:51,Injured/Sick Person,CBE,4200 block of  Farm  Dr
 2023-00078653,09/03/23 11:45,09/03/23 19:08,Theft,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
-2023-00078937,09/03/23 21:00,09/04/23 15:17,Theft,Active/Pending,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
+2023-00078937,09/03/23 21:00,09/04/23 15:17,Theft,Investigation Pending,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
 2023-00079007,09/04/23 20:02,09/04/23 20:02,Emergency Petition,CBE,"62, St Marys Hall, St. Mary, St. Mary's, St. Mary's Hall at 3949  Campus  Dr"
+2023-00079228,09/05/23 11:30,09/05/23 12:14,Fraud,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2023-00079252,09/05/23 15:00,09/05/23 16:18,Other Incident,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
+2023-00079257,09/05/23 09:30,09/05/23 16:25,Theft,Active/Pending,Lot 1f
 2023-00079260,08/31/23 19:00,09/05/23 17:27,Peeping Tom (Title IX Related),Active/Pending,4100 block of  Campus  Dr
 2023-00079286,09/05/23 20:00,09/05/23 22:05,Injured/Sick Person,CBE,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
+2023-00079343,09/06/23 00:15,09/06/23 00:36,Injured/Sick Person,CBE,3900 block of  Campus  Dr
+2023-00079456,09/06/23 15:24,09/06/23 15:24,Injured/Sick Person,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2023-00079747,09/06/23 21:00,09/07/23 10:52,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
+2023-00079761,09/07/23 02:00,09/07/23 14:38,Assist Other Agency / Trespassing,CBE,4300 block of  Hartwick  Rd
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
