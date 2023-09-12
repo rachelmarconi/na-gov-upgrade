@@ -2482,6 +2482,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00075811,08/25/23 22:14,08/25/23 22:14,Trespassing,Active/Pending,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
 2023-00075851,08/25/23 01:17,08/26/23 01:17,Injured/Sick Person,CBE,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2023-00075858,08/26/23 02:35,08/26/23 02:35,Injured/Sick Person,CBE,4200 block of  Farm  Dr
+2023-00075983,08/26/23 13:49,08/26/23 13:49,Injured/Sick Person,CBE,"Leonardtown, Leonardtown #201, Leonardtown Leonardtown Office Building at 4725  Rossborough  Ln"
 2023-00076060,08/26/23 19:48,08/26/23 19:48,Injured/Sick Person,CBE,"Alpha Delta Pi Sorority, Alpha Delti Pi at 4535  College  Ave"
 2023-00076088,08/26/23 21:30,08/26/23 22:58,Check on the  Welfare,CBE,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2023-00076217,08/27/23 09:45,08/27/23 09:47,Assist Other Agency / Shoplifter,CBE,7200 block of  Baltimore  Ave
@@ -2517,12 +2518,16 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00077748,09/01/23 00:52,09/01/23 00:52,Injured/Sick Person,CBE,4500 block of  College  Ave
 2023-00077767,09/01/23 02:02,09/01/23 02:02,Injured/Sick Person,CBE,945 at 4400  Calvert  Rd
 2023-00077780,09/01/23 02:40,09/01/23 02:47,Stolen Motor Vehicle,Active/Pending,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
+2023-00077834,09/01/23 02:00,09/01/23 09:03,Vandalism,Active/Pending,Cumberland Hall at 4250  Farm  Dr
+2023-00077860,08/31/23 19:28,09/01/23 10:12,Assault,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2023-00077879,09/01/23 02:30,09/01/23 13:12,Hate Bias Incident,Active/Pending,Cumberland Hall at 4250  Farm  Dr
 2023-00077946,09/01/23 18:47,09/01/23 18:59,Dept Property Damage/Loss,CBE,I 95 N @ Exit 130
 2023-00078005,08/31/23 15:13,09/01/23 21:42,Harassment/Stalking,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00078050,09/01/23 22:59,09/01/23 22:58,Disorderly Conduct,Arrest,Knox  Rd
+2023-00078090,09/02/23 00:57,09/02/23 00:56,Alcohol Violation,Arrest,Princeton  Ave
 2023-00078099,09/02/23 01:25,09/02/23 01:25,Injured/Sick Person,CBE,8000 block of  La Plata  Dr
 2023-00078100,09/02/23 01:30,09/02/23 01:30,Emergency Petition,CBE,4500 block of  College  Ave
+2023-00078400,09/03/23 00:47,09/03/23 00:47,Other Service Call,CBE,7600 block of  Preinkert  Dr
 2023-00078401,09/03/23 00:58,09/03/23 00:58,Injured/Sick Person,CBE,4400 block of  Lehigh  Rd
 2023-00078406,09/03/23 01:32,09/03/23 01:32,Injured/Sick Person,CBE,4300 block of  Hartwick  Rd
 2023-00078537,09/03/23 01:45,09/03/23 12:51,Other Incident,Active/Pending,Ellicott Quad
