@@ -2527,14 +2527,16 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00078090,09/02/23 00:57,09/02/23 00:56,Alcohol Violation,Arrest,Princeton  Ave
 2023-00078099,09/02/23 01:25,09/02/23 01:25,Injured/Sick Person,CBE,8000 block of  La Plata  Dr
 2023-00078100,09/02/23 01:30,09/02/23 01:30,Emergency Petition,CBE,4500 block of  College  Ave
+2023-00078376,09/02/23 22:52,09/02/23 22:52,Assault,CBE,7300 block of  Baltimore  Ave
 2023-00078400,09/03/23 00:47,09/03/23 00:47,Other Service Call,CBE,7600 block of  Preinkert  Dr
 2023-00078401,09/03/23 00:58,09/03/23 00:58,Injured/Sick Person,CBE,4400 block of  Lehigh  Rd
 2023-00078406,09/03/23 01:32,09/03/23 01:32,Injured/Sick Person,CBE,4300 block of  Hartwick  Rd
-2023-00078537,09/03/23 01:45,09/03/23 12:51,Other Incident,Active/Pending,Ellicott Quad
+2023-00078537,09/03/23 01:45,09/03/23 12:51,Other Incident,CBE,Ellicott Quad
 2023-00078652,09/03/23 18:51,09/03/23 18:51,Injured/Sick Person,CBE,4200 block of  Farm  Dr
 2023-00078653,09/03/23 11:45,09/03/23 19:08,Theft,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
 2023-00078937,09/03/23 21:00,09/04/23 15:17,Theft,Investigation Pending,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
 2023-00079007,09/04/23 20:02,09/04/23 20:02,Emergency Petition,CBE,"62, St Marys Hall, St. Mary, St. Mary's, St. Mary's Hall at 3949  Campus  Dr"
+2023-00079190,09/01/23 18:00,09/05/23 08:56,Theft,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center at 4090  Union  Dr"
 2023-00079228,09/05/23 11:30,09/05/23 12:14,Fraud,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00079252,09/05/23 15:00,09/05/23 16:18,Other Incident,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2023-00079257,09/05/23 09:30,09/05/23 16:25,Theft,Active/Pending,Lot 1f
@@ -2547,6 +2549,19 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00079670,09/07/23 02:15,09/07/23 02:48,Burglary,Active/Pending,3900 block of  Denton Service  Ln
 2023-00079747,09/06/23 21:00,09/07/23 10:52,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00079761,09/07/23 02:00,09/07/23 14:38,Assist Other Agency / Trespassing,CBE,4300 block of  Hartwick  Rd
+2023-00079762,08/26/23 23:50,09/07/23 14:29,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2023-00079763,09/05/23 09:00,09/07/23 15:22,Other Incident,Active/Pending,7500 block of  Yale  Ave
+2023-00079781,09/07/23 16:55,09/07/23 17:00,Injured/Sick Person,CBE,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
+2023-00079819,09/07/23 19:41,09/07/23 19:41,Injured/Sick Person,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
+2023-00079926,09/08/23 00:48,09/08/23 00:48,Emergency Petition,CBE,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
+2023-00079993,09/08/23 03:30,09/08/23 03:30,Injured/Sick Person,CBE,3800 block of  Stadium  Dr
+2023-00080059,09/08/23 11:07,09/08/23 11:07,Injured/Sick Person,CBE,"83, J.M. Patterson Building, JM Patterson, JM Patterson Building at 4356  Stadium  Dr"
+2023-00080062,09/08/23 11:39,09/08/23 11:39,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
+2023-00080066,09/08/23 12:01,09/08/23 12:01,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
+2023-00080076,09/08/23 14:46,09/08/23 14:46,Check on the  Welfare,CBE,4200 block of  Farm  Dr
+2023-00080152,09/08/23 19:40,09/08/23 19:42,Injured/Sick Person,CBE,4200 block of  Campus  Dr
+2023-00080220,09/09/23 00:39,09/09/23 02:19,Dept Property Damage/Loss,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
+2023-00080228,09/09/23 02:50,09/09/23 02:53,Injured/Sick Person,CBE,Campus  Dr
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
