@@ -2493,7 +2493,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00076366,08/27/23 22:07,08/27/23 22:07,Other Incident,CBE,"PGUC, UMGC Parking Garage at 347  Ehrensberger  Dr"
 2023-00076552,08/28/23 09:01,08/28/23 09:01,Recovered Stolen Property,Active/Pending,3500 block of  University  Blvd
 2023-00076554,08/25/23 09:46,08/28/23 09:10,Other Incident,Active/Pending,"52, Clarence M. Mitchell, Jr. Building, Mitchell Building, North Administration at 7999  Regents  Dr"
-2023-00076607,08/26/23 09:00,08/28/23 15:05,Theft,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center at 4090  Union  Dr"
+2023-00076607,08/26/23 09:00,08/28/23 15:05,Theft,Investigation Pending,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center at 4090  Union  Dr"
 2023-00076629,01/06/22 08:32,08/28/23 16:13,Hate Bias Incident,Active/Pending,"Benjamin, Benjamin Bldg, Benjamin Building at 3942  Campus  Dr"
 2023-00076694,08/28/23 19:00,08/28/23 21:31,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00076877,08/29/23 10:47,08/29/23 10:47,Animal Complaint,CBE,McKeldin Mall
@@ -2524,10 +2524,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00077879,09/01/23 02:30,09/01/23 13:12,Hate Bias Incident,Active/Pending,Cumberland Hall at 4250  Farm  Dr
 2023-00077946,09/01/23 18:47,09/01/23 18:59,Dept Property Damage/Loss,CBE,I 95 N @ Exit 130
 2023-00078005,08/31/23 15:13,09/01/23 21:42,Harassment/Stalking,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
-2023-00078050,09/01/23 22:59,09/01/23 22:58,Disorderly Conduct,Arrest,Knox  Rd
-2023-00078090,09/02/23 00:57,09/02/23 00:56,Alcohol Violation,Arrest,Princeton  Ave
+2023-00078050,09/01/23 22:58,09/01/23 22:58,Disorderly Conduct,Arrest,Knox  Rd
+2023-00078090,09/02/23 00:56,09/02/23 00:56,Alcohol Violation,Arrest,Princeton  Ave
 2023-00078099,09/02/23 01:25,09/02/23 01:25,Injured/Sick Person,CBE,8000 block of  La Plata  Dr
 2023-00078100,09/02/23 01:30,09/02/23 01:30,Emergency Petition,CBE,4500 block of  College  Ave
+2023-00078203,09/02/23 12:59,09/02/23 12:59,Domestic,CBE,8100 block of  La Plata  Dr
+2023-00078320,09/02/23 20:13,09/02/23 20:13,Injured/Sick Person,CBE,Knox  Rd
 2023-00078376,09/02/23 22:52,09/02/23 22:52,Assault,CBE,7300 block of  Baltimore  Ave
 2023-00078400,09/03/23 00:47,09/03/23 00:47,Other Service Call,CBE,7600 block of  Preinkert  Dr
 2023-00078401,09/03/23 00:58,09/03/23 00:58,Injured/Sick Person,CBE,4400 block of  Lehigh  Rd
@@ -2563,16 +2565,20 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00080059,09/08/23 11:07,09/08/23 11:07,Injured/Sick Person,CBE,"83, J.M. Patterson Building, JM Patterson, JM Patterson Building at 4356  Stadium  Dr"
 2023-00080062,09/08/23 11:39,09/08/23 11:39,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
 2023-00080066,09/08/23 12:01,09/08/23 12:01,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
+2023-00080068,09/07/23 13:00,09/08/23 12:51,Theft,Investigation Pending,3800 block of  Stadium  Dr
 2023-00080076,09/08/23 14:46,09/08/23 14:46,Check on the  Welfare,CBE,4200 block of  Farm  Dr
 2023-00080079,09/08/23 03:00,09/08/23 15:14,Theft,Active/Pending,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
 2023-00080152,09/08/23 19:40,09/08/23 19:42,Injured/Sick Person,CBE,4200 block of  Campus  Dr
 2023-00080220,09/09/23 00:39,09/09/23 02:19,Dept Property Damage/Loss,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
 2023-00080228,09/09/23 02:50,09/09/23 02:53,Injured/Sick Person,CBE,Campus  Dr
 2023-00080266,09/09/23 00:45,09/09/23 07:19,Burglary,Active/Pending,"Leonardtown #246, Leonardtown at 7575  Yale  Ave"
+2023-00080309,09/08/23 21:00,09/09/23 11:58,Theft,Active/Pending,"14, Harford Hall at 7660  Regents  Dr"
 2023-00080399,09/09/23 19:07,09/09/23 19:07,Alcohol Violation,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
-2023-00080405,09/01/23 08:30,09/09/23 19:59,Theft,Active/Pending,"Commons 6, SCC 6, South Campus Commons 6 at 6901  Preinkert  Dr"
+2023-00080404,09/09/23 19:56,09/09/23 19:56,Injured/Sick Person,CBE,Lot Z
+2023-00080405,09/01/23 08:30,09/09/23 19:59,Theft,Investigation Pending,"Commons 6, SCC 6, South Campus Commons 6 at 6901  Preinkert  Dr"
 2023-00080413,09/09/23 21:35,09/09/23 21:35,Theft,Active/Pending,"Capital One Field, Football Stadium, SECU Stadium"
 2023-00080447,09/10/23 00:49,09/10/23 00:49,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2023-00080453,09/10/23 01:50,09/10/23 01:49,Disorderly Conduct,Arrest,Baltimore  Ave
 2023-00080457,09/10/23 01:30,09/10/23 01:43,Injured/Sick Person,CBE,7000 block of  Preinkert  Dr
 2023-00080467,09/10/23 02:00,09/10/23 02:15,Injured/Sick Person,CBE,7300 block of  Baltimore  Ave
 2023-00080471,09/10/23 02:00,09/10/23 02:23,Assist Other Agency / Check on the Welfare,CBE,Jenifer St / Western Ave
@@ -2585,6 +2591,23 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00081365,09/12/23 08:19,09/12/23 13:33,Accident - Departmental,Active/Pending,Ridge Rd / Henderson Corner Rd
 2023-00081451,09/12/23 22:21,09/12/23 22:21,CDS Violation,CBE,7200 block of  Preinkert  Dr
 2023-00081690,09/13/23 13:59,09/13/23 14:06,Injured/Sick Person,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2023-00081693,09/13/23 10:04,09/13/23 14:28,Extortion (Title IX Related),Active/Pending,3900 block of  Denton Service  Ln
+2023-00081746,09/13/23 19:59,09/13/23 19:59,Damage to State Property,CBE,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
+2023-00081929,09/13/23 12:30,09/14/23 06:30,Burglary,Active/Pending,4400 block of  Stadium  Dr
+2023-00081945,09/14/23 08:55,09/14/23 08:55,Injured/Sick Person,CBE,3500 block of  University  Blvd
+2023-00081988,09/14/23 13:51,09/14/23 13:51,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
+2023-00081989,09/06/23 16:00,09/14/23 13:53,Harassment/Stalking,Active/Pending,"Frat 10, Sigma Kappa, Sigma Kappa Sorority at 10  Fraternity  Row"
+2023-00081992,09/14/23 15:06,09/14/23 15:06,Damage to State Property,CBE,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
+2023-00082024,09/10/23 19:00,09/14/23 17:27,Theft from Auto,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2023-00082044,09/12/23 16:32,09/14/23 20:10,Suspicious Activity,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
+2023-00082239,09/14/23 15:00,09/15/23 09:07,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
+2023-00082254,09/14/23 16:00,09/15/23 11:41,Theft,Active/Pending,"23, Washington, Washington Hall at 4298  Lehigh  Rd"
+2023-00082287,09/15/23 15:20,09/15/23 15:20,Threat Assessment,Active/Pending,"79, Turner Hall, Visitor Center at 7736  Baltimore  Ave"
+2023-00082361,09/16/23 00:26,09/15/23 23:45,Injured/Sick Person,CBE,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
+2023-00082396,09/16/23 02:21,09/16/23 02:21,Disorderly Conduct,Arrest,College  Ave
+2023-00082513,09/16/23 13:00,09/16/23 13:08,Injured/Sick Person,CBE,Johnson-Whittle Hall at 4118  Stadium  Dr
+2023-00082523,09/16/23 14:34,09/16/23 14:34,Injured/Sick Person,CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
+2023-00082572,09/16/23 17:22,09/16/23 17:22,Assist Other Agency / Other,Active/Pending,4500 block of  College  Ave
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
