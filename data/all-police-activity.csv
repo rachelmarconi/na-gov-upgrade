@@ -2440,7 +2440,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00071422,08/12/23 16:03,08/12/23 16:03,Recovered Stolen Motor Vehicle,Arrest,4300 block of  Knox  Rd
 2023-00071589,08/13/23 03:12,08/13/23 03:12,DWI/DUI,Arrest,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2023-00072251,08/14/23 19:00,08/15/23 02:04,Dept Property Damage/Loss,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
-2023-00072401,08/12/23 13:00,08/15/23 15:14,Stolen Motor Vehicle,Active/Pending,Lot 14c
+2023-00072401,08/12/23 13:00,08/15/23 15:14,Stolen Motor Vehicle,Investigation Pending,Lot 14c
 2023-00072408,08/15/23 15:20,08/15/23 15:57,Assist Other Agency / Theft,CBE,4500 block of  College  Ave
 2023-00072691,08/16/23 11:40,08/16/23 11:43,Assault,CBE,"81, Wind Tunnel Building at 8167  Paint Branch  Dr"
 2023-00072699,08/05/23 12:00,08/16/23 13:33,Stolen Motor Vehicle,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center at 4090  Union  Dr"
@@ -2476,7 +2476,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00075714,08/25/23 14:30,08/25/23 14:30,Trespassing,CBE,"83, J.M. Patterson Building, JM Patterson, JM Patterson Building at 4356  Stadium  Dr"
 2023-00075715,08/25/23 14:42,08/25/23 14:42,Assist Other Agency / Indecent Exposure,CBE,8300 block of  Baltimore  Ave
 2023-00075717,08/25/23 15:09,08/25/23 15:09,DWI/DUI,Arrest,Campus  Dr
-2023-00075719,08/25/23 14:00,08/25/23 15:00,Theft,Active/Pending,7800 block of  Alumni  Dr
+2023-00075719,08/25/23 14:00,08/25/23 15:00,Theft,Investigation Pending,7800 block of  Alumni  Dr
 2023-00075751,08/23/23 18:00,08/25/23 18:07,Stolen Motor Vehicle,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00075770,08/22/23 19:00,08/25/23 18:59,Assist Other Agency / Other,CBE,9800 block of  Good Luck  Rd
 2023-00075785,08/25/23 19:53,08/25/23 19:53,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
@@ -2499,7 +2499,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00076877,08/29/23 10:47,08/29/23 10:47,Animal Complaint,CBE,McKeldin Mall
 2023-00076915,08/29/23 01:00,08/29/23 14:20,Assist Other Agency / Burglary,Active/Pending,4500 block of  Hartwick  Rd
 2023-00076920,08/29/23 15:10,08/29/23 15:11,Injured/Sick Person,CBE,"35, McKeldin Library at 7649  Library  Ln"
-2023-00076938,08/29/23 16:30,08/29/23 17:02,Theft,Active/Pending,"Leonardtown, Leonardtown #201, Leonardtown Leonardtown Office Building at 4725  Rossborough  Ln"
+2023-00076938,08/29/23 16:30,08/29/23 17:02,Theft,Investigation Pending,"Leonardtown, Leonardtown #201, Leonardtown Leonardtown Office Building at 4725  Rossborough  Ln"
 2023-00076946,08/24/23 12:00,08/29/23 17:41,Dept Property Damage/Loss,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2023-00077011,08/29/23 20:56,08/29/23 20:56,Disorderly Conduct,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00077042,08/29/23 22:43,08/29/23 22:43,Injured/Sick Person,CBE,4500 block of  College  Ave
@@ -2518,7 +2518,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00077666,08/31/23 18:40,08/31/23 20:32,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00077748,09/01/23 00:52,09/01/23 00:52,Injured/Sick Person,CBE,4500 block of  College  Ave
 2023-00077767,09/01/23 02:02,09/01/23 02:02,Injured/Sick Person,CBE,945 at 4400  Calvert  Rd
-2023-00077780,09/01/23 02:40,09/01/23 02:47,Stolen Motor Vehicle,Active/Pending,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
+2023-00077780,09/01/23 02:40,09/01/23 02:47,Stolen Motor Vehicle,Investigation Pending,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
 2023-00077834,09/01/23 02:00,09/01/23 09:03,Vandalism,Active/Pending,Cumberland Hall at 4250  Farm  Dr
 2023-00077860,08/31/23 19:28,09/01/23 10:12,Assault,Investigation Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2023-00077879,09/01/23 02:30,09/01/23 13:12,Hate Bias Incident,Active/Pending,Cumberland Hall at 4250  Farm  Dr
@@ -2544,7 +2544,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00079228,09/05/23 11:30,09/05/23 12:14,Fraud,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00079252,09/05/23 15:00,09/05/23 16:18,Other Incident,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2023-00079257,09/05/23 09:30,09/05/23 16:25,Theft,Active/Pending,Lot 1f
-2023-00079260,08/31/23 19:00,09/05/23 17:27,Peeping Tom (Title IX Related),Active/Pending,4100 block of  Campus  Dr
+2023-00079260,08/31/23 19:00,09/05/23 17:27,Peeping Tom (Title IX Related),Investigation Pending,4100 block of  Campus  Dr
 2023-00079286,09/05/23 20:00,09/05/23 22:05,Injured/Sick Person,CBE,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2023-00079290,09/05/23 22:00,09/05/23 22:10,Injured/Sick Person,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2023-00079343,09/06/23 00:15,09/06/23 00:36,Injured/Sick Person,CBE,3900 block of  Campus  Dr
@@ -2571,7 +2571,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00080152,09/08/23 19:40,09/08/23 19:42,Injured/Sick Person,CBE,4200 block of  Campus  Dr
 2023-00080220,09/09/23 00:39,09/09/23 02:19,Dept Property Damage/Loss,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
 2023-00080228,09/09/23 02:50,09/09/23 02:53,Injured/Sick Person,CBE,Campus  Dr
-2023-00080266,09/09/23 00:45,09/09/23 07:19,Burglary,Active/Pending,"Leonardtown #246, Leonardtown at 7575  Yale  Ave"
+2023-00080266,09/09/23 00:45,09/09/23 07:19,Burglary,Investigation Pending,"Leonardtown #246, Leonardtown at 7575  Yale  Ave"
 2023-00080309,09/08/23 21:00,09/09/23 11:58,Theft,Active/Pending,"14, Harford Hall at 7660  Regents  Dr"
 2023-00080399,09/09/23 19:07,09/09/23 19:07,Alcohol Violation,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2023-00080404,09/09/23 19:56,09/09/23 19:56,Injured/Sick Person,CBE,Lot Z
@@ -2605,24 +2605,26 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00082049,09/14/23 12:40,09/14/23 20:30,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2023-00082239,09/14/23 15:00,09/15/23 09:07,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2023-00082254,09/14/23 16:00,09/15/23 11:41,Theft,Active/Pending,"23, Washington, Washington Hall at 4298  Lehigh  Rd"
-2023-00082287,09/15/23 15:20,09/15/23 15:20,Threat Assessment,Active/Pending,"79, Turner Hall, Visitor Center at 7736  Baltimore  Ave"
+2023-00082287,09/15/23 15:20,09/15/23 15:20,Threat Assessment,CBE,"79, Turner Hall, Visitor Center at 7736  Baltimore  Ave"
 2023-00082327,09/15/23 20:34,09/15/23 20:34,Assault,CBE,"Capital One Field, Football Stadium, SECU Stadium"
+2023-00082328,09/15/23 20:43,09/15/23 20:43,Alcohol Violation,Arrest,Yale  Ave
 2023-00082361,09/16/23 00:26,09/15/23 23:45,Injured/Sick Person,CBE,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2023-00082396,09/16/23 02:21,09/16/23 02:21,Disorderly Conduct,Arrest,College  Ave
 2023-00082418,09/16/23 04:10,09/16/23 04:10,Assist Other Agency (Title IX Related) / Title IX Incident Non Criminal,Active/Pending,3900 block of  Denton Service  Ln
 2023-00082513,09/16/23 13:00,09/16/23 13:08,Injured/Sick Person,CBE,Johnson-Whittle Hall at 4118  Stadium  Dr
 2023-00082523,09/16/23 14:34,09/16/23 14:34,Injured/Sick Person,CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
-2023-00082572,09/16/23 17:22,09/16/23 17:22,Assist Other Agency / Other,Active/Pending,4500 block of  College  Ave
-2023-00082897,09/16/23 11:00,09/17/23 19:05,Theft,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2023-00082572,09/16/23 17:22,09/16/23 17:22,Assist Other Agency / Other,CBE,4500 block of  College  Ave
+2023-00082673,09/17/23 01:45,09/17/23 01:45,DWI/DUI,Arrest,South Gate at 7567  Regents  Dr
+2023-00082897,09/16/23 11:00,09/17/23 19:05,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00083086,09/14/23 23:00,09/18/23 10:40,Accident,CBE,"PG3, SDG, Stadium Drive Garage, Stadium Drive Parking Garage at 4025  Stadium  Dr"
 2023-00083100,09/16/23 21:00,09/18/23 11:41,Hate Bias Incident,Active/Pending,4000 block of  Stadium  Dr
 2023-00083132,09/18/23 13:50,09/18/23 15:52,Theft,Active/Pending,"78, Armory, Reckord Armory at 4490  Rossborough  Ln"
 2023-00083133,08/05/23 11:00,09/18/23 15:26,Other Incident,Active/Pending,"16, Baltimore, Baltimore Hall at 7497  Calvert Service  Ln"
-2023-00083147,01/25/23 00:00,09/18/23 16:52,Sex Offense (Title IX Related),Active/Pending,"63, Somerset, Somerset Hall at 7567  Preinkert  Dr"
+2023-00083147,01/25/23 00:00,09/18/23 16:52,Sex Offense (Title IX Related),Investigation Pending,"63, Somerset, Somerset Hall at 7567  Preinkert  Dr"
 2023-00083203,09/15/23 16:00,09/18/23 22:27,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2023-00083205,09/18/23 22:45,09/18/23 22:50,Injured/Sick Person,CBE,"Recreation Artificial Turf Field, Turf Field, Turf Fields"
 2023-00083355,09/19/23 10:20,09/19/23 10:50,Assist Other Agency / Assault,CBE,Knox Rd / Cornell Ave
-2023-00083356,09/19/23 11:35,09/19/23 11:37,Sex Offense (Title IX Related),Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
+2023-00083356,09/19/23 11:35,09/19/23 11:37,Sex Offense (Title IX Related),Arrest,"35, McKeldin Library at 7649  Library  Ln"
 2023-00083362,09/07/23 08:00,09/19/23 13:51,Theft,Active/Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2023-00083391,09/19/23 17:15,09/19/23 17:51,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00083404,09/19/23 17:02,09/19/23 18:39,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
@@ -2649,6 +2651,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00084496,09/22/23 22:00,09/23/23 11:34,Assist Other Agency / Burglary,CBE,4200 block of  Knox  Rd
 2023-00084690,09/24/23 05:59,09/24/23 06:37,Accident - Departmental,CBE,4500 block of  Olney Laytonsville Rd
 2023-00084873,09/25/23 00:00,09/25/23 00:23,Other Incident,Active/Pending,3900 block of  Denton Service  Ln
+2023-00084912,09/25/23 01:32,09/25/23 04:11,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
