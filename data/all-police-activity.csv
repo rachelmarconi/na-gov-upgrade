@@ -2587,7 +2587,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00080920,09/08/23 14:00,09/11/23 09:37,Theft,Investigation Pending,"69, Wicomico, Wicomico Hall at 7218  Preinkert  Dr"
 2023-00080981,09/11/23 10:00,09/11/23 13:14,Suspicious Activity,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2023-00081009,09/11/23 10:30,09/11/23 15:14,Assist Other Agency / Burglary,CBE,10000 block of  Baltimore  Ave
-2023-00081081,05/13/23 00:00,09/11/23 20:02,Harassment/Stalking (Title IX Related),Active/Pending,University Courtyard #7 at 8700  Boteler  Ln
+2023-00081081,05/13/23 00:00,09/11/23 20:02,Harassment/Stalking (Title IX Related),CBE,University Courtyard #7 at 8700  Boteler  Ln
 2023-00081359,09/12/23 13:00,09/12/23 13:03,Assist Other Agency / Other,CBE,7100 block of  Baltimore  Ave
 2023-00081365,09/12/23 08:19,09/12/23 13:33,Accident - Departmental,CBE,Ridge Rd / Henderson Corner Rd
 2023-00081451,09/12/23 22:21,09/12/23 22:21,CDS Violation,CBE,7200 block of  Preinkert  Dr
@@ -2626,8 +2626,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00083132,09/18/23 13:50,09/18/23 15:52,Theft,Active/Pending,"78, Armory, Reckord Armory at 4490  Rossborough  Ln"
 2023-00083133,08/05/23 11:00,09/18/23 15:26,Other Incident,Active/Pending,"16, Baltimore, Baltimore Hall at 7497  Calvert Service  Ln"
 2023-00083147,01/25/23 00:00,09/18/23 16:52,Sex Offense (Title IX Related),Investigation Pending,"63, Somerset, Somerset Hall at 7567  Preinkert  Dr"
-2023-00083160,09/15/23 10:00,09/18/23 18:00,Theft,Active/Pending,"Commons 6, SCC 6, South Campus Commons 6 at 6901  Preinkert  Dr"
-2023-00083161,09/15/23 10:00,09/18/23 17:54,Theft,Active/Pending,"Commons 6, SCC 6, South Campus Commons 6 at 6901  Preinkert  Dr"
+2023-00083160,09/15/23 10:00,09/18/23 18:00,Theft,Investigation Pending,"Commons 6, SCC 6, South Campus Commons 6 at 6901  Preinkert  Dr"
+2023-00083161,09/15/23 10:00,09/18/23 17:54,Theft,Investigation Pending,"Commons 6, SCC 6, South Campus Commons 6 at 6901  Preinkert  Dr"
 2023-00083203,09/15/23 16:00,09/18/23 22:27,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2023-00083205,09/18/23 22:45,09/18/23 22:50,Injured/Sick Person,CBE,"Recreation Artificial Turf Field, Turf Field, Turf Fields"
 2023-00083355,09/19/23 10:20,09/19/23 10:50,Assist Other Agency / Assault,CBE,Knox Rd / Cornell Ave
@@ -2748,9 +2748,41 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00087595,10/03/23 16:45,10/03/23 16:51,Injured/Sick Person,CBE,"71, Lee Building, South Administration at 7809  Regents  Dr"
 2023-00087596,09/25/23 12:30,10/03/23 16:47,Theft,Active/Pending,"Architecture, Architecture Building at 3835  Campus  Dr"
 2023-00087613,10/01/23 21:00,10/03/23 17:55,Vandalism,Active/Pending,University Courtyard #3 at 8300  Boteler  Ln
+2023-00087847,10/03/23 15:00,10/04/23 13:39,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2023-00087918,10/04/23 19:08,10/04/23 19:08,Other Incident,CBE,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2023-00088233,10/05/23 16:34,10/05/23 16:34,Carjacking,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2023-00088235,10/05/23 16:00,10/05/23 17:38,Domestic,CBE,8000 block of  La Plata  Dr
+2023-00088276,10/05/23 22:41,10/05/23 22:41,Alcohol Violation,Arrest,Hopkins  Ave
+2023-00088320,10/05/23 23:49,10/05/23 23:49,Injured/Sick Person,CBE,"90, Chem Nuc, Chemical & Nuclear Engineering at 4418  Stadium  Dr"
+2023-00088352,10/06/23 01:04,10/06/23 01:04,Injured/Sick Person,CBE,Baltimore  Ave
+2023-00088465,10/05/23 23:43,10/06/23 06:00,Theft,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
+2023-00088525,09/30/23 21:30,10/06/23 11:05,Assist Other Agency / Vandalism,CBE,4500 block of  College  Ave
+2023-00088527,10/05/23 17:00,10/06/23 11:30,Theft,Active/Pending,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
+2023-00088538,10/04/23 13:00,10/06/23 11:49,Accident,CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
+2023-00088554,10/06/23 12:46,10/06/23 12:54,Accident,CBE,Alumni Drive / Lot Z
+2023-00088596,10/05/23 14:45,10/06/23 17:07,Theft from Auto,Active/Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
+2023-00088597,10/06/23 11:00,10/06/23 17:06,Theft,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
+2023-00088659,10/06/23 12:46,10/06/23 21:01,Other Incident,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
+2023-00088669,10/06/23 21:53,10/06/23 21:53,Injured/Sick Person,CBE,Lot 9b
+2023-00088675,10/06/23 22:20,10/06/23 22:20,CDS Violation,CBE,4200 block of  Valley  Dr
+2023-00088680,10/06/23 23:00,10/06/23 23:00,Injured/Sick Person,CBE,7500 block of  Preinkert  Dr
+2023-00088697,10/06/23 23:41,10/06/23 23:41,Injured/Sick Person,CBE,7400 block of  Baltimore  Ave
+2023-00088722,10/07/23 00:56,10/07/23 00:56,Injured/Sick Person,CBE,"76, Symons Hall at 7998  Regents  Dr"
+2023-00088726,10/07/23 01:40,10/07/23 01:40,DWI/DUI,Arrest,Lot 11b
+2023-00088742,10/07/23 01:45,10/07/23 06:19,Assist Other Agency / Assault,CBE,"Looney's Pub, The Varsity at 8150  Baltimore  Ave"
+2023-00088749,10/06/23 20:00,10/07/23 07:38,Check on the  Welfare,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2023-00088761,10/06/23 22:00,10/07/23 09:13,Assist Other Agency / Theft from Auto,CBE,4300 block of  Hartwick  Rd
+2023-00088982,10/08/23 01:50,10/08/23 01:50,DWI/DUI,Arrest,University  Blvd
+2023-00089064,10/07/23 11:00,10/08/23 09:45,Injured/Sick Person,CBE,6800 block of  Preinkert  Dr
+2023-00089100,10/08/23 12:05,10/08/23 12:16,Theft,Active/Pending,"78, Armory, Reckord Armory at 4490  Rossborough  Ln"
+2023-00089201,10/08/23 19:54,10/08/23 20:07,Assist Other Agency / Hate Bias Incident,CBE,4200 block of  Knox  Rd
+2023-00089216,10/08/23 21:09,10/08/23 21:09,Injured/Sick Person,CBE,4500 block of  College  Ave
+2023-00089272,10/09/23 00:19,10/09/23 00:19,Injured/Sick Person,CBE,"Commons 2, SCC 2, South Campus Commons 2 at 7524  Calvert Service  Ln"
+2023-00089273,10/09/23 00:15,10/09/23 00:23,Assault,CBE,"Commons 2, SCC 2, South Campus Commons 2 at 7524  Calvert Service  Ln"
+2023-00089295,10/09/23 02:05,10/09/23 02:17,Assist Other Agency / Robbery,CBE,8900 block of  Rhode Island  Ave
+2023-00089497,10/09/23 16:19,10/09/23 16:19,Emergency Petition,CBE,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
+2023-00089533,10/08/23 17:42,10/09/23 21:10,Theft,Active/Pending,3400 block of  Tulane  Dr
+2023-00089535,10/09/23 21:10,10/09/23 21:24,Assist Other Agency / Other,Active/Pending,7400 block of  Princeton  Ave
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
