@@ -2699,7 +2699,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00085822,09/27/23 21:00,09/27/23 22:26,Vandalism,Investigation Pending,6900 block of  Preinkert  Dr
 2023-00085827,09/27/23 22:00,09/27/23 22:37,Injured/Sick Person,CBE,"46, Marie Mount, Marie Mount Hall at 7814  Regents  Dr"
 2023-00085848,09/28/23 00:06,09/28/23 00:06,Injured/Sick Person,CBE,4300 block of  Hartwick  Rd
-2023-00085870,09/27/23 23:20,09/28/23 00:56,Telephone/EMail Misuse,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2023-00085870,09/27/23 23:20,09/28/23 00:56,Other Incident,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2023-00085910,09/28/23 03:03,09/28/23 03:03,Injured/Sick Person,CBE,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2023-00086000,09/28/23 10:03,09/28/23 10:03,Emergency Petition,CBE,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2023-00086002,09/28/23 09:00,09/28/23 10:31,Vandalism,Active/Pending,8100 block of  La Plata  Dr
@@ -2749,7 +2749,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00087596,09/25/23 12:30,10/03/23 16:47,Theft,Active/Pending,"Architecture, Architecture Building at 3835  Campus  Dr"
 2023-00087613,10/01/23 21:00,10/03/23 17:55,Vandalism,Investigation Pending,University Courtyard #3 at 8300  Boteler  Ln
 2023-00087819,10/04/23 08:33,10/04/23 08:33,Pedestrian Struck,CBE,Greenmead  Dr
-2023-00087847,10/03/23 15:00,10/04/23 13:39,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
+2023-00087847,10/03/23 15:00,10/04/23 13:39,Theft,Investigation Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2023-00087918,10/04/23 19:08,10/04/23 19:08,Other Incident,CBE,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2023-00088153,10/05/23 11:31,10/05/23 11:31,CDS Violation,CBE,4300 block of  Knox  Rd
 2023-00088233,10/05/23 16:34,10/05/23 16:34,Carjacking,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
@@ -2792,10 +2792,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00089743,10/10/23 12:53,10/10/23 12:53,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
 2023-00089775,10/09/23 12:00,10/10/23 14:06,Theft,Active/Pending,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
 2023-00089781,10/09/23 16:00,10/10/23 14:40,Assist Other Agency / Other,CBE,15000 block of  Straughn  Dr
+2023-00089784,10/09/23 17:45,10/10/23 15:22,Theft,Active/Pending,4100 block of  Campus  Dr
 2023-00089786,10/10/23 15:38,10/10/23 15:48,Indecent Exposure (Title IX Related),Active/Pending,"PG3, SDG, Stadium Drive Garage, Stadium Drive Parking Garage at 4025  Stadium  Dr"
 2023-00089795,10/10/23 16:00,10/10/23 16:24,Emergency Petition,CBE,3900 block of  Campus  Dr
 2023-00089905,10/10/23 22:13,10/10/23 22:13,Suspicious Person/Auto,CBE,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
 2023-00089947,10/11/23 00:20,10/11/23 00:20,Injured/Sick Person,CBE,Baltimore  Ave
+2023-00090051,10/11/23 09:06,10/11/23 09:06,Hazardous Condition,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
+2023-00090193,10/11/23 18:30,10/11/23 19:39,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
