@@ -1838,7 +1838,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00024692,03/17/23 01:00,03/17/23 01:20,Injured/Sick Person,CBE,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2023-00024709,03/17/23 02:43,03/17/23 02:43,Traffic Arrest,Arrest,Adelphi  Rd
 2023-00024843,02/28/23 07:45,03/17/23 13:29,Other Incident,CBE,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
-2023-00024864,07/06/22 17:00,03/17/23 15:56,Fraud,Summons Issued,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2023-00024864,07/06/22 17:00,03/17/23 15:56,Fraud,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00024943,03/17/23 19:00,03/17/23 19:08,Theft,Investigation Pending,3400 block of  Tulane  Dr
 2023-00024976,03/17/23 20:29,03/17/23 20:29,Recovered Stolen Property,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00025052,03/18/23 00:44,03/18/23 00:44,Injured/Sick Person,CBE,4400 block of  Knox  Rd
@@ -2745,10 +2745,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00087263,09/27/23 19:30,10/02/23 16:59,Theft,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
 2023-00087273,10/02/23 15:20,10/02/23 18:04,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00087517,10/03/23 12:52,10/03/23 12:52,Injured/Sick Person,CBE,"84, Kirwan Hall, Mathematics, Mathematics Building, William E. Kirwan Hall, William Kirwan Hall at 4176  Campus  Dr"
+2023-00087551,09/30/23 20:58,10/03/23 14:02,Theft,Active/Pending,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
 2023-00087595,10/03/23 16:45,10/03/23 16:51,Injured/Sick Person,CBE,"71, Lee Building, South Administration at 7809  Regents  Dr"
 2023-00087596,09/25/23 12:30,10/03/23 16:47,Theft,Active/Pending,"Architecture, Architecture Building at 3835  Campus  Dr"
 2023-00087613,10/01/23 21:00,10/03/23 17:55,Vandalism,Investigation Pending,University Courtyard #3 at 8300  Boteler  Ln
 2023-00087819,10/04/23 08:33,10/04/23 08:33,Pedestrian Struck,CBE,Greenmead  Dr
+2023-00087843,10/04/23 10:15,10/04/23 10:25,Assist Other Agency / Other,Active/Pending,University  Blvd
 2023-00087847,10/03/23 15:00,10/04/23 13:39,Theft,Investigation Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2023-00087918,10/04/23 19:08,10/04/23 19:08,Other Incident,CBE,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2023-00088153,10/05/23 11:31,10/05/23 11:31,CDS Violation,CBE,4300 block of  Knox  Rd
@@ -2797,8 +2799,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00089795,10/10/23 16:00,10/10/23 16:24,Emergency Petition,CBE,3900 block of  Campus  Dr
 2023-00089905,10/10/23 22:13,10/10/23 22:13,Suspicious Person/Auto,CBE,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
 2023-00089947,10/11/23 00:20,10/11/23 00:20,Injured/Sick Person,CBE,Baltimore  Ave
+2023-00090039,10/10/23 18:00,10/11/23 06:18,Theft,Active/Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2023-00090051,10/11/23 09:06,10/11/23 09:06,Hazardous Condition,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
+2023-00090072,10/11/23 10:37,10/11/23 10:37,Injured/Sick Person,CBE,"89, C. D. Mote, Jr. Engineering Laboratory at 8136  Paint Branch  Dr"
+2023-00090073,10/10/23 23:30,10/11/23 10:48,Assist Other Agency / Assault,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
+2023-00090094,10/11/23 14:17,10/11/23 14:17,Injured/Sick Person,CBE,Police Impound Lot
 2023-00090193,10/11/23 18:30,10/11/23 19:39,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2023-00090201,10/11/23 19:41,10/11/23 20:07,Other Incident,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
