@@ -2757,7 +2757,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00088153,10/05/23 11:31,10/05/23 11:31,CDS Violation,CBE,4300 block of  Knox  Rd
 2023-00088233,10/05/23 16:34,10/05/23 16:34,Carjacking,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2023-00088235,10/05/23 16:00,10/05/23 17:38,Domestic,CBE,8000 block of  La Plata  Dr
-2023-00088238,10/03/23 16:00,10/05/23 18:14,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
+2023-00088238,10/03/23 16:00,10/05/23 18:14,Theft,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2023-00088257,10/05/23 19:50,10/05/23 20:45,Assist Other Agency / Robbery,CBE,3900 block of  53rd  Pl
 2023-00088276,10/05/23 22:41,10/05/23 22:41,Alcohol Violation,Arrest,Hopkins  Ave
 2023-00088320,10/05/23 23:49,10/05/23 23:49,Injured/Sick Person,CBE,"90, Chem Nuc, Chemical & Nuclear Engineering at 4418  Stadium  Dr"
@@ -2807,6 +2807,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00089905,10/10/23 22:13,10/10/23 22:13,Suspicious Person/Auto,CBE,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
 2023-00089947,10/11/23 00:20,10/11/23 00:20,Injured/Sick Person,CBE,Baltimore  Ave
 2023-00090039,10/10/23 18:00,10/11/23 06:18,Theft,Active/Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
+2023-00090042,10/11/23 08:23,10/11/23 08:23,Accident - Departmental,CBE,270 at 4316  Rowalt  Dr
 2023-00090051,10/11/23 09:06,10/11/23 09:06,Hazardous Condition,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
 2023-00090069,10/11/23 10:04,10/11/23 10:04,Assist Fire Department,CBE,"Frat 1, Greek House 1, KA, Kappa Alpha, Kappa Alpha Fraternity at 1  Fraternity  Row"
 2023-00090072,10/11/23 10:37,10/11/23 10:37,Injured/Sick Person,CBE,"89, C. D. Mote, Jr. Engineering Laboratory at 8136  Paint Branch  Dr"
@@ -2847,6 +2848,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00092779,10/17/23 12:15,10/17/23 13:01,Suspicious Activity,Active/Pending,"MFRI, MFRI Office/Classroom Building at 4500  Campus  Dr"
 2023-00092799,10/06/23 22:30,10/17/23 14:08,Assist Other Agency / Other,CBE,8100 block of  Baltimore  Ave
 2023-00092979,10/18/23 00:22,10/18/23 00:22,Assist Other Agency / Other,CBE,8100 block of  Baltimore  Ave
+2023-00092989,10/18/23 00:59,10/18/23 00:59,Injured/Sick Person,CBE,Lot 11b
+2023-00093093,10/16/23 12:00,10/18/23 09:10,Other Incident,Active/Pending,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
+2023-00093163,10/18/23 12:33,10/18/23 12:43,Injured/Sick Person,CBE,"Benjamin, Benjamin Bldg, Benjamin Building at 3942  Campus  Dr"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
