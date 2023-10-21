@@ -2458,7 +2458,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00074239,08/21/23 00:54,08/21/23 00:54,DWI/DUI,Arrest,Baltimore  Ave
 2023-00074317,10/29/22 18:00,08/21/23 09:41,Theft,Investigation Pending,340 block of  Ehrensberger  Dr
 2023-00074374,08/21/23 14:00,08/21/23 15:04,Injured Officer,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
-2023-00074400,08/20/23 14:00,08/21/23 17:13,Vandalism,Summons Issued,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
+2023-00074400,08/20/23 14:00,08/21/23 17:13,Vandalism,Warrant Issued,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2023-00074459,08/21/23 20:25,08/21/23 21:48,Other Incident,CBE,300 block of  West Pratt St
 2023-00074549,08/22/23 01:17,08/22/23 01:17,DWI/DUI,Arrest,University  Blvd
 2023-00074624,08/22/23 04:50,08/22/23 05:12,Injured/Sick Person,CBE,"Microbiology, Microbiology Building at 4062  Campus  Dr"
@@ -2506,7 +2506,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00077186,08/30/23 09:50,08/30/23 09:52,Suspicious Person/Auto,CBE,7600 block of  Mowatt  Ln
 2023-00077187,08/29/23 17:00,08/30/23 10:00,Other Incident,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00077199,08/30/23 10:30,08/30/23 10:41,Assist Other Agency / Assault,Active/Pending,Baltimore  Ave
-2023-00077227,08/30/23 11:30,08/30/23 13:14,Theft from Auto,Active/Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
+2023-00077227,08/30/23 11:30,08/30/23 13:14,Theft from Auto,Warrant Issued,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2023-00077229,08/30/23 13:46,08/30/23 13:46,Hazardous Condition,CBE,Biomolecular Sciences Building at 8314  Paint Branch  Dr
 2023-00077308,08/30/23 18:33,08/30/23 18:33,DWI/DUI,Arrest,Adelphi  Rd
 2023-00077320,08/30/23 19:53,08/30/23 19:53,Suspicious Person/Auto,CBE,Hartwick  Rd
@@ -2828,15 +2828,15 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00090836,10/13/23 12:00,10/13/23 12:20,Emergency Petition,Active/Pending,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
 2023-00090842,10/13/23 14:44,10/13/23 15:02,Accident - Departmental,CBE,Lot N9
 2023-00090846,10/13/23 14:44,10/13/23 15:37,Dept Property Damage/Loss,Active/Pending,Lot N9
-2023-00090847,10/13/23 07:17,10/13/23 15:36,Vandalism,Active/Pending,8100 block of  La Plata  Dr
+2023-00090847,10/13/23 07:17,10/13/23 15:36,Vandalism,Investigation Pending,8100 block of  La Plata  Dr
 2023-00090898,10/13/23 18:14,10/13/23 18:14,Injured/Sick Person,CBE,Baltimore  Ave
 2023-00090944,10/13/23 21:08,10/13/23 21:08,Injured/Sick Person,CBE,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2023-00090963,10/13/23 21:40,10/13/23 22:29,Sex Offense (Title IX Related),Active/Pending,Regents  Dr
 2023-00091027,10/14/23 01:35,10/14/23 01:35,Injured/Sick Person,CBE,7300 block of  Baltimore  Ave
-2023-00091034,10/14/23 00:00,10/14/23 01:31,Other Incident,Active/Pending,4200 block of  Farm  Dr
+2023-00091034,10/14/23 00:00,10/14/23 01:31,Other Incident,CBE,4200 block of  Farm  Dr
 2023-00091046,10/14/23 02:25,10/14/23 02:25,Injured/Sick Person,CBE,4200 block of  Farm  Dr
 2023-00091166,10/14/23 02:00,10/14/23 11:56,Assault,Active/Pending,"48, Francis Scott, Francis Scott Key, Francis Scott Key Hall, FS Key Hall, FSK at 4282  Chapel  Ln"
-2023-00091167,10/14/23 00:30,10/14/23 12:08,Vandalism,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2023-00091167,10/14/23 00:30,10/14/23 12:08,Vandalism,Investigation Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2023-00091222,10/14/23 17:27,10/14/23 17:27,CDS Violation,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2023-00091224,10/14/23 15:10,10/14/23 17:33,Theft from Auto,Active/Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2023-00091252,10/14/23 21:01,10/14/23 21:01,Injured/Sick Person,CBE,7400 block of  Hopkins  Ave
