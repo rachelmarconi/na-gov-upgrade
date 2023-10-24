@@ -2584,6 +2584,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00080467,09/10/23 02:00,09/10/23 02:15,Injured/Sick Person,CBE,7300 block of  Baltimore  Ave
 2023-00080471,09/10/23 02:00,09/10/23 02:23,Assist Other Agency / Check on the Welfare,CBE,Jenifer St / Western Ave
 2023-00080780,09/09/23 23:00,09/10/23 22:51,Vandalism,Active/Pending,4000 block of  Stadium  Dr
+2023-00080853,09/10/23 21:00,09/11/23 03:43,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2023-00080920,09/08/23 14:00,09/11/23 09:37,Theft,Investigation Pending,"69, Wicomico, Wicomico Hall at 7218  Preinkert  Dr"
 2023-00080981,09/11/23 10:00,09/11/23 13:14,Suspicious Activity,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2023-00081009,09/11/23 10:30,09/11/23 15:14,Assist Other Agency / Burglary,CBE,10000 block of  Baltimore  Ave
@@ -2818,6 +2819,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00090314,10/12/23 03:46,10/12/23 03:46,Recovered Stolen Property,CBE,Paint Branch Gate at 8966  Paint Branch  Dr
 2023-00090421,10/12/23 12:55,10/12/23 12:55,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
 2023-00090478,10/12/23 00:00,10/12/23 16:22,Other Incident,Active/Pending,4100 block of  Campus  Dr
+2023-00090490,10/12/23 17:08,10/12/23 17:08,Emergency Petition,CBE,4200 block of  Chapel  Ln
 2023-00090536,10/12/23 22:04,10/12/23 22:04,Injured/Sick Person,CBE,Shuttle Bus Facility at 8537  Paint Branch  Dr
 2023-00090598,10/12/23 23:50,10/12/23 23:50,Alarm,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00090619,10/13/23 01:27,10/13/23 01:27,Injured/Sick Person,CBE,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
@@ -2831,7 +2833,10 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00090847,10/13/23 07:17,10/13/23 15:36,Vandalism,Investigation Pending,8100 block of  La Plata  Dr
 2023-00090898,10/13/23 18:14,10/13/23 18:14,Injured/Sick Person,CBE,Baltimore  Ave
 2023-00090944,10/13/23 21:08,10/13/23 21:08,Injured/Sick Person,CBE,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
+2023-00090954,10/13/23 21:57,10/13/23 21:57,Injured/Sick Person,CBE,Regents  Dr
 2023-00090963,10/13/23 21:40,10/13/23 22:29,Sex Offense (Title IX Related),Active/Pending,Regents  Dr
+2023-00090984,10/13/23 22:45,10/13/23 23:37,Assault,Active/Pending,"Drazek Circle, UMGC at 346  Ehrensberger  Dr"
+2023-00090987,10/13/23 23:40,10/13/23 23:45,Assist Other Agency / Other,CBE,Baltimore  Ave
 2023-00091027,10/14/23 01:35,10/14/23 01:35,Injured/Sick Person,CBE,7300 block of  Baltimore  Ave
 2023-00091034,10/14/23 00:00,10/14/23 01:31,Other Incident,CBE,4200 block of  Farm  Dr
 2023-00091046,10/14/23 02:25,10/14/23 02:25,Injured/Sick Person,CBE,4200 block of  Farm  Dr
@@ -2841,16 +2846,25 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00091224,10/14/23 15:10,10/14/23 17:33,Theft from Auto,Active/Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2023-00091252,10/14/23 21:01,10/14/23 21:01,Injured/Sick Person,CBE,7400 block of  Hopkins  Ave
 2023-00091371,10/15/23 01:11,10/15/23 01:11,Injured/Sick Person,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2023-00091712,10/14/23 21:00,10/15/23 13:49,Vandalism,Investigation Pending,Johnson-Whittle Hall at 4118  Stadium  Dr
 2023-00091852,10/15/23 19:52,10/15/23 19:52,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00092240,10/16/23 09:50,10/16/23 09:57,Assist Other Agency / Other,CBE,7500 block of  Hopkins  Ave
 2023-00092278,10/16/23 10:50,10/16/23 10:58,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
+2023-00092294,10/12/23 17:00,10/16/23 11:58,Theft,Active/Pending,4400 block of  Stadium  Dr
 2023-00092599,10/17/23 03:28,10/17/23 03:28,Assist Other Agency / Check on the Welfare,CBE,8200 block of  Baltimore  Ave
 2023-00092779,10/17/23 12:15,10/17/23 13:01,Suspicious Activity,Active/Pending,"MFRI, MFRI Office/Classroom Building at 4500  Campus  Dr"
 2023-00092799,10/06/23 22:30,10/17/23 14:08,Assist Other Agency / Other,CBE,8100 block of  Baltimore  Ave
 2023-00092979,10/18/23 00:22,10/18/23 00:22,Assist Other Agency / Other,CBE,8100 block of  Baltimore  Ave
 2023-00092989,10/18/23 00:59,10/18/23 00:59,Injured/Sick Person,CBE,Lot 11b
+2023-00093092,10/18/23 08:45,10/18/23 09:05,Dept Property Damage/Loss,CBE,North Gate at 4306  Campus  Dr
 2023-00093093,10/16/23 12:00,10/18/23 09:10,Other Incident,Active/Pending,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
+2023-00093158,10/15/23 15:31,10/18/23 12:19,Assist Other Agency / Other,Active/Pending,4300 block of  Hartwick  Rd
 2023-00093163,10/18/23 12:33,10/18/23 12:43,Injured/Sick Person,CBE,"Benjamin, Benjamin Bldg, Benjamin Building at 3942  Campus  Dr"
+2023-00093200,10/18/23 14:20,10/18/23 15:06,Injured/Sick Person,CBE,"Chesapeake, Chesapeake Building at 4300  Terrapin  Trl"
+2023-00093397,10/19/23 00:52,10/19/23 00:52,Injured/Sick Person,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
+2023-00093402,10/19/23 01:09,10/19/23 01:09,Warrant/Summons Service,CBE,University  Blvd
+2023-00093587,10/17/23 21:00,10/19/23 11:00,Theft,Active/Pending,4000 block of  Stadium  Dr
+2023-00093814,10/19/23 18:45,10/19/23 21:57,Dept Property Damage/Loss,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
