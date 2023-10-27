@@ -2796,7 +2796,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00089466,10/06/23 15:00,10/09/23 12:47,Theft,Investigation Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2023-00089497,10/09/23 16:19,10/09/23 16:19,Emergency Petition,CBE,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
 2023-00089533,10/08/23 17:42,10/09/23 21:10,Theft,Active/Pending,3400 block of  Tulane  Dr
-2023-00089535,10/09/23 21:10,10/09/23 21:24,Assist Other Agency / Other,Active/Pending,7400 block of  Princeton  Ave
+2023-00089535,10/09/23 21:10,10/09/23 21:24,Assist Other Agency / Other,CBE,7400 block of  Princeton  Ave
 2023-00089550,10/09/23 19:30,10/09/23 22:27,Theft from Auto,Investigation Pending,Lot JJ2
 2023-00089743,10/10/23 12:53,10/10/23 12:53,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
 2023-00089757,10/10/23 08:00,10/10/23 13:22,Theft,Active/Pending,"48, Francis Scott, Francis Scott Key, Francis Scott Key Hall, FS Key Hall, FSK at 4282  Chapel  Ln"
@@ -2853,6 +2853,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00092278,10/16/23 10:50,10/16/23 10:58,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2023-00092291,10/14/23 18:59,10/16/23 11:52,Other Incident,Active/Pending,Health Center at 3983  Campus  Dr
 2023-00092294,10/12/23 17:00,10/16/23 11:58,Theft,Active/Pending,4400 block of  Stadium  Dr
+2023-00092374,10/16/23 07:55,10/16/23 16:32,Vandalism,Active/Pending,Lot GG1
 2023-00092599,10/17/23 03:28,10/17/23 03:28,Assist Other Agency / Check on the Welfare,CBE,8200 block of  Baltimore  Ave
 2023-00092779,10/17/23 12:15,10/17/23 13:01,Suspicious Activity,CBE,"MFRI, MFRI Office/Classroom Building at 4500  Campus  Dr"
 2023-00092799,10/06/23 22:30,10/17/23 14:08,Assist Other Agency / Other,CBE,8100 block of  Baltimore  Ave
