@@ -2865,15 +2865,19 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00093158,10/15/23 15:31,10/18/23 12:19,Assist Other Agency / Other,Active/Pending,4300 block of  Hartwick  Rd
 2023-00093163,10/18/23 12:33,10/18/23 12:43,Injured/Sick Person,CBE,"Benjamin, Benjamin Bldg, Benjamin Building at 3942  Campus  Dr"
 2023-00093200,10/18/23 14:20,10/18/23 15:06,Injured/Sick Person,CBE,"Chesapeake, Chesapeake Building at 4300  Terrapin  Trl"
+2023-00093214,10/18/23 13:10,10/18/23 16:04,Theft,Active/Pending,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
 2023-00093397,10/19/23 00:52,10/19/23 00:52,Injured/Sick Person,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
 2023-00093402,10/19/23 01:09,10/19/23 01:09,Warrant/Summons Service,CBE,University  Blvd
+2023-00093581,10/19/23 10:43,10/19/23 10:52,Assist Other Agency / Indecent Exposure,CBE,4500 block of  College  Ave
 2023-00093587,10/17/23 21:00,10/19/23 11:00,Theft,Investigation Pending,"9, Chapel, Memorial Chapel at 7744  Regents  Dr"
 2023-00093814,10/19/23 18:45,10/19/23 21:57,Dept Property Damage/Loss,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2023-00094207,10/20/23 15:15,10/20/23 15:17,Injured/Sick Person,CBE,Yale  Ave
+2023-00094210,10/19/23 11:30,10/20/23 15:27,Other Incident,Active/Pending,8100 block of  Paint Branch  Dr
 2023-00094230,10/16/23 05:45,10/20/23 16:23,Lost Property,Active/Pending,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2023-00094382,10/21/23 00:03,10/21/23 00:03,Injured/Sick Person,CBE,8100 block of  La Plata  Dr
 2023-00094386,10/21/23 00:44,10/21/23 00:44,Injured/Sick Person,CBE,Cumberland Hall at 4250  Farm  Dr
 2023-00094424,10/21/23 02:41,10/21/23 02:41,Injured/Sick Person,CBE,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
+2023-00094616,10/21/23 14:00,10/21/23 14:02,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00094654,10/16/23 11:00,10/21/23 15:49,Theft from Auto,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2023-00094794,10/21/23 23:28,10/21/23 23:28,Injured/Sick Person,Active/Pending,8200 block of  Baltimore  Ave
 2023-00094796,10/21/23 23:41,10/21/23 23:41,Injured/Sick Person,CBE,7400 block of  Baltimore  Ave
@@ -2892,8 +2896,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00095613,10/24/23 00:33,10/24/23 00:33,DWI/DUI,Arrest,"Animal Science Service Building, Campus Farm at 8156  Regents  Dr"
 2023-00095615,10/22/23 22:50,10/24/23 00:33,Theft,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2023-00095688,10/24/23 04:31,10/24/23 04:31,Trespassing,CBE,4100 block of N Library  Ln
+2023-00095786,10/24/23 11:48,10/24/23 11:52,Suspicious Activity,Active/Pending,4100 block of  Campus  Dr
 2023-00095796,10/24/23 13:09,10/24/23 13:09,Death Investigation,Active/Pending,"Capital One Field, Football Stadium, SECU Stadium"
+2023-00095926,10/24/23 11:00,10/24/23 21:13,Stolen Motor Vehicle,Active/Pending,3400 block of  Tulane  Dr
 2023-00095943,10/24/23 22:00,10/24/23 22:23,Other Incident,Active/Pending,Paint Branch Building at 4505  Campus  Dr
+2023-00096006,10/25/23 01:38,10/25/23 01:38,Injured/Sick Person,CBE,Lot L
+2023-00096045,10/25/23 02:30,10/25/23 02:57,Vandalism,Active/Pending,8000 block of  Hagerstown  Dr
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
