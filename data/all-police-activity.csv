@@ -2742,7 +2742,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00087217,10/02/23 11:18,10/02/23 11:21,Fire,CBE,"Microbiology, Microbiology Building at 4062  Campus  Dr"
 2023-00087218,10/01/23 19:00,10/02/23 11:07,Theft,Investigation Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2023-00087222,09/28/23 17:00,10/02/23 11:49,Theft,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
-2023-00087239,10/01/23 17:00,10/02/23 13:23,Theft,Active/Pending,La Plata Hall at 8160  La Plata  Dr
+2023-00087239,10/01/23 17:00,10/02/23 13:23,Theft,Investigation Pending,La Plata Hall at 8160  La Plata  Dr
 2023-00087249,10/02/23 12:00,10/02/23 13:33,Theft,Investigation Pending,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2023-00087263,09/27/23 19:30,10/02/23 16:59,Theft,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
 2023-00087273,10/02/23 15:20,10/02/23 18:04,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
@@ -2770,7 +2770,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00088538,10/04/23 13:00,10/06/23 11:49,Accident,CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2023-00088554,10/06/23 12:46,10/06/23 12:54,Accident,CBE,Alumni Drive / Lot Z
 2023-00088596,10/05/23 14:45,10/06/23 17:07,Theft from Auto,Active/Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
-2023-00088597,10/06/23 11:00,10/06/23 17:06,Theft,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
+2023-00088597,10/06/23 11:00,10/06/23 17:06,Theft,Investigation Pending,Yahentamitsi at 4136  Stadium  Dr
 2023-00088608,10/06/23 12:50,10/06/23 17:39,Theft,Active/Pending,"Center for Young Children, CYC at 4028  Valley  Dr"
 2023-00088659,10/06/23 12:46,10/06/23 21:01,Other Incident,Investigation Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
 2023-00088669,10/06/23 21:53,10/06/23 21:53,Injured/Sick Person,CBE,Lot 9b
@@ -2800,7 +2800,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00089550,10/09/23 19:30,10/09/23 22:27,Theft from Auto,Investigation Pending,Lot JJ2
 2023-00089743,10/10/23 12:53,10/10/23 12:53,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
 2023-00089757,10/10/23 08:00,10/10/23 13:22,Theft,Unfounded,"48, Francis Scott, Francis Scott Key, Francis Scott Key Hall, FS Key Hall, FSK at 4282  Chapel  Ln"
-2023-00089775,10/09/23 12:00,10/10/23 14:06,Theft,Active/Pending,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
+2023-00089775,10/09/23 12:00,10/10/23 14:06,Theft,Investigation Pending,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
 2023-00089781,10/09/23 16:00,10/10/23 14:40,Assist Other Agency / Other,CBE,15000 block of  Straughn  Dr
 2023-00089784,10/09/23 17:45,10/10/23 15:22,Theft,Active/Pending,4100 block of  Campus  Dr
 2023-00089786,10/10/23 15:38,10/10/23 15:48,Indecent Exposure (Title IX Related),Active/Pending,"PG3, SDG, Stadium Drive Garage, Stadium Drive Parking Garage at 4025  Stadium  Dr"
@@ -2859,6 +2859,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00092799,10/06/23 22:30,10/17/23 14:08,Assist Other Agency / Other,CBE,8100 block of  Baltimore  Ave
 2023-00092979,10/18/23 00:22,10/18/23 00:22,Assist Other Agency / Other,CBE,8100 block of  Baltimore  Ave
 2023-00092989,10/18/23 00:59,10/18/23 00:59,Injured/Sick Person,CBE,Lot 11b
+2023-00092992,10/18/23 01:00,10/18/23 01:20,Injured/Sick Person,CBE,Chapel  Ln
 2023-00093081,10/16/23 15:00,10/18/23 08:40,Assist Other Agency / Other,Active/Pending,9600 block of  Gudelsky Dr
 2023-00093092,10/18/23 08:45,10/18/23 09:05,Dept Property Damage/Loss,CBE,North Gate at 4306  Campus  Dr
 2023-00093093,10/16/23 12:00,10/18/23 09:10,Other Incident,Active/Pending,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
@@ -2901,7 +2902,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00095926,10/24/23 11:00,10/24/23 21:13,Stolen Motor Vehicle,Active/Pending,3400 block of  Tulane  Dr
 2023-00095943,10/24/23 22:00,10/24/23 22:23,Other Incident,Active/Pending,Paint Branch Building at 4505  Campus  Dr
 2023-00096006,10/25/23 01:38,10/25/23 01:38,Injured/Sick Person,CBE,Lot L
-2023-00096045,10/25/23 02:30,10/25/23 02:57,Vandalism,Active/Pending,8000 block of  Hagerstown  Dr
+2023-00096045,10/25/23 02:30,10/25/23 02:57,Vandalism,Investigation Pending,8000 block of  Hagerstown  Dr
 2023-00096116,10/24/23 19:30,10/25/23 09:48,Theft,Active/Pending,"15, Calvert, Calvert Hall at 7551  Calvert Service  Ln"
 2023-00096270,10/25/23 00:01,10/25/23 21:40,Vandalism,Active/Pending,4200 block of  Farm  Dr
 2023-00096314,10/25/23 23:59,10/25/23 23:59,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
@@ -2914,6 +2915,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00096645,10/27/23 00:59,10/27/23 00:59,Injured/Sick Person,CBE,"Commons 6, SCC 6, South Campus Commons 6 at 6901  Preinkert  Dr"
 2023-00096648,10/27/23 01:06,10/27/23 01:06,Injured/Sick Person,CBE,Shuttle Bus Facility at 8537  Paint Branch  Dr
 2023-00096819,10/27/23 09:30,10/27/23 10:21,Other Incident,CBE,"Hillel, Hillel Jewish Center at 7612  Mowatt  Ln"
+2023-00096957,10/27/23 20:53,10/27/23 20:53,DWI/DUI,Arrest,Rossborough  Ln
+2023-00096981,10/27/23 23:30,10/28/23 00:10,Injured/Sick Person,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
+2023-00097025,10/28/23 03:20,10/28/23 03:20,Injured/Sick Person,CBE,7500 block of  Yale  Ave
+2023-00097346,10/29/23 00:11,10/29/23 00:11,Injured/Sick Person,CBE,Baltimore  Ave
+2023-00097371,10/29/23 01:39,10/29/23 01:39,DWI/DUI,Arrest,Baltimore  Ave
+2023-00097376,10/29/23 02:25,10/29/23 02:25,Injured/Sick Person,CBE,Hartwick  Rd
+2023-00097378,10/29/23 00:00,10/29/23 02:46,Injured/Sick Person,CBE,4700 block of  Rossborough  Ln
+2023-00097658,10/29/23 22:57,10/29/23 22:57,Injured/Sick Person,CBE,Calvert Road Metro Entrance at  Calvert  Rd
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
