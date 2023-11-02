@@ -1706,7 +1706,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00018616,02/24/23 22:03,02/24/23 22:07,CDS Violation,Active/Pending,4200 block of  Valley  Dr
 2023-00018633,02/24/23 23:31,02/24/23 23:31,Traffic Arrest,Arrest,Baltimore  Ave
 2023-00018664,02/25/23 01:30,02/25/23 02:13,Vandalism,Arrest,8000 block of  Hagerstown  Dr
-2023-00018823,02/24/23 21:52,02/25/23 16:58,Hate Bias Incident,Active/Pending,4200 block of  Farm  Dr
+2023-00018823,02/24/23 21:52,02/25/23 16:58,Hate Bias Incident,CBE,4200 block of  Farm  Dr
 2023-00018826,02/25/23 17:20,02/25/23 17:29,Injured/Sick Person,CBE,8100 block of  Paint Branch  Dr
 2023-00018903,02/26/23 00:20,02/26/23 00:49,Injured/Sick Person,CBE,"Alpha Chi Omega, Alpha Chi Omega Sorority at 4525  College  Ave"
 2023-00018911,02/26/23 01:49,02/26/23 02:03,Assault,Active/Pending,3400 block of  Tulane  Dr
@@ -2914,6 +2914,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00096430,10/26/23 07:22,10/26/23 07:22,Assist Other Agency / Other,CBE,8300 block of  Baltimore  Ave
 2023-00096431,10/24/23 11:00,10/26/23 07:11,Lost Property,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2023-00096516,10/26/23 16:00,10/26/23 16:35,Suspicious Activity,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
+2023-00096537,10/24/23 12:00,10/26/23 18:17,Extortion,Active/Pending,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
 2023-00096613,10/26/23 23:11,10/26/23 23:11,Injured/Sick Person,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2023-00096639,10/27/23 00:43,10/27/23 00:43,Disorderly Conduct,Arrest,"School of Public Policy, Thurgood Marshall Hall at 7805  Regents  Dr"
 2023-00096645,10/27/23 00:59,10/27/23 00:59,Injured/Sick Person,CBE,"Commons 6, SCC 6, South Campus Commons 6 at 6901  Preinkert  Dr"
@@ -2938,7 +2939,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00097539,10/28/23 21:00,10/29/23 14:44,Theft,Active/Pending,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
 2023-00097658,10/29/23 22:57,10/29/23 22:57,Injured/Sick Person,CBE,Calvert Road Metro Entrance at  Calvert  Rd
 2023-00097835,10/30/23 09:55,10/30/23 09:55,Injured/Sick Person,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
+2023-00097839,10/27/23 17:00,10/30/23 10:04,Vandalism,Active/Pending,"Commons 7, SCC 7, South Campus Commons 7 at 6801  Preinkert  Dr"
+2023-00098048,10/30/23 23:51,10/30/23 23:51,Suspicious Activity,Active/Pending,Frat Row
 2023-00098089,10/31/23 01:56,10/31/23 01:56,Emergency Petition,CBE,4300 block of  Guilford  Dr
+2023-00098397,10/31/23 16:58,10/31/23 16:58,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
+2023-00098541,10/31/23 20:50,10/31/23 23:01,Emergency Petition,CBE,7500 block of  Calvert Service  Ln
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
