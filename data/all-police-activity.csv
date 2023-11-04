@@ -2784,10 +2784,10 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00088742,10/07/23 01:45,10/07/23 06:19,Assist Other Agency / Assault,CBE,"Looney's Pub, The Varsity at 8150  Baltimore  Ave"
 2023-00088749,10/06/23 20:00,10/07/23 07:38,Check on the  Welfare,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2023-00088761,10/06/23 22:00,10/07/23 09:13,Assist Other Agency / Theft from Auto,CBE,4300 block of  Hartwick  Rd
-2023-00088880,10/07/23 02:00,10/07/23 18:10,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2023-00088880,10/07/23 02:00,10/07/23 18:10,Theft,Summons Issued,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2023-00088982,10/08/23 01:50,10/08/23 01:50,DWI/DUI,Arrest,University  Blvd
 2023-00089064,10/07/23 11:00,10/08/23 09:45,Injured/Sick Person,CBE,6800 block of  Preinkert  Dr
-2023-00089100,10/08/23 12:05,10/08/23 12:16,Theft,Active/Pending,"78, Armory, Reckord Armory at 4490  Rossborough  Ln"
+2023-00089100,10/08/23 12:05,10/08/23 12:16,Theft,Investigation Pending,"78, Armory, Reckord Armory at 4490  Rossborough  Ln"
 2023-00089170,10/08/23 01:20,10/08/23 16:22,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00089201,10/08/23 19:54,10/08/23 20:07,Assist Other Agency / Hate Bias Incident,CBE,4200 block of  Knox  Rd
 2023-00089216,10/08/23 21:09,10/08/23 21:09,Injured/Sick Person,CBE,4500 block of  College  Ave
@@ -2796,7 +2796,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00089295,10/09/23 02:05,10/09/23 02:17,Assist Other Agency / Robbery,CBE,8900 block of  Rhode Island  Ave
 2023-00089466,10/06/23 15:00,10/09/23 12:47,Theft,Investigation Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2023-00089497,10/09/23 16:19,10/09/23 16:19,Emergency Petition,CBE,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
-2023-00089533,10/08/23 17:42,10/09/23 21:10,Theft,Active/Pending,3400 block of  Tulane  Dr
+2023-00089533,10/08/23 17:42,10/09/23 21:10,Theft,Investigation Pending,3400 block of  Tulane  Dr
 2023-00089535,10/09/23 21:10,10/09/23 21:24,Assist Other Agency / Other,CBE,7400 block of  Princeton  Ave
 2023-00089550,10/09/23 19:30,10/09/23 22:27,Theft from Auto,Investigation Pending,Lot JJ2
 2023-00089743,10/10/23 12:53,10/10/23 12:53,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
@@ -2914,6 +2914,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00096385,10/26/23 02:53,10/26/23 02:53,Assist Other Agency / Vandalism,CBE,"Hope Lutheran Church, Lutheran Church at 4201  Guilford  Dr"
 2023-00096430,10/26/23 07:22,10/26/23 07:22,Assist Other Agency / Other,CBE,8300 block of  Baltimore  Ave
 2023-00096431,10/24/23 11:00,10/26/23 07:11,Lost Property,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2023-00096462,10/25/23 23:00,10/26/23 12:45,Theft,Active/Pending,276 at 4322  Rowalt  Dr
 2023-00096516,10/26/23 16:00,10/26/23 16:35,Suspicious Activity,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2023-00096537,10/24/23 12:00,10/26/23 18:17,Extortion,Active/Pending,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
 2023-00096613,10/26/23 23:11,10/26/23 23:11,Injured/Sick Person,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
@@ -2942,12 +2943,19 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00097658,10/29/23 22:57,10/29/23 22:57,Injured/Sick Person,CBE,Calvert Road Metro Entrance at  Calvert  Rd
 2023-00097835,10/30/23 09:55,10/30/23 09:55,Injured/Sick Person,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2023-00097839,10/27/23 17:00,10/30/23 10:04,Vandalism,Active/Pending,"Commons 7, SCC 7, South Campus Commons 7 at 6801  Preinkert  Dr"
+2023-00097848,10/27/23 10:00,10/30/23 10:28,Vandalism,Active/Pending,"Hornbake, Hornbake Library at 4130  Campus  Dr"
 2023-00097976,10/30/23 19:20,10/30/23 19:29,Injured/Sick Person,CBE,3500 block of  University Blvd
 2023-00098048,10/30/23 23:51,10/30/23 23:51,Suspicious Activity,Active/Pending,Frat Row
 2023-00098089,10/31/23 01:56,10/31/23 01:56,Emergency Petition,CBE,4300 block of  Guilford  Dr
+2023-00098343,10/27/23 00:00,10/31/23 14:37,Other Incident,Active/Pending,"Frat 2, Pi Kappa Alpha, Pi Kappa Alpha Fraternity at 2  Fraternity  Row"
+2023-00098370,10/31/23 14:20,10/31/23 16:20,Other Incident,Active/Pending,3800 block of  Campus  Dr
 2023-00098397,10/31/23 16:58,10/31/23 16:58,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2023-00098541,10/31/23 20:50,10/31/23 23:01,Emergency Petition,CBE,7500 block of  Calvert Service  Ln
+2023-00098648,11/01/23 05:55,11/01/23 06:02,Suspicious Person/Auto,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2023-00098766,11/01/23 12:01,11/01/23 12:23,Injured/Sick Person,CBE,"71, Lee Building, South Administration at 7809  Regents  Dr"
+2023-00098787,11/01/23 02:00,11/01/23 13:46,Assist Other Agency / Burglary,CBE,4300 block of  Hartwick  Rd
+2023-00098829,11/01/23 11:00,11/01/23 16:32,Vandalism,Active/Pending,269 at 4315  Rowalt  Dr
+2023-00098855,10/31/23 17:00,11/01/23 18:03,Vandalism,Active/Pending,283 at 4331  Rowalt  Dr
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
