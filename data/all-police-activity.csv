@@ -3062,7 +3062,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00106633,11/06/23 10:50,11/13/23 21:15,Theft,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
 2023-00106701,11/13/23 23:35,11/13/23 23:35,Trespassing,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2023-00106884,11/14/23 06:30,11/14/23 06:30,Suspicious Person/Auto,CBE,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center at 4090  Union  Dr"
-2023-00106924,11/13/23 20:43,11/14/23 08:30,Other Incident,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
+2023-00106924,11/13/23 20:43,11/14/23 08:30,Other Incident,CBE,Yahentamitsi at 4136  Stadium  Dr
 2023-00106934,11/12/23 00:30,11/14/23 09:23,Vandalism,Active/Pending,"63, Somerset, Somerset Hall at 7567  Preinkert  Dr"
 2023-00106956,11/12/23 09:00,11/14/23 10:18,Other Incident (Title IX Related),Active/Pending,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2023-00106957,11/14/23 10:40,11/14/23 10:40,Injured/Sick Person,CBE,11  Fraternity  Row
@@ -3147,6 +3147,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00116764,11/05/23 00:00,11/28/23 19:17,Fraud,Active/Pending,4200 block of  Lehigh  Rd
 2023-00117262,11/28/23 23:00,11/29/23 13:16,Other Incident,Active/Pending,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
 2023-00117498,11/29/23 20:00,11/29/23 20:20,Injured/Sick Person,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2023-00118074,11/30/23 12:49,11/30/23 12:49,Injured/Sick Person,CBE,4200 block of  Campus  Dr
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
