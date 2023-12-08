@@ -542,6 +542,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23886,10/09/23 13:42,2023-00077619,,Black,Male,Computers Illegal Access; Knowing Sale/Issue False ID
 23888,10/11/23 10:30,2023-00024864,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 23892,10/16/23 10:30,2023-00075811,,Black,Male,False Statement to Officer; School Trespassing On Ground
+23922,10/18/23 08:00,2023-00050383,,Black,Male,Theft Less Than $100 Vehicle Part
 23909,10/20/23 00:01,2019-00024346,,Black,Male,"MOTOR VEHICLE/UNLAWFUL TAKING; THEFT: $100 TO UNDER $1,500-All Other"
 912,10/22/23 00:21,2023-00094797,,Black,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; Failure to drive veh. on right half of roadway when required; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23898,10/22/23 08:40,2023-00094888,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
@@ -552,6 +553,10 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23899,10/28/23 01:00,2023-00096983,,Black,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23896,10/29/23 01:39,2023-00097371,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driving veh. in excess of reasonable and prudent speed on hwy.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23901,10/31/23 01:26,2023-00098085,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
+23918,11/03/23 08:00,2020-00065212,,Black,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000-All Other"
+23919,11/03/23 08:00,2020-00065793,,Black,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000-All Other"
+23920,11/03/23 08:00,2020-00066232,,Black,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000-All Other"
+23921,11/03/23 08:00,2020-00067060,,Black,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000-All Other"
 23911,11/03/23 13:14,2023-00099960,,White,Male,Disorderly Conduct; Resist/Interfere with Arrest; School: Disturb Operation
 23905,11/03/23 23:45,2023-00100261,,Black,Female,Theft Less Than $100 Vehicle Part
 23900,11/06/23 01:54,2023-00101340,,Unknown,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
@@ -567,6 +572,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23912,11/21/23 02:19,2023-00110851,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driver failure to obey properly placed traffic control device instructions; Failure to drive veh. on right half of roadway when required; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23914,11/23/23 01:24,2023-00112434,,Black,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23913,11/26/23 02:59,2023-00114975,,Asian,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
+23923,11/29/23 08:00,2023-00093674,,Black,Male,"MOTOR VEHICLE/UNLAWFUL TAKING; THEFT: $100 TO UNDER $1,500-From Motor Vehicle"
 ,,,,,,
 22970,01/03/21 20:54,2021-00000618,,White,Male,CDS:Possession Marijuana L/T 10 grams
 22961,01/05/21 14:17,2020-00067830,,Asian/Pacific Islander,Male,Electronic Mail Harassment; School: Disturb Operation
