@@ -3114,7 +3114,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00109318,11/18/23 14:33,11/18/23 14:33,Assault,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2023-00109320,11/18/23 14:32,11/18/23 14:32,Injured/Sick Person,CBE,Lot 1c
 2023-00109331,11/13/23 17:00,11/18/23 15:48,Stolen Motor Vehicle,Active/Pending,Lot 22c
-2023-00109335,11/18/23 15:30,11/18/23 16:06,Assault,Active/Pending,"Capital One Field, Football Stadium, SECU Stadium"
+2023-00109335,11/18/23 15:30,11/18/23 16:06,Assault,Investigation Pending,"Capital One Field, Football Stadium, SECU Stadium"
 2023-00109336,11/16/23 16:49,11/18/23 16:17,Fraud,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2023-00109437,11/18/23 22:05,11/18/23 22:05,Injured/Sick Person,CBE,7300 block of  Dartmouth  Ave
 2023-00109448,11/18/23 20:00,11/18/23 22:14,Theft,Investigation Pending,4000 block of  Stadium  Dr
@@ -3156,7 +3156,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00116190,11/27/23 21:51,11/27/23 23:07,Assist Other Agency / Assault,CBE,4300 block of  Hartwick  Rd
 2023-00116510,11/27/23 15:30,11/28/23 11:07,Theft,Investigation Pending,8100 block of  Regents  Dr
 2023-00116679,11/20/23 15:00,11/28/23 17:10,Theft,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
-2023-00116759,11/28/23 15:00,11/28/23 18:41,Theft,Active/Pending,"46, Marie Mount, Marie Mount Hall at 7814  Regents  Dr"
+2023-00116759,11/28/23 15:00,11/28/23 18:41,Theft,Investigation Pending,"46, Marie Mount, Marie Mount Hall at 7814  Regents  Dr"
 2023-00116764,11/05/23 00:00,11/28/23 19:17,Fraud,Active/Pending,4200 block of  Lehigh  Rd
 2023-00116858,11/28/23 22:00,11/28/23 22:19,Cutting/Stabbing,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2023-00117262,11/28/23 23:00,11/29/23 13:16,Other Incident,Active/Pending,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
@@ -3211,7 +3211,10 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00122764,12/07/23 08:45,12/07/23 11:52,Theft,Active/Pending,8000 block of  Hagerstown  Dr
 2023-00122815,12/07/23 15:15,12/07/23 16:59,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2023-00123041,12/07/23 21:40,12/07/23 21:49,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2023-00123456,12/07/23 22:00,12/08/23 06:00,Vandalism,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center at 4090  Union  Dr"
+2023-00123550,12/08/23 09:46,12/08/23 09:46,Assist Other Agency / Check on the Welfare,CBE,4300 block of  Hartwick  Rd
 2023-00123624,12/08/23 15:11,12/08/23 15:11,Injured/Sick Person,CBE,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
+2023-00123636,12/08/23 15:40,12/08/23 15:40,Check on the  Welfare,CBE,Baltimore  Ave
 2023-00123802,12/08/23 17:15,12/08/23 19:41,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00123912,12/08/23 21:37,12/08/23 21:37,Warrant/Summons Service,Arrest,Baltimore  Ave
 2023-00124058,12/09/23 00:17,12/09/23 00:17,Injured/Sick Person,CBE,4200 block of  Valley  Dr
@@ -3231,6 +3234,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00127331,12/13/23 22:38,12/13/23 22:38,CDS Violation,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2023-00127642,12/13/23 21:00,12/14/23 10:18,Suspicious Activity,Active/Pending,"School of Public Policy, Thurgood Marshall Hall at 7805  Regents  Dr"
 2023-00127951,12/14/23 10:45,12/14/23 22:22,Burglary,Active/Pending,8100 block of  La Plata  Dr
+2023-00128700,12/15/23 17:50,12/15/23 19:17,Recovered Stolen Property,CBE,Lot 11b
+2023-00129220,12/16/23 10:44,12/16/23 10:44,Assist Other Agency / Other,CBE,8700 block of  Baltimore  Ave
 2023-00129344,12/16/23 13:30,12/16/23 17:29,Theft,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
 2023-00129349,12/16/23 18:16,12/16/23 18:16,Peeping Tom (Title IX Related),Arrest,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
 2023-00129762,12/17/23 04:38,12/17/23 08:56,Assist Other Agency / Theft from Auto,Active/Pending,Admissions Welcome Center at 7777  Baltimore  Ave
@@ -3239,7 +3244,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00129924,12/17/23 00:37,12/17/23 12:51,Stolen Motor Vehicle,Active/Pending,Lot 16a
 2023-00130006,12/16/23 21:00,12/17/23 15:32,Theft,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
 2023-00130078,12/14/23 11:00,12/17/23 16:36,Vandalism,Active/Pending,Lot 1b
+2023-00131715,12/19/23 12:46,12/19/23 12:46,Warrant/Summons Service,Arrest,Mowatt  Ln
 2023-00132344,12/19/23 18:00,12/20/23 10:21,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2023-00132963,12/15/23 16:00,12/21/23 09:58,Injured Officer,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
 2021-00000011,01/01/21 01:16,01/01/21 01:16,Emergency Petition,CBE,Baltimore Ave / College Ave
 2021-00000015,01/01/21 02:37,01/01/21 02:37,Suicide,CBE,340 block of  Ehrensberger  Dr
 2021-00000117,12/31/20 23:19,01/01/21 14:57,Accident - Departmental,CBE,Taylor Mill Rd / Md-213
