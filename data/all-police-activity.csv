@@ -3155,7 +3155,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00116094,11/21/23 12:00,11/27/23 19:59,Stolen Motor Vehicle,Active/Pending,Lot FD
 2023-00116190,11/27/23 21:51,11/27/23 23:07,Assist Other Agency / Assault,CBE,4300 block of  Hartwick  Rd
 2023-00116510,11/27/23 15:30,11/28/23 11:07,Theft,Investigation Pending,8100 block of  Regents  Dr
-2023-00116679,11/20/23 15:00,11/28/23 17:10,Theft,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
+2023-00116679,11/20/23 15:00,11/28/23 17:10,Theft,Investigation Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
 2023-00116759,11/28/23 15:00,11/28/23 18:41,Theft,Investigation Pending,"46, Marie Mount, Marie Mount Hall at 7814  Regents  Dr"
 2023-00116764,11/05/23 00:00,11/28/23 19:17,Fraud,Active/Pending,4200 block of  Lehigh  Rd
 2023-00116858,11/28/23 22:00,11/28/23 22:19,Cutting/Stabbing,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
@@ -3190,7 +3190,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00120797,12/04/23 13:30,12/04/23 13:56,Assist Other Agency / Robbery,CBE,North Gate at 4306  Campus  Dr
 2023-00120813,11/29/23 12:00,12/04/23 15:12,Assist Other Agency / Other,CBE,"Terrapin Row, Terrapin Row #2, Terrapin Row 2, TR2 at 4300  Hartwick  Rd"
 2023-00120919,12/04/23 20:48,12/04/23 20:48,Injured/Sick Person,CBE,Fieldhouse  Dr
-2023-00120931,12/04/23 19:40,12/04/23 21:15,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
+2023-00120931,12/04/23 19:40,12/04/23 21:15,Theft,Investigation Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2023-00121097,12/01/23 00:00,12/05/23 00:27,Hate Bias Incident,Active/Pending,4000 block of  Stadium  Dr
 2023-00121264,12/05/23 09:39,12/05/23 09:39,Injured/Sick Person,CBE,"9, Chapel, Memorial Chapel at 7744  Regents  Dr"
 2023-00121305,12/05/23 11:40,12/05/23 11:40,Emergency Petition,CBE,4200 block of  Chapel  Ln
@@ -3208,14 +3208,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00122643,12/07/23 04:30,12/07/23 08:00,Theft,Active/Pending,Graduate Hills #286 at 3400  Tulane  Dr
 2023-00122755,12/07/23 11:29,12/07/23 11:29,Trespassing,Arrest,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2023-00122757,12/01/23 18:00,12/07/23 11:39,Theft,Active/Pending,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
-2023-00122764,12/07/23 08:45,12/07/23 11:52,Theft,Active/Pending,8000 block of  Hagerstown  Dr
+2023-00122764,12/07/23 08:45,12/07/23 11:52,Theft,Investigation Pending,8000 block of  Hagerstown  Dr
 2023-00122815,12/07/23 15:15,12/07/23 16:59,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2023-00123041,12/07/23 21:40,12/07/23 21:49,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2023-00123456,12/07/23 22:00,12/08/23 06:00,Vandalism,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center at 4090  Union  Dr"
 2023-00123550,12/08/23 09:46,12/08/23 09:46,Assist Other Agency / Check on the Welfare,CBE,4300 block of  Hartwick  Rd
 2023-00123624,12/08/23 15:11,12/08/23 15:11,Injured/Sick Person,CBE,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2023-00123636,12/08/23 15:40,12/08/23 15:40,Check on the  Welfare,CBE,Baltimore  Ave
-2023-00123802,12/08/23 17:15,12/08/23 19:41,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2023-00123802,12/08/23 17:15,12/08/23 19:41,Theft,Investigation Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2023-00123912,12/08/23 21:37,12/08/23 21:37,Warrant/Summons Service,Arrest,Baltimore  Ave
 2023-00124058,12/09/23 00:17,12/09/23 00:17,Injured/Sick Person,CBE,4200 block of  Valley  Dr
 2023-00124302,12/09/23 08:54,12/09/23 08:54,Injured/Sick Person,CBE,"MFRI, MFRI Office/Classroom Building at 4500  Campus  Dr"
@@ -3224,7 +3224,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00125832,12/11/23 12:20,12/11/23 12:40,Harassment/Stalking,Active/Pending,Lot 1b
 2023-00125837,12/11/23 13:54,12/11/23 13:54,Emergency Petition,CBE,3900 block of  Campus  Dr
 2023-00126148,12/11/23 12:15,12/12/23 04:21,Burglary,Active/Pending,4200 block of  Fieldhouse  Dr
-2023-00126256,11/29/23 00:00,12/12/23 10:34,Theft,Active/Pending,"48, Francis Scott, Francis Scott Key, Francis Scott Key Hall, FS Key Hall, FSK at 4282  Chapel  Ln"
+2023-00126256,11/29/23 00:00,12/12/23 10:34,Theft,Investigation Pending,"48, Francis Scott, Francis Scott Key, Francis Scott Key Hall, FS Key Hall, FSK at 4282  Chapel  Ln"
 2023-00126526,12/12/23 19:54,12/12/23 19:54,Vandalism,Active/Pending,"Bio Psych, Biology-Psychology Building at 4094  Campus  Dr"
 2023-00126767,12/13/23 01:39,12/13/23 01:39,DWI/DUI,Arrest,Metzerott  Rd
 2023-00126962,12/13/23 00:00,12/13/23 09:08,Vandalism,Active/Pending,Campus  Dr
@@ -3242,7 +3242,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2023-00129905,12/16/23 22:35,12/17/23 12:08,Other Incident,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2023-00129908,12/17/23 11:21,12/17/23 12:21,Injured/Sick Person,CBE,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2023-00129924,12/17/23 00:37,12/17/23 12:51,Stolen Motor Vehicle,Active/Pending,Lot 16a
-2023-00130006,12/16/23 21:00,12/17/23 15:32,Theft,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
+2023-00130006,12/16/23 21:00,12/17/23 15:32,Theft,Investigation Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
 2023-00130078,12/14/23 11:00,12/17/23 16:36,Vandalism,Active/Pending,Lot 1b
 2023-00131715,12/19/23 12:46,12/19/23 12:46,Warrant/Summons Service,Arrest,Mowatt  Ln
 2023-00132344,12/19/23 18:00,12/20/23 10:21,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
