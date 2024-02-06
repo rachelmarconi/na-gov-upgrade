@@ -1875,6 +1875,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00016887,01/24/24 00:36,01/24/24 00:36,Suspicious Person/Auto,Active/Pending,4100 block of  Campus  Dr
 2024-00016888,01/24/24 00:40,01/24/24 00:40,DWI/DUI,Arrest,Baltimore  Ave
 2024-00017109,01/24/24 09:20,01/24/24 13:00,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2024-00017143,01/24/24 14:33,01/24/24 15:07,Indecent Exposure (Title IX Related),Active/Pending,"62, St Marys Hall, St. Mary, St. Mary's, St. Mary's Hall at 3949  Campus  Dr"
 2024-00017287,01/24/24 14:25,01/24/24 21:15,Indecent Exposure,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2024-00017389,01/25/24 01:16,01/25/24 01:16,Injured/Sick Person,CBE,La Plata Hall at 8160  La Plata  Dr
 2024-00017448,01/25/24 03:19,01/25/24 03:19,DWI/DUI,Arrest,3500 block of  University  Blvd
@@ -1887,6 +1888,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00018000,01/26/24 01:11,01/26/24 01:11,Disorderly Conduct,Arrest,"Delta Phi Epsilon, Delta Phi Epsilon Sorority at 4514  Knox  Rd"
 2024-00018135,01/25/24 17:00,01/26/24 04:38,Vandalism,Active/Pending,Lot 11b
 2024-00018149,01/26/24 05:05,01/26/24 05:05,Emergency Petition,CBE,"Drazek Circle, UMGC at 346  Ehrensberger  Dr"
+2024-00018215,01/25/24 15:00,01/26/24 08:24,Theft from Auto,Active/Pending,Lot 11b
 2024-00018338,01/25/24 16:30,01/26/24 10:10,Theft,Active/Pending,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
 2024-00018738,01/26/24 20:40,01/26/24 20:40,CDS Violation,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2024-00018754,01/26/24 21:09,01/26/24 21:09,CDS Violation,CBE,"69, Wicomico, Wicomico Hall at 7218  Preinkert  Dr"
@@ -1903,9 +1905,16 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00020526,01/19/24 10:26,01/29/24 11:28,Assist Other Agency / Other,CBE,8100 block of  Baltimore  Ave
 2024-00020545,01/29/24 12:10,01/29/24 12:14,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2024-00020584,01/27/24 11:50,01/29/24 13:23,Accident,CBE,Rossborough  Ln
+2024-00020653,01/25/24 12:00,01/29/24 15:58,Stolen Motor Vehicle,Active/Pending,Lot 11b
+2024-00020846,01/29/24 19:00,01/30/24 00:05,Dept Property Damage/Loss,Active/Pending,4300 block of  Hartwick  Rd
 2024-00021292,01/30/24 18:30,01/30/24 19:18,Assist Other Agency / Other,CBE,8400 block of  Baltimore  Ave
 2024-00021864,01/31/24 12:00,01/31/24 16:04,Assist Other Agency / Other,CBE,"Cornerstone, Cornerstone Grill at 7325  Baltimore  Ave"
 2024-00022030,01/31/24 20:30,01/31/24 21:03,Accident,Active/Pending,Regents  Dr
+2024-00022507,02/01/24 16:00,02/01/24 16:08,Indecent Exposure,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2024-00022578,02/01/24 19:31,02/01/24 20:03,Assist Other Agency / Theft,Active/Pending,4300 block of  Knox  Rd
+2024-00022829,02/02/24 00:40,02/02/24 00:57,Alcohol Violation,Arrest,Rhode Island  Ave
+2024-00023384,02/02/24 16:05,02/02/24 16:10,Peeping Tom (Title IX Related),Active/Pending,8100 block of  Paint Branch  Dr
+2024-00023656,02/02/24 23:50,02/02/24 23:54,Alcohol Violation,Arrest,"Bais Menachem, Chabad Jewish Student Center at 7403  Hopkins  Ave"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
