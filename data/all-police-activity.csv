@@ -1876,15 +1876,17 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00016888,01/24/24 00:40,01/24/24 00:40,DWI/DUI,Arrest,Baltimore  Ave
 2024-00016977,01/23/24 12:40,01/24/24 07:17,Damage to State Property,CBE,"Bioscience, Bioscience Research Building at 4066  Campus  Dr"
 2024-00017109,01/24/24 09:20,01/24/24 13:00,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
-2024-00017143,01/24/24 14:33,01/24/24 15:07,Indecent Exposure (Title IX Related),Warrant Issued,"62, St Marys Hall, St. Mary, St. Mary's, St. Mary's Hall at 3949  Campus  Dr"
-2024-00017287,01/24/24 14:25,01/24/24 21:15,Indecent Exposure,Warrant Issued,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2024-00017143,01/24/24 14:33,01/24/24 15:07,Indecent Exposure (Title IX Related),Arrest,"62, St Marys Hall, St. Mary, St. Mary's, St. Mary's Hall at 3949  Campus  Dr"
+2024-00017287,01/24/24 14:25,01/24/24 21:15,Indecent Exposure,Arrest,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2024-00017389,01/25/24 01:16,01/25/24 01:16,Injured/Sick Person,CBE,La Plata Hall at 8160  La Plata  Dr
 2024-00017448,01/25/24 03:19,01/25/24 03:19,DWI/DUI,Arrest,3500 block of  University  Blvd
 2024-00017553,01/25/24 08:32,01/25/24 08:32,Injured/Sick Person,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2024-00017579,01/25/24 10:02,01/25/24 10:04,Injured/Sick Person,CBE,4100 block of  Campus  Dr
 2024-00017611,01/24/24 22:00,01/25/24 10:43,Theft,Investigation Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00017696,01/25/24 14:53,01/25/24 14:53,Injured/Sick Person,CBE,3400 block of  Tulane  Dr
+2024-00017734,01/25/24 12:00,01/25/24 17:24,Other Service Call,CBE,4200 block of  Fieldhouse  Dr
 2024-00017771,01/25/24 15:30,01/25/24 18:36,Theft,Active/Pending,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
+2024-00017791,01/25/24 15:50,01/25/24 18:43,Extortion,Active/Pending,3400 block of  Tulane  Dr
 2024-00017940,01/26/24 00:13,01/26/24 00:13,Injured/Sick Person,CBE,Baltimore  Ave
 2024-00018000,01/26/24 01:11,01/26/24 01:11,Disorderly Conduct,Arrest,"Delta Phi Epsilon, Delta Phi Epsilon Sorority at 4514  Knox  Rd"
 2024-00018135,01/25/24 17:00,01/26/24 04:38,Vandalism,Active/Pending,Lot 11b
@@ -1916,10 +1918,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00021819,01/31/24 12:00,01/31/24 13:09,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2024-00021864,01/31/24 12:00,01/31/24 16:04,Assist Other Agency / Other,CBE,"Cornerstone, Cornerstone Grill at 7325  Baltimore  Ave"
 2024-00022030,01/31/24 20:30,01/31/24 21:03,Accident,Active/Pending,Regents  Dr
+2024-00022033,01/17/24 12:00,01/31/24 21:22,Dept Property Damage/Loss,CBE,6800 block of  Preinkert  Dr
 2024-00022496,02/01/24 12:38,02/01/24 12:38,Emergency Petition,CBE,4200 block of  Stadium  Dr
 2024-00022500,01/31/24 21:45,02/01/24 14:08,Theft,Active/Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
-2024-00022507,02/01/24 16:00,02/01/24 16:08,Indecent Exposure,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2024-00022507,02/01/24 16:00,02/01/24 16:08,Indecent Exposure,Arrest,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2024-00022578,02/01/24 19:31,02/01/24 20:03,Assist Other Agency / Theft,Active/Pending,4300 block of  Knox  Rd
+2024-00022639,02/01/24 21:00,02/01/24 22:06,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00022718,02/01/24 21:00,02/01/24 23:31,Injured/Sick Person,CBE,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
 2024-00022829,02/02/24 00:40,02/02/24 00:57,Alcohol Violation,Arrest,Rhode Island  Ave
 2024-00023013,02/02/24 02:57,02/02/24 02:57,Injured/Sick Person,CBE,"Alpha Delta Pi Sorority, Alpha Delti Pi at 4535  College  Ave"
@@ -1951,8 +1955,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00026082,02/06/24 18:02,02/06/24 18:02,Assist Other Agency / Other,CBE,Baltimore  Ave
 2024-00026215,02/06/24 22:46,02/06/24 22:46,CDS Violation,CBE,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2024-00026223,02/06/24 23:08,02/06/24 23:08,Injured/Sick Person,CBE,7200 block of  Baltimore  Ave
+2024-00026321,02/07/24 01:31,02/07/24 01:31,Emergency Petition,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00026325,02/07/24 01:48,02/07/24 01:48,Assist Other Agency / Other,CBE,4700 block of  Berwyn House  Rd
 2024-00026327,02/06/24 13:30,02/07/24 01:58,Emergency Petition,Active/Pending,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
+2024-00026519,02/07/24 09:40,02/07/24 09:45,Injured/Sick Person,CBE,Lot Z
+2024-00026693,02/07/24 17:00,02/07/24 17:27,Injured/Sick Person,CBE,6800 block of  Preinkert  Dr
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
