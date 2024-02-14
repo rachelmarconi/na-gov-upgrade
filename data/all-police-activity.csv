@@ -1818,7 +1818,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00000096,01/01/24 03:09,01/01/24 03:09,DWI/DUI,Arrest,University  Blvd
 2024-00000463,12/20/23 14:00,01/01/24 16:15,Assist Other Agency / Burglary,Active/Pending,4800 block of  College  Ave
 2024-00001645,12/01/23 07:00,01/03/24 11:58,Vandalism,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
-2024-00002359,01/04/24 13:15,01/04/24 13:19,Burglary,Active/Pending,8200 block of  Paint Branch  Dr
+2024-00002359,01/04/24 13:15,01/04/24 13:19,Burglary,Investigation Pending,8200 block of  Paint Branch  Dr
 2024-00003113,01/05/24 17:30,01/05/24 17:34,Vandalism,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00003446,01/06/24 01:01,01/06/24 01:01,DWI/DUI,Arrest,Baltimore  Ave
 2024-00004159,01/07/24 01:23,01/07/24 01:23,DWI/DUI,Arrest,Greenbelt  Rd
@@ -1852,7 +1852,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00011580,01/14/24 00:24,01/16/24 22:15,Assist Other Agency / Other,Active/Pending,"Terrapin Row #1, Terrapin Row 1, TR1 at 4207  Knox  Rd"
 2024-00011602,01/16/24 23:32,01/16/24 23:32,Vandalism,Active/Pending,"PG3, SDG, Stadium Drive Garage, Stadium Drive Parking Garage at 4025  Stadium  Dr"
 2024-00012050,01/17/24 15:03,01/17/24 15:02,Damage to State Property,CBE,4200 block of  Landscape  Ln
-2024-00012202,01/17/24 11:30,01/17/24 17:47,Theft,Active/Pending,7600 block of  Mowatt  Ln
+2024-00012202,01/17/24 11:30,01/17/24 17:47,Theft,Investigation Pending,7600 block of  Mowatt  Ln
 2024-00012391,01/18/24 00:00,01/18/24 00:00,Vandalism,Active/Pending,Lot 4h
 2024-00012743,01/18/24 09:30,01/18/24 09:35,Injured/Sick Person,CBE,3400 block of  Tulane  Dr
 2024-00012752,01/18/24 09:54,01/18/24 09:54,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
@@ -1901,7 +1901,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00018862,01/27/24 00:05,01/27/24 00:05,Injured/Sick Person,CBE,Adidas Stripe 3 at 7415  Baltimore  Ave
 2024-00018873,01/27/24 00:35,01/27/24 00:35,Emergency Petition,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2024-00018896,01/27/24 01:45,01/27/24 01:41,Disorderly Conduct,Arrest,4600 block of  Rossborough  Ln
-2024-00019303,01/25/24 15:45,01/27/24 17:00,Theft,Investigation Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
+2024-00019303,01/25/24 15:45,01/27/24 17:00,Theft,Unfounded,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2024-00019613,01/28/24 02:48,01/28/24 03:40,Assist Other Agency / Robbery,CBE,8200 block of  Baltimore  Ave
 2024-00019899,12/17/23 00:00,01/28/24 14:00,Theft,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00019954,01/28/24 16:22,01/28/24 16:22,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
@@ -1921,7 +1921,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00022030,01/31/24 20:30,01/31/24 21:03,Accident,Active/Pending,Regents  Dr
 2024-00022033,01/17/24 12:00,01/31/24 21:22,Dept Property Damage/Loss,CBE,6800 block of  Preinkert  Dr
 2024-00022496,02/01/24 12:38,02/01/24 12:38,Emergency Petition,CBE,4200 block of  Stadium  Dr
-2024-00022500,01/31/24 21:45,02/01/24 14:08,Theft,Active/Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2024-00022500,01/31/24 21:45,02/01/24 14:08,Theft,Investigation Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2024-00022507,02/01/24 16:00,02/01/24 16:08,Indecent Exposure,Arrest,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2024-00022578,02/01/24 19:31,02/01/24 20:03,Assist Other Agency / Theft,Active/Pending,4300 block of  Knox  Rd
 2024-00022639,02/01/24 21:00,02/01/24 22:06,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
@@ -1930,9 +1930,10 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00022829,02/02/24 00:40,02/02/24 00:57,Alcohol Violation,Arrest,Rhode Island  Ave
 2024-00023013,02/02/24 02:57,02/02/24 02:57,Injured/Sick Person,CBE,"Alpha Delta Pi Sorority, Alpha Delti Pi at 4535  College  Ave"
 2024-00023126,01/25/24 17:00,02/02/24 06:12,Theft,Active/Pending,Lot 11b
+2024-00023325,02/02/24 11:45,02/02/24 12:02,Assist Other Agency / Other,CBE,Knox  Rd
 2024-00023341,02/02/24 13:00,02/02/24 14:27,Extortion (Title IX Related),Active/Pending,4200 block of  Valley  Dr
 2024-00023376,02/02/24 15:44,02/02/24 15:44,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
-2024-00023384,02/02/24 16:05,02/02/24 16:10,Peeping Tom (Title IX Related),Active/Pending,8100 block of  Paint Branch  Dr
+2024-00023384,02/02/24 16:05,02/02/24 16:10,Peeping Tom (Title IX Related),Summons Issued,8100 block of  Paint Branch  Dr
 2024-00023656,02/02/24 23:50,02/02/24 23:54,Alcohol Violation,Arrest,"Bais Menachem, Chabad Jewish Student Center at 7403  Hopkins  Ave"
 2024-00023674,02/03/24 00:16,02/03/24 00:16,Injured/Sick Person,CBE,Johnson-Whittle Hall at 4118  Stadium  Dr
 2024-00023726,02/03/24 01:48,02/03/24 01:48,DWI/DUI,Arrest,Baltimore  Ave
@@ -1967,10 +1968,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00026551,02/07/24 10:54,02/07/24 11:43,Theft,Active/Pending,"Alpha Chi Omega, Alpha Chi Omega Sorority at 4525  College  Ave"
 2024-00026577,02/07/24 12:57,02/07/24 12:57,Injured/Sick Person,CBE,Union  Ln
 2024-00026693,02/07/24 17:00,02/07/24 17:27,Injured/Sick Person,CBE,6800 block of  Preinkert  Dr
+2024-00027239,02/07/24 13:00,02/08/24 12:34,Theft,Active/Pending,Varsity Sports Teamhouse at 4117  Stadium  Dr
+2024-00027287,02/08/24 13:45,02/08/24 14:44,Threat Assessment,Active/Pending,7300 block of  Preinkert  Dr
 2024-00027315,02/07/24 20:15,02/08/24 17:03,Theft,Active/Pending,3900 block of  Denton Service  Ln
 2024-00027335,02/08/24 17:45,02/08/24 18:04,Dept Property Damage/Loss,CBE,700 block of  Chichester Lane
 2024-00027439,02/08/24 09:30,02/08/24 21:29,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2024-00027598,02/09/24 01:17,02/09/24 01:17,Suspicious Activity,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
+2024-00027752,02/09/24 07:27,02/09/24 07:27,Other Service Call,CBE,"Drazek Circle, UMGC at 346  Ehrensberger  Dr"
 2024-00027848,02/09/24 09:58,02/09/24 09:58,Assist Fire Department,CBE,7700 block of  Adelphi  Rd
 2024-00027889,02/08/24 22:15,02/09/24 10:52,Theft,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2024-00028084,01/31/24 20:30,02/09/24 15:34,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
@@ -1980,10 +1984,15 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00028410,02/10/24 04:16,02/10/24 04:30,Assist Other Agency / Robbery,CBE,7300 block of  Baltimore  Ave
 2024-00028421,02/10/24 05:21,02/10/24 05:21,Assist Other Agency / Check on the Welfare,CBE,8100 block of  Baltimore  Ave
 2024-00028634,02/09/24 17:00,02/10/24 12:53,Theft,Active/Pending,"14, Harford Hall at 7660  Regents  Dr"
+2024-00028724,02/10/24 17:15,02/10/24 17:39,Peeping Tom (Title IX Related),Arrest,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
 2024-00028726,02/10/24 17:49,02/10/24 17:49,Alcohol Violation,Arrest,Knox  Rd
 2024-00028727,02/10/24 18:19,02/10/24 18:19,Disorderly Conduct,Arrest,College  Ave
 2024-00028770,02/10/24 22:57,02/10/24 22:57,Injured/Sick Person,CBE,6900 block of  Preinkert  Dr
 2024-00028803,02/11/24 00:22,02/11/24 00:22,DWI/DUI,Arrest,Campus  Dr
+2024-00028804,02/09/24 20:00,02/11/24 00:51,Theft,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
+2024-00029034,02/11/24 11:40,02/11/24 11:54,Assist Other Agency / Check on the Welfare,CBE,8200 block of  Baltimore  Ave
+2024-00029293,02/11/24 01:00,02/11/24 19:19,Theft,Active/Pending,8000 block of  Hagerstown  Dr
+2024-00030478,02/13/24 12:31,02/13/24 12:31,Injured/Sick Person,CBE,"30, Talbot, Talbot Hall at 7569  Calvert Service  Ln"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
