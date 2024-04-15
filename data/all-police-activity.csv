@@ -2353,6 +2353,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00067400,04/06/24 09:50,04/08/24 12:05,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00067409,04/03/24 17:00,04/08/24 12:54,Theft,Investigation Pending,7800 block of  Regents  Dr
 2024-00067449,04/05/24 15:00,04/08/24 14:12,Theft,Investigation Pending,La Plata Hall at 8160  La Plata  Dr
+2024-00067500,04/06/24 15:00,04/08/24 16:33,Theft,Active/Pending,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
 2024-00067548,04/08/24 18:22,04/08/24 18:22,Injured/Sick Person,CBE,"48, Francis Scott, Francis Scott Key, Francis Scott Key Hall, FS Key Hall, FSK at 4282  Chapel  Ln"
 2024-00067549,04/08/24 18:32,04/08/24 18:32,Injured/Sick Person,CBE,Aquatics Center at 4098  Valley  Dr
 2024-00067654,04/07/24 16:00,04/08/24 21:20,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
@@ -2375,6 +2376,10 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00069138,04/09/24 21:00,04/11/24 08:15,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00069214,04/03/24 16:00,04/11/24 11:18,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00069285,04/11/24 15:35,04/11/24 15:46,Injured/Sick Person,CBE,"76, Symons Hall at 7998  Regents  Dr"
+2024-00069313,04/11/24 20:40,04/11/24 20:40,Other Incident,CBE,Yahentamitsi at 4136  Stadium  Dr
+2024-00069446,04/12/24 00:43,04/12/24 00:43,Assist Other Agency / Other,CBE,4200 block of  Knox  Rd
+2024-00070214,04/13/24 01:31,04/13/24 01:31,Other Incident,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2024-00070528,04/13/24 12:13,04/13/24 12:13,Check on the  Welfare,CBE,Artemesia Building at 8400  Baltimore  Ave
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
