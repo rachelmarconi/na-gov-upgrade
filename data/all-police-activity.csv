@@ -2125,7 +2125,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00043670,03/02/24 02:00,03/04/24 18:19,Theft,Active/Pending,"69, Wicomico, Wicomico Hall at 7218  Preinkert  Dr"
 2024-00043750,03/04/24 20:29,03/04/24 20:29,Assist Fire Department,CBE,7300 block of  Hopkins  Ave
 2024-00044305,03/05/24 11:00,03/05/24 11:53,Injured/Sick Person,CBE,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
-2024-00044310,03/01/24 23:00,03/05/24 12:53,Theft,Active/Pending,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
+2024-00044310,03/01/24 23:00,03/05/24 12:53,Theft,Summons Issued,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
 2024-00044325,03/05/24 14:22,03/05/24 14:22,Trespassing,Arrest,"Hornbake, Hornbake Library at 4130  Campus  Dr"
 2024-00044328,03/05/24 15:20,03/05/24 15:24,Fire,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2024-00044330,03/05/24 16:21,03/05/24 16:21,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
@@ -2266,7 +2266,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00060295,03/28/24 17:16,03/28/24 17:16,Other Incident,CBE,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
 2024-00060297,05/27/22 05:00,03/28/24 17:27,Damage to State Property,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00060307,03/21/24 20:00,03/28/24 18:08,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
-2024-00060374,03/26/24 18:00,03/28/24 20:47,Theft,Active/Pending,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
+2024-00060374,03/26/24 18:00,03/28/24 20:47,Theft,Investigation Pending,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2024-00060393,03/28/24 22:03,03/28/24 22:03,Other Incident,CBE,8100 block of  La Plata  Dr
 2024-00060509,03/28/24 23:51,03/28/24 23:51,Injured/Sick Person,CBE,"11, The Hall at 4656  Hotel  Dr"
 2024-00060544,03/29/24 00:05,03/29/24 00:41,Assist Other Agency / Robbery,CBE,4800 block of  Calvert  Rd
@@ -2280,7 +2280,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00061003,03/29/24 18:19,03/29/24 18:21,Other Incident,CBE,8100 block of  Baltimore  Ave
 2024-00061025,03/29/24 12:30,03/29/24 18:54,Theft from Auto,Active/Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2024-00061081,03/29/24 21:19,03/29/24 21:19,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
-2024-00061096,03/29/24 18:55,03/29/24 21:23,Vandalism,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2024-00061096,03/29/24 18:55,03/29/24 21:23,Vandalism,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00061141,03/29/24 22:50,03/29/24 22:55,Injured/Sick Person,CBE,4500 block of  Knox  Rd
 2024-00061142,03/29/24 22:57,03/29/24 22:57,Injured/Sick Person,CBE,"Frat 8, Sigma Phi Epsilon Fraternity at 8  Fraternity  Row"
 2024-00061160,03/29/24 10:15,03/29/24 23:07,Assist Other Agency / Check on the Welfare,CBE,4600 block of  College  Ave
@@ -2324,7 +2324,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00064884,04/03/24 21:00,04/04/24 21:37,Theft,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2024-00064957,04/04/24 23:50,04/04/24 23:54,Injured/Sick Person,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
 2024-00065041,04/02/24 20:00,04/05/24 02:59,Suspicious Activity,Active/Pending,274 at 4320  Rowalt  Dr
-2024-00065194,03/21/24 15:00,04/05/24 08:54,Theft,Active/Pending,4100 block of N Library  Ln
+2024-00065194,03/21/24 15:00,04/05/24 08:54,Theft,Investigation Pending,4100 block of N Library  Ln
 2024-00065220,04/05/24 10:36,04/05/24 10:36,Other Incident,CBE,Neutral Buoyancy Research Facility at 4436  Technology  Dr
 2024-00065252,03/29/24 15:00,04/05/24 12:45,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00065253,04/05/24 12:50,04/05/24 12:55,Theft,Active/Pending,"Frat 12, Zeta Tau Alpha, Zeta Tau Alpha Sorority at 12  Fraternity  Row"
@@ -2356,6 +2356,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00067500,04/06/24 15:00,04/08/24 16:33,Theft,Active/Pending,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
 2024-00067548,04/08/24 18:22,04/08/24 18:22,Injured/Sick Person,CBE,"48, Francis Scott, Francis Scott Key, Francis Scott Key Hall, FS Key Hall, FSK at 4282  Chapel  Ln"
 2024-00067549,04/08/24 18:32,04/08/24 18:32,Injured/Sick Person,CBE,Aquatics Center at 4098  Valley  Dr
+2024-00067653,04/08/24 16:30,04/08/24 21:17,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00067654,04/07/24 16:00,04/08/24 21:20,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00067797,04/08/24 01:30,04/09/24 02:06,Theft,Active/Pending,"17, Cecil, Cecil Hall at 7549  Calvert Service  Ln"
 2024-00067930,04/01/24 12:00,04/09/24 08:01,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
@@ -2376,10 +2377,16 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00069138,04/09/24 21:00,04/11/24 08:15,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00069214,04/03/24 16:00,04/11/24 11:18,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00069285,04/11/24 15:35,04/11/24 15:46,Injured/Sick Person,CBE,"76, Symons Hall at 7998  Regents  Dr"
+2024-00069289,04/11/24 16:22,04/11/24 16:29,Theft,Arrest,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00069313,04/11/24 20:40,04/11/24 20:40,Other Incident,CBE,Yahentamitsi at 4136  Stadium  Dr
 2024-00069446,04/12/24 00:43,04/12/24 00:43,Assist Other Agency / Other,CBE,4200 block of  Knox  Rd
+2024-00070043,05/01/23 00:00,04/12/24 19:44,Title IX Incident Non Criminal,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2024-00070153,04/12/24 22:20,04/12/24 23:16,Vandalism,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
+2024-00070162,04/12/24 23:37,04/12/24 23:37,CDS Violation,Arrest,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00070214,04/13/24 01:31,04/13/24 01:31,Other Incident,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2024-00070528,04/13/24 12:13,04/13/24 12:13,Check on the  Welfare,CBE,Artemesia Building at 8400  Baltimore  Ave
+2024-00071266,04/13/24 23:00,04/14/24 11:55,Vandalism,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
+2024-00071649,04/15/24 03:15,04/15/24 03:15,Noise Complaint,CBE,"15, Calvert, Calvert Hall at 7551  Calvert Service  Ln"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
