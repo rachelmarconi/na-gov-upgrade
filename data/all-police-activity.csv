@@ -2296,7 +2296,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00062078,03/26/24 17:00,03/31/24 12:21,Other Incident,CBE,Animal Science Building at 8127  Regents  Dr
 2024-00062081,09/01/23 00:00,03/31/24 12:52,Vandalism,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2024-00062089,03/27/24 13:40,03/31/24 14:02,Theft,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
-2024-00062132,03/31/24 15:58,03/31/24 15:58,Vandalism,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2024-00062132,03/31/24 15:58,03/31/24 15:58,Vandalism,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00062298,03/31/24 22:22,03/31/24 22:22,Injured/Sick Person,CBE,4200 block of  Farm  Dr
 2024-00062303,03/31/24 22:34,03/31/24 22:48,Assist Other Agency / Robbery,CBE,"Dunkin Donuts, Landmark s at 4500  College  Ave"
 2024-00062306,03/31/24 22:15,03/31/24 23:22,Assist Other Agency / Robbery,CBE,Calvert  Rd
@@ -2349,7 +2349,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00066868,04/07/24 22:45,04/07/24 22:45,CDS Violation,CBE,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00067289,04/01/24 00:00,04/08/24 09:49,Damage to State Property,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
 2024-00067342,04/04/24 21:00,04/08/24 10:54,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
-2024-00067359,03/27/24 08:00,04/08/24 11:09,Theft,Active/Pending,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
+2024-00067359,03/27/24 08:00,04/08/24 11:09,Theft,Investigation Pending,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2024-00067400,04/06/24 09:50,04/08/24 12:05,Theft,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00067409,04/03/24 17:00,04/08/24 12:54,Theft,Investigation Pending,7800 block of  Regents  Dr
 2024-00067449,04/05/24 15:00,04/08/24 14:12,Theft,Investigation Pending,La Plata Hall at 8160  La Plata  Dr
@@ -2368,7 +2368,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00068448,04/10/24 02:46,04/10/24 02:46,Suspicious Activity,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2024-00068536,03/29/24 18:17,04/10/24 06:39,Damage to State Property,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
 2024-00068642,04/09/24 17:00,04/10/24 10:23,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
-2024-00068713,04/10/24 09:48,04/10/24 12:21,Theft,Active/Pending,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
+2024-00068713,04/10/24 09:48,04/10/24 12:21,Theft,Investigation Pending,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2024-00068720,04/09/24 19:50,04/10/24 12:55,Damage to State Property,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2024-00068767,04/10/24 15:46,04/10/24 15:46,Emergency Petition,CBE,4300 block of  Hartwick Rd
 2024-00068769,04/10/24 16:25,04/10/24 16:25,Other Incident,CBE,7500 block of  Regents  Dr
@@ -2433,7 +2433,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00074930,04/20/24 03:06,04/20/24 03:06,DWI/DUI,Arrest,4500 block of  College  Ave
 2024-00075206,04/20/24 13:09,04/20/24 13:09,Injured/Sick Person,CBE,"9, Chapel, Memorial Chapel at 7744  Regents  Dr"
 2024-00075237,04/20/24 14:30,04/20/24 14:30,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2024-00075284,04/20/24 16:02,04/20/24 16:02,Injured/Sick Person,CBE,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
 2024-00075661,04/21/24 05:07,04/21/24 05:07,Injured/Sick Person,CBE,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
+2024-00076689,04/22/24 12:02,04/22/24 12:02,Injured/Sick Person,CBE,"76, Symons Hall at 7998  Regents  Dr"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
