@@ -2334,7 +2334,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00065413,04/05/24 18:30,04/05/24 18:38,Disorderly Conduct,Arrest,Lot 11b
 2024-00065509,04/05/24 11:00,04/05/24 20:14,Theft,Active/Pending,"Denton Area Dining Hall, Denton Dining Hall at 3951  Denton Service  Ln"
 2024-00065515,04/05/24 19:00,04/05/24 20:29,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
-2024-00065612,04/05/24 13:00,04/05/24 23:12,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
+2024-00065612,04/05/24 13:00,04/05/24 23:12,Theft,Investigation Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00065726,04/06/24 02:28,04/06/24 02:28,Warrant/Summons Service,Arrest,Baltimore  Ave
 2024-00065731,04/06/24 03:36,04/06/24 03:36,Emergency Petition,CBE,7600 block of  Regents  Dr
 2024-00065873,04/05/24 16:19,04/06/24 10:32,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
@@ -2388,6 +2388,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00069294,04/11/24 18:12,04/11/24 18:12,Vandalism,Arrest,4500 block of  Campus  Dr
 2024-00069313,04/11/24 20:40,04/11/24 20:40,Other Incident,CBE,Yahentamitsi at 4136  Stadium  Dr
 2024-00069446,04/12/24 00:43,04/12/24 00:43,Assist Other Agency / Other,CBE,4200 block of  Knox  Rd
+2024-00069768,04/12/24 09:31,04/12/24 09:31,Trespassing,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00069850,03/05/24 00:00,04/12/24 12:13,Theft,Active/Pending,Technology Ventures Building at 5000  College  Ave
 2024-00069875,04/09/24 19:00,04/12/24 14:13,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2024-00069951,04/12/24 04:00,04/12/24 16:07,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
@@ -2405,15 +2406,19 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00070777,04/13/24 20:25,04/13/24 20:25,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00070783,04/13/24 20:40,04/13/24 20:50,Injured/Sick Person,CBE,"76, Symons Hall at 7998  Regents  Dr"
 2024-00070823,04/13/24 23:07,04/13/24 23:07,Injured/Sick Person,CBE,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
+2024-00070825,04/13/24 22:52,04/13/24 22:52,Vandalism,Active/Pending,Regents  Dr
 2024-00071167,04/14/24 09:35,04/14/24 09:35,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00071266,04/13/24 23:00,04/14/24 11:55,Vandalism,Investigation Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2024-00071390,04/14/24 17:00,04/14/24 17:08,Emergency Petition,CBE,8100 block of  48th  Ave
 2024-00071481,04/14/24 19:00,04/14/24 22:01,Emergency Petition,CBE,4300 block of  Knox  Rd
 2024-00071649,04/15/24 03:15,04/15/24 03:15,Noise Complaint,CBE,"15, Calvert, Calvert Hall at 7551  Calvert Service  Ln"
+2024-00071652,04/15/24 03:34,04/15/24 03:34,Accident - Departmental,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2024-00071912,04/10/24 19:00,04/15/24 10:11,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00071937,03/28/24 12:00,04/15/24 11:27,Other Incident,Unfounded,Yahentamitsi at 4136  Stadium  Dr
+2024-00071938,03/16/24 00:30,04/15/24 11:40,Other Incident,CBE,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center at 4090  Union  Dr"
 2024-00071959,04/13/24 11:55,04/15/24 12:08,Theft,Unfounded,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
 2024-00072012,04/15/24 13:30,04/15/24 13:52,Missing Person/Runaway,CBE,4300 block of  Rowalt  Dr
+2024-00072018,04/11/24 07:00,04/15/24 15:35,Vandalism,Active/Pending,8000 block of  Hagerstown  Dr
 2024-00072051,04/15/24 17:14,04/15/24 17:14,Emergency Petition,CBE,4200 block of  Chapel  Ln
 2024-00072335,04/16/24 02:10,04/16/24 02:10,Injured/Sick Person,CBE,South Gate at 7567  Regents  Dr
 2024-00072444,04/15/24 09:30,04/16/24 08:50,Other Incident,Active/Pending,7400 block of  Columbia  Ave
@@ -2425,8 +2430,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00073176,04/16/24 00:00,04/17/24 15:17,Suspicious Activity,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2024-00073226,04/17/24 17:02,04/17/24 17:02,Emergency Petition,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00073354,04/17/24 22:55,04/17/24 22:55,Emergency Petition,CBE,4200 block of  Valley  Dr
+2024-00073782,04/18/24 12:00,04/18/24 12:55,Other Incident,Active/Pending,"Hornbake Mall, Hornbake Plaza"
+2024-00073835,04/18/24 14:15,04/18/24 16:33,Assist Other Agency / Other,CBE,8800 block of  36th  Ave
 2024-00073877,04/18/24 17:56,04/18/24 17:56,Emergency Petition,CBE,4200 block of  Valley  Dr
 2024-00074058,04/18/24 09:00,04/18/24 23:52,Theft,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
+2024-00074059,04/18/24 23:48,04/18/24 23:48,Trespassing,Arrest,274 at 4320  Rowalt  Dr
+2024-00074453,04/19/24 09:54,04/19/24 09:54,Other Incident,CBE,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2024-00074512,04/19/24 12:36,04/19/24 12:56,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2024-00074876,04/20/24 01:34,04/20/24 01:34,Injured/Sick Person,CBE,"Church of Jesus Christ of Latter-day Saints, Latter Day Saints, LDS Church at 7601  Mowatt  Ln"
 2024-00074929,04/20/24 03:02,04/20/24 03:02,Injured/Sick Person,CBE,Knox  Rd
@@ -2435,7 +2444,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00075237,04/20/24 14:30,04/20/24 14:30,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2024-00075284,04/20/24 16:02,04/20/24 16:02,Injured/Sick Person,CBE,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
 2024-00075661,04/21/24 05:07,04/21/24 05:07,Injured/Sick Person,CBE,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
+2024-00076179,04/22/23 00:08,04/22/24 00:08,Assist Other Agency / Vandalism,CBE,4600 block of  Calvert  Rd
+2024-00076615,04/22/24 09:30,04/22/24 10:51,Accident - Departmental,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00076689,04/22/24 12:02,04/22/24 12:02,Injured/Sick Person,CBE,"76, Symons Hall at 7998  Regents  Dr"
+2024-00077317,04/23/24 09:30,04/23/24 09:33,Injured/Sick Person,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
+2024-00077515,04/23/24 16:45,04/23/24 16:47,Injured/Sick Person,CBE,"Animal Science Service Building, Campus Farm at 8156  Regents  Dr"
+2024-00077806,04/18/24 21:30,04/24/24 06:41,Theft,Active/Pending,7700 block of  Alumni  Dr
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
