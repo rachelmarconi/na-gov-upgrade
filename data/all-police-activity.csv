@@ -2641,7 +2641,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00094445,05/21/24 13:05,05/21/24 14:21,Assist Other Agency / Other,CBE,4700 block of  Harvard  Rd
 2024-00094463,05/20/24 22:30,05/21/24 16:20,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00094532,05/20/24 13:00,05/21/24 18:21,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
-2024-00094551,05/21/24 16:30,05/21/24 18:51,Theft,Active/Pending,"Herbert Rabin Technology Advancement Building, TAP at 4467  Technology  Dr"
+2024-00094551,05/21/24 16:30,05/21/24 18:51,Theft,Investigation Pending,"Herbert Rabin Technology Advancement Building, TAP at 4467  Technology  Dr"
 2024-00094774,05/21/24 23:25,05/21/24 23:38,Accident - Departmental,CBE,7000 block of  Woodville Rd
 2024-00094814,05/22/24 00:52,05/22/24 00:52,Alcohol Violation,Arrest,Baltimore  Ave
 2024-00095088,05/19/24 19:00,05/22/24 11:54,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
@@ -2665,11 +2665,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00097095,05/27/24 11:18,05/27/24 11:20,Damage to State Property,CBE,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
 2024-00097109,05/27/24 12:00,05/27/24 13:39,Damage to State Property,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00097146,05/27/24 16:21,05/27/24 16:21,Warrant/Summons Service,Arrest,Baltimore  Ave
-2024-00097219,05/17/24 16:00,05/27/24 20:05,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
+2024-00097219,05/17/24 16:00,05/27/24 20:05,Theft,Investigation Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2024-00097453,05/22/24 08:30,05/28/24 10:45,Vandalism,CBE,"PG3, SDG, Stadium Drive Parking Garage at 4025  Stadium  Dr"
 2024-00097744,05/29/24 02:57,05/29/24 02:57,DWI/DUI,Arrest,University  Blvd
 2024-00097833,05/29/24 11:15,05/29/24 11:53,Telephone/EMail Misuse,Active/Pending,3400 block of  Tulane  Dr
-2024-00097860,05/29/24 11:00,05/29/24 16:08,Theft,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
+2024-00097860,05/29/24 11:00,05/29/24 16:08,Theft,Investigation Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2024-00097926,05/29/24 18:39,05/29/24 20:39,Fire,CBE,8200 block of  Paint Branch  Dr
 2024-00098247,05/30/24 12:14,05/30/24 12:16,Injured/Sick Person,CBE,901 at 7878  Diamondback  Dr
 2024-00098624,05/31/24 15:14,05/31/24 15:14,Assist Other Agency / Other,CBE,260 at 4301  Rowalt  Dr
@@ -2715,6 +2715,10 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00103496,06/12/24 17:33,06/12/24 17:33,Assist Other Agency / Theft,CBE,Adidas Stripe 3 at 7415  Baltimore  Ave
 2024-00103498,06/12/24 17:30,06/12/24 17:37,Other Incident,Active/Pending,5200 block of  Greenbelt  Rd
 2024-00103520,06/11/24 20:30,06/12/24 20:47,Theft,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
+2024-00105048,06/16/24 03:12,06/16/24 03:12,DWI/DUI,Arrest,Greenbelt  Rd
+2024-00105079,06/16/24 04:11,06/16/24 07:07,Dept Property Damage/Loss,CBE,8800 block of  Baltimore  Ave
+2024-00105267,06/16/24 17:30,06/16/24 17:36,Injured/Sick Person,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
+2024-00105365,06/16/24 23:52,06/16/24 23:52,DWI/DUI,Arrest,Frat Row
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
