@@ -2230,7 +2230,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00056527,03/23/24 01:24,03/23/24 01:24,DWI/DUI,Arrest,University  Blvd
 2024-00056540,03/23/24 01:47,03/23/24 01:47,DWI/DUI,Arrest,Baltimore  Ave
 2024-00056568,03/23/24 03:43,03/23/24 03:43,Emergency Petition,CBE,8400 block of  Baltimore  Ave
-2024-00056751,03/15/24 00:00,03/23/24 10:43,Vandalism,Active/Pending,8200 block of  Alumni  Dr
+2024-00056751,03/15/24 00:00,03/23/24 10:43,Vandalism,Investigation Pending,8200 block of  Alumni  Dr
 2024-00056912,03/21/24 12:01,03/23/24 20:11,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00057506,01/01/24 08:00,03/24/24 16:30,Vandalism,CBE,"51, Worcester, Worcester Hall at 7405  Preinkert  Dr"
 2024-00057515,03/24/24 00:30,03/24/24 17:16,Theft,Investigation Pending,436 at 4136  Stadium  Dr
@@ -2673,6 +2673,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00097860,05/29/24 11:00,05/29/24 16:08,Theft,Investigation Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2024-00097926,05/29/24 18:39,05/29/24 20:39,Fire,CBE,8200 block of  Paint Branch  Dr
 2024-00098247,05/30/24 12:14,05/30/24 12:16,Injured/Sick Person,CBE,901 at 7878  Diamondback  Dr
+2024-00098533,05/31/24 08:39,05/31/24 08:39,Other Incident,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2024-00098624,05/31/24 15:14,05/31/24 15:14,Assist Other Agency / Other,CBE,260 at 4301  Rowalt  Dr
 2024-00098744,05/31/24 22:46,05/31/24 22:46,Injured/Sick Person,CBE,3400 block of  Tulane  Dr
 2024-00098745,05/31/24 22:48,05/31/24 22:48,DWI/DUI,Arrest,Baltimore  Ave
@@ -2689,16 +2690,18 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00100177,06/01/24 12:00,06/04/24 09:25,Extortion,Active/Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2024-00100201,04/23/24 10:00,06/04/24 10:55,Extortion,Active/Pending,8000 block of  Boteler  Ln
 2024-00100230,06/04/24 01:00,06/04/24 16:03,Theft,Active/Pending,3400 block of  Tulane  Dr
+2024-00100267,06/04/24 17:13,06/04/24 17:41,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
+2024-00100291,06/04/24 18:30,06/04/24 18:40,Suspicious Activity,Active/Pending,Kim Engineering Building at 8228  Paint Branch  Dr
 2024-00100292,06/04/24 19:25,06/04/24 19:35,Injured/Sick Person,CBE,"Phi Sigma Sigma Sorority, Phi Sigma Simga at 4531  College  Ave"
 2024-00100350,06/04/24 23:44,06/04/24 23:44,Trespassing,Arrest,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
 2024-00100453,06/05/24 06:42,06/05/24 06:42,Other Incident,CBE,4000 block of  Campus  Dr
 2024-00100471,06/05/24 08:10,06/05/24 08:16,Injured/Sick Person,CBE,Jull Hall at 4196  Stadium  Dr
 2024-00100596,06/05/24 14:22,06/05/24 14:22,Fire,CBE,"79, Turner Hall, Visitor Center at 7736  Baltimore  Ave"
-2024-00100611,06/05/24 15:33,06/05/24 15:33,Suspicious Activity,Active/Pending,"School of Public Policy, Thurgood Marshall Hall at 7805  Regents  Dr"
+2024-00100611,06/05/24 15:33,06/05/24 15:33,Suspicious Activity,Unfounded,"School of Public Policy, Thurgood Marshall Hall at 7805  Regents  Dr"
 2024-00100612,06/05/24 15:42,06/05/24 15:42,Trespassing,Arrest,South Gate at 7567  Regents  Dr
 2024-00100789,06/05/24 23:44,06/05/24 23:44,DWI/DUI,Arrest,Baltimore  Ave
 2024-00100843,06/06/24 04:37,06/06/24 04:37,Suspicious Person/Auto,CBE,"Hornbake, Hornbake Library at 4130  Campus  Dr"
-2024-00101019,05/31/24 11:56,06/06/24 13:33,Telephone/EMail Misuse,Active/Pending,"3, Service Building at 7757  Baltimore  Ave"
+2024-00101019,05/31/24 11:56,06/06/24 13:33,Telephone/EMail Misuse,Investigation Pending,"3, Service Building at 7757  Baltimore  Ave"
 2024-00101043,06/06/24 15:53,06/06/24 15:53,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
 2024-00101197,06/07/24 00:49,06/07/24 00:49,Suspicious Person/Auto,CBE,"S Campus Surge, Susquehanna, Susquehanna Hall at 4200  Lehigh  Rd"
 2024-00101476,06/07/24 22:15,06/07/24 22:15,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
@@ -2718,12 +2721,18 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00103458,06/11/24 15:15,06/12/24 15:13,Injured Officer,CBE,"Applied Research Lab for Intelligence and Security, ARLIS, CASL, Center for the Advanced Study of Language at 7005  52nd  Ave"
 2024-00103496,06/12/24 17:33,06/12/24 17:33,Assist Other Agency / Theft,CBE,Adidas Stripe 3 at 7415  Baltimore  Ave
 2024-00103498,06/12/24 17:30,06/12/24 17:37,Other Incident,Active/Pending,5200 block of  Greenbelt  Rd
-2024-00103520,06/11/24 20:30,06/12/24 20:47,Theft,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
+2024-00103520,06/11/24 20:30,06/12/24 20:47,Theft,Investigation Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
+2024-00103693,06/13/24 05:43,06/13/24 05:43,Suspicious Person/Auto,Summons Issued,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2024-00103854,06/13/24 13:37,06/13/24 13:37,Suspicious Person/Auto,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2024-00105048,06/16/24 03:12,06/16/24 03:12,DWI/DUI,Arrest,Greenbelt  Rd
 2024-00105079,06/16/24 04:11,06/16/24 07:07,Dept Property Damage/Loss,CBE,8800 block of  Baltimore  Ave
 2024-00105267,06/16/24 17:30,06/16/24 17:36,Injured/Sick Person,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
 2024-00105365,06/16/24 23:52,06/16/24 23:52,DWI/DUI,Arrest,Frat Row
+2024-00106185,06/18/24 17:56,06/18/24 17:56,Assist Other Agency / Other,CBE,4600 block of  College  Ave
+2024-00106236,06/18/24 22:04,06/18/24 22:04,Hazardous Condition,CBE,Campus  Dr
+2024-00106247,06/18/24 17:00,06/18/24 22:45,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2024-00106551,06/19/24 15:50,06/19/24 16:25,Suspicious Person/Auto,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
+2024-00106552,06/11/24 12:00,06/19/24 16:43,Injured Officer,CBE,"Applied Research Lab for Intelligence and Security, ARLIS, CASL, Center for the Advanced Study of Language at 7005  52nd  Ave"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
