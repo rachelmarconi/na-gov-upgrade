@@ -2219,7 +2219,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00052998,03/16/24 20:05,03/18/24 11:33,Theft,Investigation Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2024-00053077,03/18/24 12:00,03/18/24 14:14,Assist Other Agency / Weapon Violation,CBE,"Dunkin Donuts, Landmark s at 4500  College  Ave"
 2024-00053097,03/18/24 13:37,03/18/24 15:08,Assist Other Agency / Check on the Welfare,CBE,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
-2024-00053178,03/18/24 17:00,03/18/24 17:36,Threat Assessment,Active/Pending,7500 block of  Baltimore  Ave
+2024-00053178,03/18/24 17:00,03/18/24 17:36,Threat Assessment,Arrest,7500 block of  Baltimore  Ave
 2024-00053756,03/19/24 11:18,03/19/24 11:18,Warrant/Summons Service,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00054427,03/20/24 09:29,03/20/24 09:29,Recovered Stolen Property,CBE,7200 block of  Baltimore  Ave
 2024-00055413,03/11/24 23:00,03/21/24 11:51,Theft,Investigation Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
@@ -2236,7 +2236,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00057515,03/24/24 00:30,03/24/24 17:16,Theft,Investigation Pending,436 at 4136  Stadium  Dr
 2024-00057566,03/15/24 08:00,03/24/24 19:47,Theft,Summons Issued,"Alpha Sigma Phi, Frat 9 at 9  Fraternity  Row"
 2024-00057612,03/15/24 16:00,03/24/24 21:47,Theft,Investigation Pending,436 at 4136  Stadium  Dr
-2024-00058141,03/25/24 10:25,03/25/24 11:20,Peeping Tom,Summons Issued,436 at 4136  Stadium  Dr
+2024-00058141,03/25/24 10:25,03/25/24 11:20,Peeping Tom (Title IX Related),Arrest,436 at 4136  Stadium  Dr
 2024-00058209,03/25/24 14:30,03/25/24 14:36,Suspicious Activity,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00058244,01/19/24 12:00,03/25/24 15:48,Theft,Investigation Pending,3900 block of  Campus  Dr
 2024-00058341,03/13/24 17:00,03/25/24 18:29,Theft,Unfounded,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
@@ -2738,7 +2738,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00106247,06/18/24 17:00,06/18/24 22:45,Theft,Investigation Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00106551,06/19/24 15:50,06/19/24 16:25,Suspicious Person/Auto,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
 2024-00106552,06/11/24 12:00,06/19/24 16:43,Injured Officer,CBE,"Applied Research Lab for Intelligence and Security, ARLIS, CASL, Center for the Advanced Study of Language at 7005  52nd  Ave"
-2024-00106939,06/16/24 11:38,06/20/24 13:40,Theft,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center, Jones-Hill House at 4090  Union  Dr"
+2024-00106939,06/16/24 11:38,06/20/24 13:40,Theft,Warrant Issued,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center, Jones-Hill House at 4090  Union  Dr"
 2024-00106993,06/17/24 10:00,06/20/24 16:59,Theft,Active/Pending,Jones-Hill House Outdoor Practice Fields at -1
 2024-00106997,06/20/24 13:30,06/20/24 17:47,Theft,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center, Jones-Hill House at 4090  Union  Dr"
 2024-00107098,06/20/24 18:40,06/20/24 22:30,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
@@ -2789,7 +2789,30 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00111739,05/24/24 00:00,07/02/24 18:37,Theft,Active/Pending,4200 block of  Farm  Dr
 2024-00111752,07/02/24 18:25,07/02/24 19:18,Theft,Active/Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2024-00111781,07/02/24 18:00,07/02/24 21:16,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2024-00111877,07/02/24 23:00,07/03/24 00:51,Suspicious Activity,Active/Pending,Baltimore  Ave
 2024-00111982,07/03/24 00:31,07/03/24 06:04,Assist Other Agency / Trespassing,Active/Pending,7300 block of  Baltimore  Ave
+2024-00112087,07/03/24 14:12,07/03/24 14:12,Theft,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2024-00112139,07/03/24 18:18,07/03/24 18:18,Theft,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2024-00112242,07/04/24 01:09,07/04/24 01:09,DWI/DUI,Arrest,Metzerott  Rd
+2024-00112338,07/01/24 20:00,07/04/24 08:57,Vandalism,Active/Pending,"College Park Fire Station, Company 12 at 8115  Baltimore  Ave"
+2024-00112511,07/04/24 20:28,07/04/24 20:28,Assist Other Agency / Disorderly Conduct,CBE,Acredale Park at 4200  Metzerott  Rd
+2024-00112592,07/05/24 00:23,07/05/24 00:23,Suspicious Person/Auto,CBE,Lot FF2
+2024-00112639,07/05/24 02:16,07/05/24 02:16,Warrant/Summons Service,Arrest,University  Blvd
+2024-00112648,07/05/24 02:40,07/05/24 02:40,DWI/DUI,Arrest,University  Blvd
+2024-00112658,07/05/24 03:05,07/05/24 03:05,DWI/DUI,Arrest,University  Blvd
+2024-00112926,07/05/24 20:44,07/05/24 20:44,Fire,CBE,"Leonardtown #248, Leonardtown at 7567  Yale  Ave"
+2024-00112972,07/06/24 00:43,07/06/24 00:43,DWI/DUI,Arrest,Baltimore  Ave
+2024-00112989,07/06/24 02:41,07/06/24 02:41,DWI/DUI,Arrest,University  Blvd
+2024-00112993,07/06/24 03:59,07/06/24 03:59,DWI/DUI,Arrest,Baltimore  Ave
+2024-00113130,07/06/24 14:21,07/06/24 14:21,Overdose,CBE,8700 block of  Baltimore  Ave
+2024-00113287,07/07/24 00:33,07/07/24 00:33,DWI/DUI,Arrest,Wb University Blvd Ofrp Nb Adelphi Rd
+2024-00113289,07/07/24 00:41,07/07/24 00:41,Warrant/Summons Service,Arrest,"City of CP Garage, College Park Garage, CP Garage at  Knox  Rd"
+2024-00113313,07/07/24 03:11,07/07/24 03:11,DWI/DUI,Arrest,Adelphi  Rd
+2024-00113466,07/07/24 11:49,07/07/24 11:49,Other Incident,CBE,8200 block of  Baltimore  Ave
+2024-00113469,07/07/24 12:13,07/07/24 12:13,Injured/Sick Person,CBE,7700 block of  Mowatt  Ln
+2024-00113470,07/07/24 07:10,07/07/24 12:21,Vandalism,Active/Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
+2024-00113581,07/07/24 22:17,07/07/24 22:17,Assist Other Agency / Other,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
+2024-00113582,07/04/24 12:00,07/07/24 22:30,Other Incident,Active/Pending,8300 block of  Boteler  Ln
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
