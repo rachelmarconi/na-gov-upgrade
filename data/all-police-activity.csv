@@ -1887,14 +1887,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00017611,01/24/24 22:00,01/25/24 10:43,Theft,Investigation Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00017696,01/25/24 14:53,01/25/24 14:53,Injured/Sick Person,CBE,3400 block of  Tulane  Dr
 2024-00017734,01/25/24 12:00,01/25/24 17:24,Other Service Call,CBE,4200 block of  Fieldhouse  Dr
-2024-00017771,01/25/24 15:30,01/25/24 18:36,Theft,Arrest,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
-2024-00017791,01/25/24 15:50,01/25/24 18:43,Extortion,Investigation Pending,3400 block of  Tulane  Dr
+2024-00017771,01/25/24 15:30,01/25/24 18:36,Theft,Summons Issued,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
+2024-00017791,01/25/24 15:50,01/25/24 18:43,Extortion,Active/Pending,3400 block of  Tulane  Dr
 2024-00017940,01/26/24 00:13,01/26/24 00:13,Injured/Sick Person,CBE,Baltimore  Ave
 2024-00018000,01/26/24 01:11,01/26/24 01:11,Disorderly Conduct,Arrest,"Delta Phi Epsilon, Delta Phi Epsilon Sorority at 4514  Knox  Rd"
 2024-00018135,01/25/24 17:00,01/26/24 04:38,Vandalism,Investigation Pending,Lot 11b
 2024-00018149,01/26/24 05:05,01/26/24 05:05,Emergency Petition,CBE,"Drazek Circle, UMGC at 346  Ehrensberger  Dr"
 2024-00018215,01/25/24 15:00,01/26/24 08:24,Theft from Auto,Investigation Pending,Lot 11b
-2024-00018338,01/25/24 16:30,01/26/24 10:10,Theft,Arrest,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
+2024-00018338,01/25/24 16:30,01/26/24 10:10,Theft,Active/Pending,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
 2024-00018631,01/26/24 11:59,01/26/24 17:09,Fraud,CBE,8100 block of  Paint Branch  Dr
 2024-00018738,01/26/24 20:40,01/26/24 20:40,CDS Violation,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2024-00018754,01/26/24 21:09,01/26/24 21:09,CDS Violation,CBE,"69, Wicomico, Wicomico Hall at 7218  Preinkert  Dr"
@@ -1951,7 +1951,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00024675,02/04/24 11:15,02/04/24 11:21,Fire,CBE,436 at 4136  Stadium  Dr
 2024-00024877,02/04/24 19:35,02/04/24 19:35,Injured/Sick Person,CBE,7600 block of  Preinkert  Dr
 2024-00025156,02/02/24 15:00,02/05/24 07:50,Stolen Motor Vehicle,Investigation Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
-2024-00025511,02/05/24 16:54,02/05/24 16:54,Injured/Sick Person,CBE,"Art Soc, Art Sociology Building, Art-Sociology Building, Parren J. Mitchell Art-Sociology Building at 3834  Campus  Dr"
+2024-00025511,02/05/24 16:54,02/05/24 16:54,Injured/Sick Person,CBE,"Art Soc, Art-Sociology Building, Parren J. Mitchell Art-Sociology Building at 3834  Campus  Dr"
 2024-00025606,02/05/24 23:37,02/05/24 23:41,Assist Other Agency / Other,CBE,8200 block of  Baltimore  Ave
 2024-00025613,02/05/24 22:00,02/06/24 00:28,Vandalism,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00025930,02/06/24 11:00,02/06/24 11:00,Hazardous Condition,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
@@ -1966,7 +1966,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00026325,02/07/24 01:48,02/07/24 01:48,Assist Other Agency / Other,CBE,4700 block of  Berwyn House  Rd
 2024-00026327,02/06/24 13:30,02/07/24 01:58,Emergency Petition,Active/Pending,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
 2024-00026519,02/07/24 09:40,02/07/24 09:45,Injured/Sick Person,CBE,Lot Z
-2024-00026551,02/07/24 10:54,02/07/24 11:43,Theft,Warrant Issued,"Alpha Chi Omega, Alpha Chi Omega Sorority at 4525  College  Ave"
+2024-00026551,02/07/24 10:54,02/07/24 11:43,Theft,Summons Issued,"Alpha Chi Omega, Alpha Chi Omega Sorority at 4525  College  Ave"
 2024-00026577,02/07/24 12:57,02/07/24 12:57,Injured/Sick Person,CBE,Union  Ln
 2024-00026693,02/07/24 17:00,02/07/24 17:27,Injured/Sick Person,CBE,6800 block of  Preinkert  Dr
 2024-00027239,02/07/24 13:00,02/08/24 12:34,Theft,Unfounded,Varsity Sports Teamhouse at 4117  Stadium  Dr
@@ -1977,14 +1977,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00027598,02/09/24 01:17,02/09/24 01:17,Suspicious Activity,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
 2024-00027752,02/09/24 07:27,02/09/24 07:27,Other Service Call,CBE,"Drazek Circle, UMGC at 346  Ehrensberger  Dr"
 2024-00027848,02/09/24 09:58,02/09/24 09:58,Assist Fire Department,CBE,7700 block of  Adelphi  Rd
-2024-00027889,02/08/24 22:15,02/09/24 10:52,Theft,Arrest,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
+2024-00027889,02/08/24 22:15,02/09/24 10:52,Theft,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2024-00028084,01/31/24 20:30,02/09/24 15:34,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00028224,02/09/24 22:27,02/09/24 22:27,Alcohol Violation,Arrest,Princeton  Ave
 2024-00028357,02/10/24 00:45,02/10/24 00:45,Damage to State Property,Active/Pending,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
 2024-00028409,02/10/24 04:11,02/10/24 04:11,DWI/DUI,Arrest,University  Blvd
 2024-00028410,02/10/24 04:16,02/10/24 04:30,Assist Other Agency / Robbery,CBE,7300 block of  Baltimore  Ave
 2024-00028421,02/10/24 05:21,02/10/24 05:21,Assist Other Agency / Check on the Welfare,CBE,8100 block of  Baltimore  Ave
-2024-00028634,02/09/24 17:00,02/10/24 12:53,Theft,Arrest,"14, Harford Hall at 7660  Regents  Dr"
+2024-00028634,02/09/24 17:00,02/10/24 12:53,Theft,Active/Pending,"14, Harford Hall at 7660  Regents  Dr"
 2024-00028724,02/10/24 17:15,02/10/24 17:39,Peeping Tom (Title IX Related),Arrest,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
 2024-00028726,02/10/24 17:49,02/10/24 17:49,Alcohol Violation,Arrest,Knox  Rd
 2024-00028727,02/10/24 18:19,02/10/24 18:19,Disorderly Conduct,Arrest,College  Ave
@@ -2018,7 +2018,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00033066,02/17/24 12:33,02/17/24 12:44,Trespassing,Arrest,"88, Martin Hall at 4298  Campus  Dr"
 2024-00033067,02/17/24 00:03,02/17/24 12:51,Theft,Investigation Pending,3900 block of  Denton Service  Ln
 2024-00033088,02/17/24 14:30,02/17/24 15:57,Theft,Investigation Pending,"78, Armory, Reckord Armory at 4490  Rossborough  Ln"
-2024-00033104,02/16/24 17:30,02/17/24 17:52,Theft,Arrest,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
+2024-00033104,02/16/24 17:30,02/17/24 17:52,Theft,Summons Issued,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2024-00033217,02/17/24 21:31,02/17/24 21:31,DWI/DUI,Arrest,Lot 2a
 2024-00033348,02/18/24 00:34,02/18/24 00:34,Injured/Sick Person,CBE,7300 block of  Baltimore  Ave
 2024-00033592,02/17/24 20:30,02/18/24 10:32,Theft,Investigation Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
@@ -2034,11 +2034,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00035042,02/20/24 00:00,02/20/24 12:57,Vandalism,Investigation Pending,"48, Francis Scott Key, Francis Scott Key Hall, FS Key Hall, FSK at 4282  Chapel  Ln"
 2024-00035163,02/20/24 13:45,02/20/24 18:01,Theft,Investigation Pending,"42, Tydings Hall at 7343  Preinkert  Dr"
 2024-00035223,02/20/24 19:00,02/20/24 20:33,Fraud,Arrest,7500 block of  Yale  Ave
-2024-00035228,02/20/24 19:40,02/20/24 20:46,Fraud,Summons Issued,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
+2024-00035228,02/20/24 19:40,02/20/24 20:46,Fraud,Active/Pending,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2024-00035349,02/20/24 23:26,02/20/24 23:26,DWI/DUI,Arrest,Paint Branch  Dr
 2024-00035467,02/21/24 02:56,02/21/24 02:56,DWI/DUI,Arrest,"MFRI, MFRI Office/Classroom Building at 4500  Campus  Dr"
-2024-00035591,02/21/24 08:30,02/21/24 09:19,Theft,Arrest,"16, Baltimore, Baltimore Hall at 7497  Calvert Service  Ln"
-2024-00035621,02/20/24 16:00,02/21/24 10:49,Theft,Arrest,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
+2024-00035591,02/21/24 08:30,02/21/24 09:19,Theft,Investigation Pending,"16, Baltimore, Baltimore Hall at 7497  Calvert Service  Ln"
+2024-00035621,02/20/24 16:00,02/21/24 10:49,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2024-00035660,02/21/24 12:01,02/21/24 12:01,Injured/Sick Person,CBE,McKeldin Mall
 2024-00035665,02/21/24 14:03,02/21/24 14:03,Assist Other Agency / Other,CBE,Baltimore  Ave
 2024-00035773,02/21/24 12:00,02/21/24 18:32,Theft,Investigation Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
@@ -2061,18 +2061,18 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00036855,02/14/24 18:00,02/23/24 17:56,Theft,Investigation Pending,4200 block of  38.9925686035142;-76.9414474316283
 2024-00037174,02/24/24 02:07,02/24/24 02:07,DWI/DUI,Arrest,Pot Bellys at 7422  Baltimore  Ave
 2024-00037306,02/24/24 08:45,02/24/24 08:45,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
-2024-00037308,02/23/24 21:30,02/24/24 09:16,Theft,Arrest,"23, Washington, Washington Hall at 4298  Lehigh  Rd"
+2024-00037308,02/23/24 21:30,02/24/24 09:16,Theft,Active/Pending,"23, Washington, Washington Hall at 4298  Lehigh  Rd"
 2024-00037325,02/24/24 10:08,02/24/24 10:08,DWI/DUI,Arrest,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
-2024-00037347,02/23/24 23:00,02/24/24 15:06,Theft,Investigation Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
+2024-00037347,02/23/24 23:00,02/24/24 15:06,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2024-00037351,02/23/24 18:30,02/24/24 16:27,Theft,Investigation Pending,"24, Allegany, Allegany Hall at 4299  Lehigh  Rd"
-2024-00037448,02/23/24 18:00,02/24/24 20:15,Theft,Arrest,"65, Carroll, Carroll Hall at 7284  Preinkert  Dr"
+2024-00037448,02/23/24 18:00,02/24/24 20:15,Theft,Active/Pending,"65, Carroll, Carroll Hall at 7284  Preinkert  Dr"
 2024-00037738,02/25/24 03:49,02/25/24 03:49,Injured/Sick Person,CBE,"Leonardtown #245, Leonardtown at 4689  Rossborough  Ln"
 2024-00037844,02/25/24 11:10,02/25/24 11:15,Injured/Sick Person,CBE,8100 block of  Boteler  Ln
-2024-00037870,02/21/24 14:00,02/25/24 11:42,Fraud,Investigation Pending,8000 block of  Hagerstown  Dr
+2024-00037870,02/21/24 14:00,02/25/24 11:42,Fraud,Active/Pending,8000 block of  Hagerstown  Dr
 2024-00038267,02/26/24 01:30,02/26/24 03:58,Extortion,Investigation Pending,"Leonardtown #245, Leonardtown at 4689  Rossborough  Ln"
 2024-00038497,02/26/24 10:55,02/26/24 10:55,Injured/Sick Person,CBE,"Football Team House, Gossett, Gossett Hall at 4068  Fieldhouse  Dr"
 2024-00038520,02/26/24 11:00,02/26/24 11:49,Suspicious Person/Auto,CBE,8200 block of  Alumni  Dr
-2024-00038852,02/26/24 15:15,02/26/24 21:34,Theft,Summons Issued,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2024-00038852,02/26/24 15:15,02/26/24 21:34,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00039289,02/20/24 15:55,02/27/24 13:59,Theft,Investigation Pending,4100 block of  Campus  Dr
 2024-00039290,11/01/23 00:00,02/27/24 13:47,Fraud,Unfounded,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
 2024-00039295,02/27/24 11:10,02/27/24 14:15,Theft,Investigation Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
@@ -2083,7 +2083,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00039322,02/27/24 17:18,02/27/24 17:20,Injured Officer,CBE,7500 block of  Baltimore  Ave
 2024-00039351,02/23/24 15:00,02/27/24 19:42,Theft,Investigation Pending,"14, Harford Hall at 7660  Regents  Dr"
 2024-00039363,02/27/24 20:49,02/27/24 20:49,Injured/Sick Person,CBE,4700 block of  Berwyn House  Rd
-2024-00039548,02/28/24 01:20,02/28/24 01:20,Assist Other Agency / Assault,CBE,Visitor Center at the Hotel at the University of Maryland at 7777  Baltimore  Ave
+2024-00039548,02/28/24 01:20,02/28/24 01:20,Assist Other Agency / Assault,CBE,Visitor Center at The Hotel at the University of Maryland at 7777  Baltimore  Ave
 2024-00039686,02/27/24 22:00,02/28/24 09:04,Vandalism,Investigation Pending,Graduate Hills #291 at 3413  Tulane  Dr
 2024-00039704,02/28/24 09:38,02/28/24 09:38,Injured/Sick Person,CBE,"73, H.J. Patterson Hall, HJ Patterson Hall at 4065  Campus  Dr"
 2024-00039726,02/27/24 10:00,02/28/24 11:19,Theft,Investigation Pending,"63, Somerset, Somerset Hall at 7567  Preinkert  Dr"
@@ -2121,11 +2121,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00043396,03/04/24 08:54,03/04/24 08:54,Title IX Incident Non Criminal,CBE,274 at 4320  Rowalt  Dr
 2024-00043435,03/03/24 12:00,03/04/24 10:06,Theft,Investigation Pending,"Alpha Delta Pi Sorority, Alpha Delti Pi at 4535  College  Ave"
 2024-00043504,03/04/24 11:50,03/04/24 11:54,Other Incident,CBE,278 at 4324  Rowalt  Dr
-2024-00043561,03/03/24 22:30,03/04/24 14:58,Theft,Investigation Pending,"35, McKeldin Library at 7649  Library  Ln"
-2024-00043670,03/02/24 02:00,03/04/24 18:19,Theft,Summons Issued,"69, Wicomico, Wicomico Hall at 7218  Preinkert  Dr"
+2024-00043561,03/03/24 22:30,03/04/24 14:58,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
+2024-00043670,03/02/24 02:00,03/04/24 18:19,Theft,Active/Pending,"69, Wicomico, Wicomico Hall at 7218  Preinkert  Dr"
 2024-00043750,03/04/24 20:29,03/04/24 20:29,Assist Fire Department,CBE,7300 block of  Hopkins  Ave
 2024-00044305,03/05/24 11:00,03/05/24 11:53,Injured/Sick Person,CBE,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
-2024-00044310,03/01/24 23:00,03/05/24 12:53,Theft,Arrest,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
+2024-00044310,03/01/24 23:00,03/05/24 12:53,Theft,Summons Issued,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
 2024-00044325,03/05/24 14:22,03/05/24 14:22,Trespassing,Arrest,"Hornbake, Hornbake Library at 4130  Campus  Dr"
 2024-00044328,03/05/24 15:20,03/05/24 15:24,Fire,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2024-00044330,03/05/24 16:21,03/05/24 16:21,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
@@ -2150,14 +2150,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00045150,03/06/24 15:15,03/06/24 19:49,Theft,Arrest,"Chestertown, Chestertown Hall at 4201  Valley  Dr"
 2024-00045191,03/07/24 01:58,03/07/24 02:17,Assist Other Agency / Check on the Welfare,CBE,4500 block of  College  Ave
 2024-00045477,03/06/24 11:00,03/07/24 10:18,Other Incident,CBE,4300 block of  Stadium  Dr
-2024-00045478,03/06/24 15:30,03/07/24 10:27,Theft,CBE,8100 block of  Paint Branch  Dr
+2024-00045478,03/06/24 15:30,03/07/24 10:27,Theft,Active/Pending,8100 block of  Paint Branch  Dr
 2024-00045548,02/29/24 17:30,03/07/24 16:34,Lost Property,CBE,4100 block of  Campus  Dr
 2024-00045560,03/07/24 12:00,03/07/24 18:29,Extortion (Title IX Related),Investigation Pending,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2024-00046106,03/08/24 09:27,03/08/24 09:27,Assist Other Agency / Other,CBE,Berwyn  Rd
-2024-00046107,03/07/24 21:00,03/08/24 09:35,Theft from Auto,Investigation Pending,Graduate Hills #287 at 3410  Tulane  Dr
+2024-00046107,03/07/24 21:00,03/08/24 09:35,Theft from Auto,Active/Pending,Graduate Hills #287 at 3410  Tulane  Dr
 2024-00046109,03/07/24 17:00,03/08/24 09:41,Theft,Investigation Pending,4100 block of  Campus  Dr
 2024-00046345,03/08/24 17:14,03/08/24 18:14,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
-2024-00046375,03/08/24 14:00,03/08/24 19:03,Theft,Investigation Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
+2024-00046375,03/08/24 14:00,03/08/24 19:03,Theft,Active/Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2024-00046619,03/09/24 01:45,03/09/24 01:45,Assist Other Agency / Suspicous Person/Auto,CBE,4800 block of  College  Ave
 2024-00046620,03/09/24 02:03,03/09/24 02:03,Assist Other Agency / Assault,CBE,7300 block of  Baltimore  Ave
 2024-00046621,03/09/24 02:29,03/09/24 02:29,Check on the  Welfare,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
@@ -2192,7 +2192,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00048381,03/11/24 23:04,03/11/24 23:04,Pornography/Obscene Material (Title IX Related),Active/Pending,4200 block of  Campus  Dr
 2024-00048585,03/12/24 03:54,03/12/24 03:54,Assist Other Agency / Assault,CBE,9000 block of  Baltimore  Ave
 2024-00048597,03/12/24 08:15,03/12/24 08:29,Death Investigation,CBE,"Drazek Circle, UMGC at 346  Ehrensberger  Dr"
-2024-00048649,03/04/24 09:00,03/12/24 11:11,Vandalism,Investigation Pending,"PG3, SDG, Stadium Drive Parking Garage at 4025  Stadium  Dr"
+2024-00048649,03/04/24 09:00,03/12/24 11:11,Vandalism,Active/Pending,"PG3, SDG, Stadium Drive Parking Garage at 4025  Stadium  Dr"
 2024-00048674,03/12/24 13:25,03/12/24 13:25,Emergency Petition,CBE,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2024-00048719,03/11/24 10:25,03/12/24 15:26,Injured/Sick Person,Active/Pending,"Tawes, Tawes Hall at 7751  Alumni  Dr"
 2024-00049482,03/13/24 15:25,03/13/24 15:28,Fire,CBE,"Microbiology, Microbiology Building at 4062  Campus  Dr"
@@ -2219,7 +2219,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00052998,03/16/24 20:05,03/18/24 11:33,Theft,Investigation Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2024-00053077,03/18/24 12:00,03/18/24 14:14,Assist Other Agency / Weapon Violation,CBE,"Dunkin Donuts, Landmark s at 4500  College  Ave"
 2024-00053097,03/18/24 13:37,03/18/24 15:08,Assist Other Agency / Check on the Welfare,CBE,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
-2024-00053178,03/18/24 17:00,03/18/24 17:36,Threat Assessment,Arrest,7500 block of  Baltimore  Ave
+2024-00053178,03/18/24 17:00,03/18/24 17:36,Threat Assessment,Active/Pending,7500 block of  Baltimore  Ave
 2024-00053756,03/19/24 11:18,03/19/24 11:18,Warrant/Summons Service,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00054427,03/20/24 09:29,03/20/24 09:29,Recovered Stolen Property,CBE,7200 block of  Baltimore  Ave
 2024-00055413,03/11/24 23:00,03/21/24 11:51,Theft,Investigation Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
@@ -2230,13 +2230,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00056527,03/23/24 01:24,03/23/24 01:24,DWI/DUI,Arrest,University  Blvd
 2024-00056540,03/23/24 01:47,03/23/24 01:47,DWI/DUI,Arrest,Baltimore  Ave
 2024-00056568,03/23/24 03:43,03/23/24 03:43,Emergency Petition,CBE,8400 block of  Baltimore  Ave
-2024-00056751,03/15/24 00:00,03/23/24 10:43,Vandalism,Investigation Pending,8200 block of  Alumni  Dr
+2024-00056751,03/15/24 00:00,03/23/24 10:43,Vandalism,Active/Pending,8200 block of  Alumni  Dr
 2024-00056912,03/21/24 12:01,03/23/24 20:11,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00057506,01/01/24 08:00,03/24/24 16:30,Vandalism,CBE,"51, Worcester, Worcester Hall at 7405  Preinkert  Dr"
 2024-00057515,03/24/24 00:30,03/24/24 17:16,Theft,Investigation Pending,436 at 4136  Stadium  Dr
-2024-00057566,03/15/24 08:00,03/24/24 19:47,Theft,Summons Issued,"Alpha Sigma Phi, Frat 9 at 9  Fraternity  Row"
+2024-00057566,03/15/24 08:00,03/24/24 19:47,Theft,Active/Pending,"Alpha Sigma Phi, Frat 9 at 9  Fraternity  Row"
 2024-00057612,03/15/24 16:00,03/24/24 21:47,Theft,Investigation Pending,436 at 4136  Stadium  Dr
-2024-00058141,03/25/24 10:25,03/25/24 11:20,Peeping Tom (Title IX Related),Arrest,436 at 4136  Stadium  Dr
+2024-00058141,03/25/24 10:25,03/25/24 11:20,Peeping Tom,Active/Pending,436 at 4136  Stadium  Dr
 2024-00058209,03/25/24 14:30,03/25/24 14:36,Suspicious Activity,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00058244,01/19/24 12:00,03/25/24 15:48,Theft,Investigation Pending,3900 block of  Campus  Dr
 2024-00058341,03/13/24 17:00,03/25/24 18:29,Theft,Unfounded,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
@@ -2254,9 +2254,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00059131,03/26/24 22:13,03/26/24 22:13,Injured/Sick Person,CBE,340 block of  Ehrensberger  Dr
 2024-00059277,03/26/24 20:07,03/27/24 00:29,Vandalism,Investigation Pending,Cumberland Hall at 4250  Farm  Dr
 2024-00059537,03/27/24 11:57,03/27/24 11:57,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
-2024-00059645,03/16/24 10:00,03/27/24 16:05,Theft,Investigation Pending,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
+2024-00059645,03/16/24 10:00,03/27/24 16:05,Theft,Active/Pending,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
 2024-00059684,03/26/24 12:40,03/27/24 18:22,Other Incident,Active/Pending,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
-2024-00059700,03/26/24 20:30,03/27/24 18:53,Other Incident,Investigation Pending,"35, McKeldin Library at 7649  Library  Ln"
+2024-00059700,03/26/24 20:30,03/27/24 18:53,Other Incident,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2024-00059702,03/27/24 14:00,03/27/24 19:32,Injured/Sick Person,CBE,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
 2024-00059703,03/27/24 18:00,03/27/24 19:19,Theft,Investigation Pending,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2024-00059705,03/27/24 00:00,03/27/24 19:33,Theft,CBE,8600 block of  Boteler  Ln
@@ -2278,7 +2278,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00060920,03/29/24 15:13,03/29/24 15:18,Theft,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00060921,03/29/24 16:00,03/29/24 16:05,Other Incident,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
 2024-00061003,03/29/24 18:19,03/29/24 18:21,Other Incident,CBE,8100 block of  Baltimore  Ave
-2024-00061025,03/29/24 12:30,03/29/24 18:54,Theft from Auto,Investigation Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
+2024-00061025,03/29/24 12:30,03/29/24 18:54,Theft from Auto,Active/Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2024-00061081,03/29/24 21:19,03/29/24 21:19,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
 2024-00061096,03/29/24 18:55,03/29/24 21:23,Vandalism,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00061141,03/29/24 22:50,03/29/24 22:55,Injured/Sick Person,CBE,4500 block of  Knox  Rd
@@ -2286,30 +2286,30 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00061160,03/29/24 10:15,03/29/24 23:07,Assist Other Agency / Check on the Welfare,CBE,4600 block of  College  Ave
 2024-00061193,03/30/24 00:48,03/30/24 00:48,Warrant/Summons Service,Arrest,University  Blvd
 2024-00061199,03/30/24 01:20,03/30/24 01:20,Injured/Sick Person,CBE,Technology  Dr
-2024-00061214,03/14/24 16:00,03/30/24 02:35,Theft,Warrant Issued,College  Ave
+2024-00061214,03/14/24 16:00,03/30/24 02:35,Theft,Active/Pending,College  Ave
 2024-00061491,03/30/24 13:50,03/30/24 13:50,Injured/Sick Person,CBE,274 at 4320  Rowalt  Dr
 2024-00061500,03/30/24 15:50,03/30/24 15:50,Injured/Sick Person,CBE,"64, Dorchester, Dorchester Hall at 3947  Campus  Dr"
 2024-00061743,03/27/24 14:00,03/30/24 23:52,Theft,Investigation Pending,436 at 4136  Stadium  Dr
 2024-00061814,03/31/24 01:28,03/31/24 01:28,Injured/Sick Person,CBE,6900 block of  Preinkert  Dr
 2024-00061820,03/31/24 01:51,03/31/24 01:51,DWI/DUI,Arrest,Baltimore  Ave
-2024-00061914,03/30/24 22:00,03/31/24 05:47,Theft,Arrest,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
+2024-00061914,03/30/24 22:00,03/31/24 05:47,Theft,Active/Pending,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
 2024-00062078,03/26/24 17:00,03/31/24 12:21,Other Incident,CBE,Animal Science Building at 8127  Regents  Dr
 2024-00062081,09/01/23 00:00,03/31/24 12:52,Vandalism,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
-2024-00062089,03/27/24 13:40,03/31/24 14:02,Theft,Investigation Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
+2024-00062089,03/27/24 13:40,03/31/24 14:02,Theft,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2024-00062132,03/31/24 15:58,03/31/24 15:58,Vandalism,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00062298,03/31/24 22:22,03/31/24 22:22,Injured/Sick Person,CBE,4200 block of  Farm  Dr
 2024-00062303,03/31/24 22:34,03/31/24 22:48,Assist Other Agency / Robbery,CBE,"Dunkin Donuts, Landmark s at 4500  College  Ave"
 2024-00062306,03/31/24 22:15,03/31/24 23:22,Assist Other Agency / Robbery,CBE,Calvert  Rd
 2024-00062398,04/01/24 03:38,04/01/24 03:38,DWI/DUI,Arrest,Adelphi  Rd
 2024-00062440,04/01/24 07:17,04/01/24 07:17,Damage to State Property,CBE,7600 block of  Baltimore  Ave
-2024-00062568,04/01/24 10:27,04/01/24 10:27,Other Incident,Investigation Pending,"Delta Gamma, Delta Gamma Sorority at 4518  Knox  Rd"
-2024-00062655,04/01/24 13:23,04/01/24 13:23,Suicide,CBE,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
-2024-00062704,03/30/24 16:30,04/01/24 17:26,Theft,Investigation Pending,"14, Harford Hall at 7660  Regents  Dr"
+2024-00062568,04/01/24 10:27,04/01/24 10:27,Other Incident,Active/Pending,"Delta Gamma, Delta Gamma Sorority at 4518  Knox  Rd"
+2024-00062655,04/01/24 13:23,04/01/24 13:23,Death Investigation,Active/Pending,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
+2024-00062704,03/30/24 16:30,04/01/24 17:26,Theft,Active/Pending,"14, Harford Hall at 7660  Regents  Dr"
 2024-00062705,04/01/24 17:30,04/01/24 17:58,Other Incident,CBE,3900 block of  Campus  Dr
 2024-00062890,04/01/24 23:36,04/01/24 23:36,Injured/Sick Person,CBE,Campus  Dr
 2024-00062958,04/02/24 01:33,04/02/24 01:33,Emergency Petition,CBE,4500 block of  Knox  Rd
 2024-00063162,04/02/24 11:05,04/02/24 11:05,Trespassing,CBE,7600 block of  Mowatt  Ln
-2024-00063226,04/01/24 17:00,04/02/24 13:25,Theft,Investigation Pending,La Plata Hall at 8160  La Plata  Dr
+2024-00063226,04/01/24 17:00,04/02/24 13:25,Theft,Active/Pending,La Plata Hall at 8160  La Plata  Dr
 2024-00063457,04/02/24 21:56,04/02/24 21:56,DWI/DUI,Arrest,University  Blvd
 2024-00063474,04/02/24 22:00,04/02/24 22:35,Assist Other Agency / Check on the Welfare,CBE,Rhode Island  Ave
 2024-00063613,04/03/24 01:06,04/03/24 01:06,Injured/Sick Person,CBE,3800 block of  Stadium  Dr
@@ -2317,42 +2317,41 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00063824,04/03/24 06:30,04/03/24 10:13,Damage to State Property,CBE,436 at 4136  Stadium  Dr
 2024-00063825,04/03/24 10:23,04/03/24 10:23,Other Incident,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2024-00064402,04/04/24 04:43,04/04/24 04:43,Trespassing,CBE,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
-2024-00064453,04/01/24 15:00,04/04/24 09:34,Theft,Summons Issued,436 at 4136  Stadium  Dr
+2024-00064453,04/01/24 15:00,04/04/24 09:34,Theft,Active/Pending,436 at 4136  Stadium  Dr
 2024-00064531,04/04/24 12:26,04/04/24 12:26,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2024-00064533,04/04/24 12:52,04/04/24 12:52,Injured/Sick Person,CBE,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
 2024-00064536,06/20/23 08:00,04/04/24 13:19,Recovered Stolen Motor Vehicle,CBE,North Gate at 4306  Campus  Dr
-2024-00064884,04/03/24 21:00,04/04/24 21:37,Theft,Investigation Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
+2024-00064884,04/03/24 21:00,04/04/24 21:37,Theft,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2024-00064957,04/04/24 23:50,04/04/24 23:54,Injured/Sick Person,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
-2024-00065041,04/02/24 20:00,04/05/24 02:59,Suspicious Activity,Investigation Pending,274 at 4320  Rowalt  Dr
+2024-00065041,04/02/24 20:00,04/05/24 02:59,Suspicious Activity,Active/Pending,274 at 4320  Rowalt  Dr
 2024-00065194,03/21/24 15:00,04/05/24 08:54,Theft,Investigation Pending,4100 block of N Library  Ln
 2024-00065220,04/05/24 10:36,04/05/24 10:36,Other Incident,CBE,Neutral Buoyancy Research Facility at 4436  Technology  Dr
 2024-00065252,03/29/24 15:00,04/05/24 12:45,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
-2024-00065253,04/05/24 12:50,04/05/24 12:55,Theft,Warrant Issued,"Frat 12, Zeta Tau Alpha, Zeta Tau Alpha Sorority at 12  Fraternity  Row"
+2024-00065253,04/05/24 12:50,04/05/24 12:55,Theft,Active/Pending,"Frat 12, Zeta Tau Alpha, Zeta Tau Alpha Sorority at 12  Fraternity  Row"
 2024-00065259,04/05/24 15:01,04/05/24 15:01,Other Incident,CBE,"84, Kirwan Hall, Mathematics Building, William E. Kirwan Hall at 4176  Campus  Dr"
-2024-00065262,04/05/24 08:30,04/05/24 15:29,Theft,Investigation Pending,436 at 4136  Stadium  Dr
+2024-00065262,04/05/24 08:30,04/05/24 15:29,Theft,Active/Pending,436 at 4136  Stadium  Dr
 2024-00065264,04/05/24 13:30,04/05/24 16:28,Theft,Investigation Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
 2024-00065413,04/05/24 18:30,04/05/24 18:38,Disorderly Conduct,Arrest,Lot 11b
-2024-00065509,04/05/24 11:00,04/05/24 20:14,Theft,Investigation Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
-2024-00065515,04/05/24 19:00,04/05/24 20:29,Theft,Investigation Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2024-00065509,04/05/24 11:00,04/05/24 20:14,Theft,Active/Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
+2024-00065515,04/05/24 19:00,04/05/24 20:29,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2024-00065612,04/05/24 13:00,04/05/24 23:12,Theft,Investigation Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00065726,04/06/24 02:28,04/06/24 02:28,Warrant/Summons Service,Arrest,Baltimore  Ave
 2024-00065731,04/06/24 03:36,04/06/24 03:36,Emergency Petition,CBE,7600 block of  Regents  Dr
-2024-00065873,04/05/24 16:19,04/06/24 10:32,Theft,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2024-00065873,04/05/24 16:19,04/06/24 10:32,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00065900,04/06/24 12:53,04/06/24 13:30,Telephone/EMail Misuse,Investigation Pending,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
-2024-00066074,04/06/24 18:30,04/06/24 20:41,Lost Property,CBE,"78, Armory, Reckord Armory at 4490  Rossborough  Ln"
-2024-00066492,04/06/24 19:30,04/07/24 09:53,Theft,CBE,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
-2024-00066545,04/07/24 11:09,04/07/24 11:39,Theft,Unfounded,"38, Lefrak, Lefrak Hall at 7251  Preinkert  Dr"
+2024-00066074,04/06/24 18:30,04/06/24 20:41,Lost Property,Active/Pending,"78, Armory, Reckord Armory at 4490  Rossborough  Ln"
+2024-00066492,04/06/24 19:30,04/07/24 09:53,Theft,Active/Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
+2024-00066545,04/07/24 11:09,04/07/24 11:39,Theft,Active/Pending,"38, Lefrak, Lefrak Hall at 7251  Preinkert  Dr"
 2024-00066620,03/15/24 16:00,04/07/24 14:09,Theft,Investigation Pending,436 at 4136  Stadium  Dr
 2024-00066720,03/01/24 00:00,04/07/24 16:34,Assist Other Agency / Other,CBE,8100 block of  Baltimore  Ave
 2024-00066728,12/08/23 00:00,04/07/24 16:49,Assist Other Agency / Other,CBE,8100 block of  Baltimore  Ave
-2024-00066739,04/07/24 14:30,04/07/24 17:40,Theft,Unfounded,4200 block of  Valley  Dr
+2024-00066739,04/07/24 14:30,04/07/24 17:40,Theft,Investigation Pending,4200 block of  Valley  Dr
 2024-00066868,04/07/24 22:45,04/07/24 22:45,CDS Violation,CBE,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00067289,04/01/24 00:00,04/08/24 09:49,Damage to State Property,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
-2024-00067342,04/04/24 21:00,04/08/24 10:54,Theft,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
-2024-00067359,03/27/24 08:00,04/08/24 11:09,Theft,Active/Pending,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
+2024-00067342,04/04/24 21:00,04/08/24 10:54,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
+2024-00067359,03/27/24 08:00,04/08/24 11:09,Theft,Investigation Pending,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2024-00067400,04/06/24 09:50,04/08/24 12:05,Theft,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00067409,04/03/24 17:00,04/08/24 12:54,Theft,Investigation Pending,7800 block of  Regents  Dr
-2024-00067415,04/05/24 23:00,04/08/24 13:17,Theft,Investigation Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00067449,04/05/24 15:00,04/08/24 14:12,Theft,Investigation Pending,La Plata Hall at 8160  La Plata  Dr
 2024-00067500,04/06/24 15:00,04/08/24 16:33,Theft,Active/Pending,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
 2024-00067548,04/08/24 18:22,04/08/24 18:22,Injured/Sick Person,CBE,"48, Francis Scott Key, Francis Scott Key Hall, FS Key Hall, FSK at 4282  Chapel  Ln"
@@ -2363,26 +2362,26 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00067930,04/01/24 12:00,04/09/24 08:01,Theft,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00068076,04/06/24 07:00,04/09/24 13:26,Theft,Investigation Pending,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2024-00068275,04/09/24 18:51,04/09/24 18:51,DWI/DUI,Arrest,University  Blvd
-2024-00068276,04/09/24 19:08,04/09/24 19:08,Other Incident,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2024-00068276,04/09/24 19:08,04/09/24 19:08,Other Incident,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00068288,04/09/24 21:13,04/09/24 21:13,Injured/Sick Person,CBE,4000 block of  Stadium  Dr
 2024-00068291,04/09/24 22:08,04/09/24 22:08,DWI/DUI,Arrest,Mowatt  Ln
 2024-00068448,04/10/24 02:46,04/10/24 02:46,Suspicious Activity,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2024-00068536,03/29/24 18:17,04/10/24 06:39,Damage to State Property,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
-2024-00068642,04/09/24 17:00,04/10/24 10:23,Theft,Investigation Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
+2024-00068642,04/09/24 17:00,04/10/24 10:23,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2024-00068713,04/10/24 09:48,04/10/24 12:21,Theft,Investigation Pending,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2024-00068720,04/09/24 19:50,04/10/24 12:55,Damage to State Property,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2024-00068767,04/10/24 15:46,04/10/24 15:46,Emergency Petition,CBE,4300 block of  Hartwick Rd
 2024-00068769,04/10/24 16:25,04/10/24 16:25,Other Incident,CBE,7500 block of  Regents  Dr
 2024-00068775,04/10/24 15:45,04/10/24 16:58,Theft,Investigation Pending,Cumberland Hall at 4250  Farm  Dr
 2024-00068784,04/10/24 17:29,04/10/24 17:29,Injured/Sick Person,CBE,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
-2024-00068786,04/09/24 20:00,04/10/24 17:34,Theft,Investigation Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
+2024-00068786,04/09/24 20:00,04/10/24 17:34,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2024-00068788,04/10/24 18:00,04/10/24 18:03,Injured/Sick Person,CBE,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00068993,04/11/24 00:57,04/11/24 00:57,Emergency Petition,CBE,"Leonardtown #245, Leonardtown at 4689  Rossborough  Ln"
-2024-00069051,04/11/24 02:40,04/11/24 02:54,Suspicious Person/Auto,CBE,6800 block of  Preinkert  Dr
-2024-00069138,04/09/24 21:00,04/11/24 08:15,Theft,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
+2024-00069051,04/11/24 02:40,04/11/24 02:54,Suspicious Person/Auto,Active/Pending,6800 block of  Preinkert  Dr
+2024-00069138,04/09/24 21:00,04/11/24 08:15,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00069213,04/11/24 10:50,04/11/24 11:04,Suspicious Activity,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2024-00069214,04/03/24 16:00,04/11/24 11:18,Theft,Investigation Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
-2024-00069249,04/11/24 13:08,04/11/24 13:08,Hate Bias Incident,Active/Pending,"Hornbake, Hornbake Library at 4130  Campus  Dr"
+2024-00069249,04/11/24 13:08,04/11/24 13:08,Hate Bias Incident,CBE,"Hornbake, Hornbake Library at 4130  Campus  Dr"
 2024-00069280,04/11/24 14:45,04/11/24 14:45,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00069285,04/11/24 15:35,04/11/24 15:46,Injured/Sick Person,CBE,"76, Symons Hall at 7998  Regents  Dr"
 2024-00069289,04/11/24 16:22,04/11/24 16:29,Theft,Arrest,"Easton, Easton Hall at 3917  Denton Service  Ln"
@@ -2390,12 +2389,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00069313,04/11/24 20:40,04/11/24 20:40,Other Incident,CBE,436 at 4136  Stadium  Dr
 2024-00069446,04/12/24 00:43,04/12/24 00:43,Assist Other Agency / Other,CBE,4200 block of  Knox  Rd
 2024-00069768,04/12/24 09:31,04/12/24 09:31,Trespassing,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
-2024-00069850,03/05/24 00:00,04/12/24 12:13,Theft,Unfounded,Technology Ventures Building at 5000  College  Ave
-2024-00069875,04/09/24 19:00,04/12/24 14:13,Theft,Investigation Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
-2024-00069951,04/12/24 04:00,04/12/24 16:07,Theft,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
+2024-00069850,03/05/24 00:00,04/12/24 12:13,Theft,Active/Pending,Technology Ventures Building at 5000  College  Ave
+2024-00069875,04/09/24 19:00,04/12/24 14:13,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
+2024-00069951,04/12/24 04:00,04/12/24 16:07,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00069957,04/12/24 17:11,04/12/24 17:11,Injured/Sick Person,CBE,4300 block of  Calvert  Rd
 2024-00070043,05/01/23 00:00,04/12/24 19:44,Title IX Incident Non Criminal,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
-2024-00070153,04/12/24 22:20,04/12/24 23:16,Vandalism,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
+2024-00070153,04/12/24 22:20,04/12/24 23:16,Vandalism,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00070162,04/12/24 23:37,04/12/24 23:37,CDS Violation,Arrest,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00070214,04/13/24 01:31,04/13/24 01:31,Other Incident,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2024-00070365,04/13/24 04:19,04/13/24 04:19,DWI/DUI,Arrest,University  Blvd
@@ -2407,14 +2406,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00070777,04/13/24 20:25,04/13/24 20:25,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00070783,04/13/24 20:40,04/13/24 20:50,Injured/Sick Person,CBE,"76, Symons Hall at 7998  Regents  Dr"
 2024-00070823,04/13/24 23:07,04/13/24 23:07,Injured/Sick Person,CBE,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
-2024-00070825,04/13/24 22:52,04/13/24 22:52,Vandalism,Investigation Pending,Regents  Dr
+2024-00070825,04/13/24 22:52,04/13/24 22:52,Vandalism,Active/Pending,Regents  Dr
 2024-00071167,04/14/24 09:35,04/14/24 09:35,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00071266,04/13/24 23:00,04/14/24 11:55,Vandalism,Investigation Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2024-00071390,04/14/24 17:00,04/14/24 17:08,Emergency Petition,CBE,8100 block of  48th  Ave
 2024-00071481,04/14/24 19:00,04/14/24 22:01,Emergency Petition,CBE,4300 block of  Knox  Rd
 2024-00071649,04/15/24 03:15,04/15/24 03:15,Noise Complaint,CBE,"15, Calvert, Calvert Hall at 7551  Calvert Service  Ln"
 2024-00071652,04/15/24 03:34,04/15/24 03:34,Accident - Departmental,CBE,"35, McKeldin Library at 7649  Library  Ln"
-2024-00071912,04/10/24 19:00,04/15/24 10:11,Theft,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
+2024-00071912,04/10/24 19:00,04/15/24 10:11,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00071937,03/28/24 12:00,04/15/24 11:27,Other Incident,Unfounded,436 at 4136  Stadium  Dr
 2024-00071938,03/16/24 00:30,04/15/24 11:40,Other Incident,CBE,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center, Jones-Hill House at 4090  Union  Dr"
 2024-00071959,04/13/24 11:55,04/15/24 12:08,Theft,Unfounded,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
@@ -2422,26 +2421,22 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00072018,04/11/24 07:00,04/15/24 15:35,Vandalism,Active/Pending,8000 block of  Hagerstown  Dr
 2024-00072051,04/15/24 17:14,04/15/24 17:14,Emergency Petition,CBE,4200 block of  Chapel  Ln
 2024-00072335,04/16/24 02:10,04/16/24 02:10,Injured/Sick Person,CBE,South Gate at 7567  Regents  Dr
-2024-00072444,04/15/24 09:30,04/16/24 08:50,Other Incident,CBE,7400 block of  Columbia  Ave
+2024-00072444,04/15/24 09:30,04/16/24 08:50,Other Incident,Active/Pending,7400 block of  Columbia  Ave
 2024-00072536,04/16/24 11:45,04/16/24 11:48,Hazardous Condition,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
-2024-00072537,04/16/24 09:50,04/16/24 11:50,Burglary,Arrest,7400 block of  Columbia  Ave
-2024-00072552,04/15/24 22:30,04/16/24 13:17,Suspicious Activity,CBE,7600 block of  Preinkert  Dr
-2024-00072554,04/15/24 20:45,04/16/24 13:31,Theft,Investigation Pending,"Frat 14, Zeta Beta Tau, Zeta Beta Tau Fraternity at 14  Fraternity  Row"
+2024-00072552,04/15/24 22:30,04/16/24 13:17,Suspicious Activity,Active/Pending,7600 block of  Preinkert  Dr
+2024-00072554,04/15/24 20:45,04/16/24 13:31,Theft,Active/Pending,"Frat 14, Zeta Beta Tau, Zeta Beta Tau Fraternity at 14  Fraternity  Row"
 2024-00072561,04/16/24 14:23,04/16/24 14:23,Injured/Sick Person,Active/Pending,8200 block of  Boteler  Ln
 2024-00072646,04/16/24 18:30,04/16/24 19:22,Injured/Sick Person,CBE,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
-2024-00073027,03/25/24 10:00,04/17/24 09:16,Theft,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
-2024-00073176,04/16/24 00:00,04/17/24 15:17,Suspicious Activity,Investigation Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2024-00073176,04/16/24 00:00,04/17/24 15:17,Suspicious Activity,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2024-00073226,04/17/24 17:02,04/17/24 17:02,Emergency Petition,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00073354,04/17/24 22:55,04/17/24 22:55,Emergency Petition,CBE,4200 block of  Valley  Dr
-2024-00073782,04/18/24 12:00,04/18/24 12:55,Other Incident,CBE,"Hornbake Mall, Hornbake Plaza"
+2024-00073782,04/18/24 12:00,04/18/24 12:55,Other Incident,Active/Pending,"Hornbake Mall, Hornbake Plaza"
 2024-00073835,04/18/24 14:15,04/18/24 16:33,Assist Other Agency / Other,CBE,8800 block of  36th  Ave
 2024-00073877,04/18/24 17:56,04/18/24 17:56,Emergency Petition,CBE,4200 block of  Valley  Dr
-2024-00074047,04/18/24 23:40,04/18/24 23:40,Alcohol Violation,Arrest,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00074058,04/18/24 09:00,04/18/24 23:52,Theft,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
 2024-00074059,04/18/24 23:48,04/18/24 23:48,Trespassing,Arrest,274 at 4320  Rowalt  Dr
 2024-00074453,04/19/24 09:54,04/19/24 09:54,Other Incident,CBE,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2024-00074512,04/19/24 12:36,04/19/24 12:56,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
-2024-00074596,04/17/24 11:00,04/19/24 15:52,Theft,Investigation Pending,"Benjamin, Benjamin Building at 3942  Campus  Dr"
 2024-00074666,02/07/23 17:12,04/19/24 17:27,Harassment/Stalking (Title IX Related),Active/Pending,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
 2024-00074876,04/20/24 01:34,04/20/24 01:34,Injured/Sick Person,CBE,"Church of Jesus Christ of Latter-day Saints, Latter Day Saints, LDS Church at 7601  Mowatt  Ln"
 2024-00074929,04/20/24 03:02,04/20/24 03:02,Injured/Sick Person,CBE,Knox  Rd
@@ -2449,30 +2444,35 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00075206,04/20/24 13:09,04/20/24 13:09,Injured/Sick Person,CBE,"9, Chapel, Memorial Chapel at 7744  Regents  Dr"
 2024-00075237,04/20/24 14:30,04/20/24 14:30,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2024-00075284,04/20/24 16:02,04/20/24 16:02,Injured/Sick Person,CBE,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
-2024-00075648,04/21/24 03:27,04/21/24 03:27,DWI/DUI,Arrest,University  Blvd
 2024-00075661,04/21/24 05:07,04/21/24 05:07,Injured/Sick Person,CBE,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
-2024-00076113,04/21/24 22:00,04/21/24 22:19,Accident,CBE,Lot Z
-2024-00076167,04/21/24 23:33,04/21/24 23:33,CDS Violation,Arrest,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00076179,04/22/23 00:08,04/22/24 00:08,Assist Other Agency / Vandalism,CBE,4600 block of  Calvert  Rd
-2024-00076387,04/22/24 00:00,04/22/24 06:22,Trespassing,Investigation Pending,Stanley R. Zupnick Hall at 8184  Paint Branch  Dr
-2024-00076615,04/22/24 09:30,04/22/24 10:51,Accident - Departmental,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
-2024-00076654,04/19/24 07:45,04/22/24 10:52,Fraud,Investigation Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2024-00076615,04/22/24 09:30,04/22/24 10:51,Accident - Departmental,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2024-00076654,04/19/24 07:45,04/22/24 10:52,Fraud,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00076689,04/22/24 12:02,04/22/24 12:02,Injured/Sick Person,CBE,"76, Symons Hall at 7998  Regents  Dr"
 2024-00077317,04/23/24 09:30,04/23/24 09:33,Injured/Sick Person,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2024-00077453,04/23/24 14:25,04/23/24 14:25,Emergency Petition,CBE,4200 block of  Chapel  Ln
-2024-00077462,04/21/24 20:00,04/23/24 14:53,Theft,Unfounded,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00077515,04/23/24 16:45,04/23/24 16:47,Injured/Sick Person,CBE,"Animal Science Service Building, Campus Farm at 8156  Regents  Dr"
-2024-00077550,04/23/24 19:12,04/23/24 19:12,Fire,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
+2024-00077550,04/23/24 19:37,04/23/24 19:12,Fire,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00077806,04/18/24 21:30,04/24/24 06:41,Theft,Investigation Pending,7700 block of  Alumni  Dr
 2024-00077890,04/24/24 08:56,04/24/24 09:06,Theft,Active/Pending,Campus  Dr
-2024-00077930,04/22/24 21:32,04/24/24 10:57,Vandalism,CBE,"84, Kirwan Hall, Mathematics Building, William E. Kirwan Hall at 4176  Campus  Dr"
+2024-00077930,04/22/24 21:32,04/24/24 10:57,Vandalism,Active/Pending,"84, Kirwan Hall, Mathematics Building, William E. Kirwan Hall at 4176  Campus  Dr"
 2024-00077936,04/24/24 05:00,04/24/24 11:10,Assist Other Agency / Burglary,CBE,7500 block of  Girard  Ave
-2024-00077979,04/23/24 17:00,04/24/24 12:43,Theft,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
-2024-00077987,04/23/24 22:30,04/24/24 13:03,Theft,Active/Pending,"78, Armory, Reckord Armory at 4490  Rossborough  Ln"
-2024-00077992,04/18/24 12:00,04/24/24 13:19,Fraud,Active/Pending,Kim Engineering Building at 8228  Paint Branch  Dr
+2024-00077979,04/23/24 17:00,04/24/24 12:43,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00078047,04/24/24 13:58,04/24/24 14:51,Theft,Active/Pending,Cumberland Hall at 4250  Farm  Dr
 2024-00078105,04/24/24 15:55,04/24/24 15:55,Trespassing,Arrest,4100 block of  Campus  Dr
-2024-00078211,04/24/24 20:30,04/24/24 22:29,Theft,Investigation Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
+2024-00078211,04/24/24 20:30,04/24/24 22:29,Theft,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
+2024-00067415,04/05/24 23:00,04/08/24 13:17,Theft,Investigation Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
+2024-00072537,04/16/24 09:50,04/16/24 11:50,Burglary,Arrest,7400 block of  Columbia  Ave
+2024-00073027,03/25/24 10:00,04/17/24 09:16,Theft,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
+2024-00074047,04/18/24 23:40,04/18/24 23:40,Alcohol Violation,Arrest,"Easton, Easton Hall at 3917  Denton Service  Ln"
+2024-00074596,04/17/24 11:00,04/19/24 15:52,Theft,Investigation Pending,"Benjamin, Benjamin Building at 3942  Campus  Dr"
+2024-00075648,04/21/24 03:27,04/21/24 03:27,DWI/DUI,Arrest,University  Blvd
+2024-00076113,04/21/24 22:00,04/21/24 22:19,Accident,CBE,Lot Z
+2024-00076167,04/21/24 23:33,04/21/24 23:33,CDS Violation,Arrest,"Easton, Easton Hall at 3917  Denton Service  Ln"
+2024-00076387,04/22/24 00:00,04/22/24 06:22,Trespassing,Investigation Pending,Stanley R. Zupnick Hall at 8184  Paint Branch  Dr
+2024-00077462,04/21/24 20:00,04/23/24 14:53,Theft,Unfounded,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2024-00077987,04/23/24 22:30,04/24/24 13:03,Theft,Active/Pending,"78, Armory, Reckord Armory at 4490  Rossborough  Ln"
+2024-00077992,04/18/24 12:00,04/24/24 13:19,Fraud,Active/Pending,Kim Engineering Building at 8228  Paint Branch  Dr
 2024-00078212,04/24/24 22:32,04/24/24 22:35,Assist Other Agency / Hate Bias Incident,CBE,Baltimore  Ave
 2024-00078251,04/25/24 00:16,04/25/24 00:16,Trespassing,CBE,3900 block of  Campus  Dr
 2024-00078445,04/23/24 22:45,04/25/24 09:17,Theft,Investigation Pending,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
