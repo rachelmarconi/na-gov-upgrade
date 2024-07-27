@@ -2574,7 +2574,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00086101,05/07/24 16:50,05/07/24 17:16,Accident - Departmental,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00086108,05/07/24 17:25,05/07/24 17:25,Accident - Departmental,CBE,Kenilworth  Ave
 2024-00086152,04/16/24 08:00,05/07/24 18:38,Other Incident,Active/Pending,"62, St Marys Hall, St. Mary's, St. Mary's Hall at 3949  Campus  Dr"
-2024-00086343,05/07/24 13:00,05/08/24 00:02,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
+2024-00086343,05/07/24 13:00,05/08/24 00:02,Theft,CBE,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2024-00086539,04/24/24 06:30,05/08/24 10:45,Other Incident,CBE,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
 2024-00086542,05/07/24 12:30,05/08/24 11:08,Vandalism,Investigation Pending,"73, H.J. Patterson Hall, HJ Patterson Hall at 4065  Campus  Dr"
 2024-00086899,05/08/24 20:45,05/08/24 21:57,Theft,Investigation Pending,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
@@ -2600,7 +2600,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00089111,05/12/24 03:00,05/12/24 09:03,Domestic (Title IX Related),CBE,7500 block of  Calvert Service  Ln
 2024-00089121,05/11/24 19:30,05/12/24 10:57,Theft,Unfounded,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2024-00089139,05/12/24 12:25,05/12/24 12:25,Damage to State Property,CBE,"64, Dorchester, Dorchester Hall at 3947  Campus  Dr"
-2024-00089163,05/12/24 07:00,05/12/24 14:20,Theft,Active/Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
+2024-00089163,05/12/24 07:00,05/12/24 14:20,Theft,Summons Issued,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
 2024-00089178,05/11/24 03:00,05/12/24 16:05,Assist Other Agency (Title IX Related) / Sex Offense,CBE,7700 block of  Baltimore  Ave
 2024-00089483,05/13/24 05:54,05/13/24 05:54,DWI/DUI,Arrest,Baltimore  Ave
 2024-00090098,05/14/24 03:22,05/14/24 03:22,DWI/DUI,Arrest,University  Blvd
