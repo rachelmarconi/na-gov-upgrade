@@ -2792,7 +2792,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00111659,07/02/24 12:23,07/02/24 12:26,Assist Other Agency / Other,CBE,Baltimore  Ave
 2024-00111739,05/24/24 00:00,07/02/24 18:37,Theft,Investigation Pending,4200 block of  Farm  Dr
 2024-00111752,07/02/24 18:25,07/02/24 19:18,Theft,Summons Issued,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
-2024-00111781,07/02/24 18:00,07/02/24 21:16,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2024-00111781,07/02/24 18:00,07/02/24 21:16,Theft,Investigation Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00111877,07/02/24 23:00,07/03/24 00:51,Suspicious Activity,Active/Pending,Baltimore  Ave
 2024-00111982,07/03/24 00:31,07/03/24 06:04,Assist Other Agency / Trespassing,Active/Pending,7300 block of  Baltimore  Ave
 2024-00112087,07/03/24 14:12,07/03/24 14:12,Theft,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
@@ -2838,6 +2838,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00115176,07/12/24 09:06,07/12/24 09:06,Injured/Sick Person,CBE,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00115345,07/12/24 11:00,07/12/24 15:40,Theft,Active/Pending,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
 2024-00115555,07/13/24 01:38,07/13/24 01:38,DWI/DUI,Arrest,"83, J.M. Patterson Building, JM Patterson, JM Patterson Building at 4356  Stadium  Dr"
+2024-00115776,07/13/24 11:09,07/13/24 11:09,Recovered Stolen Motor Vehicle,Arrest,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00115818,07/13/24 15:41,07/13/24 15:41,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2024-00116070,07/14/24 02:53,07/14/24 02:53,DWI/DUI,Arrest,University  Blvd
 2024-00116255,07/13/24 14:00,07/14/24 15:23,Theft,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
@@ -2855,9 +2856,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00117920,07/18/24 14:00,07/18/24 18:25,Theft,Active/Pending,Fieldhouse  Dr
 2024-00117957,07/18/24 14:00,07/18/24 19:52,Theft,Investigation Pending,"84, Kirwan Hall, Mathematics Building, William E. Kirwan Hall at 4176  Campus  Dr"
 2024-00117964,07/17/24 18:00,07/18/24 21:26,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
+2024-00118256,04/22/24 00:00,07/19/24 11:49,Fraud,Active/Pending,8500 block of  Boteler  Ln
 2024-00118463,07/20/24 00:25,07/20/24 00:25,DWI/DUI,Arrest,7100 block of  Baltimore  Ave
 2024-00118477,07/20/24 01:27,07/20/24 01:27,DWI/DUI,Arrest,College  Ave
 2024-00118893,07/21/24 02:21,07/21/24 02:21,DWI/DUI,Arrest,Greenbelt  Rd
+2024-00118967,07/21/24 08:32,07/21/24 08:32,Vandalism,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00119544,07/22/24 11:22,07/22/24 11:22,Injured/Sick Person,CBE,"31, Garrett, Garrett Hall at 7570  Calvert Service  Ln"
 2024-00119594,07/01/24 09:00,07/22/24 14:20,Other Incident,CBE,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
 2024-00119877,07/23/24 07:55,07/23/24 07:55,Recovered Stolen Motor Vehicle,Active/Pending,University Courtyard #5 at 8500  Boteler  Ln
