@@ -2333,7 +2333,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00065264,04/05/24 13:30,04/05/24 16:28,Theft,Investigation Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
 2024-00065413,04/05/24 18:30,04/05/24 18:38,Disorderly Conduct,Arrest,Lot 11b
 2024-00065509,04/05/24 11:00,04/05/24 20:14,Theft,Investigation Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
-2024-00065515,04/05/24 19:00,04/05/24 20:29,Theft,Investigation Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2024-00065515,04/05/24 19:00,04/05/24 20:29,Theft,Warrant Issued,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2024-00065612,04/05/24 13:00,04/05/24 23:12,Theft,Investigation Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00065726,04/06/24 02:28,04/06/24 02:28,Warrant/Summons Service,Arrest,Baltimore  Ave
 2024-00065731,04/06/24 03:36,04/06/24 03:36,Emergency Petition,CBE,7600 block of  Regents  Dr
@@ -2349,7 +2349,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00066868,04/07/24 22:45,04/07/24 22:45,CDS Violation,CBE,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00067289,04/01/24 00:00,04/08/24 09:49,Damage to State Property,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
 2024-00067342,04/04/24 21:00,04/08/24 10:54,Theft,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
-2024-00067359,03/27/24 08:00,04/08/24 11:09,Theft,Active/Pending,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
+2024-00067359,03/27/24 08:00,04/08/24 11:09,Theft,Warrant Issued,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2024-00067400,04/06/24 09:50,04/08/24 12:05,Theft,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00067409,04/03/24 17:00,04/08/24 12:54,Theft,Investigation Pending,7800 block of  Regents  Dr
 2024-00067415,04/05/24 23:00,04/08/24 13:17,Theft,Investigation Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
@@ -2857,7 +2857,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00117957,07/18/24 14:00,07/18/24 19:52,Theft,Investigation Pending,"84, Kirwan Hall, Mathematics Building, William E. Kirwan Hall at 4176  Campus  Dr"
 2024-00117958,07/18/24 19:10,07/18/24 19:49,Emergency Petition,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
 2024-00117964,07/17/24 18:00,07/18/24 21:26,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
-2024-00118227,07/18/24 15:00,07/19/24 10:51,Vandalism,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2024-00118227,07/18/24 15:00,07/19/24 10:51,Damage to State Property,Unfounded,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2024-00118256,04/22/24 00:00,07/19/24 11:49,Fraud,Active/Pending,8500 block of  Boteler  Ln
 2024-00118463,07/20/24 00:25,07/20/24 00:25,DWI/DUI,Arrest,7100 block of  Baltimore  Ave
 2024-00118477,07/20/24 01:27,07/20/24 01:27,DWI/DUI,Arrest,College  Ave
@@ -2878,7 +2878,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00121077,07/26/24 01:30,07/26/24 01:30,DWI/DUI,Arrest,University  Blvd
 2024-00121221,07/26/24 09:20,07/26/24 10:30,Theft,Active/Pending,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
 2024-00121491,07/27/24 00:07,07/27/24 00:07,DWI/DUI,Arrest,Xtra Mart at 8721  Baltimore  Ave
+2024-00121531,07/27/24 03:45,07/27/24 03:45,DWI/DUI,Arrest,University  Blvd
 2024-00121744,07/27/24 17:06,07/27/24 17:06,Theft,Active/Pending,Fieldhouse  Dr
+2024-00122567,07/29/24 08:45,07/29/24 09:31,Injured/Sick Person,CBE,3600 block of  Campus Dr
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
