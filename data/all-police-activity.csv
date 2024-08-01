@@ -2818,6 +2818,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00113287,07/07/24 00:33,07/07/24 00:33,DWI/DUI,Arrest,Wb University Blvd Ofrp Nb Adelphi Rd
 2024-00113289,07/07/24 00:41,07/07/24 00:41,Warrant/Summons Service,Arrest,"City of CP Garage, College Park Garage, CP Garage at  Knox  Rd"
 2024-00113313,07/07/24 03:11,07/07/24 03:11,DWI/DUI,Arrest,Adelphi  Rd
+2024-00113321,10/28/23 00:00,07/07/24 05:27,Extortion,Active/Pending,3400 block of  Tulane  Dr
 2024-00113466,07/07/24 11:49,07/07/24 11:49,Other Incident,CBE,8200 block of  Baltimore  Ave
 2024-00113469,07/07/24 12:13,07/07/24 12:13,Injured/Sick Person,CBE,7700 block of  Mowatt  Ln
 2024-00113470,07/07/24 07:10,07/07/24 12:21,Vandalism,Active/Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
@@ -2845,6 +2846,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00116454,07/14/24 23:41,07/14/24 23:41,DWI/DUI,Arrest,University  Blvd
 2024-00116458,07/14/24 23:55,07/14/24 23:55,Warrant/Summons Service,CBE,University  Blvd
 2024-00116470,07/15/24 02:16,07/15/24 02:16,DWI/DUI,Arrest,"College Park Shopping Center, CVS at 7300  Baltimore  Ave"
+2024-00116707,07/15/24 14:41,07/15/24 14:41,Assist Other Agency / Theft from Auto,CBE,Baltimore  Ave
 2024-00116864,07/16/24 00:27,07/16/24 00:27,DWI/DUI,Arrest,University  Blvd
 2024-00117098,07/16/24 17:13,07/16/24 17:13,Emergency Petition,CBE,140 block of  Campus Dr
 2024-00117148,07/16/24 20:00,07/16/24 20:00,Warrant/Summons Service,Arrest,Campus  Dr
@@ -2852,6 +2854,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00117222,07/17/24 01:22,07/17/24 01:22,Suspicious Person/Auto,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00117399,07/12/24 07:40,07/17/24 12:12,Theft from Auto,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2024-00117619,07/18/24 00:05,07/18/24 00:05,Injured/Sick Person,CBE,University  Blvd
+2024-00117885,07/18/24 16:33,07/18/24 16:33,Other Service Call,CBE,"Kehoe Track, Kehoe Track at Ludwig Field, Ludwig Field at 7898  Championship  Ln"
 2024-00117919,07/18/24 14:00,07/18/24 18:03,Theft,Active/Pending,"Physical Sciences Complex, PSC at 4296  Stadium  Dr"
 2024-00117920,07/18/24 14:00,07/18/24 18:25,Theft,Active/Pending,Fieldhouse  Dr
 2024-00117957,07/18/24 14:00,07/18/24 19:52,Theft,Investigation Pending,"84, Kirwan Hall, Mathematics Building, William E. Kirwan Hall at 4176  Campus  Dr"
@@ -2859,12 +2862,15 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00117964,07/17/24 18:00,07/18/24 21:26,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2024-00118227,07/18/24 15:00,07/19/24 10:51,Damage to State Property,Unfounded,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2024-00118256,04/22/24 00:00,07/19/24 11:49,Fraud,Active/Pending,8500 block of  Boteler  Ln
+2024-00118283,07/19/24 00:00,07/19/24 13:39,Stolen Motor Vehicle,Active/Pending,University Courtyard #5 at 8500  Boteler  Ln
+2024-00118319,07/19/24 15:00,07/19/24 16:12,Assist Other Agency / Check on the Welfare,CBE,17000 block of  Sandy Knoll Dr
 2024-00118463,07/20/24 00:25,07/20/24 00:25,DWI/DUI,Arrest,7100 block of  Baltimore  Ave
 2024-00118477,07/20/24 01:27,07/20/24 01:27,DWI/DUI,Arrest,College  Ave
 2024-00118893,07/21/24 02:21,07/21/24 02:21,DWI/DUI,Arrest,Greenbelt  Rd
 2024-00118967,07/21/24 08:32,07/21/24 08:32,Vandalism,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00119544,07/22/24 11:22,07/22/24 11:22,Injured/Sick Person,CBE,"31, Garrett, Garrett Hall at 7570  Calvert Service  Ln"
 2024-00119594,07/01/24 09:00,07/22/24 14:20,Other Incident,CBE,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
+2024-00119648,07/22/24 10:00,07/22/24 16:45,Damage to State Property,Active/Pending,Valley Dr
 2024-00119877,07/23/24 07:55,07/23/24 07:55,Recovered Stolen Motor Vehicle,Active/Pending,University Courtyard #5 at 8500  Boteler  Ln
 2024-00119895,07/23/24 09:13,07/23/24 09:13,Suspicious Activity,CBE,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
 2024-00119896,07/21/24 12:00,07/23/24 09:37,Assault,Active/Pending,436 at 4136  Stadium  Dr
@@ -2874,13 +2880,19 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00120267,07/24/24 09:30,07/24/24 09:30,Injured/Sick Person,CBE,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
 2024-00120321,07/24/24 12:46,07/24/24 13:14,Injured/Sick Person,CBE,436 at 4136  Stadium  Dr
 2024-00120368,07/24/24 16:11,07/24/24 16:11,Injured/Sick Person,CBE,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
+2024-00120855,07/25/24 15:28,07/25/24 15:28,Other Incident,CBE,4300 block of  Rowalt  Dr
 2024-00121005,07/25/24 20:00,07/25/24 22:10,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00121077,07/26/24 01:30,07/26/24 01:30,DWI/DUI,Arrest,University  Blvd
 2024-00121221,07/26/24 09:20,07/26/24 10:30,Theft,Active/Pending,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
 2024-00121491,07/27/24 00:07,07/27/24 00:07,DWI/DUI,Arrest,Xtra Mart at 8721  Baltimore  Ave
 2024-00121531,07/27/24 03:45,07/27/24 03:45,DWI/DUI,Arrest,University  Blvd
 2024-00121744,07/27/24 17:06,07/27/24 17:06,Theft,Active/Pending,Fieldhouse  Dr
+2024-00121895,07/27/24 23:07,07/27/24 23:07,Weapon Violation,Arrest,Baltimore  Ave
+2024-00121943,07/28/24 02:32,07/28/24 02:32,DWI/DUI,Arrest,Baltimore  Ave
+2024-00122114,07/28/24 10:17,07/28/24 10:17,Damage to State Property,CBE,"64, Dorchester, Dorchester Hall at 3947  Campus  Dr"
 2024-00122567,07/29/24 08:45,07/29/24 09:31,Injured/Sick Person,CBE,3600 block of  Campus Dr
+2024-00122795,07/30/24 00:58,07/30/24 00:58,DWI/DUI,Arrest,Adelphi  Rd
+2024-00123026,07/30/24 07:00,07/30/24 11:54,Trespassing,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
