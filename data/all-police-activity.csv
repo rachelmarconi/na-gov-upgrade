@@ -1833,7 +1833,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00006888,08/20/23 08:00,01/10/24 17:29,Vandalism,Arrest,"84, Kirwan Hall, Mathematics Building, William E. Kirwan Hall at 4176  Campus  Dr"
 2024-00006935,01/10/24 19:41,01/10/24 19:41,Injured/Sick Person,CBE,7500 block of  Baltimore  Ave
 2024-00007054,01/10/24 23:01,01/10/24 23:11,Other Incident,CBE,Baltimore  Ave
-2024-00007368,01/10/24 12:30,01/11/24 09:37,Theft,Summons Issued,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
+2024-00007368,01/10/24 12:30,01/11/24 09:37,Theft,Arrest,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2024-00007675,01/11/24 20:08,01/11/24 20:30,Fire,CBE,8500 block of  Paint Branch  Dr
 2024-00007707,01/11/24 19:00,01/11/24 22:00,Theft,Investigation Pending,8500 block of  Paint Branch  Dr
 2024-00008210,01/12/24 12:00,01/12/24 12:01,Injured/Sick Person,CBE,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
@@ -2333,7 +2333,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00065264,04/05/24 13:30,04/05/24 16:28,Theft,Investigation Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
 2024-00065413,04/05/24 18:30,04/05/24 18:38,Disorderly Conduct,Arrest,Lot 11b
 2024-00065509,04/05/24 11:00,04/05/24 20:14,Theft,Investigation Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
-2024-00065515,04/05/24 19:00,04/05/24 20:29,Theft,Warrant Issued,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2024-00065515,04/05/24 19:00,04/05/24 20:29,Theft,Arrest,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2024-00065612,04/05/24 13:00,04/05/24 23:12,Theft,Investigation Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00065726,04/06/24 02:28,04/06/24 02:28,Warrant/Summons Service,Arrest,Baltimore  Ave
 2024-00065731,04/06/24 03:36,04/06/24 03:36,Emergency Petition,CBE,7600 block of  Regents  Dr
@@ -2349,7 +2349,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00066868,04/07/24 22:45,04/07/24 22:45,CDS Violation,CBE,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00067289,04/01/24 00:00,04/08/24 09:49,Damage to State Property,CBE,"Litton, Police Services & Training Facility at 7147  51st  Ave"
 2024-00067342,04/04/24 21:00,04/08/24 10:54,Theft,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
-2024-00067359,03/27/24 08:00,04/08/24 11:09,Theft,Warrant Issued,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
+2024-00067359,03/27/24 08:00,04/08/24 11:09,Theft,Arrest,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2024-00067400,04/06/24 09:50,04/08/24 12:05,Theft,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00067409,04/03/24 17:00,04/08/24 12:54,Theft,Investigation Pending,7800 block of  Regents  Dr
 2024-00067415,04/05/24 23:00,04/08/24 13:17,Theft,Investigation Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
@@ -2715,7 +2715,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00102471,05/29/24 12:00,06/10/24 11:21,Theft from Auto,Investigation Pending,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
 2024-00102627,06/10/24 13:00,06/10/24 17:49,Theft,Active/Pending,"Tawes, Tawes Hall at 7751  Alumni  Dr"
 2024-00102848,06/10/24 11:48,06/11/24 07:32,Assist Other Agency / Check on the Welfare,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
-2024-00102995,06/11/24 14:46,06/11/24 14:46,Suspicious Activity,Active/Pending,"77, Main Admin, Main Administration Building, Thomas V. Miller Jr. Administration Building at 7901  Regents  Dr"
+2024-00102995,06/11/24 14:46,06/11/24 14:46,Suspicious Activity,CBE,"77, Main Admin, Main Administration Building, Thomas V. Miller Jr. Administration Building at 7901  Regents  Dr"
 2024-00103027,06/11/24 16:25,06/11/24 16:25,Other Incident,CBE,Shuttle Bus Facility at 8537  Paint Branch  Dr
 2024-00103047,06/11/24 18:35,06/11/24 18:35,Domestic,CBE,Lot JJ3
 2024-00103049,06/11/24 19:18,06/11/24 19:21,Injured/Sick Person,CBE,3900 block of  Campus  Dr
