@@ -2690,7 +2690,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00100177,06/01/24 12:00,06/04/24 09:25,Extortion,Active/Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2024-00100201,04/23/24 10:00,06/04/24 10:55,Extortion,Active/Pending,8000 block of  Boteler  Ln
 2024-00100230,06/04/24 01:00,06/04/24 16:03,Theft,Active/Pending,3400 block of  Tulane  Dr
-2024-00100267,06/04/24 17:13,06/04/24 17:41,Theft,Summons Issued,"35, McKeldin Library at 7649  Library  Ln"
+2024-00100267,06/04/24 17:13,06/04/24 17:41,Theft,Arrest,"35, McKeldin Library at 7649  Library  Ln"
 2024-00100291,06/04/24 18:30,06/04/24 18:40,Suspicious Activity,Active/Pending,Kim Engineering Building at 8228  Paint Branch  Dr
 2024-00100292,06/04/24 19:25,06/04/24 19:35,Injured/Sick Person,CBE,"Phi Sigma Sigma Sorority, Phi Sigma Simga at 4531  College  Ave"
 2024-00100350,06/04/24 23:44,06/04/24 23:44,Trespassing,Arrest,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
@@ -2731,7 +2731,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00105048,06/16/24 03:12,06/16/24 03:12,DWI/DUI,Arrest,Greenbelt  Rd
 2024-00105079,06/16/24 04:11,06/16/24 07:07,Dept Property Damage/Loss,CBE,8800 block of  Baltimore  Ave
 2024-00105267,06/16/24 17:30,06/16/24 17:36,Injured/Sick Person,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
-2024-00105294,06/16/24 19:14,06/16/24 19:22,Extortion,Active/Pending,4300 block of  Rowalt  Dr
+2024-00105294,06/16/24 19:14,06/16/24 19:22,Extortion,Investigation Pending,4300 block of  Rowalt  Dr
 2024-00105365,06/16/24 23:52,06/16/24 23:52,DWI/DUI,Arrest,Frat Row
 2024-00106173,06/18/24 16:37,06/18/24 16:37,Assist Other Agency / Other,CBE,8300 block of  Baltimore  Ave
 2024-00106185,06/18/24 17:56,06/18/24 17:56,Assist Other Agency / Other,CBE,4600 block of  College  Ave
