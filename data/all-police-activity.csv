@@ -2517,7 +2517,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00081112,04/27/24 13:00,04/29/24 20:45,Theft,Investigation Pending,436 at 4136  Stadium  Dr
 2024-00081195,04/29/24 22:30,04/29/24 22:39,Assist Other Agency / Other,CBE,Edgewood  Rd
 2024-00081495,04/29/24 14:00,04/30/24 07:36,Theft from Auto,Investigation Pending,Manokin Building at 5801  University Research  Ct
-2024-00081558,04/28/24 21:48,04/30/24 09:07,Theft,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
+2024-00081558,04/28/24 21:48,04/30/24 09:07,Theft,Investigation Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2024-00081657,04/30/24 12:10,04/30/24 12:10,Trespassing,CBE,436 at 4136  Stadium  Dr
 2024-00081791,04/30/24 17:35,04/30/24 17:43,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00081804,04/30/24 18:59,04/30/24 18:59,Injured/Sick Person,CBE,"Recreation Artificial Turf Field, Turf Field, Turf Fields"
@@ -2595,7 +2595,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00088134,05/10/24 20:53,05/10/24 20:53,Trespassing,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00088179,05/10/24 22:22,05/10/24 22:22,Injured/Sick Person,CBE,Knox  Rd
 2024-00088357,05/11/24 03:57,05/11/24 03:57,Assist Other Agency / Other,CBE,4700 block of  Berwyn House  Rd
-2024-00088631,11/22/22 00:00,05/11/24 14:42,Telephone/EMail Misuse,Active/Pending,Johnson-Whittle Hall at 4118  Stadium  Dr
+2024-00088631,11/22/22 00:00,05/11/24 14:42,Telephone/EMail Misuse,Investigation Pending,Johnson-Whittle Hall at 4118  Stadium  Dr
 2024-00088712,05/11/24 17:40,05/11/24 20:25,Assist Other Agency / Other,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00089111,05/12/24 03:00,05/12/24 09:03,Domestic (Title IX Related),CBE,7500 block of  Calvert Service  Ln
 2024-00089121,05/11/24 19:30,05/12/24 10:57,Theft,Unfounded,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
@@ -2764,7 +2764,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00108465,06/24/24 13:07,06/24/24 13:07,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2024-00108522,06/21/24 19:00,06/24/24 14:16,Theft,Investigation Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00108621,03/07/24 09:00,06/24/24 19:52,Theft,Active/Pending,6900 block of  Preinkert  Dr
-2024-00108923,06/25/24 13:15,06/25/24 13:22,Damage to State Property,CBE,Johnson-Whittle Hall at 4118  Stadium  Dr
+2024-00108923,06/25/24 13:15,06/25/24 13:22,Accident,Summons Issued,Johnson-Whittle Hall at 4118  Stadium  Dr
 2024-00108958,06/25/24 10:10,06/25/24 15:49,Injured/Sick Person,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00109338,06/26/24 11:28,06/26/24 11:28,Injured/Sick Person,CBE,"76, Symons Hall at 7998  Regents  Dr"
 2024-00109363,06/26/24 12:33,06/26/24 12:33,Injured/Sick Person,CBE,7400 block of  Baltimore  Ave
@@ -2873,7 +2873,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00119648,07/22/24 10:00,07/22/24 16:45,Damage to State Property,Active/Pending,Valley Dr
 2024-00119877,07/23/24 07:55,07/23/24 07:55,Recovered Stolen Motor Vehicle,Active/Pending,University Courtyard #5 at 8500  Boteler  Ln
 2024-00119895,07/23/24 09:13,07/23/24 09:13,Suspicious Activity,CBE,"Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
-2024-00119896,07/21/24 12:00,07/23/24 09:37,Assault,Active/Pending,436 at 4136  Stadium  Dr
+2024-00119896,07/21/24 12:00,07/23/24 09:37,Assault,Juvenile Arrest,436 at 4136  Stadium  Dr
 2024-00119901,07/23/24 08:00,07/23/24 10:09,Other Incident,Active/Pending,8100 block of  Regents  Dr
 2024-00120205,07/24/24 03:39,07/24/24 03:39,Injured/Sick Person,CBE,7200 block of  Baltimore  Ave
 2024-00120266,07/22/24 08:47,07/24/24 09:27,Vandalism,Active/Pending,8200 block of  Paint Branch  Dr
@@ -2881,18 +2881,30 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00120321,07/24/24 12:46,07/24/24 13:14,Injured/Sick Person,CBE,436 at 4136  Stadium  Dr
 2024-00120368,07/24/24 16:11,07/24/24 16:11,Injured/Sick Person,CBE,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
 2024-00120855,07/25/24 15:28,07/25/24 15:28,Other Incident,CBE,4300 block of  Rowalt  Dr
-2024-00121005,07/25/24 20:00,07/25/24 22:10,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2024-00120902,07/24/24 18:30,07/25/24 18:08,Theft,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2024-00121005,07/25/24 20:00,07/25/24 22:10,Theft,Investigation Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00121077,07/26/24 01:30,07/26/24 01:30,DWI/DUI,Arrest,University  Blvd
+2024-00121199,07/26/24 09:46,07/26/24 09:46,Found/Recovered Property,CBE,Cypress Building at 8320  Baltimore  Ave
 2024-00121221,07/26/24 09:20,07/26/24 10:30,Theft,Active/Pending,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
+2024-00121227,07/26/24 10:42,07/26/24 10:42,Other Incident,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00121491,07/27/24 00:07,07/27/24 00:07,DWI/DUI,Arrest,Xtra Mart at 8721  Baltimore  Ave
 2024-00121531,07/27/24 03:45,07/27/24 03:45,DWI/DUI,Arrest,University  Blvd
+2024-00121713,07/27/24 09:00,07/27/24 12:11,Theft from Auto,Summons Issued,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
 2024-00121744,07/27/24 17:06,07/27/24 17:06,Theft,Active/Pending,Fieldhouse  Dr
 2024-00121895,07/27/24 23:07,07/27/24 23:07,Weapon Violation,Arrest,Baltimore  Ave
 2024-00121943,07/28/24 02:32,07/28/24 02:32,DWI/DUI,Arrest,Baltimore  Ave
 2024-00122114,07/28/24 10:17,07/28/24 10:17,Damage to State Property,CBE,"64, Dorchester, Dorchester Hall at 3947  Campus  Dr"
+2024-00122173,07/28/24 15:26,07/28/24 15:26,Recovered Stolen Motor Vehicle,CBE,South Gate at 7567  Regents  Dr
 2024-00122567,07/29/24 08:45,07/29/24 09:31,Injured/Sick Person,CBE,3600 block of  Campus Dr
+2024-00122600,07/29/24 11:52,07/29/24 11:52,Suspicious Person/Auto,CBE,Campus  Dr
 2024-00122795,07/30/24 00:58,07/30/24 00:58,DWI/DUI,Arrest,Adelphi  Rd
 2024-00123026,07/30/24 07:00,07/30/24 11:54,Trespassing,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2024-00123741,07/04/24 23:50,08/01/24 13:34,Theft,Active/Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
+2024-00124166,08/02/24 12:41,08/02/24 12:41,Alarm,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2024-00124642,08/03/24 15:05,08/03/24 15:07,Injured/Sick Person,CBE,4100 block of  Campus  Dr
+2024-00124736,08/03/24 19:21,08/03/24 19:21,Injured/Sick Person,CBE,6800 block of  Preinkert  Dr
+2024-00125157,08/04/24 16:09,08/04/24 16:09,Assist Other Agency / Theft,CBE,7300 block of  River  Rd
+2024-00125232,08/04/24 20:16,08/04/24 20:16,Injured/Sick Person,CBE,436 at 4136  Stadium  Dr
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
