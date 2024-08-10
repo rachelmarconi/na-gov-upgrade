@@ -2072,7 +2072,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00038267,02/26/24 01:30,02/26/24 03:58,Extortion,Investigation Pending,"Leonardtown #245, Leonardtown at 4689  Rossborough  Ln"
 2024-00038497,02/26/24 10:55,02/26/24 10:55,Injured/Sick Person,CBE,"Football Team House, Gossett, Gossett Hall at 4068  Fieldhouse  Dr"
 2024-00038520,02/26/24 11:00,02/26/24 11:49,Suspicious Person/Auto,CBE,8200 block of  Alumni  Dr
-2024-00038852,02/26/24 15:15,02/26/24 21:34,Theft,Summons Issued,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2024-00038852,02/26/24 15:15,02/26/24 21:34,Theft,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00039289,02/20/24 15:55,02/27/24 13:59,Theft,Investigation Pending,4100 block of  Campus  Dr
 2024-00039290,11/01/23 00:00,02/27/24 13:47,Fraud,Unfounded,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
 2024-00039295,02/27/24 11:10,02/27/24 14:15,Theft,Investigation Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
@@ -2908,6 +2908,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00124166,08/02/24 12:41,08/02/24 12:41,Alarm,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00124642,08/03/24 15:05,08/03/24 15:07,Injured/Sick Person,CBE,4100 block of  Campus  Dr
 2024-00124736,08/03/24 19:21,08/03/24 19:21,Injured/Sick Person,CBE,6800 block of  Preinkert  Dr
+2024-00124804,08/03/24 21:59,08/03/24 21:59,Warrant/Summons Service,Arrest,University  Blvd
 2024-00125157,08/04/24 16:09,08/04/24 16:09,Assist Other Agency / Theft,CBE,7300 block of  River  Rd
 2024-00125232,08/04/24 20:16,08/04/24 20:16,Injured/Sick Person,CBE,436 at 4136  Stadium  Dr
 2024-00125485,08/01/24 12:00,08/05/24 08:39,Burglary,Active/Pending,"3, Service Building at 7757  Baltimore  Ave"
