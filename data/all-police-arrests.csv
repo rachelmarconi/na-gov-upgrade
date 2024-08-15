@@ -294,7 +294,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23975,02/09/24 22:53,2024-00028224,,White,Male,Consuming/Possessing Open Alcoholic Beverage in Public
 23976,02/10/24 04:26,2024-00028409,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driving veh. in violation of restricted license requirement; Failure of individual driving on hwy. to display lic. to uniformed police on demand; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Person driving trailer on hwy. w/o tires in safe operating condition as required by Adm.; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23978,02/10/24 17:49,2024-00028726,,White,Female,Consuming/Possessing Open Alcoholic Beverage in Public
-23979,02/10/24 18:19,2024-00028727,,White,Male,Urinating or Defecating in Public
+23979,02/10/24 18:19,2024-00028727,,,,Urinating or Defecating in Public
 23980,02/10/24 19:16,2024-00028724,,Black,Male,CDS: POSS PARAPHERNALIA; CDS: POSSESS-NOT CANNABIS; FRAUD-PER. IDENT. AVOID PROS; Obstructing and Hindering; Resist/Interfere with Arrest; Trespass- Peeping Tom; Trespass-Posted Property
 23977,02/11/24 00:30,2024-00028803,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 23985,02/15/24 16:06,2024-00023384,,Asian,Male,Peeping Tom; Private Place - Prurient Intent (Visual Surveillance)
@@ -483,9 +483,11 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24178,07/30/24 23:53,2024-00123097,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24175,08/01/24 23:02,2024-00123847,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 923,08/02/24 08:48,2024-00119896,,Black,Female,"ASSAULT-SEC DEGREE-Simple, Not Aggravated"
+24183,08/06/24 23:15,2024-00126266,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 24176,08/06/24 23:54,2024-00126279,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 24180,08/10/24 03:21,2024-00127695,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 24181,08/10/24 05:32,2024-00127730,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
+24182,08/13/24 00:35,2024-00129033,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 ,,,,,,
 23312,01/02/22 00:10,2022-00000238,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person"
 23313,01/02/22 05:35,2022-00000271,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
