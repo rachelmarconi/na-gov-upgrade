@@ -1914,7 +1914,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00020545,01/29/24 12:10,01/29/24 12:14,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2024-00020584,01/27/24 11:50,01/29/24 13:23,Accident,CBE,Rossborough  Ln
 2024-00020653,01/25/24 12:00,01/29/24 15:58,Stolen Motor Vehicle,Investigation Pending,Lot 11b
-2024-00020706,01/29/24 08:30,01/29/24 17:39,Theft,Active/Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
+2024-00020706,01/29/24 08:30,01/29/24 17:39,Theft,Warrant Issued,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2024-00020846,01/29/24 19:00,01/30/24 00:05,Dept Property Damage/Loss,Active/Pending,4300 block of  Hartwick  Rd
 2024-00021292,01/30/24 18:30,01/30/24 19:18,Assist Other Agency / Other,CBE,8400 block of  Baltimore  Ave
 2024-00021819,01/31/24 12:00,01/31/24 13:09,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
@@ -2876,7 +2876,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00119896,07/21/24 12:00,07/23/24 09:37,Assault,Juvenile Arrest,436 at 4136  Stadium  Dr
 2024-00119901,07/23/24 08:00,07/23/24 10:09,Other Incident,Active/Pending,8100 block of  Regents  Dr
 2024-00120205,07/24/24 03:39,07/24/24 03:39,Injured/Sick Person,CBE,7200 block of  Baltimore  Ave
-2024-00120266,07/22/24 08:47,07/24/24 09:27,Vandalism,Active/Pending,8200 block of  Paint Branch  Dr
+2024-00120266,07/22/24 08:47,07/24/24 09:27,Vandalism,Summons Issued,8200 block of  Paint Branch  Dr
 2024-00120267,07/24/24 09:30,07/24/24 09:30,Injured/Sick Person,CBE,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
 2024-00120321,07/24/24 12:46,07/24/24 13:14,Injured/Sick Person,CBE,436 at 4136  Stadium  Dr
 2024-00120368,07/24/24 16:11,07/24/24 16:11,Injured/Sick Person,CBE,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
@@ -2902,7 +2902,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00123026,07/30/24 07:00,07/30/24 11:54,Trespassing,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00123033,07/29/24 12:33,07/30/24 12:51,Hate Bias Incident,Active/Pending,"42, Tydings Hall at 7343  Preinkert  Dr"
 2024-00123081,07/30/24 17:16,07/30/24 17:16,Weapon Violation,Warrant Issued,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
-2024-00123097,07/30/24 23:24,07/30/24 23:24,Theft,Active/Pending,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
+2024-00123097,07/30/24 23:24,07/30/24 23:24,Theft,Arrest,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
 2024-00125850,07/30/24 23:24,07/30/24 23:24,Theft,Active/Pending,Cumberland Hall at 4250  Farm  Dr
 2024-00123543,08/01/24 03:11,08/01/24 03:11,Other Incident,CBE,4100 block of  Stadium  Dr
 2024-00123741,07/04/24 23:50,08/01/24 13:34,Theft,Active/Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
@@ -2932,9 +2932,18 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00127730,08/10/24 05:27,08/10/24 05:27,DWI/DUI,Arrest,College  Ave
 2024-00127767,08/10/24 09:44,08/10/24 09:44,Damaged Property,CBE,"Bob  Turtle Smith Stadium, Shipley Field, Shipley Field at Bob ""Turtle"" Smith Stadium, Turtle Stadium at 4122  Fieldhouse  Dr"
 2024-00127924,08/02/24 00:00,08/10/24 19:47,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
+2024-00128635,08/09/24 14:00,08/12/24 07:04,Theft from Auto,Active/Pending,"67, Satellite Central Utilities Building 2, SCUB 2 at 7187  Preinkert  Dr"
+2024-00128808,01/29/17 08:00,08/12/24 13:21,Rape (Title IX Related),Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
+2024-00128814,08/09/24 15:43,08/12/24 14:11,Other Incident,Active/Pending,8200 block of  Paint Branch  Dr
 2024-00128972,08/12/24 20:08,08/12/24 20:08,Emergency Petition,CBE,4300 block of  Rowalt  Dr
 2024-00129033,08/12/24 23:58,08/12/24 23:58,DWI/DUI,Arrest,University  Blvd
 2024-00129195,08/12/24 21:00,08/13/24 09:54,Theft,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2024-00129451,08/13/24 22:56,08/13/24 22:56,Emergency Petition,CBE,4200 block of  Farm  Dr
+2024-00129542,08/14/24 02:20,08/14/24 02:20,DWI/DUI,Arrest,University  Blvd
+2024-00129556,08/14/24 04:51,08/14/24 04:51,DWI/DUI,Arrest,Paint Branch  Dr
+2024-00129571,08/13/24 14:00,08/14/24 07:47,Damage to State Property,Active/Pending,"52, Clarence M. Mitchell, Jr. Building, Mitchell Building, North Administration at 7999  Regents  Dr"
+2024-00129669,08/14/24 14:19,08/14/24 14:19,Injured/Sick Person,CBE,"MFRI, MFRI Office/Classroom Building at 4500  Campus  Dr"
+2024-00129916,08/15/24 02:00,08/15/24 02:00,DWI/DUI,Arrest,University  Blvd
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
