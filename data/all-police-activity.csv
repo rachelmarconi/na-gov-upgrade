@@ -2930,6 +2930,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00127343,08/09/24 01:41,08/09/24 01:41,Recovered Stolen Motor Vehicle,Active/Pending,Baltimore  Ave
 2024-00127428,08/06/24 12:15,08/09/24 09:36,Lost Property,Active/Pending,4200 block of  Landscape  Ln
 2024-00127430,08/08/24 18:00,08/09/24 09:56,Suspicious Activity,Active/Pending,"Architecture, Architecture Building at 3835  Campus  Dr"
+2024-00127485,08/09/24 16:10,08/09/24 16:13,Other Incident,CBE,"Physical Sciences Complex, PSC at 4296  Stadium  Dr"
 2024-00127695,08/10/24 02:59,08/10/24 02:59,DWI/DUI,Arrest,University  Blvd
 2024-00127730,08/10/24 05:27,08/10/24 05:27,DWI/DUI,Arrest,College  Ave
 2024-00127767,08/10/24 09:44,08/10/24 09:44,Damaged Property,CBE,"Bob  Turtle Smith Stadium, Shipley Field, Shipley Field at Bob ""Turtle"" Smith Stadium, Turtle Stadium at 4122  Fieldhouse  Dr"
@@ -2961,6 +2962,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00131093,08/17/24 13:38,08/17/24 13:38,Injured/Sick Person,CBE,"Football Team House, Gossett, Gossett Hall at 4068  Fieldhouse  Dr"
 2024-00131741,08/18/24 20:54,08/18/24 20:54,Assist Other Agency / Theft,CBE,7300 block of  River  Rd
 2024-00132064,08/16/24 10:00,08/19/24 10:23,Lost Property,CBE,"52, Clarence M. Mitchell, Jr. Building, Mitchell Building, North Administration at 7999  Regents  Dr"
+2024-00132077,08/19/24 10:55,08/19/24 10:55,Hazardous Condition,CBE,Varsity Sports Teamhouse at 4117  Stadium  Dr
 2024-00132329,08/19/24 23:08,08/19/24 23:08,Assist Other Agency / Assault,CBE,College  Ave
 2024-00132425,08/20/24 03:59,08/20/24 03:59,Trespassing,CBE,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
 2024-00132474,08/19/24 13:00,08/20/24 07:35,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
@@ -2970,6 +2972,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00132909,08/20/24 16:00,08/21/24 09:24,Theft,CBE,"Bio Psych, Biology-Psychology Building at 4094  Campus  Dr"
 2024-00132955,08/20/02 15:35,08/21/24 12:09,Telephone/EMail Misuse,Active/Pending,7700 block of  Baltimore  Ave
 2024-00133424,08/16/24 07:15,08/22/24 21:47,Theft,Active/Pending,"College Park Fire Station, Company 12 at 8115  Baltimore  Ave"
+2024-00133582,08/23/24 01:45,08/23/24 04:46,Disorderly Conduct,Arrest,Knox  Rd
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
