@@ -2786,7 +2786,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00111027,06/30/24 23:17,06/30/24 23:17,Other Incident,CBE,4300 block of  Rowalt  Dr
 2024-00111030,06/30/24 23:40,06/30/24 23:40,DWI/DUI,Arrest,Greenbelt  Rd
 2024-00111066,07/01/24 01:34,07/01/24 01:34,DWI/DUI,Arrest,Baltimore  Ave
-2024-00111195,06/30/24 23:00,07/01/24 09:50,Vandalism,Active/Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
+2024-00111195,06/30/24 23:00,07/01/24 09:50,Vandalism,Investigation Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2024-00111285,07/01/24 11:30,07/01/24 13:40,Theft,Active/Pending,"Football Team House, Gossett, Gossett Hall at 4068  Fieldhouse  Dr"
 2024-00111656,07/02/24 07:01,07/02/24 11:56,Fire,CBE,8200 block of  Paint Branch  Dr
 2024-00111659,07/02/24 12:23,07/02/24 12:26,Assist Other Agency / Other,CBE,Baltimore  Ave
@@ -2964,7 +2964,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00131809,07/27/24 12:00,08/18/24 23:02,Vandalism,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00132064,08/16/24 10:00,08/19/24 10:23,Lost Property,CBE,"52, Clarence M. Mitchell, Jr. Building, Mitchell Building, North Administration at 7999  Regents  Dr"
 2024-00132077,08/19/24 10:55,08/19/24 10:55,Hazardous Condition,CBE,Varsity Sports Teamhouse at 4117  Stadium  Dr
-2024-00132139,08/18/24 21:30,08/19/24 15:39,Theft,Active/Pending,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
+2024-00132139,08/18/24 21:30,08/19/24 15:39,Theft,Investigation Pending,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
 2024-00132329,08/19/24 23:08,08/19/24 23:08,Assist Other Agency / Assault,CBE,College  Ave
 2024-00132425,08/20/24 03:59,08/20/24 03:59,Trespassing,CBE,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
 2024-00132474,08/19/24 13:00,08/20/24 07:35,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
@@ -2991,6 +2991,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00136063,08/26/24 09:04,08/26/24 09:04,Emergency Petition,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2024-00136314,08/26/24 17:55,08/26/24 17:55,Injured/Sick Person,CBE,"Frat 8, Sigma Phi Epsilon Fraternity at 8  Fraternity  Row"
 2024-00136343,08/26/24 19:29,08/26/24 19:29,Emergency Petition,CBE,7500 block of  Calvert Service  Ln
+2024-00136755,08/27/24 10:13,08/27/24 10:13,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2024-00136893,08/27/24 16:27,08/27/24 16:27,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2024-00136937,08/27/24 17:03,08/27/24 17:03,Injured/Sick Person,CBE,Field Hockey & Women's Lacrosse Stadium at 8483  Paint Branch  Dr
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
