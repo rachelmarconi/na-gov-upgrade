@@ -2898,6 +2898,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00122567,07/29/24 08:45,07/29/24 09:31,Injured/Sick Person,CBE,3600 block of  Campus Dr
 2024-00122594,07/26/24 03:00,07/29/24 11:26,Assist Other Agency / Other,CBE,8600 block of  Sherwood Glen
 2024-00122600,07/29/24 11:52,07/29/24 11:52,Suspicious Person/Auto,CBE,Campus  Dr
+2024-00122658,07/29/24 15:40,07/29/24 16:50,Theft from Auto,Active/Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2024-00122795,07/30/24 00:58,07/30/24 00:58,DWI/DUI,Arrest,Adelphi  Rd
 2024-00123026,07/30/24 07:00,07/30/24 11:54,Trespassing,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00123033,07/29/24 12:33,07/30/24 12:51,Hate Bias Incident,Active/Pending,"42, Tydings Hall at 7343  Preinkert  Dr"
@@ -2974,9 +2975,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00132909,08/20/24 16:00,08/21/24 09:24,Theft,CBE,"Bio Psych, Biology-Psychology Building at 4094  Campus  Dr"
 2024-00132954,08/21/24 02:00,08/21/24 12:04,Theft,Active/Pending,4200 block of  Landscape  Ln
 2024-00132955,08/20/02 15:35,08/21/24 12:09,Telephone/EMail Misuse,Active/Pending,7700 block of  Baltimore  Ave
+2024-00133061,08/21/24 22:09,08/21/24 22:09,Warrant/Summons Service,Arrest,Baltimore  Ave
 2024-00133424,08/16/24 07:15,08/22/24 21:47,Theft,Active/Pending,"College Park Fire Station, Company 12 at 8115  Baltimore  Ave"
+2024-00133427,08/22/24 22:04,08/22/24 22:04,CDS Violation,Active/Pending,Cumberland Hall at 4250  Farm  Dr
+2024-00133502,08/22/24 23:48,08/22/24 23:48,Warrant/Summons Service,Arrest,Baltimore  Ave
+2024-00133519,08/23/24 01:22,08/23/24 01:22,Alcohol Violation,Arrest,Baltimore  Ave
 2024-00133582,08/23/24 01:45,08/23/24 04:46,Disorderly Conduct,Arrest,Knox  Rd
 2024-00133784,08/23/24 13:01,08/23/24 13:01,Injured/Sick Person,CBE,"Physical Sciences Complex, PSC at 4296  Stadium  Dr"
+2024-00133871,08/23/24 14:21,08/23/24 15:41,Damage to State Property,Active/Pending,Field Hockey & Women's Lacrosse Stadium at 8483  Paint Branch  Dr
 2024-00133993,08/23/24 19:39,08/23/24 19:39,Emergency Petition,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00134110,08/23/24 20:00,08/23/24 21:39,Vandalism,Active/Pending,3800 block of  Stadium  Dr
 2024-00134169,08/23/24 22:33,08/23/24 22:33,Injured/Sick Person,CBE,Knox  Rd
