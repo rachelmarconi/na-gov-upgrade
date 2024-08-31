@@ -2842,7 +2842,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00115776,07/13/24 11:09,07/13/24 11:09,Recovered Stolen Motor Vehicle,Arrest,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00115818,07/13/24 15:41,07/13/24 15:41,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2024-00116070,07/14/24 02:53,07/14/24 02:53,DWI/DUI,Arrest,University  Blvd
-2024-00116255,07/13/24 14:00,07/14/24 15:23,Theft,Active/Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
+2024-00116255,07/13/24 14:00,07/14/24 15:23,Theft,Investigation Pending,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2024-00116454,07/14/24 23:41,07/14/24 23:41,DWI/DUI,Arrest,University  Blvd
 2024-00116458,07/14/24 23:55,07/14/24 23:55,Warrant/Summons Service,CBE,University  Blvd
 2024-00116470,07/15/24 02:16,07/15/24 02:16,DWI/DUI,Arrest,"College Park Shopping Center, CVS at 7300  Baltimore  Ave"
@@ -2856,7 +2856,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00117619,07/18/24 00:05,07/18/24 00:05,Injured/Sick Person,CBE,University  Blvd
 2024-00117885,07/18/24 16:33,07/18/24 16:33,Other Service Call,CBE,"Kehoe Track, Kehoe Track at Ludwig Field, Ludwig Field at 7898  Championship  Ln"
 2024-00117919,07/18/24 14:00,07/18/24 18:03,Theft,Active/Pending,"Physical Sciences Complex, PSC at 4296  Stadium  Dr"
-2024-00117920,07/18/24 14:00,07/18/24 18:25,Theft,Active/Pending,Fieldhouse  Dr
+2024-00117920,07/18/24 14:00,07/18/24 18:25,Theft,Investigation Pending,Fieldhouse  Dr
 2024-00117957,07/18/24 14:00,07/18/24 19:52,Theft,Investigation Pending,"84, Kirwan Hall, Mathematics Building, William E. Kirwan Hall at 4176  Campus  Dr"
 2024-00117958,07/18/24 19:10,07/18/24 19:49,Emergency Petition,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
 2024-00117964,07/17/24 18:00,07/18/24 21:26,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
@@ -2974,7 +2974,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00132586,08/20/24 14:47,08/20/24 14:47,Injured/Sick Person,CBE,"52, Clarence M. Mitchell, Jr. Building, Mitchell Building, North Administration at 7999  Regents  Dr"
 2024-00132909,08/20/24 16:00,08/21/24 09:24,Theft,CBE,"Bio Psych, Biology-Psychology Building at 4094  Campus  Dr"
 2024-00132954,08/21/24 02:00,08/21/24 12:04,Theft,Active/Pending,4200 block of  Landscape  Ln
-2024-00132955,08/20/02 15:35,08/21/24 12:09,Telephone/EMail Misuse,Active/Pending,7700 block of  Baltimore  Ave
+2024-00132955,08/20/02 15:35,08/21/24 12:09,Telephone/EMail Misuse,Unfounded,7700 block of  Baltimore  Ave
 2024-00133061,08/21/24 22:09,08/21/24 22:09,Warrant/Summons Service,Arrest,Baltimore  Ave
 2024-00133424,08/16/24 07:15,08/22/24 21:47,Theft,Active/Pending,"College Park Fire Station, Company 12 at 8115  Baltimore  Ave"
 2024-00133427,08/22/24 22:04,08/22/24 22:04,CDS Violation,Active/Pending,Cumberland Hall at 4250  Farm  Dr
@@ -2987,6 +2987,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00134110,08/23/24 20:00,08/23/24 21:39,Vandalism,Active/Pending,3800 block of  Stadium  Dr
 2024-00134169,08/23/24 22:33,08/23/24 22:33,Injured/Sick Person,CBE,Knox  Rd
 2024-00134184,08/23/24 22:55,08/23/24 22:55,Injured/Sick Person,CBE,"Cornerstone, Cornerstone Grill at 7325  Baltimore  Ave"
+2024-00134187,08/23/24 22:58,08/23/24 22:58,Alcohol Violation,Arrest,Rhode Island  Ave
+2024-00134423,08/24/24 03:15,08/24/24 03:28,Alcohol Violation,Arrest,Paint Branch  Dr
 2024-00134707,08/24/24 13:55,08/24/24 13:57,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00134993,08/24/24 21:16,08/24/24 21:16,Injured/Sick Person,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
 2024-00134999,08/24/24 22:07,08/24/24 22:07,Injured/Sick Person,CBE,3400 block of  Tulane  Dr
@@ -2995,11 +2997,22 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00135228,08/25/24 02:34,08/25/24 02:34,Injured/Sick Person,CBE,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2024-00135480,08/25/24 10:09,08/25/24 10:09,Injured/Sick Person,CBE,"48, Francis Scott Key, Francis Scott Key Hall, FS Key Hall, FSK at 4282  Chapel  Ln"
 2024-00136063,08/26/24 09:04,08/26/24 09:04,Emergency Petition,CBE,"Capital One Field, Football Stadium, SECU Stadium"
+2024-00136203,08/26/24 13:50,08/26/24 13:50,Assist Other Agency / EPS,CBE,8200 block of  Baltimore  Ave
 2024-00136314,08/26/24 17:55,08/26/24 17:55,Injured/Sick Person,CBE,"Frat 8, Sigma Phi Epsilon Fraternity at 8  Fraternity  Row"
 2024-00136343,08/26/24 19:29,08/26/24 19:29,Emergency Petition,CBE,7500 block of  Calvert Service  Ln
 2024-00136755,08/27/24 10:13,08/27/24 10:13,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2024-00136761,07/12/24 11:30,08/27/24 10:19,Theft,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center, Jones-Hill House at 4090  Union  Dr"
+2024-00136862,08/27/24 14:07,08/27/24 14:07,Warrant/Summons Service,Arrest,University  Blvd
 2024-00136893,08/27/24 16:27,08/27/24 16:27,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00136937,08/27/24 17:03,08/27/24 17:03,Injured/Sick Person,CBE,Field Hockey & Women's Lacrosse Stadium at 8483  Paint Branch  Dr
+2024-00136996,08/27/24 21:00,08/27/24 21:20,Assist Other Agency / Robbery,CBE,8000 block of  Rhode Island  Ave
+2024-00137034,08/27/24 22:12,08/27/24 22:11,Injured/Sick Person,Arrest,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2024-00137416,08/27/24 21:00,08/28/24 09:29,Other Incident,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
+2024-00137660,08/28/24 15:00,08/28/24 16:59,Theft,Active/Pending,"42, Tydings Hall at 7343  Preinkert  Dr"
+2024-00137676,08/10/24 00:00,08/28/24 17:32,Theft,Active/Pending,6900 block of  Preinkert  Dr
+2024-00137836,08/28/24 21:55,08/28/24 21:56,Sex Offense,Arrest,"35, McKeldin Library at 7649  Library  Ln"
+2024-00137837,08/28/24 21:55,08/28/24 22:10,Sex Offense,Arrest,"42, Tydings Hall at 7343  Preinkert  Dr"
+2024-00138390,08/28/24 21:55,08/28/24 21:56,Sex Offense,Arrest,"35, McKeldin Library at 7649  Library  Ln"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
