@@ -3015,9 +3015,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00136862,08/27/24 14:07,08/27/24 14:07,Warrant/Summons Service,Arrest,University  Blvd
 2024-00136893,08/27/24 16:27,08/27/24 16:27,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00136937,08/27/24 17:03,08/27/24 17:03,Injured/Sick Person,CBE,Field Hockey & Women's Lacrosse Stadium at 8483  Paint Branch  Dr
+2024-00136943,08/26/24 16:30,08/27/24 17:11,Fraud,Active/Pending,8100 block of  La Plata  Dr
 2024-00136996,08/27/24 21:00,08/27/24 21:20,Assist Other Agency / Robbery,CBE,8000 block of  Rhode Island  Ave
 2024-00137034,08/27/24 22:11,08/27/24 22:11,Alcohol Violation,Arrest,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2024-00137416,08/27/24 21:00,08/28/24 09:29,Other Incident,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
+2024-00137564,08/28/24 13:07,08/28/24 13:07,Recovered Stolen Motor Vehicle,Active/Pending,"Frat 5, Phi Kappa Tau Fraternity at 5  Fraternity  Row"
 2024-00137660,08/28/24 15:00,08/28/24 16:59,Theft,Active/Pending,"42, Tydings Hall at 7343  Preinkert  Dr"
 2024-00137676,08/10/24 00:00,08/28/24 17:32,Theft,Active/Pending,6900 block of  Preinkert  Dr
 2024-00137836,08/28/24 21:55,08/28/24 21:56,Sex Offense,Arrest,"35, McKeldin Library at 7649  Library  Ln"
@@ -3034,6 +3036,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00139712,08/31/24 11:30,08/31/24 11:42,Injured/Sick Person,CBE,"Riggs, Riggs Alumni, Riggs Alumni Center at 7801  Alumni  Dr"
 2024-00139792,08/31/24 13:40,08/31/24 14:01,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2024-00139794,08/31/24 14:06,08/31/24 14:06,Injured/Sick Person,CBE,90 Stadium Dr
+2024-00139884,08/30/24 00:00,08/31/24 17:09,Theft,Investigation Pending,"Animal Science Service Building, Campus Farm at 8156  Regents  Dr"
 2024-00139907,08/30/24 13:00,08/31/24 18:30,Theft,Investigation Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00139912,08/31/24 18:50,08/31/24 19:06,Title IX Incident Non Criminal,Active/Pending,University Courtyard #3 at 8300  Boteler  Ln
 2024-00139921,08/28/24 00:00,08/31/24 20:14,Suspicious Activity,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
@@ -3043,12 +3046,15 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00140302,09/01/24 09:15,09/01/24 09:26,Emergency Petition,CBE,4200 block of  Farm  Dr
 2024-00140691,09/01/24 23:51,09/01/24 23:51,Injured/Sick Person,CBE,3500 block of  University  Blvd
 2024-00140696,09/02/24 00:04,09/02/24 00:04,Emergency Petition,CBE,Ellicott Quad
+2024-00141233,08/31/24 02:37,09/02/24 12:59,Damaged Property,Active/Pending,Lot 1f
 2024-00141285,09/01/24 21:05,09/02/24 13:38,Assist Other Agency / Suspicous Person/Auto,Active/Pending,7000 block of  Dartmouth  Ave
 2024-00141301,09/02/24 14:44,09/02/24 14:44,Assist Other Agency / EPS,CBE,8200 block of  Baltimore  Ave
 2024-00141409,09/02/24 18:50,09/02/24 18:50,Injured/Sick Person,CBE,Visitor Center at the Hotel at the University of Maryland at 7777  Baltimore  Ave
 2024-00141452,09/02/24 17:15,09/02/24 21:41,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2024-00141476,09/02/24 21:45,09/02/24 23:17,Hate Bias Incident (Title IX Related),Active/Pending,Stadium Dr
 2024-00141885,09/03/24 09:40,09/03/24 09:48,Suspicious Activity,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center, Jones-Hill House at 4090  Union  Dr"
+2024-00141993,09/02/24 21:00,09/03/24 15:12,Theft,Active/Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
+2024-00142010,09/03/24 16:01,09/03/24 16:01,Injured Officer,CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2024-00142128,09/03/24 19:13,09/03/24 19:13,DWI/DUI,Arrest,"City of CP Garage, College Park Garage, CP Garage at  Knox  Rd"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
