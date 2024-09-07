@@ -275,7 +275,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23957,01/19/24 01:07,2024-00013139,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 23956,01/21/24 03:09,2024-00014907,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Failure of veh. on hwy. to display (lighted lamps, illuminating devices) in unfavorable visibility conditions; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23959,01/22/24 14:49,2023-00101106,,White,Female,Credit Card: Steal Another's; Use/Disclose Credit Card Numbers
-23974,01/23/24 12:00,2023-00084751,,Black,Male,"THEFT: $100 TO UNDER $1,500-Bicycle; Unauth Removal of Property"
+23974,01/23/24 12:00,2023-00084751,,,,"THEFT: $100 TO UNDER $1,500-Bicycle; Unauth Removal of Property"
 23960,01/24/24 01:18,2024-00016888,,White,Female,"(Driving, Attempting to drive) veh. while impaired by controlled dangerous substance; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely"
 23961,01/25/24 03:53,2024-00017448,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23963,01/26/24 01:38,2024-00018000,,White,Male,INTOXICATED PUBLIC DISTURB
@@ -367,7 +367,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24052,04/11/24 16:49,2024-00069289,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24055,04/11/24 18:24,2024-00069294,,White,Male,Malicious Destruction Property/Value -$1000
 24058,04/12/24 10:13,2024-00069768,,Black,Male,School Trespassing On Ground
-24053,04/12/24 23:37,2024-00070162,,White,Male,CDS:Possession Cannabis-Personal Amount
+24053,04/12/24 23:37,2024-00070162,,White,Male,Marijuana Possession - Personal Use Amount
 24056,04/13/24 04:40,2024-00070365,,Unknown,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol"
 24094,04/16/24 12:00,2022-00069217,,Black,Male,School Trespassing On Ground
 24061,04/16/24 12:15,2024-00072537,,Black,Male,BURGLARY-FOURTH DEGREE-DWELLING; BURGLARY-THIRD DEGREE; Malicious Destruction Property/Value -$1000
@@ -381,7 +381,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24099,04/20/24 12:00,2024-00018338,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24098,04/20/24 12:00,2024-00017771,,Black,Male,"THEFT: $100 TO UNDER $1,500-Bicycle"
 24064,04/21/24 03:50,2024-00075648,,Unknown,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Negligent driving veh. in careless and imprudent manner endangering property, life and person"
-24063,04/21/24 23:49,2024-00076167,,White,Female,CDS:Possession Cannabis-Personal Amount
+24063,04/21/24 23:49,2024-00076167,,White,Female,Marijuana Possession - Personal Use Amount
 24091,04/22/24 00:00,2023-00134809,,Black,Female,CDS: POSSESS-NOT CANNABIS; Possession or Receive CDS while Confined/Detained
 24060,04/24/24 16:22,2024-00078105,,Black,Male,FRAUD-PER. IDENT. AVOID PROS; School Trespassing On Ground
 24065,04/25/24 20:48,2024-00078739,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
@@ -507,7 +507,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24199,08/23/24 23:05,2024-00134187,,Asian,Male,Consuming/Possessing Open Alcoholic Beverage in Public
 24217,08/24/24 00:13,2024-00134263,,White,Male,Open Container: Alcohol Prohibited Place
 24200,08/24/24 03:28,2024-00134423,,White,Female,Consuming/Possessing Open Alcoholic Beverage in Public
-24213,08/24/24 22:22,2024-00134997,,Black,Male,CDS:Possession Cannabis-Personal Amount
+24213,08/24/24 22:22,2024-00134997,,Black,Male,Marijuana Possession - Personal Use Amount
 24208,08/24/24 23:23,2024-00135004,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 24214,08/25/24 22:51,2024-00135839,,Black,Male,Suspicion - Arrested and Released without Charges
 24205,08/27/24 00:00,2023-00044407,,Black,Male,CDS: POSSESS-NOT CANNABIS
@@ -518,6 +518,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24207,08/31/24 02:11,2024-00139531,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 24209,09/01/24 04:45,2024-00140117,,White,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24216,09/03/24 19:32,2024-00142128,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Standing, Parking) veh. w/i 30 ft. of (flashing signal, (stop, yield) sign, traffic control signal); (Standing, Parking) veh. wherever prohibited by official sign; Driving commercial motor veh. without required license for that class of vehicle; Person driving motor veh. on (hwy., public use property) on suspended lic. and privilege"
+24218,09/05/24 19:21,2024-00143641,,Asian,Male,Consuming/Possessing Open Alcoholic Beverage in Public
 ,,,,,,
 23312,01/02/22 00:10,2022-00000238,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person"
 23313,01/02/22 05:35,2022-00000271,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
