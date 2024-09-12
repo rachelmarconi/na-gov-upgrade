@@ -2793,7 +2793,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00111739,05/24/24 00:00,07/02/24 18:37,Theft,Investigation Pending,4200 block of  Farm  Dr
 2024-00111752,07/02/24 18:25,07/02/24 19:18,Theft,Summons Issued,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2024-00111781,07/02/24 18:00,07/02/24 21:16,Theft,Investigation Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
-2024-00111877,07/02/24 23:00,07/03/24 00:51,Burglary,Active/Pending,Baltimore  Ave
+2024-00111877,07/02/24 23:00,07/03/24 00:51,Burglary,Summons Issued,Baltimore  Ave
 2024-00111982,07/03/24 00:31,07/03/24 06:04,Assist Other Agency / Trespassing,Active/Pending,7300 block of  Baltimore  Ave
 2024-00112087,07/03/24 14:12,07/03/24 14:12,Theft,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00112139,07/03/24 18:18,07/03/24 18:18,Theft,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
@@ -2859,7 +2859,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00117920,07/18/24 14:00,07/18/24 18:25,Theft,Investigation Pending,Fieldhouse  Dr
 2024-00117957,07/18/24 14:00,07/18/24 19:52,Theft,Investigation Pending,"84, Kirwan Hall, Mathematics Building, William E. Kirwan Hall at 4176  Campus  Dr"
 2024-00117958,07/18/24 19:10,07/18/24 19:49,Emergency Petition,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
-2024-00117964,07/17/24 18:00,07/18/24 21:26,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
+2024-00117964,07/17/24 18:00,07/18/24 21:26,Theft,Investigation Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2024-00118227,07/18/24 15:00,07/19/24 10:51,Damage to State Property,Unfounded,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2024-00118256,04/22/24 00:00,07/19/24 11:49,Fraud,Active/Pending,8500 block of  Boteler  Ln
 2024-00118283,07/19/24 00:00,07/19/24 13:39,Stolen Motor Vehicle,Warrant Issued,University Courtyard #5 at 8500  Boteler  Ln
@@ -3066,9 +3066,10 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00141476,09/02/24 21:45,09/02/24 23:17,Hate Bias Incident (Title IX Related),Active/Pending,Stadium Dr
 2024-00141885,09/03/24 09:40,09/03/24 09:48,Suspicious Activity,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center, Jones-Hill House at 4090  Union  Dr"
 2024-00141993,09/02/24 21:00,09/03/24 15:12,Theft,Active/Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
-2024-00141994,09/03/24 15:31,09/03/24 15:31,Fraud,Active/Pending,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
+2024-00141994,09/03/24 15:31,09/03/24 15:31,Fraud,CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2024-00142010,09/03/24 16:01,09/03/24 16:01,Injured Officer,CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2024-00142128,09/03/24 19:13,09/03/24 19:13,DWI/DUI,Arrest,"City of CP Garage, College Park Garage, CP Garage at  Knox  Rd"
+2024-00142648,08/29/24 16:30,09/04/24 11:36,Stolen Motor Vehicle,Active/Pending,4300 block of  Rowalt  Dr
 2024-00142746,09/04/24 16:22,09/04/24 16:22,Suspicious Person/Auto,Active/Pending,College  Ave
 2024-00142887,09/04/24 20:30,09/04/24 21:53,Theft,Investigation Pending,436 at 4136  Stadium  Dr
 2024-00143434,09/05/24 12:18,09/05/24 12:18,Suspicious Activity,CBE,436 at 4136  Stadium  Dr
@@ -3095,6 +3096,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00145550,09/09/24 09:00,09/09/24 09:04,Injured/Sick Person,CBE,"Benjamin, Benjamin Building at 3942  Campus  Dr"
 2024-00145899,09/09/24 15:58,09/09/24 15:58,Emergency Petition,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2024-00146215,09/10/24 00:23,09/10/24 01:05,Theft,Active/Pending,3400 block of  Tulane  Dr
+2024-00146478,09/09/24 18:00,09/10/24 12:18,Theft,Active/Pending,Johnson-Whittle Hall at 4118  Stadium  Dr
+2024-00146539,09/10/24 14:36,09/10/24 14:36,Injured/Sick Person,CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
+2024-00146609,08/25/24 14:00,09/10/24 18:27,Theft,Active/Pending,436 at 4136  Stadium  Dr
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
