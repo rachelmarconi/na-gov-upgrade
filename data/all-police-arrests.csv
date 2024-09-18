@@ -491,8 +491,10 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24180,08/10/24 03:21,2024-00127695,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 24181,08/10/24 05:32,2024-00127730,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24182,08/13/24 00:35,2024-00129033,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
+24231,08/13/24 12:00,2024-00089163,,Asian,Male,"THEFT: $1,500 TO UNDER $25,000-From Building"
 24185,08/14/24 02:45,2024-00129542,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 24186,08/14/24 05:11,2024-00129556,,White,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driving veh. on hwy. with suspended registration; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
+24230,08/14/24 12:00,2024-00057566,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24193,08/14/24 13:41,2024-00129663,,White,Female,Theft Less Than $100
 24184,08/15/24 02:39,2024-00129916,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 24194,08/15/24 20:48,2024-00130153,,Black,Male,Theft Less Than $100
@@ -502,6 +504,8 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24224,08/16/24 12:00,2024-00087306,,Black,Male,"THEFT: $100 TO UNDER $1,500-All Other; Unauth Removal of Property"
 24192,08/17/24 01:55,2024-00130913,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24215,08/20/24 00:51,2024-00132361,,White,Male,Suspicion - Arrested and Released without Charges
+24232,08/22/24 12:00,2024-00118283,,Black,Male,Malicious Destruction - Scheme/Value over $1000
+24233,08/22/24 12:00,2024-00119877,,Black,Male,Malicious Destruction - Scheme/Value over $1000
 24197,08/23/24 01:22,2024-00133519,,White,Female,Consuming/Possessing Open Alcoholic Beverage in Public
 24196,08/23/24 01:45,2024-00133582,,White,Male,Urinating or Defecating in Public
 24211,08/23/24 22:28,2024-00134148,,White,Female,Consuming/Possessing Open Alcoholic Beverage in Public
@@ -524,6 +528,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24216,09/03/24 19:32,2024-00142128,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Standing, Parking) veh. w/i 30 ft. of (flashing signal, (stop, yield) sign, traffic control signal); (Standing, Parking) veh. wherever prohibited by official sign; Driving commercial motor veh. without required license for that class of vehicle; Person driving motor veh. on (hwy., public use property) on suspended lic. and privilege"
 24225,09/04/24 12:00,2024-00102627,,Black,Male,"FALSE CRD CRD: CHRG GOODS L/T $100; THEFT: $100 TO UNDER $1,500-From Building; Unauth Removal of Property"
 24218,09/05/24 19:21,2024-00143641,,Asian,Male,Consuming/Possessing Open Alcoholic Beverage in Public
+24229,09/06/24 15:32,2024-00144105,,Black,Male,"ASSAULT-FIRST DEGREE; ASSAULT-SEC DEGREE-Hands,Fist,Feet,Etc-Aggravated Injury; Dangerous Weapon-Int/Injure; Disorderly Conduct; Disturb Peace Hinder Passage; False Imprisonment; Theft Less Than $100"
 24226,09/08/24 02:46,2024-00144915,,White,Male,"Burglary Tools-Mot. Veh/Possess; CDS: POSS PARAPHERNALIA; MOTOR VEHICLE/UNLAWFUL TAKING; Obstructing and Hindering; THEFT: $1,500 TO UNDER $25,000-All Other; Unauth Removal of Motor Vehicle"
 24223,09/09/24 04:15,2024-00145452,,Black,Male,Obstructing and Hindering; Resist/Interfere with Arrest
 24227,09/13/24 00:41,2024-00148042,,White,Female,Trespass-Posted Property
