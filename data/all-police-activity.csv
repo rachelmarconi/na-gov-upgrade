@@ -3083,6 +3083,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00144115,09/04/24 15:00,09/06/24 16:19,Vandalism,Investigation Pending,Cumberland Hall at 4250  Farm  Dr
 2024-00144154,09/06/24 17:18,09/06/24 17:18,Injured/Sick Person,CBE,Manufacturing Building at 8197  Regents  Dr
 2024-00144187,09/06/24 18:06,09/06/24 18:06,Emergency Petition,CBE,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
+2024-00144202,09/04/24 13:45,09/06/24 18:40,Theft,Active/Pending,"Physical Sciences Complex, PSC at 4296  Stadium  Dr"
 2024-00144208,09/06/24 19:04,09/06/24 19:04,Injured/Sick Person,CBE,Bentleys at 7323  Baltimore  Ave
 2024-00144279,09/06/24 22:00,09/06/24 22:48,Vandalism,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00144289,09/06/24 23:18,09/06/24 23:18,Trespassing,CBE,4100 block of  Stadium  Dr
@@ -3091,6 +3092,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00144768,09/07/24 12:00,09/07/24 20:18,Vandalism,Investigation Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00144876,09/07/24 21:00,09/07/24 23:32,Injured/Sick Person,CBE,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
 2024-00144899,09/08/24 00:34,09/08/24 00:38,Assist Other Agency / Assault,CBE,7500 block of  Rhode Island  Ave
+2024-00144914,09/08/24 02:08,09/08/24 02:08,DWI/DUI,Arrest,University  Blvd
 2024-00144915,09/08/24 02:08,09/08/24 02:08,Recovered Stolen Motor Vehicle,Arrest,7300 block of  Knox Rd
 2024-00145056,09/08/24 03:33,09/08/24 10:04,Assist Other Agency (Title IX Related) / Sex Offense,CBE,7700 block of  Baltimore  Ave
 2024-00145096,09/06/24 04:00,09/08/24 10:56,Title IX Incident Non Criminal,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
@@ -3115,6 +3117,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00146609,08/25/24 14:00,09/10/24 18:27,Theft,Active/Pending,436 at 4136  Stadium  Dr
 2024-00146682,09/10/24 18:45,09/10/24 20:21,Theft,Active/Pending,8500 block of  Boteler  Ln
 2024-00146780,09/10/24 23:09,09/10/24 23:09,Emergency Petition,CBE,4300 block of  Hartwick  Rd
+2024-00147018,09/11/24 07:00,09/11/24 07:17,Accident - Departmental,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00147152,09/11/24 11:05,09/11/24 11:05,Injured/Sick Person,CBE,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2024-00147171,09/11/23 11:00,09/11/24 12:19,Theft,Active/Pending,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
 2024-00147184,09/11/24 11:00,09/11/24 13:24,Theft,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center, Jones-Hill House at 4090  Union  Dr"
@@ -3127,15 +3130,18 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00147663,09/11/24 18:00,09/12/24 09:50,Theft,Investigation Pending,"65, Carroll, Carroll Hall at 7284  Preinkert  Dr"
 2024-00147687,09/11/24 17:00,09/12/24 10:28,Theft,Active/Pending,"16, Baltimore, Baltimore Hall at 7497  Calvert Service  Ln"
 2024-00147769,09/12/24 12:51,09/12/24 12:51,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
+2024-00147852,09/12/24 16:59,09/12/24 16:59,Assist Other Agency / Domestic,CBE,5000 block of  Quebec  St
 2024-00147862,09/12/24 16:00,09/12/24 17:15,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2024-00147910,09/12/24 15:15,09/12/24 18:42,Theft,Active/Pending,3400 block of  Tulane  Dr
 2024-00147936,09/12/24 18:50,09/12/24 19:39,Damage to State Property,Active/Pending,4400 block of  Lehigh  Rd
-2024-00147979,09/12/24 21:45,09/12/24 22:24,Vandalism,Active/Pending,Cumberland Hall at 4250  Farm  Dr
+2024-00147979,09/12/24 21:45,09/12/24 22:24,Vandalism,Investigation Pending,Cumberland Hall at 4250  Farm  Dr
 2024-00148042,09/13/24 00:17,09/13/24 00:17,Trespassing,Arrest,Stanley R. Zupnick Hall at 8184  Paint Branch  Dr
 2024-00148043,09/13/24 00:29,09/13/24 00:29,Injured/Sick Person,CBE,"Alpha Chi Omega, Alpha Chi Omega Sorority at 4525  College  Ave"
+2024-00148072,09/13/24 01:00,09/13/24 02:05,Extortion,Active/Pending,4200 block of  Valley  Dr
 2024-00148238,09/13/24 06:35,09/13/24 07:30,Theft,Active/Pending,"Art Soc, Art Sociology Building, Art-Sociology Building, Parren J. Mitchell Art-Sociology Building at 3834  Campus  Dr"
 2024-00148339,09/12/24 12:00,09/13/24 09:33,Injured/Sick Person,CBE,8000 block of  Hagerstown  Dr
 2024-00148788,09/13/24 23:26,09/13/24 23:26,Alcohol Violation,Arrest,Knox  Rd
+2024-00148895,09/14/24 03:20,09/14/24 03:22,Disorderly Conduct,Arrest,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00149267,09/14/24 14:21,09/14/24 14:21,Injured/Sick Person,CBE,Engineering Fields
 2024-00149352,09/14/24 18:49,09/14/24 18:49,Injured/Sick Person,CBE,UMGC Inn & Conference Center at 345  Ehrensberger  Dr
 2024-00149436,09/13/24 17:30,09/14/24 20:42,Theft,Active/Pending,"Architecture, Architecture Building at 3835  Campus  Dr"
@@ -3146,6 +3152,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00150522,09/13/24 16:05,09/16/24 08:31,Theft,Active/Pending,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2024-00150732,07/21/24 11:53,09/16/24 17:22,Other Incident,Active/Pending,4300 block of  Rowalt  Dr
 2024-00150792,09/16/24 19:50,09/16/24 19:55,Injured/Sick Person,CBE,436 at 4136  Stadium  Dr
+2024-00151349,09/17/24 09:00,09/17/24 12:18,Check on the  Welfare,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
+2024-00151581,09/17/24 09:00,09/17/24 18:19,Suspicious Activity,CBE,7200 block of  Preinkert  Dr
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
