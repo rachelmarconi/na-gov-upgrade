@@ -3195,6 +3195,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00154393,09/21/24 02:52,09/21/24 02:55,Vandalism,Active/Pending,"Leonardtown #244, Leonardtown at 4673  Rossborough  Ln"
 2024-00154607,09/21/24 11:54,09/21/24 11:54,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2024-00154706,09/21/24 13:50,09/21/24 13:58,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
+2024-00154926,09/14/24 16:30,09/21/24 20:19,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00155197,09/22/24 07:19,09/22/24 07:19,Recovered Stolen Motor Vehicle,Active/Pending,Visitor Center at the Hotel at the University of Maryland at 7777  Baltimore  Ave
 2024-00155283,09/22/24 10:38,09/22/24 10:38,Injured/Sick Person,CBE,4200 block of  Farm  Dr
 2024-00155455,09/22/24 16:34,09/22/24 16:34,Injured/Sick Person,CBE,"38, Lefrak, Lefrak Hall at 7251  Preinkert  Dr"
@@ -3202,6 +3203,16 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00156194,09/22/24 19:00,09/23/24 12:23,Theft,Active/Pending,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
 2024-00156321,09/23/24 14:00,09/23/24 17:24,Vandalism,Active/Pending,8200 block of  Boteler  Ln
 2024-00156444,09/23/24 22:43,09/23/24 22:43,Trespassing,Active/Pending,"Journalism Building, Knight Hall at 7765  Alumni  Dr"
+2024-00156857,09/23/24 19:00,09/24/24 09:35,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
+2024-00156901,09/20/24 18:00,09/24/24 11:44,Theft,Active/Pending,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
+2024-00157149,09/24/24 16:30,09/24/24 18:23,Theft,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
+2024-00157186,09/24/24 14:00,09/24/24 20:11,Theft,Active/Pending,"Bioscience, Bioscience Research Building at 4066  Campus  Dr"
+2024-00157201,09/24/24 12:00,09/24/24 20:47,Theft,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
+2024-00157217,09/24/24 20:15,09/24/24 21:46,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2024-00157482,09/25/24 00:00,09/25/24 07:35,Theft,Active/Pending,"Architecture, Architecture Building at 3835  Campus  Dr"
+2024-00157530,09/25/24 09:15,09/25/24 09:21,Injured/Sick Person,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
+2024-00157712,09/24/24 20:45,09/25/24 15:08,Theft,Active/Pending,McKeldin Mall
+2024-00157817,09/25/24 14:50,09/25/24 18:15,Theft,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
