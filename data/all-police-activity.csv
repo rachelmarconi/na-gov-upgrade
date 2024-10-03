@@ -3246,6 +3246,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00159461,09/27/24 16:59,09/27/24 16:59,Suspicious Person/Auto,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00159471,09/27/24 17:00,09/27/24 17:07,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2024-00159504,09/27/24 15:00,09/27/24 17:23,Theft,Active/Pending,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
+2024-00159702,09/27/24 02:00,09/27/24 20:43,Stolen Motor Vehicle,Active/Pending,University Courtyard #2 at 8200  Boteler  Ln
 2024-00159714,09/26/24 22:30,09/27/24 21:13,Theft,Active/Pending,"65, Carroll, Carroll Hall at 7284  Preinkert  Dr"
 2024-00159720,09/27/24 14:37,09/27/24 21:30,Theft,Active/Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
 2024-00159741,09/27/24 18:00,09/27/24 22:06,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
@@ -3253,7 +3254,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00160688,09/27/24 23:30,09/28/24 16:59,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2024-00160752,09/28/24 18:00,09/28/24 18:24,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00161435,09/29/24 07:28,09/29/24 07:28,Injured/Sick Person,CBE,3400 block of  Tulane  Dr
+2024-00161661,01/30/24 00:00,09/29/24 14:14,Police Information,CBE,8100 block of  La Plata  Dr
 2024-00161716,09/25/24 21:00,09/29/24 15:48,Theft,Active/Pending,283 at 4331  Rowalt  Dr
+2024-00161822,09/29/24 17:45,09/29/24 17:45,Warrant/Summons Service,Arrest,Baltimore  Ave
 2024-00161829,09/27/24 18:00,09/29/24 18:10,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2024-00161855,09/29/24 19:52,09/29/24 19:52,Emergency Petition,CBE,"99, Bel Air, Bel Air Hall at 4213  Valley  Dr"
 2024-00162090,09/17/24 00:00,09/29/24 23:47,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
@@ -3264,6 +3267,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00162967,09/30/24 12:00,09/30/24 20:35,Theft,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2024-00162990,09/26/24 20:00,09/30/24 21:29,Theft,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
 2024-00163000,09/30/24 18:00,09/30/24 21:55,Theft,Active/Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
+2024-00163009,09/30/24 11:45,09/30/24 22:30,Theft,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
+2024-00163171,10/01/24 02:54,10/01/24 02:54,Suspicious Activity,Active/Pending,University  Blvd
+2024-00163681,10/01/24 14:50,10/01/24 17:56,Theft,Active/Pending,"14, Harford Hall at 7660  Regents  Dr"
+2024-00163686,10/01/24 18:28,10/01/24 18:28,Injured/Sick Person,CBE,8200 block of  Alumni  Dr
+2024-00163716,10/01/24 07:30,10/01/24 19:36,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
+2024-00163759,10/01/24 15:00,10/01/24 20:55,Theft,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
+2024-00163912,10/01/24 17:00,10/02/24 03:48,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
+2024-00163986,10/01/24 19:30,10/02/24 06:49,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
