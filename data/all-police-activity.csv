@@ -3113,7 +3113,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00145967,09/09/24 18:47,09/09/24 18:50,Assault,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2024-00145999,09/09/24 20:51,09/09/24 20:51,Injured/Sick Person,CBE,"Kehoe Track, Kehoe Track at Ludwig Field, Ludwig Field at 7898  Championship  Ln"
 2024-00146215,09/10/24 00:23,09/10/24 01:05,Theft,Active/Pending,3400 block of  Tulane  Dr
-2024-00146478,09/09/24 18:00,09/10/24 12:18,Theft,Active/Pending,Johnson-Whittle Hall at 4118  Stadium  Dr
+2024-00146478,09/09/24 18:00,09/10/24 12:18,Theft,Investigation Pending,Johnson-Whittle Hall at 4118  Stadium  Dr
 2024-00146539,09/10/24 14:36,09/10/24 14:36,Injured/Sick Person,CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2024-00146552,09/10/24 15:50,09/10/24 15:50,Assist Other Agency / Accident,CBE,Baltimore  Ave
 2024-00146603,09/10/24 17:00,09/10/24 17:52,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
@@ -3197,7 +3197,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00154313,11/13/23 12:00,09/21/24 00:02,Dept Property Damage/Loss,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00154316,09/21/24 00:03,09/21/24 00:03,Injured/Sick Person,CBE,Terrapin's Turf at 4410  Knox  Rd
 2024-00154324,09/21/24 00:20,09/21/24 00:20,Injured/Sick Person,CBE,Baltimore  Ave
-2024-00154327,09/20/24 22:00,09/21/24 00:19,Hate Bias Incident,Active/Pending,8100 block of  La Plata  Dr
+2024-00154327,09/20/24 22:00,09/21/24 00:19,Hate Bias Incident,Investigation Pending,8100 block of  La Plata  Dr
 2024-00154393,09/21/24 02:52,09/21/24 02:55,Vandalism,Active/Pending,"Leonardtown #244, Leonardtown at 4673  Rossborough  Ln"
 2024-00154607,09/21/24 11:54,09/21/24 11:54,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2024-00154706,09/21/24 13:50,09/21/24 13:58,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
@@ -3250,6 +3250,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00159714,09/26/24 22:30,09/27/24 21:13,Theft,Active/Pending,"65, Carroll, Carroll Hall at 7284  Preinkert  Dr"
 2024-00159720,09/27/24 14:37,09/27/24 21:30,Theft,Active/Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
 2024-00159741,09/27/24 18:00,09/27/24 22:06,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
+2024-00159782,09/27/24 22:46,09/27/24 22:46,Trespassing,Arrest,"51, Worcester, Worcester Hall at 7405  Preinkert  Dr"
 2024-00160227,09/28/24 03:31,09/28/24 03:31,DWI/DUI,Arrest,Paint Branch  Dr
 2024-00160688,09/27/24 23:30,09/28/24 16:59,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2024-00160752,09/28/24 18:00,09/28/24 18:24,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
@@ -3269,12 +3270,19 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00163000,09/30/24 18:00,09/30/24 21:55,Theft,Active/Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
 2024-00163009,09/30/24 11:45,09/30/24 22:30,Theft,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2024-00163171,10/01/24 02:54,10/01/24 02:54,Suspicious Activity,Active/Pending,University  Blvd
+2024-00163466,10/01/24 10:00,10/01/24 12:07,Theft,Active/Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2024-00163681,10/01/24 14:50,10/01/24 17:56,Theft,Active/Pending,"14, Harford Hall at 7660  Regents  Dr"
 2024-00163686,10/01/24 18:28,10/01/24 18:28,Injured/Sick Person,CBE,8200 block of  Alumni  Dr
 2024-00163716,10/01/24 07:30,10/01/24 19:36,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2024-00163759,10/01/24 15:00,10/01/24 20:55,Theft,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
 2024-00163912,10/01/24 17:00,10/02/24 03:48,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2024-00163986,10/01/24 19:30,10/02/24 06:49,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
+2024-00164256,10/01/24 23:30,10/02/24 15:33,Theft,Active/Pending,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
+2024-00164262,10/01/24 21:30,10/02/24 15:41,Theft,Active/Pending,La Plata Hall at 8160  La Plata  Dr
+2024-00164313,10/01/24 15:00,10/02/24 16:43,Theft,Active/Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
+2024-00164317,10/02/24 14:30,10/02/24 16:52,Theft,Active/Pending,"Tawes, Tawes Hall at 7751  Alumni  Dr"
+2024-00164359,10/02/24 13:00,10/02/24 17:53,Theft,Active/Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2024-00164402,10/02/24 17:10,10/02/24 18:50,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
