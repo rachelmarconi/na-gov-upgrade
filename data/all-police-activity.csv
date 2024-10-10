@@ -3211,7 +3211,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00155957,09/23/24 07:22,09/23/24 07:23,Injured/Sick Person,CBE,8300 block of  Boteler  Ln
 2024-00156170,09/22/24 19:56,09/23/24 12:09,Fraud,Active/Pending,4400 block of  Lehigh  Rd
 2024-00156194,09/22/24 19:00,09/23/24 12:23,Theft,Active/Pending,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
-2024-00156311,09/23/24 11:59,09/23/24 16:53,Theft,Active/Pending,Varsity Sports Teamhouse at 4117  Stadium  Dr
+2024-00156311,09/23/24 11:59,09/23/24 16:53,Theft,Investigation Pending,Varsity Sports Teamhouse at 4117  Stadium  Dr
 2024-00156321,09/23/24 14:00,09/23/24 17:24,Vandalism,Active/Pending,8200 block of  Boteler  Ln
 2024-00156407,09/23/24 12:20,09/23/24 19:02,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00156444,09/23/24 22:43,09/23/24 22:43,Trespassing,CBE,"Journalism Building, Knight Hall at 7765  Alumni  Dr"
@@ -3222,9 +3222,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00157034,09/24/24 10:20,09/24/24 16:07,Vandalism,Active/Pending,Lot 11b
 2024-00157111,09/22/24 01:00,09/24/24 17:33,Title IX Incident Non Criminal,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00157149,09/24/24 16:30,09/24/24 18:23,Theft,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
-2024-00157186,09/24/24 14:00,09/24/24 20:11,Theft,Active/Pending,"Bioscience, Bioscience Research Building at 4066  Campus  Dr"
+2024-00157186,09/24/24 14:00,09/24/24 20:11,Theft,Investigation Pending,"Bioscience, Bioscience Research Building at 4066  Campus  Dr"
 2024-00157201,09/24/24 12:00,09/24/24 20:47,Theft,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
-2024-00157217,09/24/24 20:15,09/24/24 21:46,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2024-00157217,09/24/24 20:15,09/24/24 21:46,Theft,Investigation Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00157482,09/25/24 00:00,09/25/24 07:35,Theft,Active/Pending,"Architecture, Architecture Building at 3835  Campus  Dr"
 2024-00157530,09/25/24 09:15,09/25/24 09:21,Injured/Sick Person,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2024-00157639,09/24/24 15:30,09/25/24 13:10,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
@@ -3240,12 +3240,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00158465,09/26/24 18:00,09/26/24 21:11,Theft,Active/Pending,"Computer Science Instructional Center, CSIC at 8169  Paint Branch  Dr"
 2024-00158613,09/26/24 23:54,09/26/24 23:54,Injured/Sick Person,CBE,Johnson-Whittle Hall at 4118  Stadium  Dr
 2024-00158679,09/27/24 00:50,09/27/24 01:00,Suspicious Person/Auto,CBE,Baltimore  Ave
+2024-00158693,09/27/24 01:20,09/27/24 01:20,DWI/DUI,Arrest,University  Blvd
 2024-00158724,09/27/24 01:47,09/27/24 01:47,Traffic Offense,CBE,University  Blvd
 2024-00158814,09/27/24 02:47,09/27/24 02:47,Injured/Sick Person,CBE,7400 block of  Baltimore  Ave
 2024-00159306,09/27/24 07:00,09/27/24 10:16,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00159388,09/20/24 15:15,09/27/24 12:35,Suspicious Activity,Active/Pending,3800 block of  Campus  Dr
 2024-00159389,09/27/24 11:00,09/27/24 13:07,Theft,Unfounded,8000 block of  Regents  Dr
-2024-00159395,09/27/24 01:00,09/27/24 13:40,Theft,Active/Pending,8100 block of  La Plata  Dr
+2024-00159395,09/27/24 01:00,09/27/24 13:40,Theft,Investigation Pending,8100 block of  La Plata  Dr
 2024-00159461,09/27/24 16:59,09/27/24 16:59,Suspicious Person/Auto,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00159471,09/27/24 17:00,09/27/24 17:07,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2024-00159504,09/27/24 15:00,09/27/24 17:23,Theft,Active/Pending,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
@@ -3279,6 +3280,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00162990,09/26/24 20:00,09/30/24 21:29,Theft,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
 2024-00163000,09/30/24 18:00,09/30/24 21:55,Theft,Active/Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
 2024-00163009,09/30/24 11:45,09/30/24 22:30,Theft,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
+2024-00163017,09/30/24 22:51,09/30/24 22:51,CDS Violation,CBE,7100 block of  Preinkert  Dr
 2024-00163171,10/01/24 02:54,10/01/24 02:54,Suspicious Activity,Active/Pending,University  Blvd
 2024-00163376,09/30/24 22:00,10/01/24 09:00,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2024-00163466,10/01/24 10:00,10/01/24 12:07,Theft,Active/Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
@@ -3288,10 +3290,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00163686,10/01/24 18:28,10/01/24 18:28,Injured/Sick Person,CBE,8200 block of  Alumni  Dr
 2024-00163716,10/01/24 07:30,10/01/24 19:36,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2024-00163759,10/01/24 15:00,10/01/24 20:55,Theft,Active/Pending,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
+2024-00163886,10/02/24 02:30,10/02/24 02:30,Assist Other Agency / Theft,CBE,4300 block of  Hartwick  Rd
 2024-00163912,10/01/24 17:00,10/02/24 03:48,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2024-00163986,10/01/24 19:30,10/02/24 06:49,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2024-00164136,10/02/24 10:10,10/02/24 10:17,Pedestrian Struck,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2024-00164161,10/01/24 19:30,10/02/24 11:04,Theft,Active/Pending,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
+2024-00164173,10/01/24 18:00,10/02/24 11:16,Theft,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
+2024-00164210,10/01/24 23:45,10/02/24 13:55,Theft,Active/Pending,"16, Baltimore, Baltimore Hall at 7497  Calvert Service  Ln"
 2024-00164256,10/01/24 23:30,10/02/24 15:33,Theft,Active/Pending,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
 2024-00164262,10/01/24 21:30,10/02/24 15:41,Theft,Active/Pending,La Plata Hall at 8160  La Plata  Dr
 2024-00164313,10/01/24 15:00,10/02/24 16:43,Theft,Active/Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
@@ -3312,6 +3317,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00165191,10/03/24 21:59,10/03/24 21:59,Injured/Sick Person,CBE,7500 block of  Regents  Dr
 2024-00165213,10/03/24 22:30,10/03/24 22:41,Injured/Sick Person,CBE,8500 block of  Paint Branch  Dr
 2024-00165267,10/03/24 15:00,10/03/24 23:10,Injured/Sick Person,CBE,4000 block of  Stadium  Dr
+2024-00165285,10/03/24 23:22,10/03/24 23:22,DWI/DUI,Arrest,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
 2024-00165367,10/04/24 00:33,10/04/24 00:33,Injured/Sick Person,CBE,4300 block of  Knox  Rd
 2024-00165402,10/03/24 22:00,10/04/24 01:02,Vandalism,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2024-00165689,10/03/24 21:30,10/04/24 13:32,Theft,Active/Pending,Lot 11b
@@ -3327,16 +3333,23 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00166488,10/04/24 23:30,10/05/24 07:59,Injured/Sick Person,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00166832,10/05/24 18:00,10/05/24 20:24,Injured/Sick Person,CBE,La Plata Hall at 8160  La Plata  Dr
 2024-00166875,10/05/24 21:58,10/05/24 21:58,Injured/Sick Person,CBE,"Drazek Circle, UMGC at 346  Ehrensberger  Dr"
-2024-00166877,10/05/24 21:22,10/05/24 22:01,Hate Bias Incident,Active/Pending,7400 block of  Hopkins  Ave
+2024-00166877,10/05/24 21:22,10/05/24 22:01,Other Incident,Active/Pending,7400 block of  Hopkins  Ave
 2024-00167280,10/06/24 02:08,10/06/24 02:08,Injured/Sick Person,CBE,Baltimore  Ave
 2024-00167372,10/06/24 03:01,10/06/24 03:01,Injured/Sick Person,CBE,7000 block of  Preinkert  Dr
+2024-00167379,10/06/24 03:18,10/06/24 03:18,DWI/DUI,Arrest,Adelphi  Rd
 2024-00168457,10/06/24 18:30,10/06/24 20:51,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2024-00168473,10/06/24 18:00,10/06/24 21:24,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
+2024-00168562,10/06/24 22:46,10/06/24 22:46,DWI/DUI,Arrest,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00168783,10/07/24 02:06,10/07/24 02:20,Injured/Sick Person,CBE,7400 block of  Preinkert  Dr
 2024-00169067,10/04/24 12:00,10/07/24 10:17,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2024-00169328,10/07/24 15:20,10/07/24 17:15,Theft,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
 2024-00169339,10/07/24 17:00,10/07/24 18:03,Theft,Active/Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
+2024-00169341,10/07/24 16:30,10/07/24 18:35,Vandalism,Active/Pending,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
 2024-00169744,10/08/24 04:10,10/08/24 04:10,Injured/Sick Person,CBE,Cumberland Hall at 4250  Farm  Dr
+2024-00170214,10/08/24 13:49,10/08/24 13:49,Emergency Petition,CBE,3900 block of  Denton Service  Ln
+2024-00170415,10/08/24 09:00,10/08/24 19:51,Theft,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
+2024-00170430,10/08/24 17:00,10/08/24 20:40,Theft,Active/Pending,La Plata Hall at 8160  La Plata  Dr
+2024-00170495,10/08/24 19:00,10/08/24 22:09,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
