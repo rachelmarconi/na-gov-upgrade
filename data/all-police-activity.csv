@@ -3198,7 +3198,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00154316,09/21/24 00:03,09/21/24 00:03,Injured/Sick Person,CBE,Terrapin's Turf at 4410  Knox  Rd
 2024-00154324,09/21/24 00:20,09/21/24 00:20,Injured/Sick Person,CBE,Baltimore  Ave
 2024-00154327,09/20/24 22:00,09/21/24 00:19,Hate Bias Incident,Active/Pending,8100 block of  La Plata  Dr
-2024-00154393,09/21/24 02:52,09/21/24 02:55,Vandalism,Active/Pending,"Leonardtown #244, Leonardtown at 4673  Rossborough  Ln"
+2024-00154393,09/21/24 02:52,09/21/24 02:55,Vandalism,Investigation Pending,"Leonardtown #244, Leonardtown at 4673  Rossborough  Ln"
 2024-00154607,09/21/24 11:54,09/21/24 11:54,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2024-00154706,09/21/24 13:50,09/21/24 13:58,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2024-00154926,09/14/24 16:30,09/21/24 20:19,Theft,Investigation Pending,Hagerstown Hall at 8075  Hagerstown  Dr
@@ -3289,7 +3289,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00163681,10/01/24 14:50,10/01/24 17:56,Theft,Summons Issued,"14, Harford Hall at 7660  Regents  Dr"
 2024-00163686,10/01/24 18:28,10/01/24 18:28,Injured/Sick Person,CBE,8200 block of  Alumni  Dr
 2024-00163716,10/01/24 07:30,10/01/24 19:36,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
-2024-00163759,10/01/24 15:00,10/01/24 20:55,Theft,Summons Issued,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
+2024-00163759,10/01/24 15:00,10/01/24 20:55,Theft,Warrant Issued,"Commons 4, SCC 4, South Campus Commons 4 at 4310  Knox  Rd"
 2024-00163886,10/02/24 02:30,10/02/24 02:30,Assist Other Agency / Theft,CBE,4300 block of  Hartwick  Rd
 2024-00163912,10/01/24 17:00,10/02/24 03:48,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2024-00163986,10/01/24 19:30,10/02/24 06:49,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
@@ -3358,6 +3358,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00169328,10/07/24 15:20,10/07/24 17:15,Theft,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
 2024-00169339,10/07/24 17:00,10/07/24 18:03,Theft,Active/Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
 2024-00169341,10/07/24 16:30,10/07/24 18:35,Vandalism,Active/Pending,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
+2024-00169351,10/07/24 19:00,10/07/24 19:40,Theft,Active/Pending,"48, Francis Scott Key, Francis Scott Key Hall, FS Key Hall, FSK at 4282  Chapel  Ln"
 2024-00169744,10/08/24 04:10,10/08/24 04:10,Injured/Sick Person,CBE,Cumberland Hall at 4250  Farm  Dr
 2024-00170167,10/08/24 11:00,10/08/24 12:50,Theft,Active/Pending,"Football Team House, Gossett, Gossett Hall at 4068  Fieldhouse  Dr"
 2024-00170180,10/01/24 18:00,10/08/24 13:10,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
@@ -3378,9 +3379,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00172233,10/11/24 03:11,10/11/24 03:11,Emergency Petition,CBE,"60, Anne Arundel, Anne Arundel Hall at 3915  Campus  Dr"
 2024-00172904,10/11/24 17:37,10/11/24 17:37,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
 2024-00172915,10/11/24 16:00,10/11/24 18:14,Theft,Active/Pending,4200 block of  Valley  Dr
+2024-00172924,10/11/24 00:15,10/11/24 18:51,Theft,Investigation Pending,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2024-00172936,10/11/24 19:43,10/11/24 19:43,Injured/Sick Person,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00172942,10/11/24 19:56,10/11/24 19:56,Injured/Sick Person,CBE,Lot UU
+2024-00172962,10/11/24 20:52,10/11/24 20:52,Injured/Sick Person,CBE,"PG3, SDG, Stadium Drive Parking Garage at 4025  Stadium  Dr"
+2024-00172973,10/11/24 21:30,10/11/24 21:30,Vandalism,Investigation Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2024-00172995,10/11/24 20:30,10/11/24 22:43,Theft,Active/Pending,436 at 4136  Stadium  Dr
+2024-00173028,10/11/24 12:00,10/12/24 00:22,Theft,Active/Pending,LaPlata Beach
 2024-00173146,10/12/24 01:15,10/12/24 01:25,Injured/Sick Person,CBE,7200 block of  Baltimore  Ave
 2024-00173156,10/12/24 01:28,10/12/24 01:27,Injured/Sick Person,CBE,"7-11 Guilford, 7-Eleven Guilford at 7201  Baltimore  Ave"
 2024-00173162,10/12/24 01:42,10/12/24 01:42,Injured/Sick Person,CBE,Bank of America at 7370  Baltimore  Ave
@@ -3388,9 +3393,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00173562,10/12/24 00:30,10/12/24 12:14,Theft,Active/Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
 2024-00173847,10/12/24 21:40,10/12/24 21:42,Injured/Sick Person,CBE,"School of Public Policy, Thurgood Marshall Hall at 7805  Regents  Dr"
 2024-00173864,10/12/24 22:14,10/12/24 22:14,Injured/Sick Person,CBE,4200 block of  Valley  Dr
-2024-00173865,10/12/24 22:00,10/12/24 22:13,Vandalism,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
+2024-00173865,10/12/24 22:00,10/12/24 22:13,Vandalism,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00174581,10/11/24 13:00,10/13/24 17:44,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2024-00174718,10/13/24 21:39,10/13/24 21:39,Injured/Sick Person,CBE,"24, Allegany, Allegany Hall at 4299  Lehigh  Rd"
+2024-00175255,10/14/24 00:00,10/14/24 08:37,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
+2024-00175692,10/14/24 18:33,10/14/24 19:33,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2024-00175698,10/14/24 20:20,10/14/24 20:20,Injured/Sick Person,CBE,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
