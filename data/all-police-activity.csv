@@ -3259,14 +3259,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00159782,09/27/24 22:46,09/27/24 22:46,Trespassing,Arrest,"51, Worcester, Worcester Hall at 7405  Preinkert  Dr"
 2024-00160227,09/28/24 03:31,09/28/24 03:31,DWI/DUI,Arrest,Paint Branch  Dr
 2024-00160675,09/28/24 15:12,09/28/24 15:12,Theft,Active/Pending,Cumberland Hall at 4250  Farm  Dr
-2024-00160688,09/27/24 23:30,09/28/24 16:59,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
+2024-00160688,09/27/24 23:30,09/28/24 16:59,Theft,Summons Issued,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2024-00160752,09/28/24 18:00,09/28/24 18:24,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00160967,09/28/24 22:20,09/28/24 22:49,CDS Violation,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00161435,09/29/24 07:28,09/29/24 07:28,Injured/Sick Person,CBE,3400 block of  Tulane  Dr
 2024-00161661,01/30/24 00:00,09/29/24 14:14,Police Information,CBE,8100 block of  La Plata  Dr
 2024-00161716,09/25/24 21:00,09/29/24 15:48,Theft,Active/Pending,283 at 4331  Rowalt  Dr
 2024-00161822,09/29/24 17:45,09/29/24 17:45,Warrant/Summons Service,Arrest,Baltimore  Ave
-2024-00161829,09/27/24 18:00,09/29/24 18:10,Theft,Active/Pending,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
+2024-00161829,09/27/24 18:00,09/29/24 18:10,Theft,Summons Issued,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2024-00161855,09/29/24 19:52,09/29/24 19:52,Emergency Petition,CBE,"99, Bel Air, Bel Air Hall at 4213  Valley  Dr"
 2024-00161856,09/29/24 11:00,09/29/24 20:13,Theft,Active/Pending,Cumberland Hall at 4250  Farm  Dr
 2024-00161858,09/29/24 12:40,09/29/24 20:21,Theft,Active/Pending,"88, Martin Hall at 4298  Campus  Dr"
@@ -3429,7 +3429,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00176164,10/14/24 20:30,10/15/24 10:53,Theft,Active/Pending,Cumberland Hall at 4250  Farm  Dr
 2024-00176167,10/15/24 11:05,10/15/24 11:07,Emergency Petition,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2024-00176225,10/14/24 14:30,10/15/24 13:29,Theft,Active/Pending,4100 block of  Stadium  Dr
-2024-00176275,10/08/24 14:42,10/15/24 15:08,Theft,Active/Pending,"Tawes, Tawes Hall at 7751  Alumni  Dr"
+2024-00176275,10/08/24 14:42,10/15/24 15:08,Theft,Investigation Pending,"Tawes, Tawes Hall at 7751  Alumni  Dr"
 2024-00176328,10/11/24 20:22,10/15/24 16:02,Assist Other Agency / Peeping Tom,CBE,4600 block of  Knox  Rd
 2024-00176351,10/15/24 16:31,10/15/24 16:31,Injured/Sick Person,CBE,7500 block of  Rhode Island  Ave
 2024-00176370,10/15/24 16:50,10/15/24 17:08,Other Incident,CBE,"35, McKeldin Library at 7649  Library  Ln"
@@ -3501,6 +3501,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00182694,10/23/24 09:37,10/23/24 09:37,Damaged Property,CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2024-00182784,10/23/24 13:51,10/23/24 13:51,Emergency Petition,CBE,7400 block of  Preinkert  Dr
 2024-00183385,10/24/24 02:59,10/24/24 02:59,Other Incident,CBE,"Leonardtown #244, Leonardtown at 4673  Rossborough  Ln"
+2024-00183632,10/10/24 11:00,10/24/24 09:16,Theft,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
+2024-00183679,10/23/24 21:20,10/24/24 11:11,Injured/Sick Person,CBE,"17, Cecil, Cecil Hall at 7549  Calvert Service  Ln"
+2024-00183932,10/24/24 16:30,10/24/24 20:19,Vandalism,CBE,4100 block of  Stadium  Dr
+2024-00183984,10/22/24 00:00,10/24/24 21:16,Injured/Sick Person,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2024-00184087,10/23/24 17:00,10/24/24 23:49,Theft,Active/Pending,3400 block of  Tulane  Dr
+2024-00184122,10/25/24 00:54,10/25/24 00:54,Injured/Sick Person,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
