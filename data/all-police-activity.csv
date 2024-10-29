@@ -3299,7 +3299,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00164136,10/02/24 10:10,10/02/24 10:17,Pedestrian Struck,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2024-00164161,10/01/24 19:30,10/02/24 11:04,Theft,Active/Pending,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
 2024-00164173,10/01/24 18:00,10/02/24 11:16,Theft,Summons Issued,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
-2024-00164208,09/30/24 15:00,10/02/24 13:22,Theft,Active/Pending,Field Hockey & Women's Lacrosse Stadium at 8483  Paint Branch  Dr
+2024-00164208,09/30/24 15:00,10/02/24 13:22,Theft,Investigation Pending,Field Hockey & Women's Lacrosse Stadium at 8483  Paint Branch  Dr
 2024-00164210,10/01/24 23:45,10/02/24 13:55,Theft,Investigation Pending,"16, Baltimore, Baltimore Hall at 7497  Calvert Service  Ln"
 2024-00164256,10/01/24 23:30,10/02/24 15:33,Theft,Active/Pending,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
 2024-00164262,10/01/24 21:30,10/02/24 15:41,Theft,Active/Pending,La Plata Hall at 8160  La Plata  Dr
@@ -3357,6 +3357,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00168457,10/06/24 18:30,10/06/24 20:51,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2024-00168473,10/06/24 18:00,10/06/24 21:24,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2024-00168562,10/06/24 22:46,10/06/24 22:46,DWI/DUI,Arrest,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2024-00168596,10/06/24 22:46,10/06/24 23:30,Disorderly Conduct,Arrest,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00168783,10/07/24 02:06,10/07/24 02:20,Injured/Sick Person,CBE,7400 block of  Preinkert  Dr
 2024-00168912,05/31/24 14:30,10/07/24 07:20,Damage to State Property,CBE,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
 2024-00169067,10/04/24 12:00,10/07/24 10:17,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
@@ -3384,7 +3385,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00171633,10/10/24 11:15,10/10/24 11:15,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00171634,10/10/24 11:19,10/10/24 11:19,Emergency Petition,CBE,4200 block of  Chapel  Ln
 2024-00171674,10/10/24 11:15,10/10/24 14:27,Dept Property Damage/Loss,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
-2024-00171706,10/10/24 12:57,10/10/24 15:32,Theft,Active/Pending,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
+2024-00171706,10/10/24 12:57,10/10/24 15:32,Theft,Summons Issued,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
 2024-00171766,10/02/24 17:00,10/10/24 17:08,Theft,Active/Pending,Lot 11b
 2024-00172094,10/11/24 00:38,10/11/24 00:38,DWI/DUI,Arrest,The Hotel at 7777  Baltimore  Ave
 2024-00172233,10/11/24 03:11,10/11/24 03:11,Emergency Petition,CBE,"60, Anne Arundel, Anne Arundel Hall at 3915  Campus  Dr"
@@ -3398,6 +3399,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00172962,10/11/24 20:52,10/11/24 20:52,Injured/Sick Person,CBE,"PG3, SDG, Stadium Drive Parking Garage at 4025  Stadium  Dr"
 2024-00172973,10/11/24 21:30,10/11/24 21:30,Vandalism,Investigation Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2024-00172984,10/11/24 22:00,10/11/24 22:10,Injured/Sick Person,CBE,"PG3, SDG, Stadium Drive Parking Garage at 4025  Stadium  Dr"
+2024-00172988,10/11/24 22:00,10/11/24 22:20,Suspicious Activity,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2024-00172995,10/11/24 20:30,10/11/24 22:43,Theft,Active/Pending,436 at 4136  Stadium  Dr
 2024-00173011,10/11/24 23:39,10/11/24 23:39,Trespassing,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2024-00173015,10/11/24 23:50,10/12/24 00:04,Suspicious Activity,CBE,Stadium  Dr
@@ -3423,6 +3425,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00175541,10/13/24 17:00,10/14/24 15:09,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00175542,10/13/24 17:00,10/14/24 15:22,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00175692,10/14/24 18:33,10/14/24 19:33,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2024-00175695,05/31/24 00:00,10/14/24 19:37,Harassment/Stalking (Title IX Related),CBE,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2024-00175698,10/14/24 20:20,10/14/24 20:20,Injured/Sick Person,CBE,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2024-00175881,10/14/24 20:00,10/15/24 01:24,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2024-00176106,10/15/24 09:15,10/15/24 09:23,Injured/Sick Person,CBE,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
@@ -3451,6 +3454,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00177579,10/16/24 22:25,10/17/24 08:23,Theft,Summons Issued,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
 2024-00177604,10/14/24 19:37,10/14/24 19:40,Assault,CBE,Regents  Dr
 2024-00177629,10/08/24 08:00,10/17/24 10:16,Suspicious Activity,Active/Pending,Johnson-Whittle Hall at 4118  Stadium  Dr
+2024-00177721,10/17/24 12:40,10/17/24 13:15,Extortion,Investigation Pending,7500 block of  Regents  Dr
 2024-00177757,10/17/24 13:00,10/17/24 16:14,Suspicious Activity,CBE,"Tawes, Tawes Hall at 7751  Alumni  Dr"
 2024-00177798,10/17/24 14:05,10/17/24 17:30,Theft,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2024-00177949,10/17/24 22:00,10/17/24 22:04,Injured/Sick Person,CBE,Ellicott Area Dining Hall at 4028  Stadium  Dr
@@ -3473,6 +3477,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00179169,10/19/24 01:42,10/19/24 01:42,Injured/Sick Person,CBE,Energy Research Facility at 8279  Paint Branch  Dr
 2024-00179612,10/19/24 14:39,10/19/24 14:39,Injured/Sick Person,CBE,Lot 3
 2024-00179678,10/19/24 16:58,10/19/24 16:58,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
+2024-00179679,10/19/24 17:02,10/19/24 17:02,Other Incident,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2024-00179690,10/19/24 18:00,10/19/24 18:04,Injured/Sick Person,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2024-00179771,10/19/24 22:29,10/19/24 22:29,Found/Recovered Property,Arrest,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00179772,10/19/24 22:20,10/19/24 22:30,Injured/Sick Person,CBE,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
@@ -3484,12 +3489,14 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00180267,10/20/24 08:30,10/20/24 12:43,Hate Bias Incident,Unfounded,LaPlata Beach
 2024-00180306,10/20/24 16:03,10/20/24 16:03,Injured/Sick Person,CBE,LaPlata Beach
 2024-00180322,10/20/24 17:00,10/20/24 17:09,Fire,CBE,"Methodist Church, University Methodist Church at 3621  Campus  Dr"
+2024-00180772,09/11/24 16:00,10/21/24 09:34,Police Information,Active/Pending,Seneca Building at 4716  Pontiac  St
 2024-00180782,10/21/24 03:39,10/21/24 09:45,Check on the  Welfare,CBE,Cumberland Hall at 4250  Farm  Dr
 2024-00180797,10/17/24 13:30,10/21/24 09:45,Suspicious Person/Auto,Active/Pending,"Tawes, Tawes Hall at 7751  Alumni  Dr"
 2024-00180798,10/21/24 10:00,10/21/24 10:10,Hazardous Condition,CBE,"Lot, Lot HP"
 2024-00180799,10/21/24 09:30,10/21/24 10:20,Injured/Sick Person,CBE,436 at 4136  Stadium  Dr
 2024-00180863,10/18/24 08:00,10/21/24 11:45,Theft,Active/Pending,Lot 4J
 2024-00180907,10/21/24 10:55,10/21/24 12:27,Injured/Sick Person,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
+2024-00180949,10/21/24 11:00,10/21/24 13:47,Indecent Exposure,Active/Pending,7300 block of  Preinkert  Dr
 2024-00180985,10/21/24 14:35,10/21/24 14:38,Fire,CBE,4000 block of  Campus  Dr
 2024-00181868,10/21/24 18:30,10/22/24 09:54,Theft,Active/Pending,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
 2024-00181870,05/01/24 00:00,10/22/24 10:01,Assist Other Agency / Other,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
@@ -3500,13 +3507,18 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00182214,10/22/24 22:30,10/22/24 22:30,Injured/Sick Person,CBE,"Recreation Artificial Turf Field, Turf Field, Turf Fields"
 2024-00182694,10/23/24 09:37,10/23/24 09:37,Damaged Property,CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2024-00182784,10/23/24 13:51,10/23/24 13:51,Emergency Petition,CBE,7400 block of  Preinkert  Dr
+2024-00182787,10/23/24 12:20,10/23/24 14:35,Disorderly Conduct,Active/Pending,Shuttle Bus Facility at 8537  Paint Branch  Dr
+2024-00182802,10/21/24 15:44,10/23/24 15:25,Other Incident,Active/Pending,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2024-00183385,10/24/24 02:59,10/24/24 02:59,Other Incident,CBE,"Leonardtown #244, Leonardtown at 4673  Rossborough  Ln"
 2024-00183632,10/10/24 11:00,10/24/24 09:16,Theft,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
 2024-00183679,10/23/24 21:20,10/24/24 11:11,Injured/Sick Person,CBE,"17, Cecil, Cecil Hall at 7549  Calvert Service  Ln"
 2024-00183932,10/24/24 16:30,10/24/24 20:19,Vandalism,CBE,4100 block of  Stadium  Dr
 2024-00183984,10/22/24 00:00,10/24/24 21:16,Injured/Sick Person,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2024-00184076,10/24/24 23:32,10/24/24 23:32,CDS Violation,Active/Pending,Washington Quad
 2024-00184087,10/23/24 17:00,10/24/24 23:49,Theft,Active/Pending,3400 block of  Tulane  Dr
 2024-00184122,10/25/24 00:54,10/25/24 00:54,Injured/Sick Person,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
+2024-00184972,10/26/24 01:48,10/26/24 01:48,Assist Other Agency / EPS,CBE,Animal Science Building at 8127  Regents  Dr
+2024-00185321,10/26/24 17:17,10/26/24 17:17,Other Incident,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
