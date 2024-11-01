@@ -3329,7 +3329,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00165659,10/04/24 08:21,10/04/24 08:21,Traffic Arrest,Arrest,Lot Y
 2024-00165662,10/03/24 17:40,10/04/24 09:05,Theft,Active/Pending,Lot 3
 2024-00165689,10/03/24 21:30,10/04/24 13:32,Theft,Active/Pending,Lot 11b
-2024-00165699,10/02/24 17:00,10/04/24 15:47,Vandalism,Active/Pending,Lot C1
+2024-00165699,10/02/24 17:00,10/04/24 15:47,Vandalism,Investigation Pending,Lot C1
 2024-00165892,10/03/24 20:00,10/04/24 18:41,Vandalism,Active/Pending,Lot 3
 2024-00166012,10/04/24 17:00,10/04/24 21:01,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00166014,09/29/24 21:15,10/04/24 21:03,Other Incident,CBE,"77, Main Admin, Main Administration Building, Thomas V. Miller Jr. Administration Building at 7901  Regents  Dr"
@@ -3345,7 +3345,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00166601,10/02/24 20:00,10/05/24 10:55,Theft,Active/Pending,Lot 11b
 2024-00166608,10/05/24 11:05,10/05/24 11:05,Theft,Arrest,3800 block of  Campus  Dr
 2024-00166609,10/02/24 19:00,10/05/24 11:04,Theft,Active/Pending,Lot 3
-2024-00166614,10/04/24 19:30,10/05/24 11:37,Vandalism,Active/Pending,Lot 14c
+2024-00166614,10/04/24 19:30,10/05/24 11:37,Vandalism,Investigation Pending,Lot 14c
 2024-00166724,10/05/24 01:30,10/05/24 16:22,Theft,Arrest,Johnson-Whittle Hall at 4118  Stadium  Dr
 2024-00166832,10/05/24 18:00,10/05/24 20:24,Injured/Sick Person,CBE,La Plata Hall at 8160  La Plata  Dr
 2024-00166875,10/05/24 21:58,10/05/24 21:58,Injured/Sick Person,CBE,"Drazek Circle, UMGC at 346  Ehrensberger  Dr"
@@ -3538,8 +3538,15 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00186956,10/28/24 22:42,10/28/24 22:42,CDS Violation,Arrest,Regents  Dr
 2024-00187442,10/29/24 08:41,10/29/24 08:41,Injured/Sick Person,CBE,"Alpha Delta Pi Sorority, Alpha Delti Pi at 4535  College  Ave"
 2024-00187620,10/29/24 13:50,10/29/24 14:45,Theft,Active/Pending,436 at 4136  Stadium  Dr
+2024-00187698,09/27/24 00:01,10/29/24 16:13,Police Information,CBE,7200 block of  Preinkert  Dr
 2024-00187739,09/20/24 00:00,10/29/24 16:57,Other Incident,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2024-00187911,10/29/24 22:34,10/29/24 22:34,Emergency Petition,CBE,7200 block of  Preinkert  Dr
+2024-00188344,10/22/24 00:00,10/30/24 09:37,Harassment/Stalking,Active/Pending,8100 block of  Regents  Dr
+2024-00188369,10/30/24 11:18,10/30/24 11:18,Check on the  Welfare,CBE,8000 block of  La Plata  Dr
+2024-00188371,10/30/24 11:16,10/30/24 11:45,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
+2024-00188408,10/30/24 15:43,10/30/24 15:43,Injured/Sick Person,CBE,Visitor Center at the Hotel at the University of Maryland at 7777  Baltimore  Ave
+2024-00188459,10/19/24 15:00,10/30/24 16:40,Suspicious Activity,CBE,"35, McKeldin Library at 7649  Library  Ln"
+2024-00188688,10/30/24 18:30,10/30/24 21:29,Other Incident,CBE,"PG3, SDG, Stadium Drive Parking Garage at 4025  Stadium  Dr"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
