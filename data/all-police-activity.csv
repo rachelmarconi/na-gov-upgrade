@@ -3385,7 +3385,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00171633,10/10/24 11:15,10/10/24 11:15,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00171634,10/10/24 11:19,10/10/24 11:19,Emergency Petition,CBE,4200 block of  Chapel  Ln
 2024-00171674,10/10/24 11:15,10/10/24 14:27,Dept Property Damage/Loss,CBE,"Denton, Denton Hall at 3854  Stadium  Dr"
-2024-00171706,10/10/24 12:57,10/10/24 15:32,Theft,Investigation Pending,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
+2024-00171706,10/10/24 12:57,10/10/24 15:32,Theft,Summons Issued,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
 2024-00171766,10/02/24 17:00,10/10/24 17:08,Theft,Active/Pending,Lot 11b
 2024-00172094,10/11/24 00:38,10/11/24 00:38,DWI/DUI,Arrest,The Hotel at 7777  Baltimore  Ave
 2024-00172233,10/11/24 03:11,10/11/24 03:11,Emergency Petition,CBE,"60, Anne Arundel, Anne Arundel Hall at 3915  Campus  Dr"
@@ -3546,6 +3546,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00187698,09/27/24 00:01,10/29/24 16:13,Police Information,CBE,7200 block of  Preinkert  Dr
 2024-00187739,09/20/24 00:00,10/29/24 16:57,Other Incident,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2024-00187744,10/29/24 17:22,10/29/24 17:22,Accident,Active/Pending,Lot 9b
+2024-00187753,10/29/24 17:41,10/29/24 18:08,Sex Offense,Arrest,7300 block of  Baltimore  Ave
 2024-00187911,10/29/24 22:34,10/29/24 22:34,Emergency Petition,CBE,7200 block of  Preinkert  Dr
 2024-00188344,10/22/24 00:00,10/30/24 09:37,Harassment/Stalking,Active/Pending,8100 block of  Regents  Dr
 2024-00188369,10/30/24 11:18,10/30/24 11:18,Check on the  Welfare,CBE,8000 block of  La Plata  Dr
