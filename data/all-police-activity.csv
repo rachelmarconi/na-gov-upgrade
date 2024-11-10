@@ -3330,7 +3330,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00165662,10/03/24 17:40,10/04/24 09:05,Theft,Active/Pending,Lot 3
 2024-00165689,10/03/24 21:30,10/04/24 13:32,Theft,Active/Pending,Lot 11b
 2024-00165699,10/02/24 17:00,10/04/24 15:47,Vandalism,Investigation Pending,Lot C1
-2024-00165892,10/03/24 20:00,10/04/24 18:41,Vandalism,Active/Pending,Lot 3
+2024-00165892,10/03/24 20:00,10/04/24 18:41,Vandalism,Investigation Pending,Lot 3
 2024-00166012,10/04/24 17:00,10/04/24 21:01,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00166014,09/29/24 21:15,10/04/24 21:03,Other Incident,CBE,"77, Main Admin, Main Administration Building, Thomas V. Miller Jr. Administration Building at 7901  Regents  Dr"
 2024-00166018,10/04/24 21:09,10/04/24 21:09,Injured/Sick Person,CBE,"Frat 5, Phi Kappa Tau Fraternity at 5  Fraternity  Row"
@@ -3400,7 +3400,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00172973,10/11/24 21:30,10/11/24 21:30,Vandalism,Investigation Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2024-00172984,10/11/24 22:00,10/11/24 22:10,Injured/Sick Person,CBE,"PG3, SDG, Stadium Drive Parking Garage at 4025  Stadium  Dr"
 2024-00172988,10/11/24 22:00,10/11/24 22:20,Suspicious Activity,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
-2024-00172995,10/11/24 20:30,10/11/24 22:43,Theft,Active/Pending,436 at 4136  Stadium  Dr
+2024-00172995,10/11/24 20:30,10/11/24 22:43,Theft,Investigation Pending,436 at 4136  Stadium  Dr
 2024-00173011,10/11/24 23:39,10/11/24 23:39,Trespassing,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2024-00173015,10/11/24 23:50,10/12/24 00:04,Suspicious Activity,CBE,Stadium  Dr
 2024-00173016,10/12/24 00:00,10/12/24 00:08,Fire,CBE,Lot 1c
@@ -3419,7 +3419,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00173864,10/12/24 22:14,10/12/24 22:14,Injured/Sick Person,CBE,4200 block of  Valley  Dr
 2024-00173865,10/12/24 22:00,10/12/24 22:13,Vandalism,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00173984,10/13/24 00:00,10/13/24 00:03,CDS Violation,CBE,"31, Garrett, Garrett Hall at 7570  Calvert Service  Ln"
-2024-00174581,10/11/24 13:00,10/13/24 17:44,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
+2024-00174581,10/11/24 13:00,10/13/24 17:44,Theft,Investigation Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2024-00174718,10/13/24 21:39,10/13/24 21:39,Injured/Sick Person,CBE,"24, Allegany, Allegany Hall at 4299  Lehigh  Rd"
 2024-00175255,10/14/24 00:00,10/14/24 08:37,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00175541,10/13/24 17:00,10/14/24 15:09,Theft,Investigation Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
@@ -3583,6 +3583,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00191392,11/03/24 11:24,11/03/24 11:24,Injured/Sick Person,CBE,"78, Armory, Reckord Armory at 4490  Rossborough  Ln"
 2024-00191717,11/02/24 20:11,11/03/24 19:45,Theft,Active/Pending,Lot 11b
 2024-00191844,11/04/24 00:00,11/04/24 00:11,Injured/Sick Person,CBE,"Easton, Easton Hall at 3917  Denton Service  Ln"
+2024-00191894,11/03/24 20:00,11/04/24 00:54,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2024-00192006,11/04/24 06:33,11/04/24 06:33,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00192078,11/04/24 06:45,11/04/24 08:19,Other Incident,Active/Pending,Lot N9
 2024-00192262,11/04/24 12:19,11/04/24 12:19,Injured/Sick Person,CBE,6900 block of  Preinkert  Dr
@@ -3600,6 +3601,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00193828,11/06/24 09:42,11/06/24 11:13,Other Incident,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00193958,11/06/24 19:03,11/06/24 19:03,Injured/Sick Person,CBE,"Commons 2, SCC 2, South Campus Commons 2 at 7524  Calvert Service  Ln"
 2024-00193961,11/06/24 19:00,11/06/24 19:19,Emergency Petition,CBE,4300 block of  Knox  Rd
+2024-00193964,10/12/24 10:00,11/06/24 21:04,Theft,Active/Pending,University Courtyard #7 at 8700  Boteler  Ln
+2024-00194163,11/07/24 00:00,11/07/24 00:14,Other Incident,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
+2024-00194651,11/07/24 17:14,11/07/24 17:14,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
+2024-00194687,11/07/24 19:22,11/07/24 19:22,Trespassing,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2024-00194720,11/07/24 21:28,11/07/24 21:28,Assist Other Agency / Assault,CBE,"Cornerstone, Cornerstone Grill at 7325  Baltimore  Ave"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
