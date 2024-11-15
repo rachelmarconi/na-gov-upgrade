@@ -3089,7 +3089,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00144208,09/06/24 19:04,09/06/24 19:04,Injured/Sick Person,CBE,Bentleys at 7323  Baltimore  Ave
 2024-00144279,09/06/24 22:00,09/06/24 22:48,Vandalism,Investigation Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00144289,09/06/24 23:18,09/06/24 23:18,Trespassing,CBE,4100 block of  Stadium  Dr
-2024-00144556,09/07/24 10:22,09/07/24 10:22,Suspicious Person/Auto,Warrant Issued,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
+2024-00144556,09/07/24 10:22,09/07/24 10:22,Suspicious Person/Auto,Arrest,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2024-00144598,09/07/24 08:00,09/07/24 13:09,Theft,CBE,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
 2024-00144761,09/07/24 19:12,09/07/24 19:43,Hate Bias Incident,CBE,La Plata Hall at 8160  La Plata  Dr
 2024-00144768,09/07/24 12:00,09/07/24 20:18,Vandalism,Investigation Pending,Hagerstown Hall at 8075  Hagerstown  Dr
@@ -3522,7 +3522,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00184087,10/23/24 17:00,10/24/24 23:49,Theft,Active/Pending,3400 block of  Tulane  Dr
 2024-00184122,10/25/24 00:54,10/25/24 00:54,Injured/Sick Person,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2024-00184427,10/25/24 08:15,10/25/24 08:15,Suspicious Person/Auto,CBE,"Journalism Building, Knight Hall at 7765  Alumni  Dr"
-2024-00184459,08/19/24 09:23,10/25/24 09:41,Theft,Active/Pending,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
+2024-00184459,08/19/24 09:23,10/25/24 09:41,Theft,Investigation Pending,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2024-00184545,10/25/24 13:25,10/25/24 13:36,Theft,Active/Pending,"Commons 7, SCC 7, South Campus Commons 7 at 6801  Preinkert  Dr"
 2024-00184559,10/25/24 14:00,10/25/24 14:59,Theft,Unfounded,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2024-00184715,10/25/24 19:18,10/25/24 19:18,Assist Other Agency / Shoplifter,CBE,3500 block of  East West  Hwy
@@ -3591,7 +3591,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00192078,11/04/24 06:45,11/04/24 08:19,Other Incident,Active/Pending,Lot N9
 2024-00192262,11/04/24 12:19,11/04/24 12:19,Injured/Sick Person,CBE,6900 block of  Preinkert  Dr
 2024-00192287,11/04/24 13:05,11/04/24 13:06,Injured/Sick Person,CBE,Lot Y
-2024-00192345,10/15/24 20:00,11/04/24 14:25,Theft,Active/Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
+2024-00192345,10/15/24 20:00,11/04/24 14:25,Theft,Investigation Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
 2024-00192393,11/02/24 22:15,11/04/24 15:58,Hate Bias Incident,Active/Pending,La Plata Hall at 8160  La Plata  Dr
 2024-00192478,11/04/24 14:30,11/04/24 17:02,Theft,Investigation Pending,7800 block of  Regents  Dr
 2024-00192505,11/04/24 16:47,11/04/24 17:54,Emergency Petition,CBE,4200 block of  Knox  Rd
@@ -3603,10 +3603,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00193124,11/05/24 12:04,11/05/24 12:04,Accident - Departmental,Active/Pending,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
 2024-00193304,11/05/24 20:00,11/05/24 20:00,Injured/Sick Person,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
 2024-00193429,11/05/24 20:30,11/05/24 23:13,Extortion,Investigation Pending,3400 block of  Tulane  Dr
+2024-00193785,11/06/24 07:15,11/06/24 09:31,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00193828,11/06/24 09:42,11/06/24 11:13,Other Incident,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00193958,11/06/24 19:03,11/06/24 19:03,Injured/Sick Person,CBE,"Commons 2, SCC 2, South Campus Commons 2 at 7524  Calvert Service  Ln"
 2024-00193961,11/06/24 19:00,11/06/24 19:19,Emergency Petition,CBE,4300 block of  Knox  Rd
-2024-00193964,10/12/24 10:00,11/06/24 21:04,Theft,Active/Pending,University Courtyard #7 at 8700  Boteler  Ln
+2024-00193964,10/12/24 10:00,11/06/24 21:04,Theft,Investigation Pending,University Courtyard #7 at 8700  Boteler  Ln
 2024-00194163,11/07/24 00:00,11/07/24 00:14,Other Incident,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00194631,11/04/24 23:00,11/07/24 16:00,Theft,Active/Pending,"63, Somerset, Somerset Hall at 7567  Preinkert  Dr"
 2024-00194651,11/07/24 17:14,11/07/24 17:14,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
@@ -3614,6 +3615,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00194687,11/07/24 19:22,11/07/24 19:22,Trespassing,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00194720,11/07/24 21:28,11/07/24 21:28,Assist Other Agency / Assault,CBE,"Cornerstone, Cornerstone Grill at 7325  Baltimore  Ave"
 2024-00194731,11/07/24 21:45,11/07/24 21:45,Injured/Sick Person,CBE,4200 block of  Farm  Dr
+2024-00194960,11/08/24 01:02,11/08/24 01:02,DWI/DUI,Arrest,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00195180,11/08/24 08:53,11/08/24 08:53,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
 2024-00195191,11/07/24 23:00,11/08/24 09:42,Theft,Active/Pending,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
 2024-00195208,11/07/24 21:00,11/08/24 10:15,Theft,Active/Pending,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
@@ -3631,7 +3633,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00197972,11/11/24 18:18,11/11/24 18:28,Assist Other Agency / Assault,CBE,Baltimore  Ave
 2024-00198503,11/12/24 09:00,11/12/24 09:25,Damage to State Property,CBE,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
 2024-00198504,11/12/24 05:40,11/12/24 09:24,Theft,Active/Pending,Lot 8
+2024-00198937,11/12/24 08:00,11/12/24 20:49,Fraud,Active/Pending,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2024-00198953,10/20/24 08:00,11/12/24 21:16,Theft,Active/Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
+2024-00199092,11/12/24 23:43,11/12/24 23:43,CDS Violation,CBE,Washington Quad
+2024-00199259,11/13/24 03:00,11/13/24 03:30,Domestic (Title IX Related),Arrest,3400 block of  Tulane  Dr
+2024-00199523,11/13/24 13:53,11/13/24 13:52,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
+2024-00199925,11/12/24 08:45,11/13/24 21:12,Other Incident,CBE,"84, Kirwan Hall, Mathematics Building, William E. Kirwan Hall at 4176  Campus  Dr"
+2024-00200197,11/14/24 00:56,11/14/24 00:56,Assist Other Agency / Disorderly Conduct,CBE,"Kung Fu Tea, Pho Thom, Ritchie's Columbian at 7313  Baltimore  Ave"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
