@@ -3245,7 +3245,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00158693,09/27/24 01:20,09/27/24 01:20,DWI/DUI,Arrest,University  Blvd
 2024-00158724,09/27/24 01:47,09/27/24 01:47,Traffic Offense,CBE,University  Blvd
 2024-00158814,09/27/24 02:47,09/27/24 02:47,Injured/Sick Person,CBE,7400 block of  Baltimore  Ave
-2024-00159306,09/27/24 07:00,09/27/24 10:16,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2024-00159306,09/27/24 07:00,09/27/24 10:16,Theft,Investigation Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00159388,09/20/24 15:15,09/27/24 12:35,Suspicious Activity,Active/Pending,3800 block of  Campus  Dr
 2024-00159389,09/27/24 11:00,09/27/24 13:07,Theft,Unfounded,8000 block of  Regents  Dr
 2024-00159395,09/27/24 01:00,09/27/24 13:40,Theft,Investigation Pending,8100 block of  La Plata  Dr
@@ -3412,7 +3412,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00173234,10/12/24 02:47,10/12/24 02:47,DWI/DUI,Arrest,University  Blvd
 2024-00173453,10/12/24 08:44,10/12/24 08:44,Suspicious Person/Auto,CBE,"Hornbake, Hornbake Library at 4130  Campus  Dr"
 2024-00173557,10/11/24 22:30,10/12/24 11:51,Assist Other Agency / Other,CBE,8200 block of  Baltimore  Ave
-2024-00173562,10/12/24 00:30,10/12/24 12:14,Theft,Active/Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
+2024-00173562,10/12/24 00:30,10/12/24 12:14,Theft,Investigation Pending,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
 2024-00173630,10/12/24 16:40,10/12/24 16:45,Assault,Investigation Pending,Engineering Fields
 2024-00173661,10/12/24 00:01,10/12/24 17:39,Accident - Departmental,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00173847,10/12/24 21:40,10/12/24 21:42,Injured/Sick Person,CBE,"School of Public Policy, Thurgood Marshall Hall at 7805  Regents  Dr"
@@ -3421,9 +3421,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00173984,10/13/24 00:00,10/13/24 00:03,CDS Violation,CBE,"31, Garrett, Garrett Hall at 7570  Calvert Service  Ln"
 2024-00174581,10/11/24 13:00,10/13/24 17:44,Theft,Investigation Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2024-00174718,10/13/24 21:39,10/13/24 21:39,Injured/Sick Person,CBE,"24, Allegany, Allegany Hall at 4299  Lehigh  Rd"
-2024-00175255,10/14/24 00:00,10/14/24 08:37,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
+2024-00175255,10/14/24 00:00,10/14/24 08:37,Theft,Investigation Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00175541,10/13/24 17:00,10/14/24 15:09,Theft,Investigation Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
-2024-00175542,10/13/24 17:00,10/14/24 15:22,Theft,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
+2024-00175542,10/13/24 17:00,10/14/24 15:22,Theft,Investigation Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00175692,10/14/24 18:33,10/14/24 19:33,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2024-00175695,05/31/24 00:00,10/14/24 19:37,Harassment/Stalking (Title IX Related),CBE,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2024-00175698,10/14/24 20:20,10/14/24 20:20,Injured/Sick Person,CBE,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
@@ -3640,6 +3640,10 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00199523,11/13/24 13:53,11/13/24 13:52,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2024-00199925,11/12/24 08:45,11/13/24 21:12,Other Incident,CBE,"84, Kirwan Hall, Mathematics Building, William E. Kirwan Hall at 4176  Campus  Dr"
 2024-00200197,11/14/24 00:56,11/14/24 00:56,Assist Other Agency / Disorderly Conduct,CBE,"Kung Fu Tea, Pho Thom, Ritchie's Columbian at 7313  Baltimore  Ave"
+2024-00200763,11/14/24 13:50,11/14/24 13:57,Injured/Sick Person,CBE,"Frat 3, Tau Kappa Epsilon, Tau Kappa Epsilon Fraternity, TKE at 3  Fraternity  Row"
+2024-00200781,11/14/24 15:00,11/14/24 15:45,Injured/Sick Person,CBE,436 at 4136  Stadium  Dr
+2024-00201124,11/15/24 00:14,11/15/24 00:14,Injured/Sick Person,CBE,3400 block of  Tulane  Dr
+2024-00201235,11/15/24 02:16,11/15/24 02:16,Injured/Sick Person,CBE,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
