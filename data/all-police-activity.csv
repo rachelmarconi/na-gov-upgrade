@@ -2743,7 +2743,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00106993,06/17/24 10:00,06/20/24 16:59,Theft,Summons Issued,Jones-Hill House Outdoor Practice Fields at -1
 2024-00106997,06/20/24 13:30,06/20/24 17:47,Theft,Summons Issued,"Cole, Cole Field House, Cole Student Activities Building, Driscoll Center, Jones-Hill House at 4090  Union  Dr"
 2024-00107098,06/20/24 18:40,06/20/24 22:30,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
-2024-00107117,06/20/24 23:05,06/20/24 23:17,Traffic Offense,Summons Issued,Baltimore  Ave
+2024-00107117,06/20/24 23:05,06/20/24 23:17,Traffic Offense,Arrest,Baltimore  Ave
 2024-00107198,06/20/24 22:00,06/21/24 02:01,Dept Property Damage/Loss,Active/Pending,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
 2024-00107210,06/21/24 03:12,06/21/24 03:12,Juvenile Offense,CBE,7400 block of  Baltimore  Ave
 2024-00107324,06/14/24 00:15,06/21/24 08:10,Theft from Auto,Investigation Pending,"PG3, SDG, Stadium Drive Parking Garage at 4025  Stadium  Dr"
@@ -3110,7 +3110,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00145525,09/06/24 22:00,09/09/24 08:22,Suspicious Activity,CBE,"Art Soc, Art Sociology Building, Art-Sociology Building, Parren J. Mitchell Art-Sociology Building at 3834  Campus  Dr"
 2024-00145550,09/09/24 09:00,09/09/24 09:04,Injured/Sick Person,CBE,"Benjamin, Benjamin Building at 3942  Campus  Dr"
 2024-00145899,09/09/24 15:58,09/09/24 15:58,Emergency Petition,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
-2024-00145967,09/09/24 18:47,09/09/24 18:50,Assault,Summons Issued,"35, McKeldin Library at 7649  Library  Ln"
+2024-00145967,09/09/24 18:47,09/09/24 18:50,Assault,Arrest,"35, McKeldin Library at 7649  Library  Ln"
 2024-00145999,09/09/24 20:51,09/09/24 20:51,Injured/Sick Person,CBE,"Kehoe Track, Kehoe Track at Ludwig Field, Ludwig Field at 7898  Championship  Ln"
 2024-00146215,09/10/24 00:23,09/10/24 01:05,Theft,Investigation Pending,3400 block of  Tulane  Dr
 2024-00146478,09/09/24 18:00,09/10/24 12:18,Theft,Investigation Pending,Johnson-Whittle Hall at 4118  Stadium  Dr
@@ -3465,7 +3465,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00178709,10/18/24 11:05,10/18/24 11:05,Injured/Sick Person,CBE,UMGC Hotel at 348  Ehrensberger  Dr
 2024-00178731,10/18/24 08:30,10/18/24 12:38,Theft,Active/Pending,Lot 11b
 2024-00178732,10/17/24 20:30,10/18/24 12:48,Theft,Active/Pending,Lot 3
-2024-00178773,10/18/24 15:07,10/18/24 15:07,Vandalism,Active/Pending,7600 block of  Library  Ln
+2024-00178773,10/18/24 15:07,10/18/24 15:07,Vandalism,Investigation Pending,7600 block of  Library  Ln
 2024-00178789,10/18/24 15:20,10/18/24 16:32,Suspicious Person/Auto,CBE,Chapel Field
 2024-00178926,10/18/24 19:00,10/18/24 19:12,Assist Other Agency / Carjacking,Active/Pending,4900 block of  Campus  Dr
 2024-00178971,10/18/24 20:16,10/18/24 20:16,Emergency Petition,CBE,"Commons 7, SCC 7, South Campus Commons 7 at 6801  Preinkert  Dr"
@@ -3619,6 +3619,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00195180,11/08/24 08:53,11/08/24 08:53,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
 2024-00195191,11/07/24 23:00,11/08/24 09:42,Theft,Active/Pending,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
 2024-00195208,11/07/24 21:00,11/08/24 10:15,Theft,Active/Pending,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
+2024-00195221,11/08/24 11:29,11/08/24 11:29,Recovered Stolen Property,Arrest,West Gate at 3841  Stadium  Dr
 2024-00195248,11/07/24 20:30,11/08/24 14:21,Theft,Active/Pending,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
 2024-00195249,11/08/24 14:28,11/08/24 14:34,Suspicious Person/Auto,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00195714,11/08/24 22:19,11/08/24 22:19,Injured/Sick Person,CBE,"Riggs, Riggs Alumni, Riggs Alumni Center at 7801  Alumni  Dr"
@@ -3637,13 +3638,20 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00198953,10/20/24 08:00,11/12/24 21:16,Theft,Active/Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
 2024-00199092,11/12/24 23:43,11/12/24 23:43,CDS Violation,CBE,Washington Quad
 2024-00199259,11/13/24 03:00,11/13/24 03:30,Domestic (Title IX Related),Arrest,3400 block of  Tulane  Dr
+2024-00199473,11/11/24 00:00,11/13/24 11:33,Vandalism,Active/Pending,7500 block of  Yale  Ave
 2024-00199523,11/13/24 13:53,11/13/24 13:52,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2024-00199925,11/12/24 08:45,11/13/24 21:12,Other Incident,CBE,"84, Kirwan Hall, Mathematics Building, William E. Kirwan Hall at 4176  Campus  Dr"
 2024-00200197,11/14/24 00:56,11/14/24 00:56,Assist Other Agency / Disorderly Conduct,CBE,"Kung Fu Tea, Pho Thom, Ritchie's Columbian at 7313  Baltimore  Ave"
 2024-00200763,11/14/24 13:50,11/14/24 13:57,Injured/Sick Person,CBE,"Frat 3, Tau Kappa Epsilon, Tau Kappa Epsilon Fraternity, TKE at 3  Fraternity  Row"
 2024-00200781,11/14/24 15:00,11/14/24 15:45,Injured/Sick Person,CBE,436 at 4136  Stadium  Dr
+2024-00200911,11/14/24 20:36,11/14/24 20:36,Assist Other Agency / Accident,CBE,Baltimore  Ave
 2024-00201124,11/15/24 00:14,11/15/24 00:14,Injured/Sick Person,CBE,3400 block of  Tulane  Dr
 2024-00201235,11/15/24 02:16,11/15/24 02:16,Injured/Sick Person,CBE,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
+2024-00202207,11/11/24 08:00,11/16/24 16:12,Stolen Motor Vehicle,Active/Pending,University Courtyard #6 at 8600  Boteler  Ln
+2024-00202248,11/16/24 18:37,11/16/24 18:37,Disorderly Conduct,CBE,"Capital One Field, Football Stadium, SECU Stadium"
+2024-00202279,11/16/24 19:00,11/16/24 19:25,Assault,Active/Pending,"Capital One Field, Football Stadium, SECU Stadium"
+2024-00202293,11/16/24 18:30,11/16/24 20:36,Damage to State Property,Active/Pending,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
+2024-00202317,11/16/24 22:54,11/16/24 22:54,Alcohol Violation,Arrest,Knox  Rd
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
