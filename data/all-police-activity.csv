@@ -3628,6 +3628,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00196483,11/09/24 21:36,11/09/24 21:51,Vandalism,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2024-00196964,11/10/24 12:20,11/10/24 12:34,Injured/Sick Person,CBE,"Recreation Artificial Turf Field, Turf Field, Turf Fields"
 2024-00196970,11/10/24 03:00,11/10/24 12:53,Vandalism,Active/Pending,University Courtyard #2 at 8200  Boteler  Ln
+2024-00197370,11/10/24 22:21,11/10/24 22:21,DWI/DUI,Arrest,Curry  Dr
 2024-00197844,11/11/24 12:35,11/11/24 12:42,Accident,CBE,Knox  Rd
 2024-00197862,11/11/24 14:49,11/11/24 14:49,Suspicious Activity,CBE,McKeldin Mall
 2024-00197896,11/11/24 16:04,11/11/24 16:04,Suspicious Person/Auto,Active/Pending,"99, Bel Air, Bel Air Hall at 4213  Valley  Dr"
@@ -3644,14 +3645,30 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00200197,11/14/24 00:56,11/14/24 00:56,Assist Other Agency / Disorderly Conduct,CBE,"Kung Fu Tea, Pho Thom, Ritchie's Columbian at 7313  Baltimore  Ave"
 2024-00200763,11/14/24 13:50,11/14/24 13:57,Injured/Sick Person,CBE,"Frat 3, Tau Kappa Epsilon, Tau Kappa Epsilon Fraternity, TKE at 3  Fraternity  Row"
 2024-00200781,11/14/24 15:00,11/14/24 15:45,Injured/Sick Person,CBE,436 at 4136  Stadium  Dr
+2024-00200831,11/14/24 16:26,11/14/24 17:59,Title IX Incident Non Criminal,Active/Pending,8500 block of  Paint Branch  Dr
+2024-00200888,11/14/24 19:24,11/14/24 19:41,Theft,Active/Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
 2024-00200911,11/14/24 20:36,11/14/24 20:36,Assist Other Agency / Accident,CBE,Baltimore  Ave
 2024-00201124,11/15/24 00:14,11/15/24 00:14,Injured/Sick Person,CBE,3400 block of  Tulane  Dr
 2024-00201235,11/15/24 02:16,11/15/24 02:16,Injured/Sick Person,CBE,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
+2024-00201444,11/14/24 10:00,11/15/24 10:34,Theft,Active/Pending,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
+2024-00201571,11/15/24 17:17,11/15/24 17:17,Injured/Sick Person,CBE,"26, South Campus Dining Hall at 7093  Preinkert  Dr"
+2024-00201613,11/15/24 14:00,11/15/24 18:05,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2024-00201764,11/16/24 00:48,11/16/24 00:48,Injured/Sick Person,CBE,Hagerstown Hall at 8075  Hagerstown  Dr
+2024-00201807,11/16/24 01:25,11/16/24 01:25,Emergency Petition,CBE,7000 block of  Preinkert  Dr
+2024-00201821,11/16/24 01:15,11/16/24 01:41,Vandalism,Active/Pending,"70, Caroline Hall at 7154  Preinkert  Dr"
+2024-00202174,11/16/24 14:50,11/16/24 15:00,Dept Property Damage/Loss,CBE,Lot 11b
 2024-00202207,11/11/24 08:00,11/16/24 16:12,Stolen Motor Vehicle,Active/Pending,University Courtyard #6 at 8600  Boteler  Ln
+2024-00202238,11/16/24 17:48,11/16/24 17:48,Injured/Sick Person,CBE,Lot 9b
 2024-00202248,11/16/24 18:37,11/16/24 18:37,Disorderly Conduct,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2024-00202279,11/16/24 19:00,11/16/24 19:25,Assault,Active/Pending,"Capital One Field, Football Stadium, SECU Stadium"
+2024-00202292,11/15/24 20:26,11/16/24 20:26,Vandalism,Active/Pending,4000 block of  Stadium  Dr
 2024-00202293,11/16/24 18:30,11/16/24 20:36,Damage to State Property,Active/Pending,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
 2024-00202317,11/16/24 22:54,11/16/24 22:54,Alcohol Violation,Arrest,Knox  Rd
+2024-00203641,11/18/24 09:43,11/18/24 09:43,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2024-00203735,11/18/24 12:55,11/18/24 12:55,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2024-00203746,11/18/24 12:00,11/18/24 13:25,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
+2024-00203772,11/18/24 14:08,11/18/24 14:08,Emergency Petition,CBE,4700 block of  Berwyn House  Rd
+2024-00203773,11/18/24 14:18,11/18/24 14:18,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
