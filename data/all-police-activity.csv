@@ -3371,7 +3371,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00170167,10/08/24 11:00,10/08/24 12:50,Theft,Investigation Pending,"Football Team House, Gossett, Gossett Hall at 4068  Fieldhouse  Dr"
 2024-00170180,10/01/24 18:00,10/08/24 13:10,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00170214,10/08/24 13:49,10/08/24 13:49,Emergency Petition,CBE,3900 block of  Denton Service  Ln
-2024-00170415,10/08/24 09:00,10/08/24 19:51,Theft,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
+2024-00170415,10/08/24 09:00,10/08/24 19:51,Theft,Investigation Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
 2024-00170430,10/08/24 17:00,10/08/24 20:40,Theft,Active/Pending,La Plata Hall at 8160  La Plata  Dr
 2024-00170495,10/08/24 19:00,10/08/24 22:09,Theft,Active/Pending,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2024-00170498,10/08/24 13:00,10/08/24 22:20,Theft,Active/Pending,Hagerstown Hall at 8075  Hagerstown  Dr
@@ -3595,7 +3595,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00192393,11/02/24 22:15,11/04/24 15:58,Hate Bias Incident,Active/Pending,La Plata Hall at 8160  La Plata  Dr
 2024-00192478,11/04/24 14:30,11/04/24 17:02,Theft,Investigation Pending,7800 block of  Regents  Dr
 2024-00192505,11/04/24 16:47,11/04/24 17:54,Emergency Petition,CBE,4200 block of  Knox  Rd
-2024-00192524,11/04/24 16:00,11/04/24 18:48,Theft,Active/Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
+2024-00192524,11/04/24 16:00,11/04/24 18:48,Theft,Investigation Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
 2024-00192527,11/04/24 19:16,11/04/24 19:16,Emergency Petition,CBE,4300 block of  Knox  Rd
 2024-00192807,11/05/24 02:04,11/05/24 02:06,Theft,Summons Issued,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00193120,11/05/24 11:36,11/05/24 11:39,Accident,CBE,Geology Building at 8000  Regents  Dr
@@ -3609,7 +3609,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00193961,11/06/24 19:00,11/06/24 19:19,Emergency Petition,CBE,4300 block of  Knox  Rd
 2024-00193964,10/12/24 10:00,11/06/24 21:04,Theft,Investigation Pending,University Courtyard #7 at 8700  Boteler  Ln
 2024-00194163,11/07/24 00:00,11/07/24 00:14,Other Incident,Active/Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
-2024-00194631,11/04/24 23:00,11/07/24 16:00,Theft,Active/Pending,"63, Somerset, Somerset Hall at 7567  Preinkert  Dr"
+2024-00194631,11/04/24 23:00,11/07/24 16:00,Theft,Unfounded,"63, Somerset, Somerset Hall at 7567  Preinkert  Dr"
 2024-00194651,11/07/24 17:14,11/07/24 17:14,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
 2024-00194681,11/07/24 18:56,11/07/24 18:56,Weapon Violation,CBE,"Elkins, Elkins Building, Systems Office, UM Systems Office at 3300  Metzerott  Rd"
 2024-00194687,11/07/24 19:22,11/07/24 19:22,Trespassing,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
