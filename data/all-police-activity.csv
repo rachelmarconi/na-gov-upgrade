@@ -3498,7 +3498,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00180799,10/21/24 09:30,10/21/24 10:20,Injured/Sick Person,CBE,436 at 4136  Stadium  Dr
 2024-00180863,10/18/24 08:00,10/21/24 11:45,Theft,Investigation Pending,Lot 4J
 2024-00180907,10/21/24 10:55,10/21/24 12:27,Injured/Sick Person,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
-2024-00180949,10/21/24 11:00,10/21/24 13:47,Indecent Exposure,Active/Pending,7300 block of  Preinkert  Dr
+2024-00180949,10/21/24 11:00,10/21/24 13:47,Indecent Exposure,Investigation Pending,7300 block of  Preinkert  Dr
 2024-00180985,10/21/24 14:35,10/21/24 14:38,Fire,CBE,4000 block of  Campus  Dr
 2024-00181174,10/20/24 20:00,10/21/24 19:39,Theft,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2024-00181868,10/21/24 18:30,10/22/24 09:54,Theft,Active/Pending,"25, Charles, Charles Hall at 4405  Lehigh  Rd"
@@ -3532,7 +3532,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00185321,10/26/24 17:17,10/26/24 17:17,Other Incident,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2024-00185486,10/26/24 23:43,10/26/24 23:43,Injured/Sick Person,CBE,7400 block of  Baltimore  Ave
 2024-00185621,10/27/24 03:06,10/27/24 03:06,Injured/Sick Person,CBE,"96, Cambridge, Cambridge Hall at 4230  Farm  Dr"
-2024-00186093,10/27/24 16:00,10/27/24 20:30,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
+2024-00186093,10/27/24 16:00,10/27/24 20:30,Theft,Investigation Pending,"35, McKeldin Library at 7649  Library  Ln"
 2024-00186130,10/27/24 20:56,10/27/24 21:28,Stolen Motor Vehicle,Active/Pending,3400 block of  Tulane  Dr
 2024-00186213,10/27/24 23:00,10/27/24 23:17,Injured/Sick Person,CBE,4200 block of  Farm  Dr
 2024-00186373,10/28/24 06:31,10/28/24 06:31,Injured/Sick Person,CBE,Regents  Dr
@@ -3623,7 +3623,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00195218,11/08/24 10:44,11/08/24 10:44,Emergency Petition,CBE,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
 2024-00195221,11/08/24 11:29,11/08/24 11:29,Recovered Stolen Property,Arrest,West Gate at 3841  Stadium  Dr
 2024-00195248,11/07/24 20:30,11/08/24 14:21,Theft,Active/Pending,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
-2024-00195249,11/08/24 14:28,11/08/24 14:34,Suspicious Person/Auto,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2024-00195249,11/08/24 14:28,11/08/24 14:34,Suspicious Person/Auto,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00195250,11/08/24 12:00,11/08/24 14:35,Burglary,Active/Pending,4000 block of  Stadium  Dr
 2024-00195714,11/08/24 22:19,11/08/24 22:19,Injured/Sick Person,CBE,"Riggs, Riggs Alumni, Riggs Alumni Center at 7801  Alumni  Dr"
 2024-00195885,11/09/24 02:40,11/09/24 02:40,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
@@ -3690,9 +3690,11 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00204647,11/14/24 12:00,11/19/24 15:21,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2024-00204768,11/19/24 19:57,11/19/24 19:57,Assist Other Agency / Other,CBE,4700 block of  Norwich  Rd
 2024-00204811,11/19/24 20:45,11/19/24 21:54,Assist Other Agency / EPS,CBE,4300 block of  Knox  Rd
+2024-00205452,11/11/24 21:00,11/20/24 16:27,Theft,Investigation Pending,"Leonardtown, Leonardtown #201, Leonardtown Leonardtown Office Building at 4725  Rossborough  Ln"
 2024-00205467,11/20/24 16:56,11/20/24 16:56,Assist Other Agency / Other,CBE,4600 block of  College  Ave
 2024-00205533,11/20/24 18:31,11/20/24 18:31,Assist Other Agency / Other,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00205550,11/20/24 19:22,11/20/24 19:22,Assist Other Agency / Check on the Welfare,CBE,8200 block of  Baltimore  Ave
+2024-00205835,11/20/24 21:50,11/21/24 03:10,Pedestrian Struck,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2024-00206049,11/20/24 18:30,11/21/24 11:07,Lost Property,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2024-00206234,11/21/24 15:45,11/21/24 15:45,Emergency Petition,CBE,4200 block of  Chapel  Ln
 2024-00206282,11/21/24 17:45,11/21/24 17:45,Injured/Sick Person,CBE,436 at 4136  Stadium  Dr
@@ -3701,14 +3703,18 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00207050,11/22/24 12:48,11/22/24 12:48,Other Incident,CBE,4300 block of  Hartwick  Rd
 2024-00207217,11/22/24 16:22,11/22/24 16:22,Injured/Sick Person,CBE,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2024-00207456,11/22/24 10:00,11/22/24 20:27,Injured/Sick Person,CBE,Campus  Dr
+2024-00207493,11/22/24 21:00,11/22/24 21:51,Injured/Sick Person,CBE,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
 2024-00207527,11/22/24 22:32,11/22/24 22:32,CDS Violation,Active/Pending,"Commons 2, SCC 2, South Campus Commons 2 at 7524  Calvert Service  Ln"
+2024-00207539,11/22/24 19:00,11/22/24 23:07,Found/Recovered Property,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00207590,11/23/24 00:30,11/23/24 00:30,Injured/Sick Person,CBE,7600 block of  Preinkert  Dr
 2024-00207826,11/23/24 12:52,11/23/24 12:52,Emergency Petition,CBE,"Capital One Field, Football Stadium, SECU Stadium"
+2024-00207871,11/23/24 09:30,11/23/24 14:10,Vandalism,Active/Pending,Lot KK
 2024-00208050,11/23/24 16:17,11/23/24 19:34,Assist Other Agency / EPS,CBE,"College Park Shopping Center, CVS at 7300  Baltimore  Ave"
 2024-00208054,11/23/24 19:50,11/23/24 19:50,Assist Other Agency / Theft,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00208102,11/23/24 22:56,11/23/24 22:56,Damage to State Property,Active/Pending,West Gate at 3841  Stadium  Dr
 2024-00208160,11/23/24 23:58,11/23/24 23:58,Injured/Sick Person,CBE,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2024-00208195,11/24/24 00:37,11/24/24 00:37,Injured/Sick Person,CBE,Lot N3
+2024-00208261,11/24/24 02:25,11/24/24 02:25,Assist Other Agency / Other,CBE,7300 block of  Baltimore  Ave
 2024-00208270,11/24/24 02:51,11/24/24 02:51,DWI/DUI,Arrest,University  Blvd
 2024-00208286,11/24/24 04:50,11/24/24 04:50,DWI/DUI,Arrest,"MFRI, MFRI Office/Classroom Building at 4500  Campus  Dr"
 2024-00208369,11/24/24 06:55,11/24/24 07:05,Check on the  Welfare,CBE,8000 block of  La Plata  Dr
@@ -3719,7 +3725,22 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00209233,11/25/24 02:25,11/25/24 02:46,Assist Other Agency / Theft,CBE,4300 block of  Hartwick Rd
 2024-00209390,11/25/24 07:15,11/25/24 07:19,Accident - Departmental,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00209823,11/25/24 14:20,11/25/24 15:00,Injured/Sick Person,CBE,8200 block of  Paint Branch  Dr
+2024-00210074,11/25/24 18:54,11/25/24 18:54,Assist Other Agency / Other,CBE,"52, Clarence M. Mitchell, Jr. Building, Mitchell Building, North Administration at 7999  Regents  Dr"
 2024-00210272,11/25/24 20:30,11/25/24 23:40,Theft,CBE,"Commons 7, SCC 7, South Campus Commons 7 at 6801  Preinkert  Dr"
+2024-00211650,11/27/24 15:18,11/27/24 15:18,Injured/Sick Person,CBE,"Looney's Pub, The Varsity at 8150  Baltimore  Ave"
+2024-00211670,11/27/24 16:35,11/27/24 17:05,Disorderly Conduct,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2024-00211722,11/27/24 15:00,11/27/24 19:04,Theft,Active/Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2024-00211903,11/28/24 00:54,11/28/24 00:54,DWI/DUI,Arrest,Baltimore  Ave
+2024-00211904,11/28/24 01:11,11/28/24 01:11,DWI/DUI,Arrest,Wb University Blvd Ofrp Nb Adelphi Rd
+2024-00212582,11/29/24 02:54,11/29/24 02:54,DWI/DUI,Arrest,Adelphi  Rd
+2024-00214016,11/30/24 17:55,11/30/24 17:55,Recovered Stolen Property,Arrest,North Gate at 4306  Campus  Dr
+2024-00214064,11/30/24 19:10,11/30/24 19:10,DWI/DUI,Arrest,University  Blvd
+2024-00214132,11/30/24 20:48,11/30/24 20:49,Injured/Sick Person,CBE,Lot 4B
+2024-00214548,12/01/24 02:20,12/01/24 02:20,DWI/DUI,Arrest,University  Blvd
+2024-00214561,12/01/24 02:20,12/01/24 02:55,Injured/Sick Person,CBE,University  Blvd
+2024-00214563,12/01/24 03:02,12/01/24 03:02,DWI/DUI,Arrest,University  Blvd
+2024-00214591,12/01/24 03:45,12/01/24 04:27,Other Incident,Active/Pending,Stadium  Dr
+2024-00215899,12/01/24 17:30,12/02/24 11:36,Injured/Sick Person,CBE,Lot A
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
