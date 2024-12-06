@@ -3728,12 +3728,15 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00210074,11/25/24 18:54,11/25/24 18:54,Assist Other Agency / Other,CBE,"52, Clarence M. Mitchell, Jr. Building, Mitchell Building, North Administration at 7999  Regents  Dr"
 2024-00210271,11/25/24 23:33,11/25/24 23:33,Found/Recovered Property,CBE,Baltimore  Ave
 2024-00210272,11/25/24 20:30,11/25/24 23:40,Theft,CBE,"Commons 7, SCC 7, South Campus Commons 7 at 6801  Preinkert  Dr"
+2024-00210906,11/26/24 16:33,11/26/24 16:33,Injured/Sick Person,CBE,7100 block of  Preinkert  Dr
 2024-00211650,11/27/24 15:18,11/27/24 15:18,Injured/Sick Person,CBE,"Looney's Pub, The Varsity at 8150  Baltimore  Ave"
+2024-00211652,11/27/24 15:38,11/27/24 15:38,DWI/DUI,Arrest,Paint Branch  Dr
 2024-00211670,11/27/24 16:35,11/27/24 17:05,Disorderly Conduct,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2024-00211722,11/27/24 15:00,11/27/24 19:04,Theft,Active/Pending,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2024-00211903,11/28/24 00:54,11/28/24 00:54,DWI/DUI,Arrest,Baltimore  Ave
 2024-00211904,11/28/24 01:11,11/28/24 01:11,DWI/DUI,Arrest,Wb University Blvd Ofrp Nb Adelphi Rd
 2024-00212055,11/27/24 18:00,11/28/24 08:43,Theft,Active/Pending,3400 block of  Tulane  Dr
+2024-00212247,11/25/24 09:00,11/28/24 16:49,Theft,Active/Pending,Johnson-Whittle Hall at 4118  Stadium  Dr
 2024-00212582,11/29/24 02:54,11/29/24 02:54,DWI/DUI,Arrest,Adelphi  Rd
 2024-00214016,11/30/24 17:55,11/30/24 17:55,Recovered Stolen Property,Arrest,North Gate at 4306  Campus  Dr
 2024-00214064,11/30/24 19:10,11/30/24 19:10,DWI/DUI,Arrest,University  Blvd
@@ -3754,6 +3757,10 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00216307,12/02/24 15:30,12/02/24 18:50,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2024-00216755,12/03/24 07:00,12/03/24 07:11,Injured/Sick Person,CBE,Cumberland Hall at 4250  Farm  Dr
 2024-00216757,12/03/24 06:50,12/03/24 07:19,Theft,Active/Pending,"34, Jimenez, Jimenez Hall at 4125 N Library  Ln"
+2024-00217159,12/03/24 16:30,12/03/24 18:17,Injured/Sick Person,CBE,8600 block of  Baltimore  Ave
+2024-00217636,12/04/24 05:00,12/04/24 07:37,Injured/Sick Person,CBE,6800 block of  Preinkert  Dr
+2024-00218048,12/04/24 19:01,12/04/24 19:39,Injured/Sick Person,CBE,8700 block of  Boteler  Ln
+2024-00218078,12/04/24 20:45,12/04/24 20:45,Injured/Sick Person,CBE,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
