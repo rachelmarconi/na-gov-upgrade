@@ -3004,7 +3004,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00135228,08/25/24 02:34,08/25/24 02:34,Injured/Sick Person,CBE,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2024-00135480,08/25/24 10:09,08/25/24 10:09,Injured/Sick Person,CBE,"48, Francis Scott Key, Francis Scott Key Hall, FS Key Hall, FSK at 4282  Chapel  Ln"
 2024-00135828,08/25/24 22:22,08/25/24 22:22,Fire,Active/Pending,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
-2024-00135839,08/25/24 22:35,08/25/24 22:35,Indecent Exposure,Summons Issued,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
+2024-00135839,08/25/24 22:35,08/25/24 22:35,Indecent Exposure,Arrest,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2024-00136063,08/26/24 09:04,08/26/24 09:04,Emergency Petition,CBE,"Capital One Field, Football Stadium, SECU Stadium"
 2024-00136203,08/26/24 13:50,08/26/24 13:50,Assist Other Agency / EPS,CBE,8200 block of  Baltimore  Ave
 2024-00136304,08/23/24 09:30,08/26/24 17:29,Suspicious Activity,CBE,4200 block of  Farm  Dr
@@ -3653,9 +3653,10 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00200696,11/08/24 00:00,11/14/24 11:47,Other Incident,CBE,11000 block of  Old Columbia Park
 2024-00200763,11/14/24 13:50,11/14/24 13:57,Injured/Sick Person,CBE,"Frat 3, TKE, Zeta Beta Tau, Zeta Beta Tau Fraternity at 3  Fraternity  Row"
 2024-00200781,11/14/24 15:00,11/14/24 15:45,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
+2024-00200809,09/14/24 15:00,11/14/24 17:28,Other Incident,CBE,4100 block of  Stadium  Dr
 2024-00200828,11/13/24 02:50,11/14/24 17:46,Vandalism,Active/Pending,University Courtyard #5 at 8500  Boteler  Ln
 2024-00200831,11/14/24 16:26,11/14/24 17:59,Telephone/EMail Misuse,Active/Pending,8500 block of  Paint Branch  Dr
-2024-00200888,11/14/24 19:24,11/14/24 19:41,Theft,Active/Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
+2024-00200888,11/14/24 19:24,11/14/24 19:41,Theft,Investigation Pending,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
 2024-00200911,11/14/24 20:36,11/14/24 20:36,Assist Other Agency / Accident,CBE,Baltimore  Ave
 2024-00201124,11/15/24 00:14,11/15/24 00:14,Injured/Sick Person,CBE,3400 block of  Tulane  Dr
 2024-00201235,11/15/24 02:16,11/15/24 02:16,Injured/Sick Person,CBE,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
@@ -3718,7 +3719,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00208270,11/24/24 02:51,11/24/24 02:51,DWI/DUI,Arrest,University  Blvd
 2024-00208286,11/24/24 04:50,11/24/24 04:50,DWI/DUI,Arrest,"MFRI, MFRI Office/Classroom Building at 4500  Campus  Dr"
 2024-00208369,11/24/24 06:55,11/24/24 07:05,Check on the  Welfare,CBE,8000 block of  La Plata  Dr
-2024-00208910,11/21/24 11:00,11/24/24 18:27,Fraud,Active/Pending,4000 block of  Stadium  Dr
+2024-00208910,11/21/24 11:00,11/24/24 18:27,Fraud,Investigation Pending,4000 block of  Stadium  Dr
 2024-00208987,11/24/24 19:45,11/24/24 20:07,Assist Other Agency / EPS,CBE,7400 block of  Princeton  Ave
 2024-00209002,10/06/24 00:00,11/24/24 21:18,Suspicious Person/Auto,Active/Pending,La Plata Hall at 8160  La Plata  Dr
 2024-00209008,11/24/24 16:30,11/24/24 21:58,Assist Other Agency / Death Investigation,CBE,Clopper Rd / Game Preserve Rd
@@ -3737,7 +3738,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00211903,11/28/24 00:54,11/28/24 00:54,DWI/DUI,Arrest,Baltimore  Ave
 2024-00211904,11/28/24 01:11,11/28/24 01:11,DWI/DUI,Arrest,Wb University Blvd Ofrp Nb Adelphi Rd
 2024-00212055,11/27/24 18:00,11/28/24 08:43,Theft,Active/Pending,3400 block of  Tulane  Dr
-2024-00212247,11/25/24 09:00,11/28/24 16:49,Theft,Active/Pending,Johnson-Whittle Hall at 4118  Stadium  Dr
+2024-00212247,11/25/24 09:00,11/28/24 16:49,Theft,Unfounded,Johnson-Whittle Hall at 4118  Stadium  Dr
 2024-00212582,11/29/24 02:54,11/29/24 02:54,DWI/DUI,Arrest,Adelphi  Rd
 2024-00214016,11/30/24 17:55,11/30/24 17:55,Recovered Stolen Property,Arrest,North Gate at 4306  Campus  Dr
 2024-00214064,11/30/24 19:10,11/30/24 19:10,DWI/DUI,Arrest,University  Blvd
@@ -3759,6 +3760,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00216755,12/03/24 07:00,12/03/24 07:11,Injured/Sick Person,CBE,Cumberland Hall at 4250  Farm  Dr
 2024-00216757,12/03/24 06:50,12/03/24 07:19,Theft,Active/Pending,"34, Jimenez, Jimenez Hall at 4125 N Library  Ln"
 2024-00217159,12/03/24 16:30,12/03/24 18:17,Injured/Sick Person,CBE,8600 block of  Baltimore  Ave
+2024-00217211,12/03/24 17:15,12/03/24 20:49,Theft,Active/Pending,"63, Somerset, Somerset Hall at 7567  Preinkert  Dr"
 2024-00217217,12/03/24 17:17,12/03/24 21:06,Other Incident,Active/Pending,"99, Bel Air, Bel Air Hall at 4213  Valley  Dr"
 2024-00217636,12/04/24 05:00,12/04/24 07:37,Injured/Sick Person,CBE,6800 block of  Preinkert  Dr
 2024-00217784,12/04/24 10:09,12/04/24 10:09,Assist Other Agency / Accident,CBE,Adelphi  Rd
