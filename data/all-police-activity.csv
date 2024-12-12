@@ -3523,7 +3523,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00184122,10/25/24 00:54,10/25/24 00:54,Injured/Sick Person,CBE,"Commons 3, SCC 3, South Campus Commons 3 at 4318  Knox  Rd"
 2024-00184427,10/25/24 08:15,10/25/24 08:15,Suspicious Person/Auto,CBE,"Journalism Building, Knight Hall at 7765  Alumni  Dr"
 2024-00184459,08/19/24 09:23,10/25/24 09:41,Theft,Investigation Pending,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
-2024-00184545,10/25/24 13:25,10/25/24 13:36,Theft,Active/Pending,"Commons 7, SCC 7, South Campus Commons 7 at 6801  Preinkert  Dr"
+2024-00184545,10/25/24 13:25,10/25/24 13:36,Theft,Warrant Issued,"Commons 7, SCC 7, South Campus Commons 7 at 6801  Preinkert  Dr"
 2024-00184559,10/25/24 14:00,10/25/24 14:59,Theft,Unfounded,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2024-00184715,10/25/24 19:18,10/25/24 19:18,Assist Other Agency / Shoplifter,CBE,3500 block of  East West  Hwy
 2024-00184765,10/25/24 21:35,10/25/24 21:35,Injured/Sick Person,CBE,"Football Team House, Gossett, Gossett Hall at 4068  Fieldhouse  Dr"
@@ -3765,15 +3765,24 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00217636,12/04/24 05:00,12/04/24 07:37,Injured/Sick Person,CBE,6800 block of  Preinkert  Dr
 2024-00217784,12/04/24 10:09,12/04/24 10:09,Assist Other Agency / Accident,CBE,Adelphi  Rd
 2024-00217860,12/04/24 12:40,12/04/24 12:51,Other Incident,CBE,Manokin Building at 5801  University Research  Ct
+2024-00217866,12/04/24 12:40,12/04/24 13:37,Theft,Active/Pending,"36, Plant Sciences Building at 4291  Fieldhouse  Dr"
 2024-00218048,12/04/24 19:01,12/04/24 19:39,Injured/Sick Person,CBE,8700 block of  Boteler  Ln
 2024-00218078,12/04/24 20:45,12/04/24 20:45,Injured/Sick Person,CBE,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
 2024-00218088,12/04/24 21:47,12/04/24 21:47,Injured/Sick Person,CBE,"Recreation Artificial Turf Field, Turf Field, Turf Fields"
+2024-00218279,12/05/24 00:32,12/05/24 00:32,DWI/DUI,Arrest,Baltimore  Ave
 2024-00218599,12/05/24 11:19,12/05/24 11:19,Injured/Sick Person,CBE,Varsity Sports Teamhouse at 4117  Stadium  Dr
 2024-00218739,11/04/24 15:00,12/05/24 18:28,Injured/Sick Person,CBE,"Hornbake, Hornbake Library at 4130  Campus  Dr"
+2024-00219148,12/04/24 07:00,12/06/24 05:39,Theft,Active/Pending,7700 block of  Alumni  Dr
 2024-00219450,12/06/24 11:55,12/06/24 12:01,Damage to State Property,CBE,4000 block of  Campus  Dr
+2024-00219771,12/07/24 00:44,12/07/24 00:44,Injured/Sick Person,CBE,"Commons 7, SCC 7, South Campus Commons 7 at 6801  Preinkert  Dr"
+2024-00221311,12/08/24 12:00,12/08/24 21:40,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
+2024-00221493,12/09/24 02:16,12/09/24 02:16,DWI/DUI,Arrest,3400 block of  Tulane  Dr
+2024-00221842,12/09/24 11:45,12/09/24 11:45,Emergency Petition,Active/Pending,Health Center at 3983  Campus  Dr
+2024-00221942,12/03/24 19:50,12/09/24 17:23,Theft,Active/Pending,3400 block of  Tulane  Dr
 2024-00221945,12/09/24 17:50,12/09/24 18:05,Suspicious Activity,Active/Pending,7800 block of  Regents  Dr
 2024-00221984,12/09/24 22:13,12/09/24 22:13,Assist Other Agency / Robbery,CBE,Lakeland  Rd
 2024-00222028,12/09/24 23:25,12/09/24 23:25,Trespassing,Arrest,"Architecture, Architecture Building at 3835  Campus  Dr"
+2024-00222792,12/11/24 00:18,12/11/24 00:18,Injured/Sick Person,CBE,4300 block of  Knox  Rd
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
