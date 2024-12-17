@@ -3762,6 +3762,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00217159,12/03/24 16:30,12/03/24 18:17,Injured/Sick Person,CBE,8600 block of  Baltimore  Ave
 2024-00217211,12/03/24 17:15,12/03/24 20:49,Theft,Active/Pending,"63, Somerset, Somerset Hall at 7567  Preinkert  Dr"
 2024-00217217,12/03/24 17:17,12/03/24 21:06,Other Incident,Active/Pending,"99, Bel Air, Bel Air Hall at 4213  Valley  Dr"
+2024-00217232,12/03/24 21:30,12/03/24 22:38,Assist Other Agency / Theft,CBE,7300 block of  Baltimore  Ave
 2024-00217636,12/04/24 05:00,12/04/24 07:37,Injured/Sick Person,CBE,6800 block of  Preinkert  Dr
 2024-00217784,12/04/24 10:09,12/04/24 10:09,Assist Other Agency / Accident,CBE,Adelphi  Rd
 2024-00217860,12/04/24 12:40,12/04/24 12:51,Other Incident,CBE,Manokin Building at 5801  University Research  Ct
@@ -3771,11 +3772,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00218088,12/04/24 21:47,12/04/24 21:47,Injured/Sick Person,CBE,"Recreation Artificial Turf Field, Turf Field, Turf Fields"
 2024-00218279,12/05/24 00:32,12/05/24 00:32,DWI/DUI,Arrest,Baltimore  Ave
 2024-00218599,12/05/24 11:19,12/05/24 11:19,Injured/Sick Person,CBE,Varsity Sports Teamhouse at 4117  Stadium  Dr
+2024-00218724,12/05/24 17:38,12/05/24 17:38,False Report/Statement,CBE,4200 block of  Farm  Dr
 2024-00218739,11/04/24 15:00,12/05/24 18:28,Injured/Sick Person,CBE,"Hornbake, Hornbake Library at 4130  Campus  Dr"
 2024-00219148,12/04/24 07:00,12/06/24 05:39,Theft,Active/Pending,7700 block of  Alumni  Dr
 2024-00219450,12/06/24 11:55,12/06/24 12:01,Damage to State Property,CBE,4000 block of  Campus  Dr
 2024-00219605,12/06/24 19:41,12/06/24 19:41,Injured/Sick Person,CBE,7600 block of  Mowatt  Ln
 2024-00219636,12/06/24 17:26,12/06/24 20:18,Theft,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
+2024-00219670,12/06/24 22:29,12/06/24 22:29,CDS Violation,CBE,7500 block of  Calvert Service  Ln
 2024-00219671,12/06/24 22:38,12/06/24 22:38,Injured/Sick Person,CBE,La Plata Hall at 8160  La Plata  Dr
 2024-00219710,12/06/24 23:20,12/06/24 23:20,Injured/Sick Person,CBE,"Riggs, Riggs Alumni, Riggs Alumni Center at 7801  Alumni  Dr"
 2024-00219770,12/07/24 00:00,12/07/24 00:39,Injured/Sick Person,Active/Pending,"Easton, Easton Hall at 3917  Denton Service  Ln"
@@ -3785,19 +3788,29 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00221311,12/08/24 12:00,12/08/24 21:40,Theft,Active/Pending,"35, McKeldin Library at 7649  Library  Ln"
 2024-00221493,12/09/24 02:16,12/09/24 02:16,DWI/DUI,Arrest,3400 block of  Tulane  Dr
 2024-00221842,12/09/24 11:45,12/09/24 11:45,Emergency Petition,Active/Pending,Health Center at 3983  Campus  Dr
+2024-00221902,12/06/24 16:00,12/09/24 15:08,Assault,Active/Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2024-00221942,12/03/24 19:50,12/09/24 17:23,Theft,Active/Pending,3400 block of  Tulane  Dr
 2024-00221945,12/09/24 17:50,12/09/24 18:05,Suspicious Activity,Active/Pending,7800 block of  Regents  Dr
 2024-00221946,12/08/24 22:30,12/09/24 18:25,Theft,Active/Pending,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
+2024-00221983,12/09/24 21:50,12/09/24 21:50,Harassment/Stalking,Active/Pending,Washington Quad
 2024-00221984,12/09/24 22:13,12/09/24 22:13,Assist Other Agency / Robbery,CBE,Lakeland  Rd
 2024-00222028,12/09/24 23:25,12/09/24 23:25,Trespassing,Arrest,"Architecture, Architecture Building at 3835  Campus  Dr"
+2024-00222039,12/10/24 00:33,12/10/24 00:33,Hazardous Condition,CBE,Yahentamitsi at 4136  Stadium  Dr
 2024-00222325,12/09/24 19:00,12/10/24 09:55,Vandalism,Active/Pending,"Riggs, Riggs Alumni, Riggs Alumni Center at 7801  Alumni  Dr"
+2024-00222353,12/10/24 12:02,12/10/24 12:23,Harassment/Stalking,Active/Pending,4300 block of  Chapel  Ln
 2024-00222792,12/11/24 00:18,12/11/24 00:18,Injured/Sick Person,CBE,4300 block of  Knox  Rd
 2024-00222798,12/11/24 00:33,12/11/24 00:33,DWI/DUI,Arrest,Baltimore  Ave
 2024-00222974,12/11/24 03:45,12/11/24 04:32,Theft from Auto,Active/Pending,University Courtyard #3 at 8300  Boteler  Ln
 2024-00222995,12/11/24 03:30,12/11/24 05:57,Theft from Auto,Active/Pending,3400 block of  Tulane  Dr
 2024-00223252,09/06/24 15:29,12/11/24 16:16,Theft,Active/Pending,4100 block of  Campus  Dr
+2024-00223272,12/11/24 17:30,12/11/24 17:30,Assist Other Agency / Accident,CBE,Baltimore  Ave
 2024-00223849,12/10/24 08:00,12/12/24 09:59,Injured/Sick Person,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2024-00223958,12/12/24 10:50,12/12/24 11:40,Extortion,Active/Pending,3400 block of  Tulane  Dr
 2024-00224132,12/12/24 20:00,12/12/24 20:40,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
+2024-00224155,12/12/24 22:22,12/12/24 22:22,Other Incident,CBE,"Bio Psych, Biology-Psychology Building at 4094  Campus  Dr"
+2024-00224870,12/13/24 10:04,12/13/24 10:04,Assist Other Agency / Check on the Welfare,CBE,"Looney's Pub, The Varsity at 8150  Baltimore  Ave"
+2024-00225251,12/13/24 22:00,12/13/24 22:24,Assist Other Agency / Cutting/Stabbing,CBE,Visitor Center at the Hotel at the University of Maryland at 7777  Baltimore  Ave
+2024-00227083,12/15/24 11:30,12/15/24 14:39,Assist Other Agency / Domestic,CBE,3600 block of  Campus  Dr
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
