@@ -2831,13 +2831,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00113966,07/09/24 01:12,07/09/24 01:12,Warrant/Summons Service,Arrest,University  Blvd
 2024-00114066,07/09/24 04:28,07/09/24 08:43,Theft,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00114071,07/09/24 04:49,07/09/24 15:07,Theft,Investigation Pending,260 at 4301  Rowalt  Dr
-2024-00114440,07/10/24 10:02,07/10/24 12:09,Theft,Summons Issued,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
+2024-00114440,07/10/24 10:02,07/10/24 12:09,Theft,Arrest,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
 2024-00114457,07/10/24 13:58,07/10/24 14:00,Other Incident,CBE,4100 block of  Campus  Dr
 2024-00114466,07/10/24 14:30,07/10/24 15:38,Theft from Auto,Arrest,Golf Course Parking Lot
 2024-00114683,07/11/24 02:31,07/11/24 02:31,Vandalism,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2024-00114996,07/11/24 14:00,07/11/24 22:41,Vandalism,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2024-00115176,07/12/24 09:06,07/12/24 09:06,Injured/Sick Person,CBE,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
-2024-00115345,07/12/24 11:00,07/12/24 15:40,Theft,Summons Issued,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
+2024-00115345,07/12/24 11:00,07/12/24 15:40,Theft,Arrest,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
 2024-00115555,07/13/24 01:38,07/13/24 01:38,DWI/DUI,Arrest,"83, J.M. Patterson Building, JM Patterson, JM Patterson Building at 4356  Stadium  Dr"
 2024-00115776,07/13/24 11:09,07/13/24 11:09,Recovered Stolen Motor Vehicle,Arrest,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00115818,07/13/24 15:41,07/13/24 15:41,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
@@ -3209,7 +3209,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00155455,09/22/24 16:34,09/22/24 16:34,Injured/Sick Person,CBE,"38, Lefrak, Lefrak Hall at 7251  Preinkert  Dr"
 2024-00155486,09/22/24 20:01,09/22/24 20:01,DWI/DUI,Arrest,Metzerott  Rd
 2024-00155957,09/23/24 07:22,09/23/24 07:23,Injured/Sick Person,CBE,8300 block of  Boteler  Ln
-2024-00156170,09/22/24 19:56,09/23/24 12:09,Theft,Active/Pending,4400 block of  Lehigh  Rd
+2024-00156170,09/22/24 19:56,09/23/24 12:09,Theft,Summons Issued,4400 block of  Lehigh  Rd
 2024-00156194,09/22/24 19:00,09/23/24 12:23,Theft,Investigation Pending,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
 2024-00156311,09/23/24 11:59,09/23/24 16:53,Theft,Investigation Pending,Varsity Sports Teamhouse at 4117  Stadium  Dr
 2024-00156321,09/23/24 14:00,09/23/24 17:24,Vandalism,Investigation Pending,8200 block of  Boteler  Ln
@@ -3254,7 +3254,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00159504,09/27/24 15:00,09/27/24 17:23,Theft,Warrant Issued,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2024-00159702,09/27/24 02:00,09/27/24 20:43,Stolen Motor Vehicle,Investigation Pending,University Courtyard #2 at 8200  Boteler  Ln
 2024-00159714,09/26/24 22:30,09/27/24 21:13,Theft,Investigation Pending,"65, Carroll, Carroll Hall at 7284  Preinkert  Dr"
-2024-00159720,09/27/24 14:37,09/27/24 21:30,Theft,Warrant Issued,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
+2024-00159720,09/27/24 14:37,09/27/24 21:30,Theft,Arrest,"251 North, Denton Area Dining Hall at 3951  Denton Service  Ln"
 2024-00159741,09/27/24 18:00,09/27/24 22:06,Theft,Investigation Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2024-00159782,09/27/24 22:46,09/27/24 22:46,Trespassing,Arrest,"51, Worcester, Worcester Hall at 7405  Preinkert  Dr"
 2024-00160227,09/28/24 03:31,09/28/24 03:31,DWI/DUI,Arrest,Paint Branch  Dr
@@ -3269,12 +3269,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00161829,09/27/24 18:00,09/29/24 18:10,Theft,Arrest,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2024-00161855,09/29/24 19:52,09/29/24 19:52,Emergency Petition,CBE,"99, Bel Air, Bel Air Hall at 4213  Valley  Dr"
 2024-00161856,09/29/24 11:00,09/29/24 20:13,Theft,Active/Pending,Cumberland Hall at 4250  Farm  Dr
-2024-00161858,09/29/24 12:40,09/29/24 20:21,Theft,Summons Issued,"88, Martin Hall at 4298  Campus  Dr"
+2024-00161858,09/29/24 12:40,09/29/24 20:21,Theft,Arrest,"88, Martin Hall at 4298  Campus  Dr"
 2024-00162090,09/17/24 00:00,09/29/24 23:47,Theft,Arrest,"Pyon Chen, Pyon-Chen Hall at 8097  La Plata  Dr"
 2024-00162692,09/29/24 23:00,09/30/24 11:49,Theft,Investigation Pending,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00162726,09/27/24 02:00,09/30/24 13:45,Theft,Investigation Pending,Hagerstown Hall at 8075  Hagerstown  Dr
 2024-00162730,09/30/24 09:30,09/30/24 14:00,Theft,Active/Pending,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
-2024-00162738,09/30/24 04:00,09/30/24 14:14,Theft,Summons Issued,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
+2024-00162738,09/30/24 04:00,09/30/24 14:14,Theft,Arrest,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2024-00162810,09/30/24 01:50,09/30/24 17:30,Assist Other Agency / Vandalism,CBE,4600 block of  Knox  Rd
 2024-00162849,09/30/24 13:00,09/30/24 17:58,Assist Other Agency / EPS,CBE,9500 block of  Baltimore  Ave
 2024-00162950,09/30/24 14:20,09/30/24 19:12,Hate Bias Incident,Active/Pending,Lot A
@@ -3623,8 +3623,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00195218,11/08/24 10:44,11/08/24 10:44,Emergency Petition,CBE,"82, John S. Toll Physics Building, Physics, Physics Building at 4150  Campus  Dr"
 2024-00195221,11/08/24 11:29,11/08/24 11:29,Recovered Stolen Property,Arrest,West Gate at 3841  Stadium  Dr
 2024-00195248,11/07/24 20:30,11/08/24 14:21,Theft,Warrant Issued,"32, Montgomery, Montgomery Hall at 7570  Regents  Dr"
-2024-00195249,11/08/24 14:28,11/08/24 14:34,Suspicious Person/Auto,Warrant Issued,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
-2024-00195250,11/08/24 12:00,11/08/24 14:35,Burglary,Active/Pending,4000 block of  Stadium  Dr
+2024-00195249,11/08/24 14:28,11/08/24 14:34,Trespassing,Warrant Issued,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2024-00195250,11/08/24 12:00,11/08/24 14:35,Burglary,Investigation Pending,4000 block of  Stadium  Dr
 2024-00195714,11/08/24 22:19,11/08/24 22:19,Injured/Sick Person,CBE,"Riggs, Riggs Alumni, Riggs Alumni Center at 7801  Alumni  Dr"
 2024-00195885,11/09/24 02:40,11/09/24 02:40,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
 2024-00195897,11/09/24 03:03,11/09/24 03:03,Injured/Sick Person,CBE,4200 block of  Lehigh  Rd
@@ -3755,7 +3755,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00215883,12/02/24 06:35,12/02/24 10:01,Assist Other Agency / Other,CBE,4600 block of  College  Ave
 2024-00215899,12/01/24 17:30,12/02/24 11:36,Injured/Sick Person,CBE,Lot A
 2024-00215998,12/02/24 13:58,12/02/24 13:58,Accident,CBE,"Cole, Cole Field House, Cole Student Activities Building, Driskell Center at 4090  Union  Dr"
-2024-00216097,11/26/24 17:00,12/02/24 15:16,Theft,Active/Pending,La Plata Hall at 8160  La Plata  Dr
+2024-00216097,11/26/24 17:00,12/02/24 15:16,Theft,Investigation Pending,La Plata Hall at 8160  La Plata  Dr
 2024-00216158,12/02/24 15:45,12/02/24 15:54,Assist Other Agency / Robbery,CBE,4600 block of  Drexel  Rd
 2024-00216249,12/02/24 17:15,12/02/24 17:40,Theft,Unfounded,"Leonardtown #247, Leonardtown at 4713  Rossborough  Ln"
 2024-00216307,12/02/24 15:30,12/02/24 18:50,Theft,Investigation Pending,"35, McKeldin Library at 7649  Library  Ln"
@@ -3815,7 +3815,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00224026,12/12/24 15:37,12/12/24 15:37,Injured/Sick Person,CBE,"35, McKeldin Library at 7649  Library  Ln"
 2024-00224132,12/12/24 20:00,12/12/24 20:40,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
 2024-00224155,12/12/24 22:22,12/12/24 22:22,Other Incident,CBE,"Bio Psych, Biology-Psychology Building at 4094  Campus  Dr"
-2024-00224792,12/13/24 04:15,12/13/24 07:36,Vandalism,Active/Pending,8000 block of  Regents  Dr
+2024-00224792,12/13/24 04:15,12/13/24 07:36,Vandalism,Investigation Pending,8000 block of  Regents  Dr
 2024-00224870,12/13/24 10:04,12/13/24 10:04,Assist Other Agency / Check on the Welfare,CBE,"Looney's Pub, The Varsity at 8150  Baltimore  Ave"
 2024-00224941,12/13/24 04:00,12/13/24 14:54,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2024-00225242,12/13/24 21:50,12/13/24 21:53,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
@@ -3826,6 +3826,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00226063,12/04/24 12:00,12/14/24 18:18,Theft,Active/Pending,"Denton, Denton Hall at 3854  Stadium  Dr"
 2024-00227083,12/15/24 11:30,12/15/24 14:39,Assist Other Agency / Domestic,CBE,3600 block of  Campus  Dr
 2024-00227246,12/15/24 04:00,12/15/24 18:06,Theft,Active/Pending,"14, Harford Hall at 7660  Regents  Dr"
+2024-00227537,12/16/24 02:11,12/16/24 02:11,Injured/Sick Person,CBE,"23, Washington, Washington Hall at 4298  Lehigh  Rd"
 2024-00227953,12/16/24 10:45,12/16/24 10:49,Injured/Sick Person,Arrest,3900 block of  Campus  Dr
 2024-00227955,12/09/24 20:00,12/16/24 10:51,Vandalism,Active/Pending,7500 block of  Mowatt  Ln
 2024-00229009,12/17/24 12:47,12/17/24 12:47,Damage to State Property,CBE,"E. A. Fernandez Idea Factory, Idea Factory at 4462  Stadium  Dr"
@@ -3833,6 +3834,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2024-00230044,12/18/24 16:46,12/18/24 16:46,Other Incident,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2024-00230303,12/09/24 23:00,12/18/24 22:40,Assault,CBE,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2024-00230802,12/19/24 09:15,12/19/24 09:15,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2024-00230890,12/19/24 11:15,12/19/24 14:06,Injured/Sick Person,CBE,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
+2024-00230902,12/19/24 13:00,12/19/24 14:43,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2024-00230951,12/19/24 16:00,12/19/24 16:39,Theft,Active/Pending,7800 block of  Alumni  Dr
 2022-00000047,12/31/21 20:45,01/01/22 03:31,Stolen Motor Vehicle,Unfounded,
 2022-00000238,01/01/22 23:57,01/01/22 23:57,DWI/DUI,Arrest,Lot XX1
 2022-00000271,01/02/22 05:12,01/02/22 05:12,DWI/DUI,Arrest,University  Blvd
