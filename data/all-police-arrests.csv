@@ -373,6 +373,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24334,01/01/25 06:01,2025-00000128,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 24336,01/04/25 03:19,2025-00002272,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 24338,01/07/25 15:56,2025-00003694,,White,Male,"CDS: POSS PARAPHERNALIA; THEFT: $100 TO UNDER $1,500-All Other"
+,,,,,,
 23663,01/03/23 00:45,2023-00000777,,Asian/Pacific Islander,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver failure to stop at stop sign line; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 906,01/04/23 09:44,2022-00096498,,White,Male,Burglary 4th Degree; Unlawful Entry
 905,01/04/23 09:52,2022-00090096,,White,Male,Burglary 4th Degree; Unlawful Entry; Malicious Destruction Property/Value -$1000; Theft Less Than $100 From Building
@@ -635,7 +636,6 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 23932,12/23/23 21:58,2023-00134769,,Asian,Male,Possession of open container
 23935,12/24/23 02:23,2023-00134879,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 23936,12/31/23 02:33,2023-00139460,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driving,attempt to drive veh. not equipped with an ingition interlock as required by Ignition Interlock System Prog"
-,,,,,,
 23312,01/02/22 00:10,2022-00000238,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person"
 23313,01/02/22 05:35,2022-00000271,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 23315,01/04/22 15:13,2021-00088547,,Black,Female,"THEFT: $100 TO UNDER $1,500"
