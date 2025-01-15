@@ -2046,6 +2046,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00000083,12/29/24 21:00,01/01/25 03:41,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2025-00000128,01/01/25 05:45,01/01/25 05:45,DWI/DUI,Arrest,Adelphi  Rd
 2025-00001461,01/03/25 01:35,01/03/25 01:35,Recovered Stolen Motor Vehicle,CBE,Corporal Frank Scott  Dr
+2025-00001561,01/03/25 03:46,01/03/25 03:46,DWI/DUI,Arrest,University  Blvd
 2025-00001764,01/03/25 11:33,01/03/25 13:12,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2025-00002272,01/04/25 02:55,01/04/25 02:55,DWI/DUI,Arrest,University  Blvd
 2025-00002744,01/05/25 00:00,01/05/25 00:00,Injured/Sick Person,CBE,7300 block of  Baltimore  Ave
@@ -2053,7 +2054,15 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00003697,01/07/25 16:51,01/07/25 16:51,Theft,Arrest,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
 2025-00004053,01/08/25 04:52,01/08/25 04:52,Recovered Stolen Property,Arrest,Campus  Dr
 2025-00004663,12/24/24 08:00,01/09/25 16:50,Lost Property,CBE,4300 block of  Rowalt  Dr
+2025-00005348,01/10/25 08:46,01/10/25 08:46,Damage to State Property,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2025-00005924,01/11/25 01:01,01/11/25 01:01,DWI/DUI,Arrest,"College Park Shopping Center, CVS at 7300  Baltimore  Ave"
+2025-00006729,01/12/25 00:42,01/12/25 00:42,DWI/DUI,Arrest,University  Blvd
+2025-00006794,01/12/25 03:55,01/12/25 03:55,DWI/DUI,Arrest,University  Blvd
 2025-00006795,01/12/25 04:38,01/12/25 04:38,Warrant/Summons Service,Arrest,"Litton, Police Services & Training Facility at 7147  51st  Ave"
+2025-00007461,12/09/24 17:00,01/13/25 05:56,Theft,CBE,3900 block of  Campus  Dr
+2025-00007726,01/13/25 15:44,01/13/25 15:44,Injured/Sick Person,CBE,7300 block of  River  Rd
+2025-00007807,01/13/25 16:54,01/13/25 16:54,Disorderly Conduct,Arrest,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2025-00007896,01/13/25 18:35,01/13/25 18:52,Assist Other Agency / Other,CBE,Playa Bowls at 7417  Baltimore  Ave
 2023-00000110,12/31/22 20:00,01/01/23 10:35,Vandalism,Investigation Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2023-00000111,12/31/22 11:00,01/01/23 11:12,Vandalism,Unfounded,7700 block of  Adelphi  Rd
 2023-00000669,12/26/22 12:00,01/02/23 18:05,Lost Property,CBE,3400 block of  Tulane  Dr

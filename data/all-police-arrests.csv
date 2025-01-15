@@ -371,6 +371,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24332,01/01/25 01:10,2025-00000044,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 24333,01/01/25 02:06,2025-00000055,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24334,01/01/25 06:01,2025-00000128,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
+24355,01/03/25 04:12,2025-00001561,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, attempting to drive) veh. while so far impaired by (drug(s) or drug(s) and alcohol) cannot drive safely; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 24336,01/04/25 03:19,2025-00002272,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 24338,01/07/25 15:56,2025-00003694,,White,Male,"CDS: POSS PARAPHERNALIA; THEFT: $100 TO UNDER $1,500-All Other"
 24341,01/07/25 17:01,2025-00003697,,White,Male,"CDS: POSS PARAPHERNALIA; THEFT: $100 TO UNDER $1,500-All Other"
@@ -381,6 +382,10 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24349,01/08/25 12:00,2024-00163912,,White,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000-All Other"
 24350,01/08/25 12:00,2024-00164161,,White,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000-All Other"
 24351,01/08/25 12:00,2024-00164256,,White,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000-All Other"
+24356,01/11/25 01:15,2025-00005924,,Asian,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
+24357,01/12/25 01:12,2025-00006729,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by controlled dangerous substance; CDS: POSS PARAPHERNALIA"
+24358,01/12/25 04:17,2025-00006794,,White,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
+24353,01/13/25 17:58,2025-00007807,,Black,Male,Disorderly Conduct
 ,,,,,,
 23663,01/03/23 00:45,2023-00000777,,Asian/Pacific Islander,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver failure to stop at stop sign line; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 906,01/04/23 09:44,2022-00096498,,White,Male,Burglary 4th Degree; Unlawful Entry
