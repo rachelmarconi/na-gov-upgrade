@@ -2056,7 +2056,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00004615,01/09/25 08:30,01/09/25 08:30,DWI/DUI,Arrest,Baltimore  Ave
 2025-00004663,12/24/24 08:00,01/09/25 16:50,Lost Property,CBE,4300 block of  Rowalt  Dr
 2025-00005348,01/10/25 08:46,01/10/25 08:46,Damage to State Property,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
-2025-00005393,01/09/25 08:30,01/10/25 09:58,Theft,Active/Pending,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
+2025-00005393,01/09/25 08:30,01/10/25 09:58,Theft,Unfounded,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2025-00005924,01/11/25 01:01,01/11/25 01:01,DWI/DUI,Arrest,"College Park Shopping Center, CVS at 7300  Baltimore  Ave"
 2025-00006729,01/12/25 00:42,01/12/25 00:42,DWI/DUI,Arrest,University  Blvd
 2025-00006794,01/12/25 03:55,01/12/25 03:55,DWI/DUI,Arrest,University  Blvd
@@ -2065,7 +2065,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00007726,01/13/25 15:44,01/13/25 15:44,Injured/Sick Person,CBE,7300 block of  River  Rd
 2025-00007807,01/13/25 16:54,01/13/25 16:54,Disorderly Conduct,Arrest,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2025-00007896,01/13/25 18:35,01/13/25 18:52,Assist Other Agency / Other,CBE,Playa Bowls at 7417  Baltimore  Ave
-2025-00008368,01/13/25 10:30,01/14/25 10:26,Theft,Active/Pending,4200 block of  Valley  Dr
+2025-00008368,01/13/25 10:30,01/14/25 10:26,Theft,Unfounded,4200 block of  Valley  Dr
 2025-00008454,01/14/25 16:20,01/14/25 16:20,Other Incident,CBE,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2025-00009161,01/15/25 15:51,01/15/25 15:51,Other Incident,Active/Pending,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
 2025-00009634,01/16/25 02:31,01/16/25 02:31,DWI/DUI,Arrest,University  Blvd
@@ -2077,6 +2077,10 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00012980,01/20/25 15:04,01/20/25 15:20,Other Incident,Active/Pending,4200 block of  Campus  Dr
 2025-00013355,01/20/25 23:29,01/20/25 23:29,DWI/DUI,Arrest,University  Blvd
 2025-00013733,01/15/25 08:35,01/21/25 13:05,Theft,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2025-00013860,01/21/25 18:12,01/21/25 18:12,Recovered Stolen Property,CBE,Greenbelt  Rd
+2025-00014079,01/22/25 00:05,01/22/25 00:05,DWI/DUI,Arrest,University  Blvd
+2025-00015121,01/23/25 13:15,01/23/25 13:17,Damage to State Property,CBE,7500 block of  Calvert Service  Ln
+2025-00015146,01/23/25 14:34,01/23/25 14:34,Damage to State Property,CBE,Field Hockey & Women's Lacrosse Stadium at 8483  Paint Branch  Dr
 2023-00000110,12/31/22 20:00,01/01/23 10:35,Vandalism,Investigation Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2023-00000111,12/31/22 11:00,01/01/23 11:12,Vandalism,Unfounded,7700 block of  Adelphi  Rd
 2023-00000669,12/26/22 12:00,01/02/23 18:05,Lost Property,CBE,3400 block of  Tulane  Dr
