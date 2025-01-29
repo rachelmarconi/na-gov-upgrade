@@ -2054,6 +2054,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00003697,01/07/25 16:51,01/07/25 16:51,Theft,Arrest,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
 2025-00004053,01/08/25 04:52,01/08/25 04:52,Recovered Stolen Property,Arrest,Campus  Dr
 2025-00004615,01/09/25 08:30,01/09/25 08:30,DWI/DUI,Arrest,Baltimore  Ave
+2025-00004653,01/09/25 14:47,01/09/25 14:47,Hazardous Condition,CBE,8100 block of  Regents  Dr
 2025-00004663,12/24/24 08:00,01/09/25 16:50,Lost Property,CBE,4300 block of  Rowalt  Dr
 2025-00005348,01/10/25 08:46,01/10/25 08:46,Damage to State Property,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2025-00005393,01/09/25 08:30,01/10/25 09:58,Theft,Unfounded,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
@@ -2069,8 +2070,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00008454,01/14/25 16:20,01/14/25 16:20,Other Incident,CBE,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
 2025-00009161,01/15/25 15:51,01/15/25 15:51,Other Incident,Active/Pending,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
 2025-00009634,01/16/25 02:31,01/16/25 02:31,DWI/DUI,Arrest,University  Blvd
-2025-00009937,01/15/25 10:30,01/16/25 10:40,Theft,Active/Pending,Kim Engineering Building at 8228  Paint Branch  Dr
+2025-00009937,01/15/25 10:30,01/16/25 10:40,Theft,Investigation Pending,Kim Engineering Building at 8228  Paint Branch  Dr
 2025-00010536,01/17/25 01:54,01/17/25 01:54,DWI/DUI,Arrest,University  Blvd
+2025-00010725,01/15/25 17:56,01/17/25 08:35,Stolen Motor Vehicle,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2025-00011482,01/18/25 12:05,01/18/25 12:05,Other Incident,CBE,Paint Branch  Dr
 2025-00011513,01/18/25 13:56,01/18/25 13:56,Injured Officer,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2025-00011728,01/18/25 23:50,01/18/25 23:50,DWI/DUI,Arrest,Lot 1b
@@ -2083,7 +2085,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00015121,01/23/25 13:15,01/23/25 13:17,Damage to State Property,CBE,7500 block of  Calvert Service  Ln
 2025-00015146,01/23/25 14:34,01/23/25 14:34,Damage to State Property,CBE,Field Hockey & Women's Lacrosse Stadium at 8483  Paint Branch  Dr
 2025-00015713,01/24/25 03:27,01/24/25 03:27,Vandalism,Active/Pending,3400 block of  Tulane  Dr
+2025-00015847,01/16/25 16:15,01/24/25 11:44,Lost Property,Active/Pending,Health Center at 3983  Campus  Dr
 2025-00017747,01/26/25 21:23,01/26/25 21:23,CDS Violation,CBE,Lot 2a
+2025-00018436,01/14/25 00:00,01/27/25 16:22,Title IX Incident Non Criminal,Active/Pending,4200 block of  Farm  Dr
 2023-00000110,12/31/22 20:00,01/01/23 10:35,Vandalism,Investigation Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2023-00000111,12/31/22 11:00,01/01/23 11:12,Vandalism,Unfounded,7700 block of  Adelphi  Rd
 2023-00000669,12/26/22 12:00,01/02/23 18:05,Lost Property,CBE,3400 block of  Tulane  Dr
