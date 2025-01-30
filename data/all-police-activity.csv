@@ -2073,21 +2073,36 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00009937,01/15/25 10:30,01/16/25 10:40,Theft,Investigation Pending,Kim Engineering Building at 8228  Paint Branch  Dr
 2025-00010536,01/17/25 01:54,01/17/25 01:54,DWI/DUI,Arrest,University  Blvd
 2025-00010725,01/15/25 17:56,01/17/25 08:35,Stolen Motor Vehicle,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2025-00011238,01/18/25 00:37,01/18/25 00:37,DWI/DUI,Arrest,Adelphi  Rd
 2025-00011482,01/18/25 12:05,01/18/25 12:05,Other Incident,CBE,Paint Branch  Dr
 2025-00011513,01/18/25 13:56,01/18/25 13:56,Injured Officer,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2025-00011728,01/18/25 23:50,01/18/25 23:50,DWI/DUI,Arrest,Lot 1b
+2025-00011954,01/19/25 05:56,01/19/25 05:56,DWI/DUI,Arrest,Knox  Rd
 2025-00011955,01/19/25 06:53,01/19/25 06:53,Damage to State Property,Active/Pending,"DOTS Impound Lot, Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
 2025-00012980,01/20/25 15:04,01/20/25 15:20,Other Incident,Active/Pending,4200 block of  Campus  Dr
 2025-00013355,01/20/25 23:29,01/20/25 23:29,DWI/DUI,Arrest,University  Blvd
 2025-00013733,01/15/25 08:35,01/21/25 13:05,Theft,Active/Pending,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2025-00013860,01/21/25 18:12,01/21/25 18:12,Recovered Stolen Property,CBE,Greenbelt  Rd
 2025-00014079,01/22/25 00:05,01/22/25 00:05,DWI/DUI,Arrest,University  Blvd
+2025-00014830,01/23/25 02:19,01/23/25 02:19,DWI/DUI,Arrest,University  Blvd
 2025-00015121,01/23/25 13:15,01/23/25 13:17,Damage to State Property,CBE,7500 block of  Calvert Service  Ln
 2025-00015146,01/23/25 14:34,01/23/25 14:34,Damage to State Property,CBE,Field Hockey & Women's Lacrosse Stadium at 8483  Paint Branch  Dr
 2025-00015713,01/24/25 03:27,01/24/25 03:27,Vandalism,Active/Pending,3400 block of  Tulane  Dr
 2025-00015847,01/16/25 16:15,01/24/25 11:44,Lost Property,Active/Pending,Health Center at 3983  Campus  Dr
+2025-00016188,01/24/25 18:58,01/24/25 19:04,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2025-00017067,01/25/25 22:55,01/25/25 22:55,Injured/Sick Person,CBE,Knox  Rd
+2025-00017446,12/20/24 21:30,01/26/25 10:25,Theft,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
 2025-00017747,01/26/25 21:23,01/26/25 21:23,CDS Violation,CBE,Lot 2a
+2025-00018086,01/27/25 08:55,01/27/25 08:58,Injured/Sick Person,CBE,Frat Row
+2025-00018324,01/27/25 14:39,01/27/25 14:39,Injured/Sick Person,CBE,8400 block of  Boteler  Ln
 2025-00018436,01/14/25 00:00,01/27/25 16:22,Title IX Incident Non Criminal,Active/Pending,4200 block of  Farm  Dr
+2025-00019006,01/28/25 05:52,01/28/25 05:52,Injured/Sick Person,CBE,4200 block of  Valley  Dr
+2025-00019166,01/28/25 10:20,01/28/25 10:52,Assist Other Agency (Title IX Related) / Sex Offense,CBE,Greenbelt  Rd
+2025-00019205,01/28/25 12:30,01/28/25 12:54,Accident,CBE,"88, Martin Hall at 4298  Campus  Dr"
+2025-00019226,01/28/25 13:50,01/28/25 14:42,Theft,Active/Pending,"88, Martin Hall at 4298  Campus  Dr"
+2025-00019356,01/28/25 11:00,01/28/25 17:19,Theft,Active/Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
+2025-00019424,06/17/24 07:00,01/28/25 18:52,Sex Offense,Active/Pending,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
+2025-00019867,01/26/25 06:00,01/29/25 05:57,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2023-00000110,12/31/22 20:00,01/01/23 10:35,Vandalism,Investigation Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2023-00000111,12/31/22 11:00,01/01/23 11:12,Vandalism,Unfounded,7700 block of  Adelphi  Rd
 2023-00000669,12/26/22 12:00,01/02/23 18:05,Lost Property,CBE,3400 block of  Tulane  Dr
