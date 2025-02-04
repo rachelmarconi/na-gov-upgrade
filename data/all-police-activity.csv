@@ -2091,7 +2091,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00015847,01/16/25 16:15,01/24/25 11:44,Lost Property,Active/Pending,Health Center at 3983  Campus  Dr
 2025-00016188,01/24/25 18:58,01/24/25 19:04,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2025-00017067,01/25/25 22:55,01/25/25 22:55,Injured/Sick Person,CBE,Knox  Rd
-2025-00017446,12/20/24 21:30,01/26/25 10:25,Theft,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
+2025-00017446,12/20/24 21:30,01/26/25 10:25,Theft,Investigation Pending,Yahentamitsi at 4136  Stadium  Dr
 2025-00017747,01/26/25 21:23,01/26/25 21:23,CDS Violation,CBE,Lot 2a
 2025-00018086,01/27/25 08:55,01/27/25 08:58,Injured/Sick Person,CBE,Frat Row
 2025-00018324,01/27/25 14:39,01/27/25 14:39,Injured/Sick Person,CBE,8400 block of  Boteler  Ln
@@ -2108,7 +2108,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00020292,01/29/25 21:40,01/29/25 21:40,Injured/Sick Person,CBE,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2025-00020487,01/30/25 00:19,01/30/25 00:19,CDS Violation,Arrest,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2025-00020774,01/30/25 09:30,01/30/25 09:37,Injured/Sick Person,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2025-00020883,01/30/25 17:13,01/30/25 17:13,Fire,CBE,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
 2025-00021239,01/31/25 01:39,01/31/25 01:39,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
+2025-00021486,01/31/25 00:01,01/31/25 06:58,Damage to State Property,CBE,3800 block of  Campus  Dr
+2025-00021530,01/31/25 08:15,01/31/25 09:06,Suspicious Activity,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driskell Center at 4090  Union  Dr"
+2025-00021662,09/09/24 12:00,01/31/25 13:47,Other Incident,CBE,"Architecture, Architecture Building at 3835  Campus  Dr"
+2025-00022189,01/31/25 23:31,02/01/25 01:23,Damage to State Property,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2025-00022713,02/01/25 15:15,02/01/25 15:48,Suspicious Activity,Active/Pending,"Delta Gamma, Delta Gamma Sorority at 4518  Knox  Rd"
 2023-00000110,12/31/22 20:00,01/01/23 10:35,Vandalism,Investigation Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2023-00000111,12/31/22 11:00,01/01/23 11:12,Vandalism,Unfounded,7700 block of  Adelphi  Rd
 2023-00000669,12/26/22 12:00,01/02/23 18:05,Lost Property,CBE,3400 block of  Tulane  Dr
