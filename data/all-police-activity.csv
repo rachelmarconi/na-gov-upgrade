@@ -2099,22 +2099,33 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00019006,01/28/25 05:52,01/28/25 05:52,Injured/Sick Person,CBE,4200 block of  Valley  Dr
 2025-00019166,01/28/25 10:20,01/28/25 10:52,Assist Other Agency (Title IX Related) / Sex Offense,CBE,Greenbelt  Rd
 2025-00019205,01/28/25 12:30,01/28/25 12:54,Accident,CBE,"88, Martin Hall at 4298  Campus  Dr"
-2025-00019226,01/28/25 13:50,01/28/25 14:42,Theft,Active/Pending,"88, Martin Hall at 4298  Campus  Dr"
+2025-00019226,01/28/25 13:50,01/28/25 14:42,Theft,Investigation Pending,"88, Martin Hall at 4298  Campus  Dr"
 2025-00019356,01/28/25 11:00,01/28/25 17:19,Theft,Active/Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
 2025-00019424,06/17/24 07:00,01/28/25 18:52,Sex Offense,Active/Pending,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
 2025-00019867,01/26/25 06:00,01/29/25 05:57,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2025-00020063,08/01/24 00:00,01/29/25 11:37,Theft,Active/Pending,8400 block of  Baltimore  Ave
+2025-00020067,01/28/25 23:30,01/29/25 12:03,Theft,Unfounded,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2025-00020104,01/28/25 20:56,01/29/25 13:30,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2025-00020137,12/16/24 16:00,01/29/25 15:03,Theft,Active/Pending,"PG3, SDG, Stadium Drive Parking Garage at 4025  Stadium  Dr"
 2025-00020292,01/29/25 21:40,01/29/25 21:40,Injured/Sick Person,CBE,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2025-00020487,01/30/25 00:19,01/30/25 00:19,CDS Violation,Arrest,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
+2025-00020676,01/30/25 07:01,01/30/25 07:01,Injured/Sick Person,CBE,Farm  Dr
 2025-00020774,01/30/25 09:30,01/30/25 09:37,Injured/Sick Person,CBE,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
 2025-00020883,01/30/25 17:13,01/30/25 17:13,Fire,CBE,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
 2025-00021239,01/31/25 01:39,01/31/25 01:39,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
 2025-00021486,01/31/25 00:01,01/31/25 06:58,Damage to State Property,CBE,3800 block of  Campus  Dr
 2025-00021530,01/31/25 08:15,01/31/25 09:06,Suspicious Activity,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driskell Center at 4090  Union  Dr"
 2025-00021662,09/09/24 12:00,01/31/25 13:47,Other Incident,CBE,"Architecture, Architecture Building at 3835  Campus  Dr"
+2025-00021922,01/31/25 19:37,01/31/25 19:37,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
+2025-00022047,01/31/25 23:06,01/31/25 23:06,Injured/Sick Person,CBE,8100 block of  La Plata  Dr
 2025-00022189,01/31/25 23:31,02/01/25 01:23,Damage to State Property,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2025-00022462,02/01/25 07:46,02/01/25 07:46,Injured/Sick Person,CBE,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
 2025-00022713,02/01/25 15:15,02/01/25 15:48,Suspicious Activity,Active/Pending,"Delta Gamma, Delta Gamma Sorority at 4518  Knox  Rd"
+2025-00023011,02/01/25 17:30,02/01/25 22:29,Injured/Sick Person,CBE,Johnson-Whittle Hall at 4118  Stadium  Dr
+2025-00023633,01/26/25 19:00,02/02/25 15:14,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2025-00024534,02/03/25 10:55,02/03/25 15:00,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2025-00024615,02/03/25 16:02,02/03/25 16:02,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
+2025-00024644,02/03/25 16:39,02/03/25 16:39,Assist Other Agency / Trespassing,CBE,4300 block of  Knox  Rd
 2023-00000110,12/31/22 20:00,01/01/23 10:35,Vandalism,Investigation Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2023-00000111,12/31/22 11:00,01/01/23 11:12,Vandalism,Unfounded,7700 block of  Adelphi  Rd
 2023-00000669,12/26/22 12:00,01/02/23 18:05,Lost Property,CBE,3400 block of  Tulane  Dr
