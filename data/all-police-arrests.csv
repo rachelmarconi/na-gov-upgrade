@@ -385,6 +385,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24350,01/08/25 12:00,2024-00164161,,White,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000-All Other"
 24351,01/08/25 12:00,2024-00164256,,White,Male,"THEFT SCHEME: $1,500 TO UNDER $25,000-All Other"
 24371,01/08/25 12:00,2023-00079735,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
+24377,01/08/25 12:00,2023-00086320,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24363,01/09/25 08:44,2025-00004615,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; (Stopping, Standing, Parking) veh. in intersection; Driver failure to obey properly placed traffic control device instructions; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 24356,01/11/25 01:15,2025-00005924,,Asian,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 24357,01/12/25 01:12,2025-00006729,,Black,Male,"(Driving, Attempting to drive) veh. while impaired by controlled dangerous substance; CDS: POSS PARAPHERNALIA"
@@ -400,8 +401,6 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24372,01/23/25 03:01,2025-00014830,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; Driver failure to obey properly placed traffic control device instructions; Driving veh. on hwy. at speed exceeding speed limit by 10 to 19 mph.; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property; Willfully driving motor veh. at slow speed impeding normal and reasonable trafffic movement"
 24375,01/30/25 00:23,2025-00020487,,White,Male,Marijuana Possession - Personal Use Amount
 24376,01/30/25 23:17,2025-00021120,,White,Male,Deadly Weapon - Conceal; Disorderly Conduct; INTOXICATED PUBLIC DISTURB; Rogue and Vagabond
-,,,,,,
-24377,01/08/25 12:00,2023-00086320,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24378,01/31/25 11:48,2025-00021606,,Black,Male,"School Trespassing On Ground; THEFT: $100 TO UNDER $1,500-From Building"
 24382,02/03/25 05:05,2025-00024219,,Black,Female,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 24383,02/03/25 17:12,2025-00024534,,Asian,Male,"THEFT: $100 TO UNDER $1,500-All Other"
@@ -409,6 +408,9 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24379,02/07/25 00:34,2025-00027759,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24381,02/09/25 02:13,2025-00029737,,Unknown,Male,"(Driving, Attempting to drive) motor veh. on hwy. w/o req. license and authorization; (Driving, Attempting to drive) veh. while impaired by alcohol; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 24380,02/10/25 02:44,2025-00030527,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
+24386,02/14/25 01:48,2025-00034306,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
+24385,02/16/25 03:07,2025-00036018,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
+,,,,,,
 23663,01/03/23 00:45,2023-00000777,,Asian/Pacific Islander,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; Driver failure to stop at stop sign line; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
 906,01/04/23 09:44,2022-00096498,,White,Male,Burglary 4th Degree; Unlawful Entry
 905,01/04/23 09:52,2022-00090096,,White,Male,Burglary 4th Degree; Unlawful Entry; Malicious Destruction Property/Value -$1000; Theft Less Than $100 From Building
