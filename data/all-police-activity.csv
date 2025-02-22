@@ -2174,7 +2174,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00032373,02/11/25 17:00,02/11/25 17:16,Other Incident,CBE,4200 block of  Valley  Dr
 2025-00032388,02/11/25 17:51,02/11/25 17:51,Disorderly Conduct,CBE,College  Ave
 2025-00032424,02/11/25 20:10,02/11/25 20:57,Injured/Sick Person,CBE,La Plata Hall at 8160  La Plata  Dr
-2025-00032432,02/11/25 22:50,02/11/25 22:50,Vandalism,Active/Pending,3900 block of  Denton Service  Ln
+2025-00032432,02/11/25 22:50,02/11/25 22:50,Vandalism,Investigation Pending,3900 block of  Denton Service  Ln
 2025-00032436,02/11/25 17:00,02/11/25 22:53,Injured/Sick Person,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2025-00032537,02/12/25 09:30,02/12/25 10:12,Injured/Sick Person,CBE,7500 block of  Calvert Service  Ln
 2025-00032721,02/12/25 16:42,02/12/25 16:42,Injured/Sick Person,CBE,Cumberland Hall at 4250  Farm  Dr
@@ -2202,6 +2202,8 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00038021,02/03/25 12:37,02/18/25 11:20,Theft,Active/Pending,"Commons 6, SCC 6, South Campus Commons 6 at 6901  Preinkert  Dr"
 2025-00039321,02/19/25 17:30,02/19/25 18:30,Injured/Sick Person,CBE,8000 block of  Hagerstown  Dr
 2025-00039402,02/19/25 21:39,02/19/25 21:39,Injured/Sick Person,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
+2025-00040031,02/20/25 11:15,02/20/25 11:15,Injured/Sick Person,CBE,Anacostia Building at 1  Physics Ellipse
+2025-00040079,02/20/25 14:00,02/20/25 16:28,Theft,Active/Pending,"Art Soc, Art Sociology Building, Art-Sociology Building, Parren J. Mitchell Art-Sociology Building at 3834  Campus  Dr"
 2023-00000110,12/31/22 20:00,01/01/23 10:35,Vandalism,Investigation Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2023-00000111,12/31/22 11:00,01/01/23 11:12,Vandalism,Unfounded,7700 block of  Adelphi  Rd
 2023-00000669,12/26/22 12:00,01/02/23 18:05,Lost Property,CBE,3400 block of  Tulane  Dr
