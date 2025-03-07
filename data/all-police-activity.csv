@@ -2206,7 +2206,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00036977,02/14/25 05:26,02/17/25 08:18,Theft from Auto,Active/Pending,5600 block of  Rivertech  Ct
 2025-00037069,02/17/25 09:30,02/17/25 10:17,Injured/Sick Person,CBE,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2025-00037132,01/21/25 12:00,02/17/25 11:37,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
-2025-00037198,02/06/25 20:05,02/17/25 14:06,Suspicious Activity,Active/Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
+2025-00037198,02/06/25 20:05,02/17/25 14:06,Suspicious Activity,Investigation Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
 2025-00037316,02/17/25 12:15,02/17/25 16:44,Vandalism,Active/Pending,Lot 4B
 2025-00037338,02/17/25 15:00,02/17/25 17:18,Lost Property,Active/Pending,8300 block of  Baltimore  Ave
 2025-00038021,02/03/25 12:37,02/18/25 11:20,Theft,Investigation Pending,"Commons 6, SCC 6, South Campus Commons 6 at 6901  Preinkert  Dr"
@@ -2223,6 +2223,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00040080,02/20/25 16:32,02/20/25 16:32,Assault,Arrest,"35, McKeldin Library at 7649  Library  Ln"
 2025-00040297,02/20/25 20:30,02/20/25 20:42,Assist Other Agency / Other,CBE,Baltimore  Ave
 2025-00040300,02/20/25 21:00,02/20/25 21:11,Accident,Active/Pending,Paint Branch  Dr
+2025-00040353,02/20/25 18:00,02/20/25 23:06,Theft,Unfounded,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2025-00040860,02/21/25 08:25,02/21/25 08:34,Injured/Sick Person,CBE,Cumberland Hall at 4250  Farm  Dr
 2025-00041256,02/21/25 19:27,02/21/25 19:27,Injured/Sick Person,CBE,"11, The Hall at 4656  Hotel  Dr"
 2025-00041383,02/21/25 22:42,02/21/25 22:42,Emergency Petition,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
@@ -2255,6 +2256,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00045966,02/26/25 20:30,02/26/25 20:39,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2025-00045991,02/26/25 20:58,02/26/25 20:58,Noise Complaint,CBE,3400 block of  Tulane  Dr
 2025-00046715,02/25/25 15:38,02/25/25 15:38,Sex Offense (Title IX Related),Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2025-00046719,12/17/24 09:00,02/27/25 13:16,Theft,Active/Pending,"Clarice Smith Performing Arts Center, CSPAC at 8270  Alumni  Dr"
 2025-00046744,02/27/25 14:34,02/27/25 14:34,Warrant/Summons Service,Arrest,"Motor Pool, Severn, Severn Building, Terp Trader, Washington Post Building at 5245  Greenbelt  Rd"
 2025-00046751,02/27/25 16:06,02/27/25 16:44,Other Incident,CBE,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2025-00046753,02/27/25 16:50,02/27/25 17:25,Injured/Sick Person,CBE,"Delta Gamma, Delta Gamma Sorority at 4518  Knox  Rd"
@@ -2277,6 +2279,9 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00051732,03/04/25 19:33,03/04/25 19:33,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2025-00051813,03/04/25 22:33,03/04/25 22:33,Damage to State Property,CBE,La Plata Hall at 8160  La Plata  Dr
 2025-00051936,03/05/25 00:25,03/05/25 00:25,Alcohol Violation,Arrest,College  Ave
+2025-00052186,03/05/25 07:43,03/05/25 07:43,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
+2025-00052614,03/05/25 17:01,03/05/25 17:01,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
+2025-00052664,03/05/25 17:30,03/05/25 17:50,Injured/Sick Person,Active/Pending,7700 block of  Adelphi  Rd
 2023-00000110,12/31/22 20:00,01/01/23 10:35,Vandalism,Investigation Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2023-00000111,12/31/22 11:00,01/01/23 11:12,Vandalism,Unfounded,7700 block of  Adelphi  Rd
 2023-00000669,12/26/22 12:00,01/02/23 18:05,Lost Property,CBE,3400 block of  Tulane  Dr
