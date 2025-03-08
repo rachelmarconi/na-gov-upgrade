@@ -2068,7 +2068,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00007896,01/13/25 18:35,01/13/25 18:52,Assist Other Agency / Other,CBE,Playa Bowls at 7417  Baltimore  Ave
 2025-00008368,01/13/25 10:30,01/14/25 10:26,Theft,Unfounded,4200 block of  Valley  Dr
 2025-00008454,01/14/25 16:20,01/14/25 16:20,Other Incident,CBE,"91, Chemistry, Chemistry Building at 8051  Regents  Dr"
-2025-00009161,01/15/25 15:51,01/15/25 15:51,Other Incident,CBE,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
+2025-00009161,01/15/25 15:51,01/15/25 15:51,Other Incident,Active/Pending,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
 2025-00009634,01/16/25 02:31,01/16/25 02:31,DWI/DUI,Arrest,University  Blvd
 2025-00009937,01/15/25 10:30,01/16/25 10:40,Theft,Investigation Pending,Kim Engineering Building at 8228  Paint Branch  Dr
 2025-00010536,01/17/25 01:54,01/17/25 01:54,DWI/DUI,Arrest,University  Blvd
@@ -2087,27 +2087,25 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00014830,01/23/25 02:19,01/23/25 02:19,DWI/DUI,Arrest,University  Blvd
 2025-00015121,01/23/25 13:15,01/23/25 13:17,Damage to State Property,CBE,7500 block of  Calvert Service  Ln
 2025-00015146,01/23/25 14:34,01/23/25 14:34,Damage to State Property,CBE,Field Hockey & Women's Lacrosse Stadium at 8483  Paint Branch  Dr
-2025-00015713,01/24/25 03:27,01/24/25 03:27,Vandalism,Investigation Pending,3400 block of  Tulane  Dr
-2025-00015847,01/16/25 16:15,01/24/25 11:44,Lost Property,Unfounded,Health Center at 3983  Campus  Dr
+2025-00015713,01/24/25 03:27,01/24/25 03:27,Vandalism,Active/Pending,3400 block of  Tulane  Dr
+2025-00015847,01/16/25 16:15,01/24/25 11:44,Lost Property,Active/Pending,Health Center at 3983  Campus  Dr
 2025-00016188,01/24/25 18:58,01/24/25 19:04,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2025-00017067,01/25/25 22:55,01/25/25 22:55,Injured/Sick Person,CBE,Knox  Rd
-2025-00017446,12/20/24 21:30,01/26/25 10:25,Theft,Investigation Pending,Yahentamitsi at 4136  Stadium  Dr
+2025-00017446,12/20/24 21:30,01/26/25 10:25,Theft,Investigation Pending,436 at 4136  Stadium  Dr
 2025-00017747,01/26/25 21:23,01/26/25 21:23,CDS Violation,CBE,Lot 2a
 2025-00018086,01/27/25 08:55,01/27/25 08:58,Injured/Sick Person,CBE,Frat Row
-2025-00018143,07/16/24 10:00,01/27/25 10:26,Harassment/Stalking,Unfounded,7700 block of  Adelphi  Rd
 2025-00018324,01/27/25 14:39,01/27/25 14:39,Injured/Sick Person,CBE,8400 block of  Boteler  Ln
-2025-00018327,01/26/25 21:00,01/27/25 14:45,Theft,Investigation Pending,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
 2025-00018436,01/14/25 00:00,01/27/25 16:22,Title IX Incident Non Criminal,Active/Pending,4200 block of  Farm  Dr
 2025-00019006,01/28/25 05:52,01/28/25 05:52,Injured/Sick Person,CBE,4200 block of  Valley  Dr
 2025-00019166,01/28/25 10:20,01/28/25 10:52,Assist Other Agency (Title IX Related) / Sex Offense,CBE,Greenbelt  Rd
 2025-00019205,01/28/25 12:30,01/28/25 12:54,Accident,CBE,"88, Martin Hall at 4298  Campus  Dr"
 2025-00019226,01/28/25 13:50,01/28/25 14:42,Theft,Investigation Pending,"88, Martin Hall at 4298  Campus  Dr"
-2025-00019356,01/28/25 11:00,01/28/25 17:19,Theft,Investigation Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
+2025-00019356,01/28/25 11:00,01/28/25 17:19,Theft,Active/Pending,"A.V. Williams Building, AV Williams at 8223  Paint Branch  Dr"
 2025-00019424,06/17/24 07:00,01/28/25 18:52,Sex Offense,Active/Pending,"Nyumburu, Nyumburu Cultural Center at 4018  Campus  Dr"
 2025-00019867,01/26/25 06:00,01/29/25 05:57,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2025-00020063,08/01/24 00:00,01/29/25 11:37,Theft,Active/Pending,8400 block of  Baltimore  Ave
 2025-00020067,01/28/25 23:30,01/29/25 12:03,Theft,Unfounded,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
-2025-00020104,01/28/25 20:56,01/29/25 13:30,Theft,Warrant Issued,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2025-00020104,01/28/25 20:56,01/29/25 13:30,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2025-00020137,12/16/24 16:00,01/29/25 15:03,Theft,Active/Pending,"PG3, SDG, Stadium Drive Parking Garage at 4025  Stadium  Dr"
 2025-00020292,01/29/25 21:40,01/29/25 21:40,Injured/Sick Person,CBE,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2025-00020487,01/30/25 00:19,01/30/25 00:19,CDS Violation,Arrest,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
@@ -2117,37 +2115,39 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00021120,01/30/25 23:00,01/30/25 23:00,Disorderly Conduct,Arrest,Princeton  Ave
 2025-00021239,01/31/25 01:39,01/31/25 01:39,Injured/Sick Person,CBE,3900 block of  Denton Service  Ln
 2025-00021486,01/31/25 00:01,01/31/25 06:58,Damage to State Property,CBE,3800 block of  Campus  Dr
-2025-00021530,01/31/25 08:15,01/31/25 09:06,Suspicious Activity,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driskell Center at 4090  Union  Dr"
-2025-00021606,01/31/25 11:03,01/31/25 11:08,Theft,Arrest,"Hornbake, Hornbake Library at 4130  Campus  Dr"
+2025-00021530,01/31/25 08:15,01/31/25 09:06,Suspicious Activity,Active/Pending,"Cole, Cole Field House, Cole Student Activities Building, Driskell Center, Jones-Hill House at 4090  Union  Dr"
 2025-00021662,09/09/24 12:00,01/31/25 13:47,Other Incident,CBE,"Architecture, Architecture Building at 3835  Campus  Dr"
-2025-00021672,01/30/25 16:00,01/31/25 14:37,Theft,Active/Pending,"73, H.J. Patterson Hall, HJ Patterson Hall at 4065  Campus  Dr"
-2025-00021679,01/27/25 17:15,01/31/25 16:00,Theft,Active/Pending,3400 block of  Tulane  Dr
 2025-00021922,01/31/25 19:37,01/31/25 19:37,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
 2025-00022047,01/31/25 23:06,01/31/25 23:06,Injured/Sick Person,CBE,8100 block of  La Plata  Dr
 2025-00022189,01/31/25 23:31,02/01/25 01:23,Damage to State Property,CBE,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2025-00022462,02/01/25 07:46,02/01/25 07:46,Injured/Sick Person,CBE,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
-2025-00022639,01/30/25 12:00,02/01/25 13:41,Vandalism,Investigation Pending,4100 block of  Campus  Dr
 2025-00022713,02/01/25 15:15,02/01/25 15:48,Suspicious Activity,Active/Pending,"Delta Gamma, Delta Gamma Sorority at 4518  Knox  Rd"
 2025-00023011,02/01/25 17:30,02/01/25 22:29,Injured/Sick Person,CBE,Johnson-Whittle Hall at 4118  Stadium  Dr
-2025-00023633,01/26/25 19:00,02/02/25 15:14,Theft,Warrant Issued,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2025-00023633,01/26/25 19:00,02/02/25 15:14,Theft,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2025-00024534,02/03/25 10:55,02/03/25 15:00,Theft,Active/Pending,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
+2025-00024615,02/03/25 16:02,02/03/25 16:02,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
+2025-00024644,02/03/25 16:39,02/03/25 16:39,Assist Other Agency / Trespassing,CBE,4300 block of  Knox  Rd
+2025-00025361,02/04/25 09:22,02/04/25 09:22,Injured/Sick Person,CBE,8100 block of  La Plata  Dr
+2025-00025424,02/04/25 13:00,02/04/25 13:00,Injured/Sick Person,CBE,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
+2025-00025426,02/04/25 13:11,02/04/25 13:11,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
+2025-00025479,01/31/25 10:00,02/04/25 14:32,Theft,Active/Pending,8000 block of  Hagerstown  Dr
+2025-00026274,02/05/25 08:47,02/05/25 08:47,Damage to State Property,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
+2025-00026440,02/04/25 15:15,02/05/25 15:06,Theft,Active/Pending,"88, Martin Hall at 4298  Campus  Dr"
+2025-00027148,02/05/25 16:48,02/06/25 10:11,Theft,Active/Pending,"88, Martin Hall at 4298  Campus  Dr"
+2025-00018143,07/16/24 10:00,01/27/25 10:26,Harassment/Stalking,Unfounded,7700 block of  Adelphi  Rd
+2025-00018327,01/26/25 21:00,01/27/25 14:45,Theft,Investigation Pending,"22, Kent, Kent Hall at 7565  Calvert Service  Ln"
+2025-00021606,01/31/25 11:03,01/31/25 11:08,Theft,Arrest,"Hornbake, Hornbake Library at 4130  Campus  Dr"
+2025-00021672,01/30/25 16:00,01/31/25 14:37,Theft,Active/Pending,"73, H.J. Patterson Hall, HJ Patterson Hall at 4065  Campus  Dr"
+2025-00021679,01/27/25 17:15,01/31/25 16:00,Theft,Active/Pending,3400 block of  Tulane  Dr
+2025-00022639,01/30/25 12:00,02/01/25 13:41,Vandalism,Investigation Pending,4100 block of  Campus  Dr
 2025-00024219,02/03/25 04:29,02/03/25 04:29,DWI/DUI,Arrest,Yale  Ave
 2025-00024348,01/31/25 16:30,02/03/25 09:16,Damage to State Property,CBE,3900 block of  Denton Service  Ln
 2025-00024377,09/12/23 10:00,02/03/25 10:00,Fraud,Active/Pending,3500 block of  University  Blvd
 2025-00024456,02/03/25 11:00,02/03/25 11:48,Theft,Active/Pending,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
-2025-00024534,02/03/25 10:55,02/03/25 15:00,Theft,Arrest,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
-2025-00024615,02/03/25 16:02,02/03/25 16:02,Emergency Petition,CBE,"37, Shoemaker, Shoemaker Building at 4281  Chapel  Ln"
-2025-00024644,02/03/25 16:39,02/03/25 16:39,Assist Other Agency / Trespassing,CBE,4300 block of  Knox  Rd
 2025-00024646,02/03/25 12:58,02/03/25 16:52,Theft,Arrest,"Brendan Iribe Center, Iribe Center at 8125  Paint Branch  Dr"
-2025-00025361,02/04/25 09:22,02/04/25 09:22,Injured/Sick Person,CBE,8100 block of  La Plata  Dr
-2025-00025424,02/04/25 13:00,02/04/25 13:00,Injured/Sick Person,CBE,"Atlantic Building, Computer & Space Sciences Building at 4254  Stadium  Dr"
-2025-00025426,02/04/25 13:11,02/04/25 13:11,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
-2025-00025479,01/31/25 10:00,02/04/25 14:32,Theft,Investigation Pending,8000 block of  Hagerstown  Dr
 2025-00025497,02/04/25 15:30,02/04/25 15:35,Pedestrian Struck,Active/Pending,"Tawes, Tawes Hall at 7751  Alumni  Dr"
-2025-00026274,02/05/25 08:47,02/05/25 08:47,Damage to State Property,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
-2025-00026440,02/04/25 15:15,02/05/25 15:06,Theft,Unfounded,"88, Martin Hall at 4298  Campus  Dr"
 2025-00026488,02/05/25 16:04,02/05/25 16:04,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
 2025-00026981,01/30/25 12:00,02/06/25 04:26,Theft,Investigation Pending,La Plata Hall at 8160  La Plata  Dr
-2025-00027148,02/05/25 16:48,02/06/25 10:11,Theft,Investigation Pending,"88, Martin Hall at 4298  Campus  Dr"
 2025-00027279,02/05/25 18:00,02/06/25 14:19,Injured/Sick Person,CBE,"4, Ritchie Coliseum at 7675  Baltimore  Ave"
 2025-00027304,02/06/25 13:45,02/06/25 15:58,Suspicious Activity,Active/Pending,Lot L
 2025-00027520,02/06/25 20:06,02/06/25 20:06,Injured/Sick Person,CBE,"Bioscience, Bioscience Research Building at 4066  Campus  Dr"
