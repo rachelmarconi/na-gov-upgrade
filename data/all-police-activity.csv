@@ -2108,7 +2108,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00020063,08/01/24 00:00,01/29/25 11:37,Theft,Active/Pending,8400 block of  Baltimore  Ave
 2025-00020067,01/28/25 23:30,01/29/25 12:03,Theft,Unfounded,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2025-00020104,01/28/25 20:56,01/29/25 13:30,Theft,Warrant Issued,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
-2025-00020137,12/16/24 16:00,01/29/25 15:03,Theft,Active/Pending,"PG3, SDG, Stadium Drive Parking Garage at 4025  Stadium  Dr"
+2025-00020137,12/16/24 16:00,01/29/25 15:03,Theft,Investigation Pending,"PG3, SDG, Stadium Drive Parking Garage at 4025  Stadium  Dr"
 2025-00020292,01/29/25 21:40,01/29/25 21:40,Injured/Sick Person,CBE,"HHP, PERH, Public Health, School of Public Health Building, SPH at 4200  Valley  Dr"
 2025-00020487,01/30/25 00:19,01/30/25 00:19,CDS Violation,Arrest,"Oakland, Oakland Hall at 3912  Denton Service  Ln"
 2025-00020676,01/30/25 07:01,01/30/25 07:01,Injured/Sick Person,CBE,Farm  Dr
@@ -2156,7 +2156,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00028187,02/05/25 10:00,02/07/25 09:22,Theft,Investigation Pending,"Tawes, Tawes Hall at 7751  Alumni  Dr"
 2025-00028334,02/07/25 13:58,02/07/25 13:58,Injured/Sick Person,CBE,7400 block of  Princeton  Ave
 2025-00028991,02/08/25 03:01,02/08/25 03:01,Injured/Sick Person,CBE,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
-2025-00029172,02/08/25 00:01,02/08/25 12:00,Vandalism,Active/Pending,8100 block of  La Plata  Dr
+2025-00029172,02/08/25 00:01,02/08/25 12:00,Vandalism,Unfounded,8100 block of  La Plata  Dr
 2025-00029185,01/23/24 10:00,02/08/25 12:50,Other Incident,Active/Pending,Yahentamitsi at 4136  Stadium  Dr
 2025-00029206,02/07/25 14:00,02/08/25 13:37,Theft,Active/Pending,"15, Calvert, Calvert Hall at 7551  Calvert Service  Ln"
 2025-00029669,02/08/25 21:40,02/08/25 23:41,Injured/Sick Person,CBE,4600 block of  Rossborough  Ln
@@ -2199,7 +2199,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00036386,02/16/25 16:29,02/16/25 16:29,Other Incident,CBE,Regents  Dr
 2025-00036436,02/16/25 17:13,02/16/25 17:13,Dept Property Damage/Loss,CBE,Lot 11b
 2025-00036653,02/16/25 23:19,02/16/25 23:19,Injured/Sick Person,CBE,La Plata Hall at 8160  La Plata  Dr
-2025-00036694,02/17/25 00:58,02/17/25 00:58,Vandalism,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
+2025-00036694,02/17/25 00:58,02/17/25 00:58,Vandalism,Investigation Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2025-00036724,02/17/25 01:23,02/17/25 01:23,Emergency Petition,CBE,"Commons 5, SCC 5, South Campus Commons 5 at 6903  Preinkert  Dr"
 2025-00036749,02/17/25 02:25,02/17/25 02:25,Assist Other Agency / Other,Active/Pending,University Courtyard Clubhouse at 8000  Boteler  Ln
 2025-00036917,02/15/25 00:00,02/17/25 07:24,Vandalism,Investigation Pending,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
@@ -2207,7 +2207,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00037069,02/17/25 09:30,02/17/25 10:17,Injured/Sick Person,CBE,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
 2025-00037132,01/21/25 12:00,02/17/25 11:37,Dept Property Damage/Loss,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
 2025-00037198,02/06/25 20:05,02/17/25 14:06,Suspicious Activity,Investigation Pending,"DOTS, Lot B, Lot RR, PG2, RDG, Regents Drive Parking Garage, WAM Lab at 8056  Regents  Dr"
-2025-00037316,02/17/25 12:15,02/17/25 16:44,Vandalism,Active/Pending,Lot 4B
+2025-00037316,02/17/25 12:15,02/17/25 16:44,Vandalism,Investigation Pending,Lot 4B
 2025-00037338,02/17/25 15:00,02/17/25 17:18,Lost Property,Active/Pending,8300 block of  Baltimore  Ave
 2025-00038021,02/03/25 12:37,02/18/25 11:20,Theft,Investigation Pending,"Commons 6, SCC 6, South Campus Commons 6 at 6901  Preinkert  Dr"
 2025-00038424,02/18/25 17:00,02/18/25 21:04,Fraud,Active/Pending,3400 block of  Tulane  Dr
@@ -2218,7 +2218,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00039402,02/19/25 21:39,02/19/25 21:39,Injured/Sick Person,CBE,"Edward St. John Learning and Teaching Center, ESJ at 4131  Campus  Dr"
 2025-00040031,02/20/25 11:15,02/20/25 11:15,Injured/Sick Person,CBE,Anacostia Building at 1  Physics Ellipse
 2025-00040057,02/20/25 12:00,02/20/25 12:50,Suspicious Activity,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
-2025-00040066,12/01/24 07:00,02/20/25 13:33,Harassment/Stalking,Active/Pending,7800 block of  Regents  Dr
+2025-00040066,12/01/24 07:00,02/20/25 13:33,Harassment/Stalking,Investigation Pending,7800 block of  Regents  Dr
 2025-00040079,02/20/25 14:00,02/20/25 16:28,Theft,Active/Pending,"Art Soc, Art Sociology Building, Art-Sociology Building, Parren J. Mitchell Art-Sociology Building at 3834  Campus  Dr"
 2025-00040080,02/20/25 16:32,02/20/25 16:32,Assault,Arrest,"35, McKeldin Library at 7649  Library  Ln"
 2025-00040297,02/20/25 20:30,02/20/25 20:42,Assist Other Agency / Other,CBE,Baltimore  Ave
@@ -2235,11 +2235,12 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00042313,02/22/25 22:15,02/22/25 22:15,Emergency Petition,CBE,"Prince Frederick, Prince Frederick Hall at 7030  Preinkert  Dr"
 2025-00042392,02/23/25 01:00,02/23/25 01:00,Injured/Sick Person,CBE,4500 block of  Knox  Rd
 2025-00042441,02/23/25 01:50,02/23/25 01:50,DWI/DUI,Arrest,Baltimore  Ave
+2025-00042461,02/23/25 02:28,02/23/25 02:28,Domestic,CBE,University Courtyard Clubhouse at 8000  Boteler  Ln
 2025-00042477,02/23/25 03:49,02/23/25 03:49,DWI/DUI,Arrest,University  Blvd
 2025-00042479,02/23/25 04:00,02/23/25 04:00,Injured/Sick Person,CBE,7000 block of  Preinkert  Dr
 2025-00042618,02/23/25 09:40,02/23/25 09:46,Injured/Sick Person,CBE,"14, Harford Hall at 7660  Regents  Dr"
 2025-00042979,02/21/25 23:30,02/23/25 19:09,Assist Other Agency / Theft,Active/Pending,7300 block of  Baltimore  Ave
-2025-00043005,02/23/25 00:00,02/23/25 20:17,Vandalism,Active/Pending,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
+2025-00043005,02/23/25 00:00,02/23/25 20:17,Vandalism,Unfounded,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2025-00043099,02/23/25 22:45,02/23/25 22:56,Other Incident,Active/Pending,"Lot HH, PG1, ULG, Union Lane Garage, Union Lane Parking Garage at 4170  Union  Ln"
 2025-00043130,02/23/25 23:37,02/23/25 23:37,Trespassing,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2025-00043762,01/28/25 17:30,02/24/25 11:41,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
@@ -2273,11 +2274,13 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00048205,02/27/25 12:00,02/28/25 19:40,Threat Assessment,Active/Pending,8000 block of  Regents  Dr
 2025-00048435,02/28/25 23:49,02/28/25 23:49,DWI/DUI,Arrest,University  Blvd
 2025-00048476,03/01/25 00:55,03/01/25 01:06,Injured/Sick Person,CBE,"98, Centreville, Centreville Hall at 4243  Valley  Dr"
+2025-00048493,03/01/25 01:50,03/01/25 01:50,DWI/DUI,Arrest,Paint Branch  Dr
 2025-00048535,03/01/25 03:18,03/01/25 03:18,DWI/DUI,Arrest,University  Blvd
 2025-00048942,03/01/25 11:00,03/01/25 14:22,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2025-00048947,03/01/25 14:22,03/01/25 15:36,Trespassing,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2025-00048948,03/01/25 15:41,03/01/25 15:41,Damaged Property,Active/Pending,"Commons 6, SCC 6, South Campus Commons 6 at 6901  Preinkert  Dr"
 2025-00048950,02/16/25 16:00,03/01/25 16:25,Theft,Active/Pending,4000 block of  Stadium  Dr
+2025-00049152,03/01/25 22:51,03/01/25 22:51,Assault,Arrest,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2025-00049840,03/02/25 20:42,03/02/25 20:52,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
 2025-00049856,03/02/25 20:30,03/02/25 21:37,Assist Other Agency / Peeping Tom,Active/Pending,4700 block of  College  Ave
 2025-00049976,03/02/25 22:45,03/03/25 00:15,Vandalism,Investigation Pending,4000 block of  Stadium  Dr
@@ -2290,6 +2293,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00051732,03/04/25 19:33,03/04/25 19:33,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2025-00051813,03/04/25 22:33,03/04/25 22:33,Damage to State Property,CBE,La Plata Hall at 8160  La Plata  Dr
 2025-00051936,03/05/25 00:25,03/05/25 00:25,Alcohol Violation,Arrest,College  Ave
+2025-00051961,03/05/25 01:04,03/05/25 01:04,DWI/DUI,Arrest,Campus  Dr
 2025-00052186,03/05/25 07:43,03/05/25 07:43,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
 2025-00052472,03/05/25 14:00,03/05/25 14:35,Assist Other Agency / Accident,CBE,E/b Route 50 / Rt 3 Rowe Blvd
 2025-00052614,03/05/25 17:01,03/05/25 17:01,Injured/Sick Person,CBE,Health Center at 3983  Campus  Dr
@@ -2306,13 +2310,18 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00053839,03/07/25 00:23,03/07/25 00:23,Alcohol Violation,Arrest,Princeton  Ave
 2025-00053861,03/07/25 00:49,03/07/25 00:49,Suspicious Activity,CBE,"8, Annapolis, Annapolis Hall at 7626  Regents  Dr"
 2025-00054604,03/07/25 12:15,03/07/25 12:15,Fire,CBE,2800 block of  Metzerott  Rd
+2025-00054631,03/07/25 13:40,03/07/25 13:41,Injured/Sick Person,CBE,Lot 1b
 2025-00054687,03/07/25 15:01,03/07/25 15:01,Suspicious Activity,Active/Pending,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
 2025-00054695,02/21/25 00:00,03/07/25 16:42,Damage to State Property,Active/Pending,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
 2025-00055239,03/08/25 01:36,03/08/25 01:36,Alarm,Active/Pending,7400 block of  Princeton  Ave
 2025-00055243,03/08/25 01:50,03/08/25 01:57,Pedestrian Struck,Active/Pending,"College Park Shopping Center, CVS at 7300  Baltimore  Ave"
+2025-00055611,03/08/25 10:19,03/08/25 10:45,Assist Other Agency / Injured/Sick Person-Non EPS,CBE,University  Blvd
+2025-00055613,03/07/25 20:00,03/08/25 10:43,Theft,Active/Pending,"Commons 1, SCC 1, South Campus Commons 1 at 4250  Lehigh  Rd"
 2025-00055619,03/08/25 11:09,03/08/25 11:09,Suspicious Activity,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2025-00055865,03/08/25 02:30,03/08/25 19:32,Threat Assessment,Active/Pending,4300 block of  Knox  Rd
 2025-00056880,03/09/25 22:09,03/09/25 22:09,Damage to State Property,CBE,Cumberland Hall at 4250  Farm  Dr
+2025-00057919,03/10/25 20:36,03/10/25 20:40,Assist Other Agency / Peeping Tom,CBE,4700 block of  College  Ave
+2025-00058724,03/11/25 21:10,03/11/25 22:35,Suspicious Activity,Active/Pending,Johnson-Whittle Hall at 4118  Stadium  Dr
 2023-00000110,12/31/22 20:00,01/01/23 10:35,Vandalism,Investigation Pending,"Club House, Golf Course Club House at 3800  Golf Course  Rd"
 2023-00000111,12/31/22 11:00,01/01/23 11:12,Vandalism,Unfounded,7700 block of  Adelphi  Rd
 2023-00000669,12/26/22 12:00,01/02/23 18:05,Lost Property,CBE,3400 block of  Tulane  Dr
