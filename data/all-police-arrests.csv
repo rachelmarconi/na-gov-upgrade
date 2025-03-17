@@ -372,7 +372,6 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24368,01/07/25 12:00,2024-00137564,,Black,Male,"THEFT: $100,000 PLUS-All Other"
 24371,01/08/25 12:00,2023-00079735,,White,Male,"THEFT: $100 TO UNDER $1,500-All Other"
 24363,01/09/25 08:44,2025-00004615,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se; (Stopping, Standing, Parking) veh. in intersection; Driver failure to obey properly placed traffic control device instructions; Negligent driving veh. in careless and imprudent manner endangering property, life and person; Reckless driving veh. in wanton and willfull disregard for safety of persons and property"
-24362,01/16/25 02:51,2025-00009634,,White,Female,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 24364,01/17/25 02:19,2025-00010536,,Asian,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 24373,01/18/25 01:05,2025-00011238,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24365,01/19/25 00:08,2025-00011728,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
@@ -383,6 +382,7 @@ ARRESTNUMBER,ARRESTED DATE TIMECHARGE,UMPD CASE NUMBER,AGE,RACE,SEX,DESCRIPTION
 24375,01/30/25 00:23,2025-00020487,,White,Male,Marijuana Possession - Personal Use Amount
 24376,01/30/25 23:17,2025-00021120,,White,Male,Deadly Weapon - Conceal; Disorderly Conduct; INTOXICATED PUBLIC DISTURB; Rogue and Vagabond
 ,,,,,,
+24362,01/16/25 02:51,2025-00009634,,White,Female,"(Driving, Attempting to drive) veh. while under the influence of alcohol"
 24332,01/01/25 01:10,2025-00000044,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
 24333,01/01/25 02:06,2025-00000055,,White,Male,"(Driving, Attempting to drive) veh. while impaired by alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol"
 24334,01/01/25 06:01,2025-00000128,,White,Male,"(Driving, Attempting to drive) veh. while under the influence of alcohol; (Driving, Attempting to drive) veh. while under the influence of alcohol per se"
