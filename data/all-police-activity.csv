@@ -2289,6 +2289,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00051461,03/03/25 23:15,03/04/25 11:20,Theft from Auto,Active/Pending,3400 block of  Tulane  Dr
 2025-00051501,03/04/25 13:40,03/04/25 13:50,Injured/Sick Person,CBE,"Journalism Building, Knight Hall at 7765  Alumni  Dr"
 2025-00051537,03/02/25 18:00,03/04/25 10:37,Theft from Auto,Active/Pending,Lot 3
+2025-00051562,03/04/25 05:37,03/04/25 16:10,Theft from Auto,Active/Pending,"Lot 19, Lot U2, MLG, Mowatt Garage, Mowatt Lane Parking Garage, PG5 at 7591  Mowatt  Ln"
 2025-00051731,03/04/25 19:30,03/04/25 19:30,Injured/Sick Person,CBE,8200 block of  Alumni  Dr
 2025-00051732,03/04/25 19:33,03/04/25 19:33,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2025-00051813,03/04/25 22:33,03/04/25 22:33,Damage to State Property,CBE,La Plata Hall at 8160  La Plata  Dr
@@ -2331,16 +2332,21 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00055952,03/08/25 23:02,03/08/25 23:02,Injured/Sick Person,CBE,"Elkton, Elkton Hall at 3981  Denton Service  Ln"
 2025-00056097,03/09/25 01:15,03/09/25 01:15,DWI/DUI,Arrest,Baltimore  Ave
 2025-00056743,03/08/25 11:00,03/09/25 17:36,Theft,Active/Pending,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
-2025-00056851,03/09/25 16:00,03/09/25 20:16,Vandalism,Active/Pending,3800 block of  Stadium  Dr
+2025-00056851,03/09/25 16:00,03/09/25 20:16,Vandalism,Investigation Pending,3800 block of  Stadium  Dr
+2025-00056878,03/09/25 21:54,03/09/25 22:00,Damaged Property,Active/Pending,"Commons 6, SCC 6, South Campus Commons 6 at 6901  Preinkert  Dr"
 2025-00056880,03/09/25 22:09,03/09/25 22:09,Damage to State Property,CBE,Cumberland Hall at 4250  Farm  Dr
 2025-00056881,03/09/25 22:10,03/09/25 22:18,Injured/Sick Person,CBE,"68, Eppley, Eppley Recreation Center, ERC at 4128  Valley  Dr"
-2025-00057407,02/24/25 08:00,03/10/25 09:37,Vandalism,Active/Pending,"Commons 7, SCC 7, South Campus Commons 7 at 6801  Preinkert  Dr"
+2025-00057407,02/24/25 08:00,03/10/25 09:37,Vandalism,Investigation Pending,"Commons 7, SCC 7, South Campus Commons 7 at 6801  Preinkert  Dr"
 2025-00057919,03/10/25 20:36,03/10/25 20:40,Assist Other Agency / Peeping Tom,CBE,4700 block of  College  Ave
 2025-00058444,03/11/25 15:48,03/11/25 15:48,Injured/Sick Person,CBE,Cumberland Hall at 4250  Farm  Dr
 2025-00058502,03/11/25 16:38,03/11/25 16:35,Injured/Sick Person,CBE,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2025-00058664,03/11/25 20:36,03/11/25 20:36,Emergency Petition,CBE,"Easton, Easton Hall at 3917  Denton Service  Ln"
 2025-00058724,03/11/25 21:10,03/11/25 22:35,Suspicious Activity,Warrant Issued,Johnson-Whittle Hall at 4118  Stadium  Dr
 2025-00059503,03/12/25 17:54,03/12/25 17:54,Injured/Sick Person,CBE,"7, Pocomoke, Pocomoke Building, Police, UMDPS, UMPD at 7569  Baltimore  Ave"
+2025-00059742,03/13/25 00:25,03/13/25 00:25,DWI/DUI,Arrest,Paint Branch Gate at 8966  Paint Branch  Dr
+2025-00059837,03/13/25 03:30,03/13/25 03:30,DWI/DUI,Arrest,University  Blvd
+2025-00060114,03/13/25 01:00,03/13/25 13:25,Assist Other Agency / Domestic,CBE,8100 block of  Baltimore  Ave
+2025-00060134,03/13/25 14:17,03/13/25 14:17,Check on the  Welfare,CBE,8400 block of  Baltimore  Ave
 2025-00060177,03/13/25 16:50,03/13/25 16:50,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
 2025-00060244,03/13/25 19:00,03/13/25 19:24,Theft,Active/Pending,Chapel Field
 2025-00060297,03/13/25 21:30,03/13/25 21:35,Injured/Sick Person,CBE,"62, St Marys Hall, St. Mary's, St. Mary's Hall at 3949  Campus  Dr"
@@ -2348,6 +2354,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00060977,03/14/25 11:05,03/14/25 11:19,Injured/Sick Person,CBE,4100 block of  Campus  Dr
 2025-00060996,03/14/25 14:26,03/14/25 14:26,Injured/Sick Person,CBE,5800 block of  University Research  Ct
 2025-00061189,03/14/25 18:15,03/14/25 18:22,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
+2025-00062305,03/13/25 13:30,03/15/25 21:18,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2025-00062458,03/15/25 23:52,03/15/25 23:52,DWI/DUI,Arrest,Baltimore  Ave
 2025-00062473,03/16/25 00:32,03/16/25 00:32,DWI/DUI,Arrest,University  Blvd
 2025-00062571,03/16/25 02:39,03/16/25 02:39,DWI/DUI,Arrest,University  Blvd
