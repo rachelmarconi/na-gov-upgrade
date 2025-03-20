@@ -2317,6 +2317,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00054631,03/07/25 13:40,03/07/25 13:41,Injured/Sick Person,CBE,Lot 1b
 2025-00054687,03/07/25 15:01,03/07/25 15:01,Suspicious Activity,Active/Pending,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
 2025-00054695,02/21/25 00:00,03/07/25 16:42,Damage to State Property,Active/Pending,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
+2025-00055173,03/08/25 00:27,03/08/25 00:27,Injured/Sick Person,CBE,South Gate at 7567  Regents  Dr
 2025-00055239,03/08/25 01:36,03/08/25 01:36,Alarm,Active/Pending,7400 block of  Princeton  Ave
 2025-00055243,03/08/25 01:50,03/08/25 01:57,Pedestrian Struck,Active/Pending,"College Park Shopping Center, CVS at 7300  Baltimore  Ave"
 2025-00055246,03/08/25 00:30,03/08/25 02:05,Injured/Sick Person,CBE,McDonald's at 8301  Baltimore  Ave
@@ -2348,11 +2349,16 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00060114,03/13/25 01:00,03/13/25 13:25,Assist Other Agency / Domestic,CBE,8100 block of  Baltimore  Ave
 2025-00060134,03/13/25 14:17,03/13/25 14:17,Check on the  Welfare,CBE,8400 block of  Baltimore  Ave
 2025-00060177,03/13/25 16:50,03/13/25 16:50,Emergency Petition,CBE,Health Center at 3983  Campus  Dr
+2025-00060180,03/13/25 16:58,03/13/25 16:58,Fire,CBE,Physics Welding Shop at 8124  Chemistry  Ln
+2025-00060203,03/13/25 17:34,03/13/25 17:34,Suspicious Activity,Active/Pending,"39, Van Munching, Van Munching Hall at 7699  Mowatt  Ln"
 2025-00060244,03/13/25 19:00,03/13/25 19:24,Theft,Active/Pending,Chapel Field
 2025-00060297,03/13/25 21:30,03/13/25 21:35,Injured/Sick Person,CBE,"62, St Marys Hall, St. Mary's, St. Mary's Hall at 3949  Campus  Dr"
+2025-00060392,03/13/25 22:33,03/13/25 23:04,Hate Bias Incident,Active/Pending,"61, Queen Anne, Queen Anne's Hall at 7645  Preinkert  Dr"
 2025-00060971,03/12/25 22:00,03/14/25 11:07,Emergency Petition,CBE,4500 block of  College  Ave
 2025-00060977,03/14/25 11:05,03/14/25 11:19,Injured/Sick Person,CBE,4100 block of  Campus  Dr
 2025-00060996,03/14/25 14:26,03/14/25 14:26,Injured/Sick Person,CBE,5800 block of  University Research  Ct
+2025-00060997,03/13/25 09:15,03/14/25 14:43,Damage to State Property,CBE,I-95 South / Powder Mill Rd
+2025-00061029,03/14/25 10:00,03/14/25 16:08,Lost Property,Active/Pending,Anacostia Building at 1  Physics Ellipse
 2025-00061189,03/14/25 18:15,03/14/25 18:22,Injured/Sick Person,CBE,"Comcast Center, Xfinity, Xfinity Center at 8500  Paint Branch  Dr"
 2025-00062305,03/13/25 13:30,03/15/25 21:18,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2025-00062458,03/15/25 23:52,03/15/25 23:52,DWI/DUI,Arrest,Baltimore  Ave
