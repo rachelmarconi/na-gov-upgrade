@@ -2265,7 +2265,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00046751,02/27/25 16:06,02/27/25 16:44,Other Incident,CBE,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2025-00046753,02/27/25 16:50,02/27/25 17:25,Injured/Sick Person,CBE,"Delta Gamma, Delta Gamma Sorority at 4518  Knox  Rd"
 2025-00046774,02/27/25 18:00,02/27/25 18:03,Injured/Sick Person,CBE,"78, Armory, Reckord Armory at 4490  Rossborough  Ln"
-2025-00046815,02/25/25 19:00,02/27/25 18:19,Theft,Active/Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
+2025-00046815,02/25/25 19:00,02/27/25 18:19,Theft,Investigation Pending,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2025-00046855,02/27/25 16:15,02/27/25 19:50,Theft,Active/Pending,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2025-00046877,02/27/25 11:30,02/27/25 20:26,Injured/Sick Person,Active/Pending,"DOTS Impound Lot, Lot 6, PG4, Terrapin Trail Parking Garage, TTG at 4155  Terrapin  Trl"
 2025-00046975,02/27/25 22:26,02/27/25 22:26,Injured/Sick Person,CBE,4100 block of  Valley  Dr
@@ -2279,7 +2279,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00048942,03/01/25 11:00,03/01/25 14:22,Theft,Unfounded,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2025-00048947,03/01/25 14:22,03/01/25 15:36,Trespassing,Arrest,"Dairy, Stamp, Stamp Student Union, Student Union, Union at 3972  Campus  Dr"
 2025-00048948,03/01/25 15:41,03/01/25 15:41,Damaged Property,Active/Pending,"Commons 6, SCC 6, South Campus Commons 6 at 6901  Preinkert  Dr"
-2025-00048950,02/16/25 16:00,03/01/25 16:25,Theft,Active/Pending,4000 block of  Stadium  Dr
+2025-00048950,02/16/25 16:00,03/01/25 16:25,Theft,Investigation Pending,4000 block of  Stadium  Dr
 2025-00049152,03/01/25 22:51,03/01/25 22:51,Assault,Arrest,"Ellicott, Ellicott Hall at 4052  Stadium  Dr"
 2025-00049840,03/02/25 20:42,03/02/25 20:52,Injured/Sick Person,CBE,Yahentamitsi at 4136  Stadium  Dr
 2025-00049856,03/02/25 20:30,03/02/25 21:37,Assist Other Agency / Peeping Tom,Active/Pending,4700 block of  College  Ave
@@ -2319,7 +2319,7 @@ UMPD CASENUMBER,OCCURRED DATE TIMELOCATION,REPORT DATE TIME,TYPE,DISPOSITION,LOC
 2025-00054695,02/21/25 00:00,03/07/25 16:42,Damage to State Property,Active/Pending,"A James Clark Hall, A. James Clark Hall, A.J. Clark Hall, Clark, Clark Hall at 8278  Paint Branch  Dr"
 2025-00055173,03/08/25 00:27,03/08/25 00:27,Injured/Sick Person,CBE,South Gate at 7567  Regents  Dr
 2025-00055239,03/08/25 01:36,03/08/25 01:36,Alarm,Active/Pending,7400 block of  Princeton  Ave
-2025-00055243,03/08/25 01:50,03/08/25 01:57,Pedestrian Struck,Active/Pending,"College Park Shopping Center, CVS at 7300  Baltimore  Ave"
+2025-00055243,03/08/25 01:50,03/08/25 01:57,Pedestrian Struck,Investigation Pending,"College Park Shopping Center, CVS at 7300  Baltimore  Ave"
 2025-00055246,03/08/25 00:30,03/08/25 02:05,Injured/Sick Person,CBE,McDonald's at 8301  Baltimore  Ave
 2025-00055583,03/08/25 04:00,03/08/25 09:34,Assist Other Agency / Other,Active/Pending,8100 block of  48th  Ave
 2025-00055611,03/08/25 10:19,03/08/25 10:45,Assist Other Agency / Injured/Sick Person-Non EPS,CBE,University  Blvd
